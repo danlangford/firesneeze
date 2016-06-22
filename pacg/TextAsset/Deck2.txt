@@ -1,0 +1,57 @@
+<N>
+
+ <Character ID="CH1B_Kyra">
+  <Cards>SP1B_Cure,SP1B_Cure,WP1B_FlamingMace+1,BL1B_BlessingOfTheGods,BL1B_BlessingOfTheGods,BL1B_BlessingOfGorum,AR1B_MagicChainMail,AR1B_MagicShield,IT1B_HolyWater,AL1B_Guard,BL1B_BlessingOfShelyn,BL1B_BlessingOfTorag,BL1B_BlessingOfTheGods,SP1B_Aid,SP1B_Guidance,WP1B_Mace</Cards>
+  <Powers>PW1B_RebukeDeath_1</Powers>
+  <Skills>WIS,WIS</Skills>
+  <CardFeats>SP</CardFeats>
+ </Character>
+ 
+ <Character ID="CH1C_Amiri">
+  <Cards>WP1C_Greatsword,WP11_BastardSword+1,WP1B_Longsword,AR1B_MagicLeatherArmor,BL1B_BlessingOfTheGods,BL1B_BlessingOfTheGods,AL1B_Guide,AL1B_SheriffHemlock,BL1B_BlessingOfTorag,BL1B_BlessingOfGorum,IT1B_Mattock,IT1B_PotionOfHealing,WP1C_IcyLongspear+1,WP1B_Longsword+1,WP1B_Mace,AR1B_WoodenShield</Cards>
+  <Skills>STR,STR</Skills>
+  <Powers>PW1C_Rage_1</Powers>
+  <CardFeats>WP</CardFeats>
+ </Character>
+
+ <Character ID="CH1B_Harsk">
+  <Cards>SP1B_Cure,WP1C_DeathbaneLightCrossbow+1,IT1B_Crowbar,BL1B_BlessingOfTheGods,BL1B_BlessingOfTheGods,AL1B_Crow,BL1B_BlessingOfErastil,IT1B_HolyWater,BL1B_BlessingOfCalistria,WP1B_HeavyCrossbow,WP1B_LightCrossbow,WP1B_LightCrossbow,WP1B_ShockLongbow+1,IT1B_AmuletOfLife,AR1B_LeatherArmor,BL1B_BlessingOfTheGods</Cards>
+  <Skills>DEX,DEX</Skills>
+  <Powers>PW1B_FarShot_1</Powers>
+  <CardFeats>SP</CardFeats>
+ </Character>
+ 
+ <Character ID="CH1B_Seoni">
+  <Cards>SP1B_CharmPerson,BL1B_BlessingOfTheGods,IT11_WandOfForceMissile,BL1B_BlessingOfTheGods,AL1B_Burglar,AL1B_Guide,SP1B_ForceMissile,SP11_FrostRay,LT11_SihedronMedallion,AL1B_Guide,BL1B_BlessingOfTheGods,BL1B_BlessingOfTheGods,SP1B_Invisibility,BL1B_BlessingOfTheGods,AL1B_Guide,IT11_WandOfShield</Cards>
+  <Powers>PW1B_FireRay_1</Powers>
+  <Skills>CHA,CHA</Skills>
+  <CardFeats>SP</CardFeats>
+ </Character>
+
+ <Character ID="CH1B_Valeros">
+  <Cards>AL1B_SheriffHemlock,WP1B_Longsword+1,AR1B_ChainMail,IT1B_Mattock,AL1B_NightWatch,BL1B_BlessingOfTheGods,WP1B_Longsword,BL1B_BlessingOfTheGods,AR1B_WoodenShield,WP1B_Longsword,AL1B_StandardBearer,WP1B_Mace,IT1B_PotionOfHiding,WP1B_Longbow,AR1B_WoodenShield,BL1B_BlessingOfTheGods</Cards>
+  <Powers>PW1B_Tactics_1</Powers>
+  <Skills>CHA,STR</Skills>
+  <CardFeats>AL</CardFeats>
+ </Character>
+
+ <Character ID="CH1B_Merisiel">
+  <Cards>IT1B_CapeOfEscape,WP11_Dagger+1,AR1B_MagicLeatherArmor,IT1B_Caltrops,AL1B_Burglar,BL1B_BlessingOfTheGods,WP1B_Dart,IT1B_Crowbar,AL1B_Guard,BL1B_BlessingOfTheGods,IT1B_PotionOfGlibness,IT1B_PotionOfHealing,BL1B_BlessingOfTheGods,IT1B_MasterworkTools,BL1B_BlessingOfTheGods,IT11_StaffOfMinorHealing</Cards>
+  <Powers>PW1B_Backstab_1</Powers>
+  <Skills>DEX,DEX</Skills>
+  <CardFeats>IT</CardFeats>
+ </Character>
+  
+ <Scenario ID="SC1B_Brigandoom"/>
+ <Scenario ID="SC1B_ThePoisonPill"/>
+ <Scenario ID="SC1B_BlackFangsDungeon"/>
+ <Scenario ID="SC11_AttackOnSandpoint"/>
+ <Scenario ID="SC11_LocalHeroes"/>
+ <Scenario ID="SC11_TroubleInSandpoint"/>
+ <Scenario ID="SC11_ApproachToThistletop"/>
+ <Scenario ID="SC11_ThistletopDelve"/>
+ 
+ <Adventure ID="AD1B_PerilsOfTheLostCoast"/>
+ <Adventure ID="AD11_BurntOfferings"/>
+ 
+</N>

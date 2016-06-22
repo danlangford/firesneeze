@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\sc12_undeaduprising_02_outro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>I know nothing of any murders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Did you know any of Dr. Habe's patients? What happened to Grayst?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>I may be inclined to believe you. What became of Grayst?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Grayst was under Dr. Habe's care? What'd you do to 'im?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>What did you and Dr. Habe do to Grayst? Even if you did not commit the murders, the gods are unlikely to forgive the corruption you inflicted upon that man.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Grayst was in Dr. Habe's custody. What did you inflict upon him?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>And one of Dr. Habe's patients was Grayst? He was living when he was brought to the Sanatorium.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Habe was responsible for Grayst. He failed his duty to care for and heal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>And Grayst was one of these patients? What'd you do to him?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Dr. Habe had a patient called Grayst. What happened to him?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>And the good doctor's patient, Grayst?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Wasn't Doctorabe supposed to heal Grayst? </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>That man was halfway to undeath when he arrived at the Sanatorium. He kept ranting about "his Lordship," too. If Habe left him to me, I could have saved everyone a lot of trouble.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>I surrender! I am no dark crusader. I only wished to carry on with my work in peace, but one of Dr. Habe's "patients" got loose and set my zombies on the town.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

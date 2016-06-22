@@ -1,0 +1,450 @@
+<N>
+ <N ID="LO1B_Academy">
+  <Set>B</Set>
+  <Name>0</Name>
+  <Location>1</Location>
+  <Closing>2</Closing>
+  <Closed>3</Closed>
+  <Deck>1,1,0,5,0,1,1,0</Deck>
+ </N>
+ <N ID="LO1B_Apothecary">
+  <Set>B</Set>
+  <Name>4</Name>
+  <Location>5</Location>
+  <Closing>6</Closing>
+  <Closed>7</Closed>
+  <Deck>1,0,1,3,0,1,1,2</Deck>
+ </N>
+ <N ID="LO11_CatacombsOfWrath">
+  <Set>1</Set>
+  <Name>8</Name>
+  <Location>9</Location>
+  <Closing>10</Closing>
+  <Closed>11</Closed>
+  <Deck>6,1,1,0,0,1,0,0</Deck>
+ </N>
+ <N ID="LO1B_CityGate">
+  <Set>B</Set>
+  <Name>12</Name>
+  <Location>13</Location>
+  <Closing>14</Closing>
+  <Closed>15</Closed>
+  <Deck>2,1,2,0,0,2,2,0</Deck>
+ </N>
+ <N ID="LO1B_DeeperDungeons">
+  <Set>B</Set>
+  <Name>16</Name>
+  <Location>17</Location>
+  <Closing>18</Closing>
+  <Closed>19</Closed>
+  <Deck>4,2,1,1,0,1,0,0</Deck>
+ </N>
+ <N ID="LO1B_DesecratedVault">
+  <Set>B</Set>
+  <Name>20</Name>
+  <Location>21</Location>
+  <Closing>22</Closing>
+  <Closed>23</Closed>
+  <Deck>4,1,0,1,0,2,0,1</Deck>
+ </N>
+ <N ID="LO1B_Farmhouse">
+  <Set>B</Set>
+  <Name>24</Name>
+  <Location>25</Location>
+  <Closing>26</Closing>
+  <Closed>27</Closed>
+  <Deck>3,1,1,0,0,3,1,0</Deck>
+ </N>
+ <N ID="LO1B_Garrison">
+  <Set>B</Set>
+  <Name>28</Name>
+  <Location>29</Location>
+  <Closing>30</Closing>
+  <Closed>31</Closed>
+  <Deck>3,0,3,0,2,0,1,0</Deck>
+ </N>
+ <N ID="LO1B_GeneralStore">
+  <Set>B</Set>
+  <Name>32</Name>
+  <Location>33</Location>
+  <Closing>34</Closing>
+  <Closed>35</Closed>
+  <Deck>2,0,2,0,1,3,1,0</Deck>
+ </N>
+ <N ID="LO11_Glassworks">
+  <Set>1</Set>
+  <Name>36</Name>
+  <Location>37</Location>
+  <Closing>38</Closing>
+  <Closed>39</Closed>
+  <Deck>3,1,1,1,0,1,2,0</Deck>
+ </N>
+ <N ID="LO11_GoblinFortress">
+  <Set>1</Set>
+  <Name>40</Name>
+  <Location>41</Location>
+  <Closing>42</Closing>
+  <Closed>43</Closed>
+  <Deck>3,1,1,0,0,2,2,0</Deck>
+ </N>
+ <N ID="LO1B_GuardTower">
+  <Set>B</Set>
+  <Name>44</Name>
+  <Location>45</Location>
+  <Closing>46</Closing>
+  <Closed>47</Closed>
+  <Deck>1,1,2,0,1,2,2,0</Deck>
+ </N>
+ <N ID="LO11_JunkBeach">
+  <Set>1</Set>
+  <Name>48</Name>
+  <Location>49</Location>
+  <Closing>50</Closing>
+  <Closed>51</Closed>
+  <Deck>2,2,1,0,1,3,0,0</Deck>
+ </N>
+ <N ID="LO1B_MountainPeak">
+  <Set>B</Set>
+  <Name>52</Name>
+  <Location>53</Location>
+  <Closing>54</Closing>
+  <Closed>55</Closed>
+  <Deck>3,3,1,0,1,1,0,0</Deck>
+ </N>
+ <N ID="LO11_Nettlemaze">
+  <Set>1</Set>
+  <Name>56</Name>
+  <Location>57</Location>
+  <Closing>58</Closing>
+  <Closed>59</Closed>
+  <Deck>6,1,1,0,0,1,0,0</Deck>
+ </N>
+ <N ID="LO1B_Prison">
+  <Set>B</Set>
+  <Name>60</Name>
+  <Location>61</Location>
+  <Closing>62</Closing>
+  <Closed>63</Closed>
+  <Deck>3,2,0,0,1,1,2,0</Deck>
+ </N>
+ <N ID="LO1B_SandpointCathedral">
+  <Set>B</Set>
+  <Name>64</Name>
+  <Location>65</Location>
+  <Closing>66</Closing>
+  <Closed>67</Closed>
+  <Deck>2,0,0,2,0,1,1,3</Deck>
+ </N>
+ <N ID="LO1B_ShrineToLamashtu">
+  <Set>B</Set>
+  <Name>68</Name>
+  <Location>69</Location>
+  <Closing>70</Closing>
+  <Closed>71</Closed>
+  <Deck>3,2,0,1,0,0,0,3</Deck>
+ </N>
+ <N ID="LO11_SwallowtailFestival">
+  <Set>1</Set>
+  <Name>72</Name>
+  <Location>73</Location>
+  <Closing>74</Closing>
+  <Closed>75</Closed>
+  <Deck>2,1,1,0,0,1,2,2</Deck>
+ </N>
+ <N ID="LO1B_Temple">
+  <Set>B</Set>
+  <Name>76</Name>
+  <Location>77</Location>
+  <Closing>78</Closing>
+  <Closed>79</Closed>
+  <Deck>0,0,2,2,0,1,0,4</Deck>
+ </N>
+ <N ID="LO1B_ThassilonianDungeon">
+  <Set>B</Set>
+  <Name>80</Name>
+  <Location>81</Location>
+  <Closing>82</Closing>
+  <Closed>83</Closed>
+  <Deck>2,1,1,3,1,1,0,0</Deck>
+ </N>
+ <N ID="LO1B_TheOldLight">
+  <Set>B</Set>
+  <Name>84</Name>
+  <Location>85</Location>
+  <Closing>86</Closing>
+  <Closed>87</Closed>
+  <Deck>4,1,1,2,0,1,0,0</Deck>
+ </N>
+ <N ID="LO11_TheRustyDragon">
+  <Set>1</Set>
+  <Name>88</Name>
+  <Location>89</Location>
+  <Closing>90</Closing>
+  <Closed>91</Closed>
+  <Deck>2,1,1,1,0,1,3,0</Deck>
+ </N>
+ <N ID="LO1B_ThroneRoom">
+  <Set>B</Set>
+  <Name>92</Name>
+  <Location>93</Location>
+  <Closing>94</Closing>
+  <Closed>95</Closed>
+  <Deck>2,1,2,1,1,2,0,0</Deck>
+ </N>
+ <N ID="LO1B_TownSquare">
+  <Set>B</Set>
+  <Name>96</Name>
+  <Location>97</Location>
+  <Closing>98</Closing>
+  <Closed>99</Closed>
+  <Deck>2,1,1,2,0,1,2,0</Deck>
+ </N>
+ <N ID="LO1B_TreacherousCave">
+  <Set>B</Set>
+  <Name>100</Name>
+  <Location>101</Location>
+  <Closing>102</Closing>
+  <Closed>103</Closed>
+  <Deck>2,1,2,0,2,2,0,0</Deck>
+ </N>
+ <N ID="LO1B_VillageHouse">
+  <Set>B</Set>
+  <Name>104</Name>
+  <Location>105</Location>
+  <Closing>106</Closing>
+  <Closed>107</Closed>
+  <Deck>1,1,1,1,0,1,3,1</Deck>
+ </N>
+ <N ID="LO1B_Warrens">
+  <Set>B</Set>
+  <Name>108</Name>
+  <Location>109</Location>
+  <Closing>110</Closing>
+  <Closed>111</Closed>
+  <Deck>2,1,2,1,0,1,2,0</Deck>
+ </N>
+ <N ID="LO1B_Waterfront">
+  <Set>B</Set>
+  <Name>112</Name>
+  <Location>113</Location>
+  <Closing>114</Closing>
+  <Closed>115</Closed>
+  <Deck>4,2,0,0,0,1,2,0</Deck>
+ </N>
+ <N ID="LO1B_WoodenBridge">
+  <Set>B</Set>
+  <Name>116</Name>
+  <Location>117</Location>
+  <Closing>118</Closing>
+  <Closed>119</Closed>
+  <Deck>3,1,0,0,1,0,3,1</Deck>
+ </N>
+ <N ID="LO1B_Woods">
+  <Set>B</Set>
+  <Name>120</Name>
+  <Location>121</Location>
+  <Closing>122</Closing>
+  <Closed>123</Closed>
+  <Deck>4,2,1,0,0,2,0,0</Deck>
+ </N>
+ <N ID="LO12_ShadowClock">
+  <Set>2</Set>
+  <Name>133</Name>
+  <Location>131</Location>
+  <Closing>132</Closing>
+  <Closed>123</Closed>
+  <Deck>2,3,1,1,1,1,0,0</Deck>
+ </N>
+ <N ID="LO12_HabesSanatorium">
+  <Set>2</Set>
+  <Name>135</Name>
+  <Location>126</Location>
+  <Closing>127</Closing>
+  <Closed>128</Closed>
+  <Deck>3,0,0,2,0,2,2,0</Deck>
+ </N>
+ <N ID="LO12_Mill">
+  <Set>2</Set>
+  <Name>134</Name>
+  <Location>129</Location>
+  <Closing>130</Closing>
+  <Closed>123</Closed>
+  <Deck>2,2,1,0,1,1,1,1</Deck>
+ </N>
+ <N ID="LO12_FoxgloveManor">
+  <Set>2</Set>
+  <Name>136</Name>
+  <Location>124</Location>
+  <Closing>125</Closing>
+  <Closed>123</Closed>
+  <Deck>2,1,1,2,0,2,0,1</Deck>
+ </N>
+ <N ID="LO13_Dam">
+  <Set>3</Set>
+  <Name>137</Name>
+  <Location>138</Location>
+  <Closing>139</Closing>
+  <Closed>123</Closed>
+  <Deck>3,2,1,0,1,1,1,0</Deck>
+ </N>
+ <N ID="LO13_FortRannick">
+  <Set>3</Set>
+  <Name>140</Name>
+  <Location>141</Location>
+  <Closing>142</Closing>
+  <Closed>143</Closed>
+  <Deck>2,1,2,0,2,0,2,0</Deck>
+ </N>
+ <N ID="LO13_Shimmerglens">
+  <Set>3</Set>
+  <Name>144</Name>
+  <Location>145</Location>
+  <Closing>146</Closing>
+  <Closed>147</Closed>
+  <Deck>2,1,0,2,0,0,2,2</Deck>
+ </N>
+ <N ID="LO13_TurtlebackFerry">
+  <Set>3</Set>
+  <Name>148</Name>
+  <Location>149</Location>
+  <Closing>150</Closing>
+  <Closed>151</Closed>
+  <Deck>2,1,0,1,0,2,2,1</Deck>
+ </N>
+ <N ID="LO14_Courtyard">
+  <Set>4</Set>
+  <Name>154</Name>
+  <Location>155</Location>
+  <Closing>156</Closing>
+  <Closed>7</Closed>
+  <Deck>3,0,2,0,2,2,0,0</Deck>
+ </N>
+ <N ID="LO14_GiantLair">
+  <Set>4</Set>
+  <Name>157</Name>
+  <Location>158</Location>
+  <Closing>159</Closing>
+  <Closed>160</Closed>
+  <Deck>4,1,1,0,1,1,0,1</Deck>
+ </N>
+ <N ID="LO14_ScarnettiManor">
+  <Set>4</Set>
+  <Name>161</Name>
+  <Location>162</Location>
+  <Closing>163</Closing>
+  <Closed>164</Closed>
+  <Deck>2,0,1,0,2,3,1,0</Deck>
+ </N>
+ <N ID="LO14_ThassilonianLibrary">
+  <Set>4</Set>
+  <Name>165</Name>
+  <Location>166</Location>
+  <Closing>168</Closing>
+  <Closed>7</Closed>
+  <Deck>2,1,0,3,0,0,1,2</Deck>
+ </N>
+ <N ID="LO15_AbjurantHallsOfEnvy">
+  <Set>5</Set>
+  <Name>169</Name>
+  <Location>170</Location>
+  <Closing>171</Closing>
+  <Closed>172</Closed>
+  <Deck>3,2,1,1,1,1,0,0</Deck>
+ </N>
+ <N ID="LO15_FesteringMazeOfSloth">
+  <Set>5</Set>
+  <Name>173</Name>
+  <Location>174</Location>
+  <Closing>175</Closing>
+  <Closed>211</Closed>
+  <Deck>3,1,0,2,0,1,1,1</Deck>
+ </N>
+ <N ID="LO15_HallsOfWrath">
+  <Set>5</Set>
+  <Name>176</Name>
+  <Location>177</Location>
+  <Closing>178</Closing>
+  <Closed>211</Closed>
+  <Deck>6,0,3,0,0,0,0,0</Deck>
+ </N>
+ <N ID="LO15_IronCagesOfLust">
+  <Set>5</Set>
+  <Name>179</Name>
+  <Location>180</Location>
+  <Closing>181</Closing>
+  <Closed>211</Closed>
+  <Deck>2,1,0,0,0,2,2,2</Deck>
+ </N>
+ <N ID="LO15_RavenousCryptsOfGluttony">
+  <Set>5</Set>
+  <Name>182</Name>
+  <Location>183</Location>
+  <Closing>184</Closing>
+  <Closed>211</Closed>
+  <Deck>2,2,0,1,1,1,0,2</Deck>
+ </N>
+ <N ID="LO15_RuneforgeHub">
+  <Set>5</Set>
+  <Name>185</Name>
+  <Location>186</Location>
+  <Closing>187</Closing>
+  <Closed>188</Closed>
+  <Deck>0,0,0,0,0,0,0,0</Deck>
+ </N>
+ <N ID="LO15_ShimmeringVeilsOfPride">
+  <Set>5</Set>
+  <Name>189</Name>
+  <Location>190</Location>
+  <Closing>191</Closing>
+  <Closed>192</Closed>
+  <Deck>2,1,1,1,1,1,1,1</Deck>
+ </N>
+ <N ID="LO15_SihedronCircle">
+  <Set>5</Set>
+  <Name>193</Name>
+  <Location>194</Location>
+  <Closing>7</Closing>
+  <Closed>7</Closed>
+  <Deck>1,1,1,1,1,1,0,0</Deck>
+ </N>
+ <N ID="LO15_VaultOfGreed">
+  <Set>5</Set>
+  <Name>195</Name>
+  <Location>196</Location>
+  <Closing>197</Closing>
+  <Closed>198</Closed>
+  <Deck>2,0,1,1,1,4,0,0</Deck>
+ </N>
+ <N ID="LO16_DeathZone">
+  <Set>6</Set>
+  <Name>199</Name>
+  <Location>200</Location>
+  <Closing>201</Closing>
+  <Closed>7</Closed>
+  <Deck>4,3,0,0,0,0,1,1</Deck>
+ </N>
+ <N ID="LO16_HeptaricLocus">
+  <Set>6</Set>
+  <Name>202</Name>
+  <Location>203</Location>
+  <Closing>204</Closing>
+  <Closed>7</Closed>
+  <Deck>3,1,1,0,2,1,0,1</Deck>
+ </N>
+ <N ID="LO16_Runewell">
+  <Set>6</Set>
+  <Name>205</Name>
+  <Location>206</Location>
+  <Closing>207</Closing>
+  <Closed>7</Closed>
+  <Deck>0,0,2,3,1,2,0,1</Deck>
+ </N>
+ <N ID="LO16_TheLengDevice">
+  <Set>6</Set>
+  <Name>208</Name>
+  <Location>209</Location>
+  <Closing>210</Closing>
+  <Closed>7</Closed>
+  <Deck>6,0,0,0,0,0,0,3</Deck>
+ </N>
+</N>

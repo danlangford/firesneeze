@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\sc11_attackonsandpoint_01_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>&lt;i&gt;Last night I dreamed of a seven-pointed star with sharp edges spinning endlessly. It began small and grew, wrathfully slicing the Rusty Dragon into rubble. I awoke before it grew any larger.&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Hello, Father Zantus. I always love a good party... even if this one has a pious bent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Elder Zantus, I welcome this celebration of the traveler's deity. This is my first Festival of Swallowtails.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Father Zantus, I am not usually one for religious gatherings, but I admit, the Swallowtail Festival is bringing out the best of Sandpoint. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Not a bad party, Father Zantus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Afternoon, Father! I would never miss a chance to go to a Swallo-whatever festival. Have you tried Ameiko's curry-spiced salmon?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Festival time! Zantus, is it time to bless your great big building?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Good day to yeh, Father. I'm not one for crowded parties, but celebratin' Desna's a worthy cause.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Many blessings to you, Father. As rewarding as it is to do the Inheritor's will, servants of justice need to relax, eat, and rejoice from time to time.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Salutations, Father! Such a propitious event. Desna surely smiles on this day.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Father Zantus, Sandpoint's new cathedral is worthy of the gods it serves. Both Sarenrae and Desna surely bless this day. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>You are just in time for the consecration. Now I'll just get everyone's attention and—
+What in the…</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>One should almost respect these foes for attacking now when everyone is caught in revelry.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>It appears that goblins have less respect for the gods than I do. Regardless, this aggression is too bold for their kind. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Shield the dog and save the horse!
+Goblins fall and die of course!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Let the festivities begin!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>As I often say, no festival is complete without a rousing goblin song!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>This is my kind of festival.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>No time to negotiate a price! Guess I'm doing heroes' work for free today.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Then again, Iomedae favors those who fight, defend, and rejoice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Goblins, eh? I don't think yer invited.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>The gods are with us this day. We will not falter against these heathen goblins!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>How would goblins know to attack at this moment? Could it be connected to Sandpoint's earlier troubles?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Goblins chew and goblins bite,
+Goblins cut and goblins fight,
+Stab the dog and cut the horse,
+Goblins eat and take by force!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Goblins! Everywhere! 
+
+How did they get through the gates?! </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>My respect will not spare our foe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>It is also a more welcome distraction to my studies than dragons or brigands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>May have needed a few ciders to cool my tongue. Father, you look like you could use some cider too.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>That's... very generous. 
+
+However...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>You are just in time for the consecration. Now I'll just get everyone's attention and— 
+What in the…</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Father Zantus, it is a good time to celebrate now that thieves, poison, and a dragon no longer threaten the city.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

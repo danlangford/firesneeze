@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\sc12_undeaduprising_04_grayst</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>He said. He said you would visit me. His Lordship. The one that unmade me said so. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>He has a place for you. A precious place. I’m so jealous. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>He has a message for you. He made me remember it. I hope I haven’t forgotten. The master wouldn’t approve if I forgot. Let me see… let… me… see…</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>He has a message for you. He made me remember it. I hope I haven’t forgotten. The master wouldn’t approve if I forgot. Let me see… let… me… see…</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>He has a message for you. He made me remember it. I hope I haven’t forgotten. The master wouldn’t approve if I forgot. Let me see… let… me… see…</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>He has a message for you. He made me remember it. I hope I haven’t forgotten. The master wouldn’t approve if I forgot. Let me see… let… me… see…</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>He has a message for you. He made me remember it. I hope I haven’t forgotten. The master wouldn’t approve if I forgot. Let me see… let… me… see…</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>He has a message for you. He made me remember it. I hope I haven’t forgotten. The master wouldn’t approve if I forgot. Let me see… let… me… see…</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>He has a message for you. He made me remember it. I hope I haven’t forgotten. The master wouldn’t approve if I forgot. Let me see… let… me… see…</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>He has a message for you. He made me remember it. I hope I haven’t forgotten. The master wouldn’t approve if I forgot. Let me see… let… me… see…</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>He has a message for you. He made me remember it. I hope I haven’t forgotten. The master wouldn’t approve if I forgot. Let me see… let… me… see…</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>He has a message for you. He made me remember it. I hope I haven’t forgotten. The master wouldn’t approve if I forgot. Let me see… let… me… see…</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>He has a message for you. He made me remember it. I hope I haven’t forgotten. The master wouldn’t approve if I forgot. Let me see… let… me… see…</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>The master said that the bodies you are finding are signs and portents, that when he is done, you shall be remembered forever and the Misgivings shall be your throne!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>He said you should come to the Misgivings soon, to meet the Pack, for they have something wonderful to show you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>He said that if you came to his Misgivings, that if you joined his Pack, he would end his harvest in your honor.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

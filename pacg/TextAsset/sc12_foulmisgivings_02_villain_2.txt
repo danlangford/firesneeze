@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\sc12_foulmisgivings_02_villain</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Sajan? You live! Well and good, for now I shall have the reward of tasting your heart while it is yet warm...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Ezren? You live! Well and good, for now I shall have the reward of tasting your heart while it is yet warm...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Lini? You live! Well and good, for now I shall have the reward of—</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Valeros! No! You were supposed to die! You still live!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Lem! No! You were supposed to die! You still live!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Amiri! You’ve come to me! I knew my letters would sway your heart, my love! Let us consummate our… our… hunger!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Merisiel! You’ve come to me! I knew my letters would sway your heart, my love! Let us consummate our… our… hunger!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Seelah! You’ve come to me! I knew my letters would sway your heart, my love! Let us consummate our… our… hunger!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Harsk? You live! Well and good, for now I shall have the reward of tasting your heart while it is yet warm...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Kyra! No! You were supposed to die! You still live!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Seoni! You’ve come to me! I knew my letters would sway your heart, my love! Let us consummate our… our… hunger!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>You have an empty hunger that I will not help sate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>This mastication will not eventuate. You know you will not emerge victorious from this fight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>I am no one's meal! I am the predator! Aaah-Kii-Yeee!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Funny—I say that to myself after I wake up from a robust night at the Rusty Dragon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Very much so! You appear to be a good deal less alive than you were when I saved you from goblins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>My heart? What are you about? I'll consummate nothin' with you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>There are whispers of a string of murders here. They are maybe a little too similar to Sandpoint's.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Stay back! I know you to be Aldern Foxglove. You may still be worthy of redemption.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>So it was you that did them killins'. You'll have no part of my heart, nor any other part of me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Surrender before the Dawnflower!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>I'm afraid we don't share appetites. I am here only to put an end to your killing spree.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[He drops to his knees sobbing] Save me! I'll tell you anything. Don't let the Hurter come again!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>It was Xanesha and the Brothers of the Seven in Magnimar. They made me do it. I owed them so much. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Suddenly a wide grin explodes across his face. He stands slowly and bows.] I wonder how your deaths shall affect your friends.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>What things might you have done that will go unfinished? What will those broken promises spawn? How will your murders shape the world?</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

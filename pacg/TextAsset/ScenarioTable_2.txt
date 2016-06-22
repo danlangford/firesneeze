@@ -1,0 +1,352 @@
+<N>
+ <N ID="SC1T_Tutorial">
+  <Set>B</Set>
+  <Number>0</Number>
+  <Name>179</Name>
+  <Description>1</Description>
+  <Powers>178</Powers>
+  <Reward>9</Reward>
+  <Villain>10</Villain>
+  <Henchmen>11</Henchmen>
+ </N>
+ <N ID="SC1Q_Quest">
+  <Set>B</Set>
+  <Number>0</Number>
+  <Name>0</Name>
+  <Description>1</Description>
+  <Powers>0</Powers>
+  <Reward>0</Reward>
+  <Villain>0</Villain>
+  <Henchmen>0</Henchmen>
+ </N>
+ <N ID="SC1B_Brigandoom">
+  <Set>B</Set>
+  <Number>1</Number>
+  <Name>6</Name>
+  <Description>1</Description>
+  <Powers>8</Powers>
+  <Reward>9</Reward>
+  <Villain>10</Villain>
+  <Henchmen>11</Henchmen>
+ </N>
+ <N ID="SC1B_ThePoisonPill">
+  <Set>B</Set>
+  <Number>2</Number>
+  <Name>12</Name>
+  <Description>1</Description>
+  <Powers>14</Powers>
+  <Reward>15</Reward>
+  <Villain>16</Villain>
+  <Henchmen>17</Henchmen>
+ </N>
+ <N ID="SC1B_BlackFangsDungeon">
+  <Set>B</Set>
+  <Number>3</Number>
+  <Name>18</Name>
+  <Description>1</Description>
+  <Powers>20</Powers>
+  <Reward>21</Reward>
+  <Villain>22</Villain>
+  <Henchmen>23</Henchmen>
+ </N>
+ <N ID="SC11_AttackOnSandpoint">
+  <Set>1</Set>
+  <Number>1</Number>
+  <Name>30</Name>
+  <Description>1</Description>
+  <Powers>32</Powers>
+  <Reward>33</Reward>
+  <Villain>34</Villain>
+  <Henchmen>35</Henchmen>
+ </N>
+ <N ID="SC11_LocalHeroes">
+  <Set>1</Set>
+  <Number>2</Number>
+  <Name>36</Name>
+  <Description>1</Description>
+  <Powers>38</Powers>
+  <Reward>39</Reward>
+  <Villain>40</Villain>
+  <Henchmen>41</Henchmen>
+ </N>
+ <N ID="SC11_TroubleInSandpoint">
+  <Set>1</Set>
+  <Number>3</Number>
+  <Name>48</Name>
+  <Description>1</Description>
+  <Powers>50</Powers>
+  <Reward>51</Reward>
+  <Villain>52</Villain>
+  <Henchmen>53</Henchmen>
+ </N>
+ <N ID="SC11_ApproachToThistletop">
+  <Set>1</Set>
+  <Number>4</Number>
+  <Name>24</Name>
+  <Description>1</Description>
+  <Powers>26</Powers>
+  <Reward>27</Reward>
+  <Villain>28</Villain>
+  <Henchmen>29</Henchmen>
+ </N>
+  <N ID="SC11_ThistletopDelve">
+  <Set>1</Set>
+  <Number>5</Number>
+  <Name>42</Name>
+  <Description>1</Description>
+  <Powers>44</Powers>
+  <Reward>45</Reward>
+  <Villain>46</Villain>
+  <Henchmen>47</Henchmen>
+ </N>
+ <N ID="SC12_UndeadUprising">
+  <Set>2</Set>
+  <Number>1</Number>
+  <Name>80</Name>
+  <Description>1</Description>
+  <Powers>86</Powers>
+  <Reward>87</Reward>
+  <Villain>81</Villain>
+  <Henchmen>82</Henchmen>
+ </N>
+ <N ID="SC12_CrowBait">
+  <Set>2</Set>
+  <Number>2</Number>
+  <Name>61</Name>
+  <Description>1</Description>
+  <Powers>65</Powers>
+  <Reward>66</Reward>
+  <Villain>62</Villain>
+  <Henchmen>63</Henchmen>
+ </N>
+ <N ID="SC12_FoulMisgivings">
+  <Set>2</Set>
+  <Number>3</Number>
+  <Name>68</Name>
+  <Description>1</Description>
+  <Powers>71</Powers>
+  <Reward>72</Reward>
+  <Villain>69</Villain>
+  <Henchmen>70</Henchmen>
+ </N>
+ <N ID="SC12_TheCultExposed">
+  <Set>2</Set>
+  <Number>4</Number>
+  <Name>74</Name>
+  <Description>1</Description>
+  <Powers>77</Powers>
+  <Reward>78</Reward>
+  <Villain>75</Villain>
+  <Henchmen>76</Henchmen>
+ </N>
+ <N ID="SC12_AngelInTheTower">
+  <Set>2</Set>
+  <Number>5</Number>
+  <Name>54</Name>
+  <Description>1</Description>
+  <Powers>58</Powers>
+  <Reward>59</Reward>
+  <Villain>55</Villain>
+  <Henchmen>56</Henchmen>
+ </N>
+ <N ID="SC13_BattleAtTheDam">
+  <Set>3</Set>
+  <Number>4</Number>
+  <Name>89</Name>
+  <Description>1</Description>
+  <Powers>92</Powers>
+  <Reward>87</Reward>
+  <Villain>90</Villain>
+  <Henchmen>91</Henchmen>
+ </N>
+  <N ID="SC13_HereComesTheFlood">
+  <Set>3</Set>
+  <Number>3</Number>
+  <Name>93</Name>
+  <Description>1</Description>
+  <Powers>95</Powers>
+  <Reward>96</Reward>
+  <Villain>40</Villain>
+  <Henchmen>94</Henchmen>
+ </N>
+  <N ID="SC13_IntoTheMountains">
+  <Set>3</Set>
+  <Number>5</Number>
+  <Name>97</Name>
+  <Description>1</Description>
+  <Powers>100</Powers>
+  <Reward>101</Reward>
+  <Villain>98</Villain>
+  <Henchmen>99</Henchmen>
+ </N>
+  <N ID="SC13_TheFortInPeril">
+  <Set>3</Set>
+  <Number>2</Number>
+  <Name>102</Name>
+  <Description>1</Description>
+  <Powers>105</Powers>
+  <Reward>106</Reward>
+  <Villain>103</Villain>
+  <Henchmen>104</Henchmen>
+ </N>
+  <N ID="SC13_ThemOgresAintRight">
+  <Set>3</Set>
+  <Number>1</Number>
+  <Name>107</Name>
+  <Description>1</Description>
+  <Powers>110</Powers>
+  <Reward>33</Reward>
+  <Villain>108</Villain>
+  <Henchmen>109</Henchmen>
+ </N>
+  <N ID="SC14_SandpointUnderSiege">
+  <Set>4</Set>
+  <Number>1</Number>
+  <Name>111</Name>
+  <Description>1</Description>
+  <Powers>114</Powers>
+  <Reward>33</Reward>
+  <Villain>112</Villain>
+  <Henchmen>113</Henchmen>
+ </N>
+  <N ID="SC14_Jorgenfist">
+  <Set>4</Set>
+  <Number>2</Number>
+  <Name>115</Name>
+  <Description>1</Description>
+  <Powers>118</Powers>
+  <Reward>106</Reward>
+  <Villain>116</Villain>
+  <Henchmen>117</Henchmen>
+ </N>
+  <N ID="SC14_TheBlackTower">
+  <Set>4</Set>
+  <Number>3</Number>
+  <Name>119</Name>
+  <Description>1</Description>
+  <Powers>122</Powers>
+  <Reward>123</Reward>
+  <Villain>120</Villain>
+  <Henchmen>121</Henchmen>
+ </N>
+  <N ID="SC14_UnderJorgenfist">
+  <Set>4</Set>
+  <Number>4</Number>
+  <Name>124</Name>
+  <Description>1</Description>
+  <Powers>127</Powers>
+  <Reward>33</Reward>
+  <Villain>125</Villain>
+  <Henchmen>126</Henchmen>
+ </N>
+  <N ID="SC14_TheAncientLibrary">
+  <Set>4</Set>
+  <Number>5</Number>
+  <Name>128</Name>
+  <Description>1</Description>
+  <Powers>131</Powers>
+  <Reward>132</Reward>
+  <Villain>129</Villain>
+  <Henchmen>130</Henchmen>
+ </N>
+  <N ID="SC15_UnderneathSandpoint">
+  <Set>5</Set>
+  <Number>1</Number>
+  <Name>133</Name>
+  <Description>1</Description>
+  <Powers>136</Powers>
+  <Reward>137</Reward>
+  <Villain>134</Villain>
+  <Henchmen>135</Henchmen>
+ </N>
+  <N ID="SC15_Rimeskull">
+  <Set>5</Set>
+  <Number>2</Number>
+  <Name>138</Name>
+  <Description>1</Description>
+  <Powers>141</Powers>
+  <Reward>142</Reward>
+  <Villain>139</Villain>
+  <Henchmen>140</Henchmen>
+ </N>
+  <N ID="SC15_TheHallsOfSeduction">
+  <Set>5</Set>
+  <Number>3</Number>
+  <Name>143</Name>
+  <Description>1</Description>
+  <Powers>146</Powers>
+  <Reward>51</Reward>
+  <Villain>144</Villain>
+  <Henchmen>145</Henchmen>
+ </N>
+  <N ID="SC15_ThassilonianSins">
+  <Set>5</Set>
+  <Number>4</Number>
+  <Name>147</Name>
+  <Description>1</Description>
+  <Powers>150</Powers>
+  <Reward>151</Reward>
+  <Villain>148</Villain>
+  <Henchmen>149</Henchmen>
+ </N>
+  <N ID="SC15_IntoTheRuneforge">
+  <Set>5</Set>
+  <Number>5</Number>
+  <Name>152</Name>
+  <Description>1</Description>
+  <Powers>155</Powers>
+  <Reward>156</Reward>
+  <Villain>153</Villain>
+  <Henchmen>154</Henchmen>
+ </N>
+  <N ID="SC16_CabinInTheSnow">
+  <Set>6</Set>
+  <Number>1</Number>
+  <Name>157</Name>
+  <Description>1</Description>
+  <Powers>160</Powers>
+  <Reward>51</Reward>
+  <Villain>158</Villain>
+  <Henchmen>159</Henchmen>
+ </N>
+  <N ID="SC16_TheRoadThroughXin-Shalast">
+  <Set>6</Set>
+  <Number>2</Number>
+  <Name>161</Name>
+  <Description>1</Description>
+  <Powers>164</Powers>
+  <Reward>142</Reward>
+  <Villain>162</Villain>
+  <Henchmen>163</Henchmen>
+ </N>
+  <N ID="SC16_ScalingMharMassif">
+  <Set>6</Set>
+  <Number>3</Number>
+  <Name>165</Name>
+  <Description>1</Description>
+  <Powers>167</Powers>
+  <Reward>33</Reward>
+  <Villain>40</Villain>
+  <Henchmen>166</Henchmen>
+ </N>
+  <N ID="SC16_AssaultOnThePinnacle">
+  <Set>6</Set>
+  <Number>4</Number>
+  <Name>168</Name>
+  <Description>1</Description>
+  <Powers>171</Powers>
+  <Reward>172</Reward>
+  <Villain>169</Villain>
+  <Henchmen>170</Henchmen>
+ </N>
+  <N ID="SC16_IntoTheEye">
+  <Set>6</Set>
+  <Number>5</Number>
+  <Name>173</Name>
+  <Description>1</Description>
+  <Powers>176</Powers>
+  <Reward>177</Reward>
+  <Villain>174</Villain>
+  <Henchmen>175</Henchmen>
+  </N>
+</N>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\sc12_thecultexposed_01_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>48</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Bank Node 24</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>We've reached Magnimar. Somehow, I imagined it smelling better.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>We've arrived at Magnimar, City of Monuments. I have long desired to look upon the Irespan and its impossible size.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>We have reached Magnimar. Its majesty is made smaller by the corruptions within.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Magnimar: More exciting than Korvosa, but not as lawless as Riddleport. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>We are finally in Magnimar. Sandpoint had more excitement than I expected, but there's something freeing about getting lost in a city this big.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>So we are at another, bigger city. Let's not stay longer than we have to.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Magnimar. We're actually here. The City of Monuments. Ostentatious architecture. The Seacleft. Politicians and crime syndicates. And of course, the Triodea if you want some culture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Magnimar. Let's get this over with.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>We've made it to Magnimar. A city filled with the new, the ancient, and the familiar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Magnimar is a city in need of heroes. All that we see is a cracked mask of civility.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>If there were ever a city in need of redemption, it would be Magnimar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Bank Node 12</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Death and greed are coalescing in power here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>This city has been afflicted with a disease of homicides like Sandpoint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>There is talk of all-too-familiar murders taking place throughout the city.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>It's a city. Larger than most, maybe. 'Part from that, there's not much worth stayin' for.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Familiar rumors of ritualistic killings with a seven-pointed bleeding star are circling the city.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>I was able to collect more sticks on our way here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>There are whispers of a string of murders here. They are maybe a little too similar to Sandpoint's.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Folks on the road said the city has a murder problem lately. Could be our Xanesha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Let us hope that Xanesha may be found here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>As with other metropolises, it is a city driven by coin and lies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Sounds like its got a murder problem too.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Bank Node 24</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>I'll follow the trail of dead bodies to find Foxglove's master.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Among Aldern Foxglove's possessions, he held a ledger with payments to the Seven's Sawmill. It may be worth investigating.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Foxglove made a home here once, before he was consumed by madness. His townhouse will hold the answers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>I'll make the rounds at the local inns, taverns, village houses, and distilleries. A few shared drinks, a friendly word—or a threat—in the right ear, and Xanesha will be found.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Foxglove had some sort of estate here. Is it against the law to break into the home of a dead maniac? I'm going to say "no."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>If this is anything like Sandpoint, we'll track dead people until we find Xanesha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>According to his meticulously kept records, Aldern had regular payments to the Seven's Sawmill here in Magnimar. That's the best place to find clues to Xanesha's whereabouts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>There's like to be a bloody trail to follow. Best get started.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Since this city was once home to Aldern Foxglove, his old residence may show the way to Xanesha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Sarenrae will light the way.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>My sword, directed by the will of Iomedae, will save the city from its knives.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Bank Node 24</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Magnimar. Somehow I imagined it smelling better.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Magnimar, City of Monuments. I have long desired to look upon the Irespan and its impossible size.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>I have reached Magnimar. Its majesty is made smaller by the corruptions within.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Magnimar: More exciting than Korvosa, but not as lawless as Riddleport. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Finally. Magnimar. Sandpoint had more excitement than I expected, but there's something freeing about getting lost in a city this big.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Another, bigger city. I will not stay longer than I have to.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Magnimar. I'm actually here. The City of Monuments. Ostentatious architecture. The Seacleft. Politicians and crime syndicates. And of course, the Triodea if you want some culture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Magnimar. Let's get this over with.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Magnimar. A city of filled with the new, the ancient, and the familiar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Magnimar is a city in need of heroes. All that may be seen is a cracked mask of civility.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>If there were ever a city in need of redemption, it would be Magnimar.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

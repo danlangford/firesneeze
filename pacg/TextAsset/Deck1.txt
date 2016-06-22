@@ -1,0 +1,39 @@
+<N>
+
+ <Character ID="CH1C_Seelah">
+<Cards>AR1B_MagicChainMail,SP1B_Cure,BL1B_BlessingOfShelyn,WP1C_Greatsword,AL1B_NightWatch,AL1B_StandardBearer,BL1B_BlessingOfTheGods,BL1B_BlessingOfTheGods,WP1B_Longsword,BL1B_BlessingOfTheGods,WP1B_Mace,AR1B_Half-plate,AR1B_WoodenShield,BL1B_BlessingOfGorum,BL1B_BlessingOfTheGods</Cards>
+  <Skills>WIS</Skills>
+ </Character>
+ 
+ <Character ID="CH1C_Amiri">
+ <Cards>WP1C_Greatsword,WP1B_Longsword,AR1B_MagicLeatherArmor,BL1B_BlessingOfTheGods,BL1B_BlessingOfTheGods,AL1B_Guide,AL1B_StandardBearer,BL1B_BlessingOfTheGods,BL1B_BlessingOfTheGods,IT1B_Mattock,IT1B_PotionOfHiding,WP1B_Longspear,WP1B_Longsword,WP1B_Mace,AR1B_WoodenShield</Cards>
+  <Skills>STR</Skills>
+ </Character>
+
+ <Character ID="CH1C_Sajan">
+<Cards>BL1B_BlessingOfCalistria,AL1B_Troubadour,IT1C_AmuletOfMightyFists,BL1B_BlessingOfTheGods,AL1B_Sage,IT1B_Spyglass,IT11_StaffOfMinorHealing,IT1B_Caltrops,AL1B_Troubadour,BL1B_BlessingOfErastil,BL1B_BlessingOfTheGods,BL1B_BlessingOfTheGods,BL1B_BlessingOfTheGods,BL1B_BlessingOfTheGods,BL1B_BlessingOfTheGods</Cards>
+  <Skills>DEX</Skills>
+ </Character>
+ 
+ <Character ID="CH1B_Ezren">
+  <Cards>IT1B_AmuletOfLife,IT1B_TokenOfRemembrance,IT1B_BracersOfProtection,AL1B_Sage,AL1B_Acolyte,AL1B_StandardBearer,WP1B_Quarterstaff,SP1B_DetectMagic,SP1B_Augury,SP1B_LightningTouch,SP1B_LightningTouch,SP1B_ArcaneArmor,SP1B_Invisibility,SP1B_MirrorImage,SP1B_DetectMagic</Cards>
+  <Skills>INT</Skills>
+ </Character>
+
+ <Character ID="CH1B_Lem">
+  <Cards>SP1B_Cure,WP1C_DeathbaneLightCrossbow+1,AL1B_ShaleluAndosana,BL1B_BlessingOfTheGods,BL1B_BlessingOfTheGods,IT1B_Codex,IT1B_ThievesTools,SP1B_CharmPerson,SP1B_Sanctuary,SP1B_Strength,AL1B_Sage,AL1B_Troubadour,BL1B_BlessingOfIomedae,BL1B_BlessingOfPharasma,BL1B_BlessingOfTheGods</Cards>
+  <Skills>CHA</Skills>
+ </Character>
+
+ <Character ID="CH1C_Lini">
+  <Cards>AL1B_Crow,AL1C_Dog,AL1C_Dog,BL1B_BlessingOfTheGods,BL1B_BlessingOfTheGods,BL1B_BlessingOfTheGods, BL1B_BlessingOfTheGods, IT1B_AmuletOfFortitude, IT1B_AmuletOfLife, SP1B_Cure, SP1B_Cure, SP1B_Inflict, SP1B_Guidance, SP1B_Sanctuary, SP1B_Strength</Cards>
+  <Skills>DEX</Skills>
+ </Character>
+  
+ <Scenario ID="SC1B_Brigandoom"/>
+ <Scenario ID="SC1B_ThePoisonPill"/>
+ <Scenario ID="SC1B_BlackFangsDungeon"/>
+ 
+ <Adventure ID="AD1B_PerilsOfTheLostCoast"/>
+ 
+</N>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\sc11_localheroes_01_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>39</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Welcome back, my friend. Or should I now call you "Hero of Sandpoint," like everyone else?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Welcome back, my friends. Or should I now call you "Heroes of Sandpoint," like everyone else?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Those who aspire to accolades rarely deserve them. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Though local fame is not my ambition, it may bolster my prospects of becoming a member of the Pathfinder Society.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Another successful hunt! Goblins are easy prey. Stinky and loud.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>If it means more drinks, call me anything you like.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Alright. Hero of Sandpoint it is.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You can call me anything you like, my—</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>There is more than enough honor as your friend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Harsk will do. Nothing more. Nothing less.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>I am merely a servant of Sarenrae's will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>There's not an awkward noble lurking nearby, is there? </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Seelah! I'm delighted that you are here. Please. I wish to know everything about you. What does it take to be a hero like you?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>This may be good time to get out into town. Get to know some &lt;i&gt;other&lt;/i&gt; people.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Yes. I can see that now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Lem the Legendary will do nicely. I have a new song idea that I think you'll love. It's about a boy who thinks he's a bugb—</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Lem! I'm delighted that you are here. Please. Tell me everything! What does it take to be a hero like you?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Outstanding advice. I will return... later.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>There is wisdom in this plan. A variety of allies offsets one's personal weaknesses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Under the circumstances, I will heed your advice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Yes! Too many dead things in the Rusty Dragon today.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Now that you mention it. There were some supplies I needed at Vinder's store. Till next time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>If you think so, Ameiko. As the Hero of Sandpoint, I will rally the people to fight against...
+
+...whatever the next threat is.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>I'm already gone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>That does seem... preferable.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>I suppose there are others that might... &lt;i&gt;benefit&lt;/i&gt; from Sarenrae's word. I will see to it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Yes. I think my destiny lies elsewhere today.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Harsk! I'm delighted that you are here. Please. I wish to know everything about you. What does it take to be a hero like you?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Merisiel! I'm delighted that you are here. Please. I wish to know everything about you. What does it take to be a hero like you?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Sajan! I'm delighted that you are here. Please. I wish to know everything about you. What does it take to be a hero like you?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Ezren! I'm delighted that you are here. Please. I wish to know everything about you. What does it take to be a hero like you?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Lini! I'm delighted that you are here. Please. I wish to know everything about you. What does it take to be a hero like you?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Valeros! I'm delighted that you are here. Please. I wish to know everything about you. What does it take to be a hero like you?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Amiri! I'm delighted that you are here. Please. I wish to know everything about you. What does it take to be a hero like you?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Brute strength and a temper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Yes, but surely there is more to it. I must know everything about you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Kyra! I'm delighted that you are here. Please. I wish to know everything about you. What does it take to be a hero like you?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Oh. There is.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Seoni! I'm delighted that you are here. Please. I wish to know everything about you. What does it take to be a hero like you?</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

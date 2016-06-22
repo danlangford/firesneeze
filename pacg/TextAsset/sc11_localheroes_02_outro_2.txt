@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\sc11_localheroes_02_outro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>43</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>I am coming to understand why one would settle in this place. Even with its lack of defenses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>I am beginning to envisage a scenario whereby Sandpoint becomes my permanent residence.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>This town is not so bad. I would never call it home, but the people are nice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Sandpoint's a good place to be... if you look past the frequent attacks and minimal tavern choices. I think it has character.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>I can see why a fellow would put roots down in this town. Perhaps I will open up a small chapter of the Pathfinder Society here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The townspeople did not want to raid nearby goblin tribes with me. The people of Sandpoint may not all be of warrior stock, but they &lt;i&gt;are&lt;/i&gt; friendly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>It turns out that I'm the hero this town has been looking for. Ha! I could almost get comfortable and settle here, but who am I kidding.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Sandpoint is beginning to feel like home. I met many more people today. I hope I may rely on them in the future if Sandpoint is ever in trouble again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>It has decent folk, this town. I almost feel welcome.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Sandpoint will never be home for me, but the gods have shown me that it is worth protecting. Sarenrae have mercy on any who wish to harm it's people again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Even if it has many troubles, I like this town. Too bad a storm is coming. And from the look of things, sooner than expected.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>And I was able to shake Aldern Foxglove. He went on awhile about his annual boar hunt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>You there! You can fool everyone else, but you can't fool me. Your antics against goblins endangered a lot of people. Next time leave Sandpoint's defense to the city guard and other trained professionals. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Half the guard was drunk on festival wine when the goblins attacked. Not all warriors know which end of a blade to hold when they've had a few.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Many underestimate me, sir, and most to their detriment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>You will find that I'm adequately trained in keeping good people alive. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>And this is why we don't get comfortable. I think you'd better choose your next words carefully.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>I will gladly do so if Sandpoint's defenses could accommodate the threats it faces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Fool! Next time I'll let goblins eat you!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The gods determine who is worthy to defend Sandpoint. Not you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>You are strangely hostile toward someone who helped save your town. Did you want the attack to succeed?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>I would like to meet these trained warriors you talk of. I only see armed amateurs manning the walls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Perhaps if there were thicker walls and a highly trained battalion defending them, my skills would not be needed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>It's time you start bein' polite to folks that risk their lives for you, be they citizens or guests.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Just what we need: filthy vagrants to attract even more trouble to town.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Father, that is enough! Treat my guests with respect or leave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>No, daughter. It is time for you to leave this filthy hole and come home.  Now! [tries to grab Ameiko's hair]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[dodges the grab and brains Lonjiku with a ladle] Get out now! You are not welcome here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Ameiko says it's time to go. If I have to ask you to leave, it won't be so gentle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>I think you've lost your audience, kind sir. This is your cue to exit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>I think it is past time you listen to your daughter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>You chose the wrong words, little man.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>I believe that it is past time you depart the premises, sir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>You are not in Ameiko's pack. Go now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Go now. Come back when you are ready to make peace.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Your daughter has made her point clear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Leave before my temper gets the better of me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>You are defeated. Retreat is your only option now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>You heard her. Away with ya!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>I am leaving now.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Looks like I’ll need a well-cleaned ladle now, since jackass stew’s not on the menu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Ameiko. You’re as dead to me as your mother.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>You there! You can fool everyone else, but you can't fool me. Your antics against goblins endangered—</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

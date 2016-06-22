@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\sc11_troubleinsandpoint_01_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>I have not seen her in recent days. When we last spoke she mentioned an appointment with her brother, I believe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Pardon me, have you seen Ms. Kaijitsu? A few of us are growing concerned. It is unlike Ameiko to leave without telling anyone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Tsuto? This is more dire than I expected. He's a lost soul and may have brought danger upon her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>I thought he was defeated in the goblin attack on Sandpoint? Ameiko is in trouble if he's in league with the goblins!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>I believe she needed time to meditate after witnessing the cowardice of her father. She and her brother were going to meet on it when she was done.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>No I have not seen Ameiko-friend. After challenging her father, she said she needed to see her brother.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Yeah. But not for a couple days. After her pops showed up, she left to meet her brother.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Her mood has been noticeably adagio since the night her father graced us with his presence. I believe it was... two days ago that she left to meet her brother?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>I haven't seen her since her old man paid a visit. Last I knew she was meeting her brother.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>I haven't seen her. Last I heard she went to see her brother.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Her mood darkened after the night her father was here. I have not seen her in almost two days. She mentioned a meeting with her brother at the glassworks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Not in a couple of days. Talked of a meetin' with her brother before she disappeared.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>I have not, Father Zantus. I believe you are right to worry. I do not think she has been seen since she left to meet her brother.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Her father's appearance did not sit well with her. She mentioned that she would see her brother. Was there more to this meeting than originally understood?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Ameiko seems like a capable individual, but I will search for her just the same.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>If he's that bad, I suppose it's time to get to work trackin' him down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>If she handles her brother the same way she took care of her father, I am sure she is well! Nevertheless, she must be found.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>If Tsuto is involved in Ameiko's disappearance, she is in true danger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>I better have a look around, then.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Blood bonds seems of little value in that family. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Could this be what I saw in my dreams? Ameiko is clearly important. I will find her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>So you think Ameiko's in trouble. I'll go make sure she isn't.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>It is time for another hunt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Whoever he is, I'll make short work of him if he's hurt Ameiko.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Tsuto is her brother? He was a part of the goblin attack. I am surprised he still lives.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>I will endeavor to save them both then.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Tsuto. That name is familiar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>That fool was part of the goblin invasion at the Swallowtail Festival! Ameiko must be in danger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>And I thought we stopped that pup during the goblin attack. If he's still in town, we've got a problem. Suppose it's time to track 'im down and put an end to it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>When last I beheld Tsuto, he was attacking Sandpoint alongside the goblins. If he is involved in Ameiko's disappearance, she is in true danger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>You mean the idiot that teamed up with the goblins during the Swallowtail Festival? I doubt she'd have any trouble with him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>That said, I better have a look around.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Tsuto was just a bit player in the attack on Sandpoint. Surely, he's not the villain of this story.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>That goblin wannabe is Ameiko's brother? I'll make short work of him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>That goblin-friend has Ameiko? It is time for another hunt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>That little man is no match for Ameiko. I will find her for you anyway.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>A man who allies with goblins no longer values his family or life.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

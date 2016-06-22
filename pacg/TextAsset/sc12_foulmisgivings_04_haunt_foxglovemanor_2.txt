@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\sc12_foulmisgivings_04_haunt_foxglovemanor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[A piano explodes into music, playing a catchy but discordant Varisian song. You are swept into a series of rapidly increasing pirouettes, leaping across the room in the arms of an invisible dance partner.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Her beauty is vibrant. Gradually, her beauty fades as her neck darkens into an angry blue-and-black bruise, her eyes bulge and water, her mouth twists in pain, and her tongue protrudes as if she were being invisibly strangled.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[She crumbles away into rot in your arms.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

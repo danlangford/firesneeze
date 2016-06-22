@@ -1,0 +1,78 @@
+<N>
+
+ <Character ID="CH1B_Valeros">
+  <Cards>WP13_Longsword+2,WP13_Longsword+2,WP12_HeavyPick+1,WP12_Scythe+1,WP11_BastardSword+1,WP11_Longbow+1,WP1B_Longsword+1,AR13_MagicFullPlate,AR11_ShieldOfFireResistance,AR1B_MagicHalf-plate,IT1B_Mattock,IT13_BeltOfGiantStrength,AL13_ValeTemros,AL1C_Saber-ToothedTiger,BL12_BlessingOfAbadar,BL11_BlessingOfLamashtu,BL1B_BlessingOfGorum,BL1B_BlessingOfTheGods</Cards>
+  <Powers>PW1B_ArmamentAficionado_W</Powers>
+  <Hand>6</Hand>
+  <Skills>STR,STR,STR,STR</Skills>
+  <CardFeats>WP,WP,BL</CardFeats>
+ </Character>
+
+ <Character ID="CH1B_Ezren">
+  <Cards>IT1B_AmuletOfLife,SP1B_ForceMissile,SP12_Web,IT1B_TokenOfRemembrance,LT11_SihedronMedallion,AL11_Toad,AL1B_Acolyte,AL1B_StandardBearer,WP11_Dogslicer+1,SP11_FrostRay,SP1B_Augury,SP11_ScorchingRay,SP12_LightningBolt,SP12_Haste,SP12_ToxicCloud,SP1B_DetectMagic,SP1B_Invisibility,SP13_IncendiaryCloud</Cards>
+  <Skills>INT,INT,INT,INT</Skills>
+  <Hand>8</Hand>
+  <Powers>PW1B_IntenseSpellsAcidCold</Powers>
+  <CardFeats>SP,SP,SP</CardFeats>
+ </Character>
+ 
+ <Character ID="CH1B_Kyra">
+    <Cards>SP1B_Cure,SP1B_Inflict,BL1B_BlessingOfShelyn,BL1B_BlessingOfLamashtu,WP1B_FlamingMace+1,BL1B_BlessingOfTheGods,BL1B_BlessingOfTheGods,BL1B_BlessingOfGorum,AR1B_MagicChainMail,AR1B_MagicShield,LT11_SihedronMedallion,AL1B_Guard,BL1B_BlessingOfShelyn,BL1B_BlessingOfTorag,BL1B_BlessingOfTheGods,SP1B_Aid,SP1B_Guidance,WP1B_Mace,BL1B_BlessingOfTheGods</Cards>
+  <Hand>7</Hand>
+  <Powers>PW1B_BlessingOfRedemption</Powers>
+  <Skills>WIS,WIS,WIS,WIS</Skills>
+  <CardFeats>BL,SP,BL</CardFeats>
+ </Character>
+
+ <Character ID="CH1B_Lem">
+  <Cards>SP1B_Cure,WP1C_DeathbaneLightCrossbow+1,AL1B_ShaleluAndosana,BL1B_BlessingOfTheGods,BL1B_BlessingOfTheGods,IT1B_Codex,IT1B_ThievesTools,SP1B_CharmPerson,SP1B_Sanctuary,SP1B_Strength,AL1B_Sage,AL1B_Troubadour,BL1B_BlessingOfIomedae,BL1B_BlessingOfPharasma,BL1B_BlessingOfTheGods,BL1B_BlessingOfTheGods,AL13_JakardrosSovark,SP13_Swipe</Cards>
+  <Hand>7</Hand>
+  <Powers>PW1B_BardicPerformance_1,PW1B_BardicPerformance_2</Powers>
+  <Skills>CHA,CHA,CHA,CHA</Skills>
+  <CardFeats>BL,AL,SP</CardFeats>
+ </Character>
+
+  <Character ID="CH1B_Seoni">
+  <Cards>SP1B_CharmPerson,BL1B_BlessingOfTheGods,IT11_WandOfForceMissile,BL1B_BlessingOfTheGods,AL1B_Burglar,AL1B_Guide,SP1B_ForceMissile,SP11_FrostRay,LT11_SihedronMedallion,AL1B_Guide,BL1B_BlessingOfTheGods,BL1B_BlessingOfTheGods,SP1B_Invisibility,BL1B_BlessingOfTheGods,AL1B_Guide,IT11_WandOfShield,SP13_IncendiaryCloud,SP12_LightningBolt</Cards>
+  <Hand>7</Hand>  
+  <Powers>PW1B_ArcaneBond,PW1B_DivineIntervention</Powers>
+  <Skills>CHA,CHA,CHA,CHA</Skills>
+  <CardFeats>SP,SP,SP</CardFeats>
+ </Character>
+
+
+ <Character ID="CH1C_Sajan">
+<Cards>BL1B_BlessingOfCalistria,AL1B_Troubadour,IT1C_AmuletOfMightyFists,BL1B_BlessingOfTheGods,AL1B_Sage,IT1B_Spyglass,IT11_StaffOfMinorHealing,IT1B_Caltrops,AL1B_Troubadour,BL1B_BlessingOfErastil,BL1B_BlessingOfTheGods,BL1B_BlessingOfTheGods,BL1B_BlessingOfTheGods,BL1B_BlessingOfTheGods,BL1B_BlessingOfTheGods,WP13_FrostLongbow+1,BL13_BlessingOfNorgorber,BL12_BlessingOfAbadar</Cards>
+  <Hand>7</Hand>
+  <Skills>DEX,DEX,DEX,DEX</Skills>
+  <CardFeats>WP,BL,BL</CardFeats>
+ </Character>
+
+
+
+
+ <Scenario ID="SC1B_Brigandoom"/>
+ <Scenario ID="SC1B_ThePoisonPill"/>
+ <Scenario ID="SC1B_BlackFangsDungeon"/>
+ <Scenario ID="SC11_AttackOnSandpoint"/>
+ <Scenario ID="SC11_LocalHeroes"/>
+ <Scenario ID="SC11_TroubleInSandpoint"/>
+ <Scenario ID="SC11_ApproachToThisletop"/>
+ <Scenario ID="SC11_ThistletopDelve"/>
+ <Scenario ID="SC12_UndeadUprising" />
+ <Scenario ID="SC12_CrowBait" />
+ <Scenario ID="SC12_FoulMisgivings"/>
+ <Scenario ID="SC12_TheCultExposed"/>
+ <Scenario ID="SC12_AngelInTheTower"/>
+ <Scenario ID="SC13_ThemOgresAin'tRight"/>
+ <Scenario ID="SC13_TheFortInPeril"/>
+ <Scenario ID="SC13_HereComesTheFlood"/>
+ <Scenario ID="SC13_BattleAtTheDamn"/>
+ <Scenario ID="SC13_IntoTheMountains"/>
+ 
+ <Adventure ID="AD1B_PerilsOfTheLostCoast"/>
+ <Adventure ID="AD11_BurntOfferings"/>
+ <Adventure ID="AD12_TheSkinsawMurders"/>
+ <Adventure ID="AD13_TheHookMountainMassacre"/>
+ 
+</N>

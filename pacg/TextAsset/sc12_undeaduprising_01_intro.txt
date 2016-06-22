@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\sc12_undeaduprising_01_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>59</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>I’ve got my men stationed there now, but the thing that bothers me isn’t the fact that we have two dead bodies inside. It’s the fact that this is actually the second set of murders we’ve had in the last few days.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Secret killings? How you townsfolk survive each other is beyond me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Not to worry. There's not a predator that can hide from me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Have you arrested the nobles? Murder is how rich folk kill. The rest of us just fight and die.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>It seems that Nualia was right. Something else has come to terrify Sandpoint in her place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>I cannot do anything for the dead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Well, you've come to the right place. Just let me close out my tab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>In a time of shadow, Sarenrae lights the way.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>I am here and will do anything in my power to help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>This is most curious. These murders have transpired mere days after Nualia fell with proclamations of further vengeance coming to Sandpoint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You have come to the right halfling, Sheriff. I will begin investigating without delay. I will also send word to the Pathfinder Society. They may have resources that can help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>I charge more for detective work, but I can throw in a law enforcement discount. After all, I am a Hero of Sandpoint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>I come to you for help in this matter—my men are good, but they are also green. They were barely able to handle themselves against the goblins, and what we’re facing now is an evil far worse than goblins. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>What do you mean? Did the killer leave a clue?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Truly? My friendships are most bountiful.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>That's a hell of an accusation, Sheriff!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Since arriving in Sandpoint, I have not taken a path of subtlety. It is true.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>If these are connected to Nualia's conspiracies, this is not surprising, as we are the architects of her demise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>I had not intended to make a name for myself here. Now that I have, the consequences are bearing fruit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>I am known.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Yeah. That sounds likely.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>I'm more of a stand-up-and-fight type. I don't know that many hide-and-murder types.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Knows me? Well, that hardly makes the box smaller.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>And you are sure it wasn't an animal? I know many animals. Not that many people.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>There was a note pinned to the sleeve of the latest victim by a splinter of wood...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Sajan,  
+I do as you command, master! 
+—Your Lordship"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Ezren,  
+I do as you command, master! 
+—Your Lordship"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Lini,  
+I do as you command, master! 
+—Your Lordship"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Valeros, 
+We have spoken of this before, my master. Now it begins. Join the Pack and it will end. 
+—Your Lordship"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Amiri, 
+You will learn to love me, desire me in time as she did. Give yourself to the Pack and it shall all end. —Your Lordship"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Merisiel, 
+You will learn to love me, desire me in time as she did. Give yourself to the Pack and it shall all end. —
+Your Lordship"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Seelah, 
+You will learn to love me, desire me in time as she did. Give yourself to the Pack and it shall all end. —
+Your Lordship"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Harsk,  
+I do as you command, master! 
+—Your Lordship"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Kyra, 
+We have spoken of this before, my master. Now it begins. Join the Pack and it will end. 
+—Your Lordship"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Seoni, 
+You will learn to love me, desire me in time as she did. Give yourself to the Pack and it shall all end. 
+—Your Lordship"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Lem, 
+We have spoken of this before, my master. Now it begins. Join the Pack and it will end. 
+—Your Lordship"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>I think this note was left to throw suspicion onto you. I am keeping word of this note quiet for now. There are a few leads you might look into.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>The Pack? I'm afraid this note assumes I know much more than I do.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>That's... disconcerting. Sheriff Hemlock, I hope you do not think I had anything to do with this.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>For the sun and the fury…</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>As I command? What insanity is this?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>This is the writing of a deluded man.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Give myself to the... I don't like what this is implying.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>I give myself to no man.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Master, huh? I suppose that's supposed to be flattering?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>This doesn't look like animal writing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Me? I... I... am no one's master.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>I command no man. This is deceitful ink.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>First, let me thank you again for all you’ve done for Sandpoint. It’s fortunate you’ve proven yourselves so capable, because we’ve a problem I think you can help us with. Put simply, we have a murderer in our midst—one who, I fear, has only begun his work.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Last night, the murderer struck at the sawmill. There are two victims, and they’re… they’re in pretty gruesome shape. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>I need the help. But I’m afraid you’ll need the help too. You see, I’m afraid that this particular murderer knows one of you as well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>I need the help. But I’m afraid you’ll need the help too. You see, I’m afraid that this particular murderer knows you as well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>You'll want to investigate the mill. The bodies are still there and nothing has been done to the crime scene yet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Three con men from the town of Galduria were found murdered in an abandoned barn south of town a few days ago—their bodyguard, Grayst, survived the assault but has gone insane and was sent to Habe’s Sanatorium.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>There was also a seven-pointed star carved on one victim's chest, but I'm at a loss for what it means.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Brodert Quink is an expert on runes. I can find out what he knows about it while you look into the rest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>It's good to have you back. Sheriff Hemlock has been looking for you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Maybe &lt;i&gt;only&lt;/i&gt; a few have the capacity to take the life of another.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>If these are connected to Nualia's conspiracies, this is not surprising, as I am the architect of her demise.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\sc1b_blackfangsdungeon_01_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>57</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>That barkeep spoke of some sort of beast killin' livestock just outside of Sandpoint. It's about time I get to trackin' a proper monster. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Somewhere between ale four and ale ten, Ameiko convinced me that coming out here was a good idea. She said something about some monster attacking livestock? </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>I'm not sure how I got talked into investigating cow remains. Ameiko is unusually persuasive. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Locals at the Rusty Dragon are worried about rumors of some sort of creature attacking the farms just outside of Sandpoint. I must shine Sarenrae's light onto whatever monster is terrorizing the countryside! </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>All anyone talks about at the Rusty Dragon is that some creature is terrorizing nearby farms. Could this be connected to the Jubrayl and Pillbug conspiracy?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>My dear friend Ameiko spoke of a growing legend among the farmers around Sandpoint: a wicked creature called Black Fang! Naturally, I have to see it for myself!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>At long last, I am on my way to the ruins of a Thassilonian tower at Wisher's Well. As a favor to my host at the Rusty Dragon, I promised that I would visit this farm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You must be the only dwarf that looks for work instead of ale when he's at a tavern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You're here! Thank the gods! Come see what's left of my cows. I've never seen anything like it!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Hmmm… too savage for a person… too much meat remaining for wolves or bears…</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Woah! Too fast and too loud! Let's have a look.
+
+Hmm... I don't think any weapon did this. And judging by the wounds, it was big... give me a sec. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Whatever it used to be, it's been ripped to shreds. And what's this? It appears to be a black claw or fang. Definitely monster. Hopefully a cowardly one with a hoard of gold!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>A horrific death. It looks as if much of its skin was burned away, but not with fire. Acid perhaps? The gods save us all from such a fate. I will find the monster that did this.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Such mindless destruction and power! Careful tactical planning, rather than raw might, will be needed to stop this monster.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>An utterly horrible fate for the bovine victim! It appears that a black fang was left behind. I'd say we have a dragon on our hands!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>This is a dragon's kill. Judging from the length of the fang left behind, this is the work of a black wyrm... although a young one.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>A dragon? Hnh! And here I thought this was going be a dangerous quest! </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Ameiko is unusually persuasive! </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>It is possible that Ameiko is an unknowing messenger of the gods. Regardless, we must shine Sarenrae's light onto whatever monster is terrorizing the countryside! </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Hopefully it's a cowardly beast with a hoard of gold!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Nothing should have to die like this poor creature did. The gods will guide us to the monster that did this.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Could this be connected to the Jubrayl and Pillbug conspiracy?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Such an undertaking will be dangerous! We will need a carefully strategized and executed plan leaving nothing to chance. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Or...we can just spread out across the Lost Coast, hoping to run into the creature or one of its henchmen individually? I am sure either way will work.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>And look! It left behind a black fang. If I had to guess, I'd say that we are hunting a dragon!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>This could be the beginnings of a great legend. I am excited to be a part of it!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>I think a song of tremendous deeds is in our future. I will call it "Perils of the Lost Coast" or "Black Fang's Dungeon..."
+
+...it's a work in progress.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>It would be circumspect to eliminate the wyrm now, before it grows in age and in power. The Thassilonian Empire will wait yet another day.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>And perhaps after we stop here, we may visit the Thassilonian ruins at Wisher's Well. There would be so much to learn there!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>And a juvenile at that! Very well, Wisher's Well will wait another day.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Very well, Wisher's Well will wait another day.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Okay, feeling better now. Whatever it is, I'm sure a blade will put an end to it. Leave it to me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>I agree! I have a strong feeling that there is more to her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Looks like it left a hell of a heavy footprint! And judgin' from this black fang left behind, I'd say you have yourself a dragon problem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Ameiko thought it best I get out of Sandpoint and "apply my talents" to a cow-killing monster.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Yeah, I got the "apply my talents" speech too.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Huh...
+
+Clearly a black dragon did this.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>You lowlanders must not get that many.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>It's about time we fight something worthy of my blade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>You've got the right of it, dwarf. The dragon is killing cows now, but if it grows much larger, you'll have a bigger problem on your hands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>And it's a fine day for hunting dragons. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>The Rusty Dragon is full of stories about a creature plaguing local farms with death. It is always worth finding the truth of these claims for oneself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>It has not yet engaged with a combatant that could defend itself. That is in our favor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>It has not yet engaged with a combatant that could defend itself. That is in our favor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Keen observations, my companion. Together we will trap and defeat this creature!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>I am beginning to suspect you are not the drunken master you think you are.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Together we will find and trap this creature. When we pass through this ordeal, we will be forged of something stronger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Ameiko says someone or something is tearing apart animals outside Sandpoint. This will stop now!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Tracks are large… and they stop. Whatever it is, it flies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>No animal I have ever met would do that.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>As nice as Ameiko is as a host, I'm happy to be out in the wilds again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Like the blade that points the way, Ameiko tells of a plague of violence outside of the walls of Sandpoint. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Such brutality. Only a creature of great size and strength could do such a thing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Ameiko is like the blade that points the way.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>A dragon? Truly?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Iomedae, you are a goddess of justice, honor, and surprises. We will see the land put right. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Such brutality. Only a creature of great size and strength could do such a thing.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

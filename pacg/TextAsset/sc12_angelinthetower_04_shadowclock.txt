@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\sc12_angelinthetower_04_shadowclock</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[The clock tower leans, decrepit and sagging, a dying structure of weathered stone, wood, and rusted metal supports that teeters to an unlikely height. High above, near the tower’s roof, a tangle of scaffolding sits near a section of the structure that has fallen away.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[The tower’s clock face is frozen in time, defiantly proclaiming it to be 3 o’clock. Above, a stone statue of an angel, her wings crumbling, leans precariously. It is almost as if she were preparing a final leap from her decaying perch.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

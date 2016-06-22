@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\tutorial</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>154</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Play an introductory scenario to learn the game?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Some time ago...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Welcome to Pathfinder Adventures!
+
+In this game, your party of heroes races against time on a quest to defeat dangerous villains.
+
+This tutorial uses two special characters: Orik and Ameiko. Later, you will create your own party and build your decks from the cards you find along the way!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Each scenario is unique. 
+For this tutorial scenario, the monsters and barrier cards are easier to defeat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>To win, you need to defeat and corner the villain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>In a normal scenario, you will have access to your decks here. Decks will be explained in more detail at a later time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Choose a starting location for each character. Every location has different cards, powers, and closing requirements.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Place each character at a location.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Each game has 30 turns. In normal play, you can drag the character portraits to change the turn order. For this tutorial the turn order has been set.
+
+Tap the arrow to continue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Each turn goes through 5 phases. You may skip any phase you wish.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Each turn, you may explore your location deck. Drag the card from the location deck in the upper left to the play area (or tap it).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>When you encounter a beneficial card (a "boon"), you attempt a check to add it to your hand (and keep it).
+Swipe the dice to roll a check.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>If you are done exploring, tap the End Turn button. You will automatically draw up to your hand size.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>At the start of each turn, a card is discarded from the Blessings Deck. If there are no blessings left at the start of a turn, your party loses the scenario.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Different checks use different skills. Orik's best skill to acquire this soldier is Melee. To look at your skills, you can tap your character portrait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>There are a number of ways to play a card from your hand. Let's try out each one. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Reveal: Show the card here; it stays in your hand. 
+
+This is essentially "free": you can reuse the card later.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>This nasty goblin deals 1 damage before the combat begins! If you have an armor, recharge it to prevent the damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>It's time to fight!
+
+All combat checks allow you to use your Strength or Melee skill. This is like punching the enemy. 
+
+You can play cards such as weapons or spells to improve your roll and your chances to win.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>You have found a henchman! If you defeat it, you get a chance to close the location, giving the villain one less place to run to. 
+Use your powers and cards to ensure the henchman's defeat!!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>If you defeat the villain, it will flee if any locations are open. If all locations are closed, you win the scenario.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>When a villain is undefeated, it will be shuffled with cards from the blessings deck. One of those cards will be shuffled into each open location.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>The villain has escaped, but this location is closed. Next, you will move to other locations, close them, and corner the villain!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>If you fail a check to defeat a monster, you must discard cards equal to the damage taken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>You are above your hand size! You need to discard at the end of your turn. Tap the button that looks like a trash can</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Each location has different requirements to close, like succeeding at a skill check or defeating a monster.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Closing the location banishes any remaining cards in the deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Since the villain is in this deck, it is not closed, but the rest of the cards are banished.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Think of your deck as your life. If you need to draw from it but are out of cards, your character will die.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Before a character moves or explores, she may give any card to a character at her location.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>During a check, if another character can help, their portrait will have an exclamation point. Tap the portrait to see what they can do.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>When you tap the check dropdown, you can choose a different applicable skill to roll, sometimes the location power or bane ability may make the largest dice not the best choice!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>When you do not have a skill, you roll a d4.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>If you defeat a monster or barrier, it will be banished and will no longer appear in this scenario.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>If you fail to defeat a bane, it will be shuffled back into the location deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>If you fail to acquire a boon (weapon, spell, armor, item, ally, or blessing), it will be banished and will no longer appear in this scenario.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Many cards allow you to explore again in the same turn. This is important when the blessings deck gets low.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Some cards allow you to reduce some or all damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>You may use your character power for this check! Tap the power icon below your portrait.
+Remember, you can tap your portrait to check the character sheet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Defeating a henchman usually lets you close its location—this helps corner the villain...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Display: The card is taken out of your hand until its effect is done. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Recharge: The card goes to the bottom of your deck.
+
+Since your deck is your life, it's better than discarding, but not as good as revealing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Discard: The card goes in your discard pile. 
+
+This is like taking a small amount of damage. It is worth discarding for important rolls like monster fights and to close locations. Healing cards can move these cards back to your deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Bury: You lose the card for the rest of the scenario. You'll get it back for the next game.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Banish: The card is permanently removed from your deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>To leave your location, tap Move.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Give a card to another character at your location.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Move to another location.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>End your turn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Select a location by tapping the location icon. Tap it again to enter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Temporarily closing a location prevents the villain from escaping there. The location opens again after the encounter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>It can be useful to look at your character sheet during the scenario to see what your abilities, traits, and feats are.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>The number of characters in your party increases the number of locations in the scenario, but not the number of turns.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>You may review your characters skills, powers and cards as you choose a location.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Cards available to play are highlighted. You may tap cards to look at them, and you may play one by dragging it into the appropriate place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Explore the top card of the location deck. This is how you search for the good and bad things hidden in each location.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Reset your hand: You may discard. Then, draw up to your hand size.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Some cards can be recharged instead of being discarded, which is almost always better. 
+Press "Recharge".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>When you close a location, the villain may no longer flee to it. This is an important step in defeating and cornering the villain. Use boons and powers to help!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Some locations have powers that trigger automatically. The Warrens' location power activates when you encounter a monster.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>This symbol shows the top card in the blessings discard pile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>This is the number of cards left in the blessings deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>In this game, you experience a story told over a series of scenarios. As you complete scenarios, you will get better skills, feats, cards, and powers. 
+
+These new abilities will be needed for the challenges that lie ahead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Each location is represented by a deck of cards.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>The location deck is built using the list of card types you see in the upper left corner of your screen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>The location deck will have banes to defeat, like these three Monster cards.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>The location deck will also have useful boons to acquire, like these three Item cards.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>The Sandpoint Devil and its devoted cultists are hidden throughout the Lost Coast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>You found the villain at the Farmhouse!
+However, villains are tricky!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>If you win the battle, your location will close, but the Sandpoint Devil will escape to an open location.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>They will cover their tracks using blessings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>However, if you lose the battle, the villain will flee to any open location, including the Farmhouse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>They will cover their tracks using cards from the blessings deck, leaving you fewer turns in the game.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>To corner the villain for good, you must close all the other locations, leaving the villain nowhere to run!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Finding and defeating the henchmen in the other locations will help you close them one by one.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>When you face the villain, characters at other locations can temporarily close those locations to cut off escape routes. If the villain is defeated and cornered, you win!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>The Cards List shows how many of each card type are in that character's deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Ameiko is a Bard, accomplished with both weapons and magic. She uses boons of all types.
+ 
+Tap Orik's portrait at the top to see his Cards List.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Orik is a Fighter. He excels at combat using weapons and armor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Winning some scenarios will reward you with a feat that might increase the number of cards in your deck, improve your skills, or improve your powers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Each character has a special set of Skills. Here are Orik's.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>The d6, d8, etc. next to the skill names tell you the type of dice you will roll when attempting a check with that skill. Bigger dice can roll higher results!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>If a skill includes a plus sign (like Melee or Fortitude for Orik), you add that number to the die listed above it.
+
+Click Ameiko's portrait to continue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Ameiko rolls a d12  when she makes an Arcane check; for a Charisma check, she rolls d12 and adds 2.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Each character has her own unique set of powers. Tap the Powers button to see what Ameiko's powers do.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Ameiko can hold up to 6 cards in her hand.
+
+She also has two music powers...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Her Bardic Performance power inspires her allies to help defeat banes. She may also use Call in a Favor to have an ally assist her. Now, tap Orik.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Orik is proficient with weapons and heavy armor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Drag the panel up, then tap Orik's Shield Bash and Weapon Mastery powers to see what they do.
+Then, tap Ameiko to go back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Use your character powers often! Tap Close when you're ready.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Speaking of which, let's get to it! Close the character sheet when you are ready.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Let's find out more about Orik and Ameiko.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Farmhouse</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Be adventurous and bold! 
+
+Don't be afraid to discard, banish, and bury  cards to use their powers. Use your character powers whenever you can—especially when facing villains and henchmen or when closing locations. 
+
+Some scenarios reward conservative play, but this isn't one of them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Each character may play one of each card type on a single check. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>For this tutorial, we will start with Orik and Ameiko together at the Farmhouse. 
+
+Press the blue arrow to continue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>The villain has escaped! But, this location is closed. Next, you can move to other locations to close them and corner the villain!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Ameiko's Acrobatics will help her in the Warrens, so you should move her there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>You should move Orik to the Deeper Dungeons—his Fortitude skill will help him close that location.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Ameiko's Acrobatics will help her in the Warrens (at the top of the screen). 
+Tap a location to select it, then again to move there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>You should move Orik to the Deeper Dungeon where his superior Fortitude skill will help him close that location.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Lem may choose any favored card type.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Monsters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Barriers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Weapons</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Spells</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Armor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Items</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Allies</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Blessings</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Unknown cards</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>There are 8 different types of cards. Monsters and barriers are banes. 
+ Weapons, spells, armors, items, allies, and blessings are boons.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>You've added an ally to your hand!  Many allies and blessings can be discarded to explore a location again in the same turn. Discard your new ally Soldier to explore again!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>You have too many cards in your hand! Chose a card and drag it from your hand to the discard pile on the left. Those boots only give you a small bonus to a check so they are a good choice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Ameiko can use her songs to assist Orik! Tap her power—it will give Orik an extra die to roll. You will also want to recharge one of her ally cards.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>You found the villain again, but now you can cut off its escape and defeat and corner it! Tap Close This Location to try to temporarily close the other location.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>For a check, characters may use multiple cards and abilities to increase their chances of success. But you can use only one card of each type.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>When you encounter the villain, characters in other locations may temporarily close their locations. Characters must complete the closing requirements for their location, but this will prevent the villain from escaping there!
+
+Closing locations to defeat and corner the villain is how you win!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>To build your party, drag the characters down from the top of the screen to a position in the party, below. You may have from 1 to 6 characters in your party. You may also check the characters' skills, powers, and cards here. 
+
+You may toggle between new characters and more experienced characters with the buttons in the upper left.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Welcome to the world map!
+
+Each location on the map is a different Adventure Pack. You start off in the Perils of the Lost Coast, with the scenario Brigandoom! 
+
+Each scenario's information is shown on the left, including its villain and their henchmen, as well as the scenario's special rules and completion rewards!
+
+When you're ready, select Brigandoom! and continue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>After each scenario, you will return to this screen to select your next scenario.
+
+When you've completed a scenario, that unlocks the ability to do the same scenario at a higher difficulty for greater rewards. This adjusts the rules of the scenario, as well as adding randomly selected difficulty wild cards to the mix. If you complete Heroic Difficulty, that unlocks Legendary Difficulty for an even greater challenge and rewards!
+
+Your other option is to explore further on this Adventure Path—the next scenario is The Poison Pill. 
+
+The choice is yours!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>At the end of the scenario you may adjust your characters' decks to add or remove the new boons you acquired!
+
+You must still adhere to the number of each card type that each character is allowed in her deck; you cannot move to the next scenario until all the character decks are legal. Check for red numbers to see what card types you have to adjust. 
+
+At the top of the screen are the cards in that character's deck. You can drag cards to another character's portrait to give them away, or drag them down to get rid of them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>This bar is locked for the first portion of the tutorial. You will be able to tap these later to skip a phase of your turn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Orik's Shield Bash power can be used in combat: he recharges a shield to add 1d6.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Kyra may use her Heal power instead of her first exploration. She discards a card with the Divine trait to heal a character at her location (including herself) for 1d4 cards.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Ameiko's power Call in a Favor adds 1d10 to any check. She has to bury an ally card, but it's often worth the cost!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Quest Mode unlocked!  
+Congratulations! You've unlocked Quest Mode: You will build and advance new characters for your journy through quest mode, prepare for new challenges and new rewards!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>The Gallery displays all the cards available—not just your current party's decks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>The vault displays all cards available in your current scenario.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Quest Mode unlocked!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Congratulations! You've unlocked Quest Mode: endless adventures in which every scenario is generated for you from thousands of combinations of maps, villains and scenarios. 
+
+You will build and advance new characters for your journies through quest mode, to prepare for daily challenges as well as for special events and stories that will be released to test your skills and to provide new and unique rewards of all kinds!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Congratulations You've unlocked the Store
+
+As a rewaard we have granted you a Treasure Chest!
+
+Treasure Chests contain rare and exclusive cards,
+Click the Store now to redeem your chest!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Welcome to the Store! 
+
+Here you can purchase items to expand your adventures in the world of Pathfinder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>The number next to this icon shows you how many chests you have available.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Click here to redeem your chests!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Now click on each card to see what treasures you have uncovered!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Cards from chests are Uncommon, Rare, Epic, or Legendary.
+
+Collect them all! and defeat them in Story or Quest mode to aquire them!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>On Legendary difficulty, wildcard powers can be viewed in the effects panel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Merisiel’s Evade power allow you to avoid encountering a Bane for one turn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Summoned Banes that are evaded are destroyed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>When an Encountered Bane is Evaded it is shuffled into the location deck it came from.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>After, you may Discard a blessing or an Ally to Explore again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Kyra's Heal ability lets you recharge cards from your Discard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>You can only recharge up to what is in your Discard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>You can Discard a Blessing to Explore.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>This icon indicates the map is viewable. Click on it to view the scenario map</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>The blue arrows indicate your current locaiton. Click the map icon to return.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Quest Mode Unlocked!  Quest mode dynamically creates scenarios to create infinite adventures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Welcome to Quest mode!
+
+Quest mode dynamically creates senarios using locations, villains, and henchmen you encounter in story mode.
+Explore to gain new feats, loot, and continue your adventures in the world of Pathfinder!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Quest mode has 3 different difficulties: Normal, Hard and Legendary.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Hard and Legendary difficulties have Wild Cards. These add one (or two on Legendary) random Scenario power to increase the difficulty!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Use the Gold you aquire to purchase more adventures and Treasure Chests in the Store!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>While in Quest Mode, you will only be able to view cards you have aquired through Treasure Chests.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Congratulations!
+
+{0} is now availiable!</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,1647 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\scenariotable</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>314</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Tutorial</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Jubrayl Vhiski</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Bandits</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Brigandoom!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The Sczarni, notorious thieving wanderers, have long run con games around Sandpoint, but under the leadership of Jubrayl Vhiski, they have become much more ambitious - and dangerous. Someone needs to put an end to thier brigandry before more than coins and livestock are lost!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>If a monster's power causes you to recharge one or more cards, do so, then draw the same number of cards you recharged.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Each character receives a random item.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Jubrayl Vhiski</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Bandits</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The Poison Pill</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Local alchemist Aliver Pillbug Podiker sells all manner of herbs, but supposedly also drugs, venoms, and worse. His current interest, experimenting with lethally poisonous rat traps is getting dangerously out of hand. Disarm all his deadly traps before someone gets hurt!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Add 2 to your checks to acquire allies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Each character receives a random weapon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Pillbug Podiker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Poison Traps</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Black Fang's Dungeon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Something the local farmers have taken to calling Black Fang has been killing livestock around Sandpoint. Those who have tracked the beast to its lair found a cave connecting to mysterious ancient ruins. Delve into Black Fangs lair and end the evils there before they threaten Sandpoint!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>When any character encounters the henchman Ancient Skeleton, each other character at that location must summon and encounter the henchman Ancient Skeleton.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Each character chooses a type of boon, then receives a random card of that type.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Black Fang</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Ancient Skeletons</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Approach to Thistletop</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>The goblin raiders might have been defeated, but already they’re regrouping in their lair of sticks and brambles amid the ruins called Thistletop. Strike back against the goblins and find out what’s been stirring the disorderly maniacs to attack!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>The difficulty to defeat monsters that have the Goblin trait is increased by 1d4.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Each character receives a random weapon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Gogmurt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Tangletooth
+Bruthazmus
+Goblin Raiders</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Attack on Sandpoint</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Wielding torches and cackling war songs, goblin raiders dash through the streets of Sandpoint. Find the goblins’ ruthless gecko-mounted leader, Chief Ripnugget, and unmask their ally in Sandpoint before the miniature maniacs set the entire town ablaze!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>If you defeat a monster that has the Goblin trait, roll 1d6. On a 1, each character at your location is dealt 1 Fire damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Each character gains a skill feat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Ripnugget and Stickfoot</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Tsuto Kaijitsu
+Goblin Raiders</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Local Heroes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Everyone in town wants to thank the heroes of Sandpoint for saving them from the recent goblin raid, but you have a feeling that darker times are on the horizon. Explore the town, visit its most significant landmarks, and gather your allies—you’ll be needing them!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>If you acquire an ally, you may immediately attempt to close your location. If you fail the check to acquire an ally, discard the top card of the blessings deck. To win this scenario, close all locations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Each character receives a random ally.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>None</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>1 random ally per location</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Thistletop Delve</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Wearing a strange star medallion and raising prayers to the goddess Lamashtu, the vicious fanatic Nualia has been commanding her goblin servants from dungeons beneath Thistletop. Hunt down Nualia and her henchmen before they can unleash greater evils upon Sandpoint!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>The difficulty of checks to acquire items or weapons is increased by 2.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Loot: Sihedron Medallion</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Nualia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Lyrie Akenja
+Orik Vancaskerkin
+Goblin Raiders</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Trouble in Sandpoint</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>As cowardly as they are crafty, goblins still lurk in Sandpoint, stirring up trouble. They’ve even revealed strange ruins beneath the town’s streets. Ferret out the last of the goblins and destroy the evil things they’ve unleashed before someone gets hurt!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>After a character encounters a Wrathful Sinspawn henchman, roll 1d6. On a 1, discard the top card of the blessings deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Each character gains a power feat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Erylium</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Koruvus
+Wrathful Sinspawn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Angel in the Tower</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Xanesha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Scarecrow Golem
+Charmed Faceless Stalkers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>At the end of any turn, if the location Shadow Clock is open and no character is there, the top card of the Blessings deck is discarded.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Loot: Impaler of Thorns, Medusa Mask, Sihedron Medallion, Snakeskin Tunic</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>The Skinsaw Cult was under the control of someone even more sinister than Justice Ironbriar. Atop the tower called the Shadow Clock lurks the strange “angel” Xanesha. Hunt down her minions in the slums and climb the rickety tower to defeat Xanesha and claim her mysterious treasures!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Crow Bait</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Rogors Craesby</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Scarecrow Golem
+Ghoul Scarecrows</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>When you discard more than 1 card as damage from a combat check, bury 1 of those cards.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Each character receives a random armor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>The outskirts of Sandpoint have been overrun by the ravenous dead! Whether lurking amid fields or hiding in darkened cellars, hungry corpses wait to strike. Head into the night to find the horrors tormenting Sandpoint’s farmers and return them to their graves!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Foul Misgivings</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>The Skinsaw Man</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Haunts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>When you encounter a Haunt roll 1d6 and add the number of Haunts that have been encountered and set aside. If the result is 5 or more, summon and encounter the villain Iesha Foxglove.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Each character gains a skill feat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>The lands and sheer cliffs around Foxglove Manor have been revealed as the source of the undead plaguing Sandpoint. Brave those haunted grounds and reveal the identity of the murderous master commanding the walking dead—the sadistic Skinsaw Man!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>The Cult Exposed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Justice Ironbriar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Skinsaw Cultists</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>When you acquire a spell, bury a card.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Each character receives a random spell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Defeating the Skinsaw Man revealed his connection to an evil cult of Norgorber, god of murder, that has taken root in the nearby city of Magnimar. Follow the trail of these fanatics to the city and put an end to the dark congregation of Justice Ironbriar!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Undead Uprising</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Caizarlu Zerren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Pidget Tergelson
+Dr. Habe
+Grayst Sevilla
+Zombie Minions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>When you defeat the henchman Zombie Minion from a location deck, it is shuffled into a random open location deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Each character gains a power feat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>The dead are rising from their graves to terrorize the people of Sandpoint. Marks of their shuffling passage lead back to several ruins and the lonely sanatorium of Dr. Habe. Find out who’s behind this foul necromancy and put an end to this sinister plot!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Battle at the Dam</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Malugus Kreeg</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Kreeg Ogres</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>The Dam may not be temporarily closed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Here Comes the Flood</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Per Location: 1 Nightbelly Boa, 1 blessing, 1 ally</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>The villain Black Magga is not dealt into a location deck. Henchmen are dealt with random blessings and allies (3 cards each) among the location decks. At the start of each turn, 1d4 cards are removed from the bottom of a random location. Black Magga secretly scores 1 point for each ally removed.
+
+When you acquire an ally, you score 1 point. The ally is put aside until the scenario's end.
+
+When there are no cards in the blessings deck or all location decks are empty, the scenario ends. If you have equal or more points than Black Magga, you win the scenario.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>All the allies that were acquired and put aside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Into the Mountains</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Barl Breakbones</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Lamatar Bayden
+Lunderbud
+Hook Mountain Hags</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>When the third henchman is defeated, each character is dealt 1d6 Force damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Loot: Headband of Vast Intelligence, Sihedron Medallion, Wand of Enervation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>The Fort in Peril</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Jaagrath Kreeg</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Lucrecia
+Dorella and Hookmaw Kreeg
+Kaven Windstrike
+Kreeg Ogres</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>The difficulty of checks to acquire allies is decreased by 3.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Each character gains a card feat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Them Ogres Ain’t Right</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Mammy Graul</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Ruckus Graul and Hound
+Crowfood Graul
+Graul Ogrekin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>The difficulty to defeat Mammy Graul is increased by 1 for each Henchman that has been defeated.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Sandpoint Under Siege</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Teraktinus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Longtooth
+Jorgenfist Stone Giants</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Start the blessings deck with 25 cards.
+
+At the start of each turn, randomly choose an open location and reveal the top card. If it’s a boon, banish it; if it’s a bane, shuffle it back in the location deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Jorgenfist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Galenmir</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Longtooth
+Cinderma
+Jorgenfist Stone Giants</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>When you would defeat a monster that has the Giant trait, roll 1d6. On a 1, the monster is undefeated.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>The Black Tower</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>The Black Monk</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Harpy Monks</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Deal an extra spell into each location deck at the start of the scenario.
+
+The difficulty to defeat monsters that have the Harpy trait is increased by 2.
+
+After you acquire a spell, bury a card from your hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Loot: Emerald Codex</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Under Jorgenfist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Seleval, Zaelsar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Enga Keckvia
+Lokansir
+Tyrant Trolls</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>You must defeat both villains to win this scenario. 
+After you defeat the first villain, it is put aside without escaping. When the second villain is defeated and would not escape, she is banished, then choose a character at that location to immediately encounter the first villain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>The Ancient Library</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Mokmurian</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Headless Lord
+Forgefiend
+Hill Giant Runeslaves</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>All Hill Giant Runeslave henchmen gain the Undead and Zombie traits and are immune to the Mental and Poison traits.
+
+If you defeat a henchman but do not close its location, shuffle the henchman back into its location deck, then end your turn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Loot: Mokmurian’s Club, Robe of Runes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Underneath Sandpoint</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>The Scribbler</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Hounds of Lamashtu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>When you permanently close a location, you must succeed at a Wisdom or Divine 8 check or end your turn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Loot: Fanged Falchion, Revelation Quill</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Rimeskull</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Arkrhyst</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Stone Heads</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>The villain Arkrhyst is placed alone in the Sihedron Circle location, surrounded by 7 Stone Head locations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Each character chooses a type of boon, then receives a random non-basic, non-elite card of that type.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>The Halls of Seduction</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Mistress Delvahine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Alu-Demon Sisters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>If you acquire an ally, reset your hand and end your turn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Thassilonian Sins</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Azaven, Ordikon, Jordimandus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Xyoddin Xerriock
+Simulacra of Vraxeris</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>You must defeat all three villains to win this scenario. After you defeat a villain that cannot escape, any characters at that villain’s location may immediately move.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Loot: Staff of Hungry Shadows, Summon Monster, Ordikon’s Staff</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Into the Runeforge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Karzoug Statue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Highlady Athroxis
+Warriors of Wrath</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>The villain Karzoug Statue starts in the location Runeforge Hub, with henchmen in the other locations as usual. If you defeat a henchman but do not close the location, shuffle that henchman back into the location deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Loot: Runeforged Weapons</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Cabin in the Snow</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Wendigo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Karivek Vekker
+Silas Vekker
+Cannibal Haunts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>After you encounter a Haunt, your character gains 1 Haunting until the end of the scenario. 
+
+When the Wendigo is encountered, anyone may banish any number of Hauntings they have. Until the end of the turn, the difficulty of any check to defeat the Wendigo is decreased by 2 for each banished Haunting.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>The Road through Xin-Shalast</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Ghlorofaex</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Wardens of Runes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>The villain Ghlorofaex is not shuffled into a location deck. When you attempt to close a location, Ghlorofaex uses his power.
+
+When you encounter a henchman, if the number of henchmen that have been defeated is equal to the number of players, banish that henchman, add Ghlorofaex to the location, and encounter him.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Scaling Mhar Massif</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Leng Spiders</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Closing a Death Zone increases the difficulty of checks to close all other Death Zones by 2.
+
+To win the scenario, close all of the Death Zones.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Assault on the Pinnacle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Most High Ceoptra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Khalib
+Viorian Dekanti
+Wardens of Runes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>When you defeat a bane, pick a type of boon other than loot to add a random card of that type to Khalib's loot pile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Loot: Chellan, Sword of Greed, and all cards in Khalib's loot pile</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Into the Eye</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Karzoug the Claimer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Enslaved Blue Dragon
+Wardens of Runes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>No blessings deck is used. Shuffle Karzoug and 1 henchman per character into the Runewell deck. Defeating a henchman or villain does not close the Runewell unless the deck is empty. Karzoug may not be defeated unless the deck is empty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Loot: Robes of Xin-Shalast, Karzoug’s Burning Glaive, Sihedron Tome</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Add 2 to your checks to defeat banes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Prologue to Peril</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>If a monster's power causes you to recharge a card, draw a card after doing so. When you acquire an ally, discard a card.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>The difficulty to defeat barriers is increased by 3. There is no longer a bonus to checks to acquire allies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>When you encounter a monster with the Undead trait, each character at your location must summon and encounter an Ancient Skeleton henchman.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>The difficulty to defeat monsters with the Goblin trait is increased by 2d4.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>If you defeat a monster that has the Goblin trait, each character at your location is dealt 1 Fire damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>If you acquire an ally, you may immediately attempt to close your location. If you fail the check to acquire an ally, discard the top 3 cards of the blessings deck. To win this scenario, close all locations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>The difficulty to acquire boons is increased by 3.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>After a character encounters a Wrathful Sinspawn henchman, roll 1d6. On a 1,2, or 3 discard the top card of the blessings deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>If the Shadow Clock location is open and no character is there at the end of the turn, the top 3 cards of the Blessings deck are discarded.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>If you discard cards as damage from a combat check, bury 1 of those cards.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>After you encounter a Haunt, summon and encounter the villain Iesha Foxglove. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>If you acquire a spell or blessing, bury a card.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>The difficulty to defeat Zombie Minion henchman is increased by the number of Zombie Minions that have been defeated.
+
+When you encounter a monster with the Undead trait, each character at your location must summon and encounter a Zombie Minion henchman.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>The Dam may not be temporarily closed. All characters start at The Dam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>The villain Black Magga is not dealt into a location deck. Henchmen are dealt with random blessings and allies among location decks. 
+
+At the start of each turn, 1d6 cards are removed from the bottom of a random location. Black Magga secretly scores 1 point for each ally removed. When you acquire an ally, you score 1 point. The ally is put aside until the scenario's end. 
+
+When there are no cards in the Blessings Deck or all locations are empty, the scenario ends. If you have equal or more points than Black Magga, you win the scenario.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>When a henchman is defeated, each character is dealt 1d4 Force damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>The difficutly to defeat monsters is increased by 3.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>The difficulty to defeat Mammy Graul is increased by 2 for each henchman that has been defeated.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>The difficulty of all checks is increased by 2.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>The blessings deck includes 5 fewer cards.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>The difficulty of checks to acquire boons is increased by 4.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>The difficulty of checks to defeat banes is increased by 4.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>When you acquire a spell, an item, or a blessing, bury a card.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>When you acquire a weapon, an armor, or an ally, bury a card.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>When you defeat a monster, roll 1d6. On a 1, you are dealt 1 Fire damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>When you defeat a barrier, roll 1d4. On a 1, you are dealt 2 Ranged Combat damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>When you discard more than 1 card as damage from a combat check, bury 1 of those cards.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>When you fail to acquire a boon, discard the top card of the blessings deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Two Zombies are shuffled into each location.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Driving Rain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Thick Fog</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Impending Doom</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>An Ill Wind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>Darkest Night</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>Mind Shrink</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>Ooooh Yeaaaaaah</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>Dragon Rage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>Zombie Hordes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>Shattered Pathways</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>Black Energies</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>Flickering Torchlight</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>Narrow Corridors</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Censure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>Isolation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Painful Memories</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>Full Packs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Retaliation</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Arrow Traps</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>Blood in the Sand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>Night Approaches</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>Curse of the Gods</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>New Moon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>Unanswered Prayers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>Darkness Spreads</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>Open Wounds</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>Terror Reigns</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>Chaos Borealis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>Players at other locations must discard a card to assist with a check.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>Player hand sizes are reduced by 1.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>When you encounter a barrier, replace that barrier with the Blacksmith's Son</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>Two additional Zombie monsters are shuffled into each location.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>One additional monster with the Dragon trait is shuffled into each location deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>Players must discard a card to move.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>Players must discard a card to close a location (temporarily or permanently).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Players may not explore more than twice per turn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>Players must discard a card to evade a bane (in addition to any other costs).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>Players must succeed with a Wisdom/Divine 6 check to discard a Blessing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>Characters alone at a location have +5 difficulty to all checks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>When a blessing with the Basic trait is discarded, all characters suffer 1 fire damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>Subtract 1 from all dice rolled.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>You cannot play blessings with the basic trait on any checks</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>When creating the location decks, add 2 monsters to each location.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>When you take damage, you must banish 1 card.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>Allies that are discarded are banished.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>Movement Restricted</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>You may move only to an adjacent location.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>Thorns</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>If you acquire a boon, take 1 combat damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>The difficulty of all checks is increased by 1.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>The difficulty of checks to acquire boons is increased by 2.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>The difficulty of checks to defeat banes is increased by 2.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>The difficulty of checks to acquire boons is increased by 3.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>The difficulty of checks to defeat banes is increased by 3.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>If you would defeat a monster that has the Giant trait, roll 1d6. On a 1, the monster is undefeated. 
+
+Each location has 2 additional monsters with the Giant trait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>Deal an extra spell into each location deck at the start of the scenario.
+
+The difficulty to defeat monsters that have the Harpy trait is increased by 4.
+
+After you acquire a boon, bury a card from your hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>You must defeat both villains to win this scenario. 
+After you defeat the first villain, it is put aside without escaping. When the second villain is defeated and would not escape, she is banished, then choose a character at that location to immediately encounter the first villain.
+When you defeat a henchman or villain, bury a card.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>When any character encounters a henchman, each character at that location must summon and encounter an Ancient Skeleton henchman.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>When any character encounters a henchman, all characters must summon and encounter an Ancient Skeleton henchman.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>When any character encounters a henchman, each character at that location must summon and encounter an Ancient Skeleton henchman.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>After a character encounters a  henchman, roll 1d6. On a 1 discard the top card of the blessings deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>After you encounter a henchman, roll 1d6 and add the number of henchmen that have been defeated. If the result is 5 or more, the villain Iesha Foxglove is summoned and encountered.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>All henchmen have the Undead trait. When you defeat a henchman from a location deck, it is shuffled into a random open location deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>The difficulty to defeat the villain is increased by 1 for each henchman that has been defeated</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>All henchmen gain the Undead  trait and are immune to the Mental and Poison traits.
+
+If you defeat a henchman but do not close the location, shuffle the henchman back into the location deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>When any character encounters a henchman, all characters must summon and encounter an Ancient Skeleton henchman.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>After a character encounters a  henchman, roll 1d6. On a 1,2, or 3 discard the top card of the blessings deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>After you encounter a Haunt, summon and encounter the villain Iesha Foxglove.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>The difficulty to defeat henchmen is increased by the number of henchmen that have been defeated.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>The difficulty to defeat the villain is increased by 2 for each Henchman that has been defeated</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>All monsters gain the Undead trait and are immune to the Mental and Poison traits.
+
+If you defeat a henchman but do not close the location, shuffle the henchman back into the location deck. Poison traits.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>A strange black tower of ancient and mysterious design rises from the heart of Jorgenfist. Within its ancient walls lie the remnants of a strange magical empire. Drive off the harpies roosting in the tower and claim the timeless Emerald Codex from its undying keeper!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>More dark secrets lie beneath the stones of Jorgenfist. Among them are remnants of a strange fallen civilization called Thassilon. Defeat the life-twisting mistresses of these dungeons, the lamias Seleval and Zaelsar, to learn more of Thassilon’s secrets!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>Sandpoint is safe for now, but the stone giant threat hasn’t ended. Pursuing the massive marauders back to their fortress of Jorgenfist reveals nearly endless armies of giant soldiers. Sneak into the fort and strike down the stone giant general, Galenmir, to put an end to the threat!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>A vast Thassilonian library has lain hidden beneath Jorgenfist for ages. The stone giant Mokmurian has used its ancient magic to turn his people down the path of evil. Face the necromantic magic of this giant warlord and put an end to his foul plots!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>Scenario Power</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>If you defeat a monster that has the Undead trait, roll 1d6. On a 1, each character at your location is dealt 1 Poison damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>If you defeat a monster that has the Undead trait, each character at your location is dealt 1 Poison damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>If you defeat a monster that has the Giant trait, roll 1d6. On a 1, each character at your location is dealt 1 Melee damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>If you defeat a monster that has the Giant trait, each character at your location is dealt 1 Melee damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>The difficulty to defeat monsters that have the Undead trait is increased by 1d4.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>The difficulty to defeat monsters with the Undead trait is increased by 2d4.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>The difficulty to defeat monsters that have the Giant trait is increased by 1d4.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>The difficulty to defeat monsters with the Giant trait is increased by 2d4.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>When any character encounters a henchman, each character at that location must summon and encounter a Goblin Raider henchman.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>When any character encounters a henchman, all characters must summon and encounter a Goblin Raider henchman.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>When any character encounters a henchman, each character at that location must summon and encounter a Zombie Minion henchman.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>When any character encounters a henchman, all characters must summon and encounter a Zombie Minion henchman.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>When any character encounters a henchman, each character at that location must summon and encounter a Nightbelly Boa henchmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>When any character encounters a henchman, all characters must summon and encounter a Nightbelly Boa henchman.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>Giant Hordes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>Goblin Hordes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>Two Ogrekins are shuffled into each location.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>Two Goblin Warriors are shuffled into each location</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>Snake Pits</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>Shuffle 2 Nightbelly Boa Henchmen into each location</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>If you would defeat a monster that has the Goblin trait, roll 1d6. On a 1, the monster is undefeated.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>If you would defeat a monster that has the Goblin trait, roll 1d6. On a 1, the monster is undefeated. Each location has 2 additional Goblins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>If you would defeat a monster that has the Undead trait, roll 1d6. On a 1, the monster is undefeated.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>If you would defeat a monster that has the Undead trait, roll 1d6. On a 1, the monster is undefeated. Each location has 2 additional Undead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>If you would defeat a monster that has the Aberration trait, roll 1d6. On a 1, the monster is undefeated.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>If you would defeat a monster that has the Aberration trait, roll 1d6. On a 1, the monster is undefeated. Each location has 2 additional Aberrations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>If you would defeat a monster that has the Hag trait, roll 1d6. On a 1, the monster is undefeated.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>If you would defeat a monster that has the Hag trait, roll 1d6. On a 1, the monster is undefeated. Each location has 2 additional Hags.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>When the third henchman is defeated, each character is dealt 1d6 Fire damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>When a henchman is defeated, each character is dealt 1d4 Fire damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>When the third henchman is defeated, each character is dealt 1d6 Poison damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>When a henchman is defeated, each character is dealt 1d4 Poison damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>When the third henchman is defeated, each character is dealt 1d6 Cold damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>When a henchman is defeated, each character is dealt 1d4 Cold damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

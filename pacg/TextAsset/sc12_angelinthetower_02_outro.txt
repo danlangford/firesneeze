@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\sc12_angelinthetower_02_outro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>It appears that I've uncovered a conspiracy of evil pen pals. There's another letter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Do all villains hold the paper of other villains? Here is another.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Xanesha has a letter from her sister.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Ah, the fortuities of discovering the written word. Xanesha kept an interesting letter from her sister.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Seems she's also holding letters like that Foxglove boy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>You can't get rid of one of these villains without some note from a bigger one.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Looks like Xanesha left a convenient letter from her sister behind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Another creature called Xanesha her sister. This letter may hold the key to the dark plot behind her trail of death.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Looks like we've found an evil network of letter-writers. Here's one from Xanesha's sister.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Xanesha was fond of keeping her correspondences. It appears she had a like-minded sister.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>This conspiracy has left a trail of letters. Here is one from Xanesha's sister.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>&lt;i&gt;My sister, I trust your little band of murderers is doing well, gathering the greedy souls for our Lord’s rise? Has Magnimar proven to be as sinful as you had hoped?&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>&lt;i&gt;Are you still simply carving the Sihedron on them as they expire? How crude! My method of marking is so much more elegant.&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>&lt;i&gt;In any event, I’m sure that your plans for harvesting greed where and when you can find it “in the wild” are progressing well enough. I just hope that your raw, ungroomed, and likely inferior victims don’t interact poorly when mixed with the purity of my own subjects.&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>&lt;i&gt;If you tire of your little project there, know that you’re always welcome to come to Turtleback Ferry and serve as my assistant, little sister! Fort Rannick should be in our control by the time you receive this letter, in any event, so there’ll be plenty of room for you if you wish to take me up on my generous offer.&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>I didn't think it possible, but it looks like Xanesha was the nice one.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Turtleback? That's between Sanos Forest and the Ashwood. It looks like I have more sticks to collect.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Until I see this threat through, my duty is unfulfilled. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Turtleback Ferry has its own Xanesha, but with what appears to be a great deal more subtlety.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The rugged lands 'round Turtleback Ferry'll be a welcome change.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>I knew a couple of the rangers from Fort Rannick. I'll need to see if anything's happened.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Lamias are harvesting greedy souls for a lord of some kind. I guess Turtleback is the next stop.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The Dawnflower's will now shepherds me to find and rescue the people of Turtleback Ferry and Fort Rannick.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Harvesting greed? There's a crop that'll never experience drought. To Turtleback Ferry then.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>A more elegant Sihedron rune. Fascinating.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Xanesha's cohort has taken a fortress. This cannot be allowed.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

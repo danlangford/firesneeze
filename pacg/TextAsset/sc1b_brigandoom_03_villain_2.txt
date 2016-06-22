@@ -1,0 +1,1057 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConversationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NextNodeID>20</NextNodeID>
+  <Nodes>
+    <FlowChartNode xsi:type="TalkNode">
+      <NodeID>0</NodeID>
+      <Comments />
+      <PackageID>1</PackageID>
+      <ContainerNodeID>-1</ContainerNodeID>
+      <Links>
+        <FlowChartLink xsi:type="DialogueLink">
+          <FromNodeID>0</FromNodeID>
+          <ToNodeID>1</ToNodeID>
+          <PointsToGhost>false</PointsToGhost>
+          <ClassExtender>
+            <ExtendedProperties />
+          </ClassExtender>
+          <RandomWeight>1</RandomWeight>
+          <PlayQuestionNodeVO>true</PlayQuestionNodeVO>
+          <QuestionNodeTextDisplay>ShowOnce</QuestionNodeTextDisplay>
+        </FlowChartLink>
+      </Links>
+      <ClassExtender>
+        <ExtendedProperties />
+      </ClassExtender>
+      <Conditionals>
+        <Operator>And</Operator>
+        <Components />
+      </Conditionals>
+      <OnEnterScripts />
+      <OnExitScripts />
+      <OnUpdateScripts />
+      <NotSkippable>false</NotSkippable>
+      <IsQuestionNode>false</IsQuestionNode>
+      <HideSpeaker>false</HideSpeaker>
+      <IsTempText>false</IsTempText>
+      <IsMultiline>false</IsMultiline>
+      <PlayVOAs3DSound>false</PlayVOAs3DSound>
+      <PlayType>Normal</PlayType>
+      <Persistence>None</Persistence>
+      <NoPlayRandomWeight>0</NoPlayRandomWeight>
+      <DisplayType>Conversation</DisplayType>
+      <VOFilename />
+      <VoiceType />
+      <ExcludedSpeakerClasses />
+      <ExcludedListenerClasses />
+      <IncludedSpeakerClasses />
+      <IncludedListenerClasses />
+      <ActorDirection />
+      <SpeakerGuid>00000000-0000-0000-0000-000000000000</SpeakerGuid>
+      <ListenerGuid>b1a8e901-0000-0000-0000-000000000000</ListenerGuid>
+    </FlowChartNode>
+    <FlowChartNode xsi:type="TalkNode">
+      <NodeID>1</NodeID>
+      <Comments />
+      <PackageID>1</PackageID>
+      <ContainerNodeID>-1</ContainerNodeID>
+      <Links>
+        <FlowChartLink xsi:type="DialogueLink">
+          <FromNodeID>1</FromNodeID>
+          <ToNodeID>16</ToNodeID>
+          <PointsToGhost>false</PointsToGhost>
+          <ClassExtender>
+            <ExtendedProperties />
+          </ClassExtender>
+          <RandomWeight>1</RandomWeight>
+          <PlayQuestionNodeVO>true</PlayQuestionNodeVO>
+          <QuestionNodeTextDisplay>ShowOnce</QuestionNodeTextDisplay>
+        </FlowChartLink>
+        <FlowChartLink xsi:type="DialogueLink">
+          <FromNodeID>1</FromNodeID>
+          <ToNodeID>11</ToNodeID>
+          <PointsToGhost>false</PointsToGhost>
+          <ClassExtender>
+            <ExtendedProperties />
+          </ClassExtender>
+          <RandomWeight>1</RandomWeight>
+          <PlayQuestionNodeVO>true</PlayQuestionNodeVO>
+          <QuestionNodeTextDisplay>ShowOnce</QuestionNodeTextDisplay>
+        </FlowChartLink>
+      </Links>
+      <ClassExtender>
+        <ExtendedProperties />
+      </ClassExtender>
+      <Conditionals>
+        <Operator>And</Operator>
+        <Components />
+      </Conditionals>
+      <OnEnterScripts />
+      <OnExitScripts />
+      <OnUpdateScripts />
+      <NotSkippable>false</NotSkippable>
+      <IsQuestionNode>false</IsQuestionNode>
+      <HideSpeaker>false</HideSpeaker>
+      <IsTempText>false</IsTempText>
+      <IsMultiline>false</IsMultiline>
+      <PlayVOAs3DSound>false</PlayVOAs3DSound>
+      <PlayType>Normal</PlayType>
+      <Persistence>None</Persistence>
+      <NoPlayRandomWeight>0</NoPlayRandomWeight>
+      <DisplayType>Conversation</DisplayType>
+      <VOFilename />
+      <VoiceType />
+      <ExcludedSpeakerClasses />
+      <ExcludedListenerClasses />
+      <IncludedSpeakerClasses />
+      <IncludedListenerClasses />
+      <ActorDirection />
+      <SpeakerGuid>b1c865ff-6f3c-4343-ba9b-277282bea209</SpeakerGuid>
+      <ListenerGuid>b1a8e901-0000-0000-0000-000000000000</ListenerGuid>
+    </FlowChartNode>
+    <FlowChartNode xsi:type="TalkNode">
+      <NodeID>4</NodeID>
+      <Comments />
+      <PackageID>1</PackageID>
+      <ContainerNodeID>-1</ContainerNodeID>
+      <Links />
+      <ClassExtender>
+        <ExtendedProperties />
+      </ClassExtender>
+      <Conditionals>
+        <Operator>And</Operator>
+        <Components>
+          <ExpressionComponent xsi:type="ConditionalCall">
+            <Data>
+              <FullName>Boolean CharacterTurn(String)</FullName>
+              <Parameters>
+                <string>ID</string>
+              </Parameters>
+            </Data>
+            <Not>false</Not>
+            <Operator>And</Operator>
+          </ExpressionComponent>
+        </Components>
+      </Conditionals>
+      <OnEnterScripts>
+        <ScriptCall>
+          <Data>
+            <FullName>Boolean ActorMoodConcerned(String)</FullName>
+            <Parameters>
+              <string>Ezren</string>
+            </Parameters>
+          </Data>
+        </ScriptCall>
+      </OnEnterScripts>
+      <OnExitScripts />
+      <OnUpdateScripts />
+      <NotSkippable>false</NotSkippable>
+      <IsQuestionNode>false</IsQuestionNode>
+      <HideSpeaker>false</HideSpeaker>
+      <IsTempText>false</IsTempText>
+      <IsMultiline>false</IsMultiline>
+      <PlayVOAs3DSound>false</PlayVOAs3DSound>
+      <PlayType>Normal</PlayType>
+      <Persistence>None</Persistence>
+      <NoPlayRandomWeight>0</NoPlayRandomWeight>
+      <DisplayType>Conversation</DisplayType>
+      <VOFilename />
+      <VoiceType />
+      <ExcludedSpeakerClasses />
+      <ExcludedListenerClasses />
+      <IncludedSpeakerClasses />
+      <IncludedListenerClasses />
+      <ActorDirection />
+      <SpeakerGuid>b1c865ff-6f3c-4343-ba9b-277282bea230</SpeakerGuid>
+      <ListenerGuid>b1a8e901-0000-0000-0000-000000000000</ListenerGuid>
+    </FlowChartNode>
+    <FlowChartNode xsi:type="TalkNode">
+      <NodeID>5</NodeID>
+      <Comments />
+      <PackageID>1</PackageID>
+      <ContainerNodeID>-1</ContainerNodeID>
+      <Links />
+      <ClassExtender>
+        <ExtendedProperties />
+      </ClassExtender>
+      <Conditionals>
+        <Operator>And</Operator>
+        <Components>
+          <ExpressionComponent xsi:type="ConditionalCall">
+            <Data>
+              <FullName>Boolean CharacterTurn(String)</FullName>
+              <Parameters>
+                <string>ID</string>
+              </Parameters>
+            </Data>
+            <Not>false</Not>
+            <Operator>And</Operator>
+          </ExpressionComponent>
+        </Components>
+      </Conditionals>
+      <OnEnterScripts>
+        <ScriptCall>
+          <Data>
+            <FullName>Boolean ActorMoodConcerned(String)</FullName>
+            <Parameters>
+              <string>Kyra</string>
+            </Parameters>
+          </Data>
+        </ScriptCall>
+      </OnEnterScripts>
+      <OnExitScripts />
+      <OnUpdateScripts />
+      <NotSkippable>false</NotSkippable>
+      <IsQuestionNode>false</IsQuestionNode>
+      <HideSpeaker>false</HideSpeaker>
+      <IsTempText>false</IsTempText>
+      <IsMultiline>false</IsMultiline>
+      <PlayVOAs3DSound>false</PlayVOAs3DSound>
+      <PlayType>Normal</PlayType>
+      <Persistence>None</Persistence>
+      <NoPlayRandomWeight>0</NoPlayRandomWeight>
+      <DisplayType>Conversation</DisplayType>
+      <VOFilename />
+      <VoiceType />
+      <ExcludedSpeakerClasses />
+      <ExcludedListenerClasses />
+      <IncludedSpeakerClasses />
+      <IncludedListenerClasses />
+      <ActorDirection />
+      <SpeakerGuid>b1c865ff-6f3c-4343-ba9b-277282bea210</SpeakerGuid>
+      <ListenerGuid>b1a8e901-0000-0000-0000-000000000000</ListenerGuid>
+    </FlowChartNode>
+    <FlowChartNode xsi:type="TalkNode">
+      <NodeID>6</NodeID>
+      <Comments />
+      <PackageID>1</PackageID>
+      <ContainerNodeID>-1</ContainerNodeID>
+      <Links />
+      <ClassExtender>
+        <ExtendedProperties />
+      </ClassExtender>
+      <Conditionals>
+        <Operator>And</Operator>
+        <Components>
+          <ExpressionComponent xsi:type="ConditionalCall">
+            <Data>
+              <FullName>Boolean CharacterTurn(String)</FullName>
+              <Parameters>
+                <string>ID</string>
+              </Parameters>
+            </Data>
+            <Not>false</Not>
+            <Operator>And</Operator>
+          </ExpressionComponent>
+        </Components>
+      </Conditionals>
+      <OnEnterScripts>
+        <ScriptCall>
+          <Data>
+            <FullName>Boolean ActorMoodConcerned(String)</FullName>
+            <Parameters>
+              <string>Lem</string>
+            </Parameters>
+          </Data>
+        </ScriptCall>
+      </OnEnterScripts>
+      <OnExitScripts />
+      <OnUpdateScripts />
+      <NotSkippable>false</NotSkippable>
+      <IsQuestionNode>false</IsQuestionNode>
+      <HideSpeaker>false</HideSpeaker>
+      <IsTempText>false</IsTempText>
+      <IsMultiline>true</IsMultiline>
+      <PlayVOAs3DSound>false</PlayVOAs3DSound>
+      <PlayType>Normal</PlayType>
+      <Persistence>None</Persistence>
+      <NoPlayRandomWeight>0</NoPlayRandomWeight>
+      <DisplayType>Conversation</DisplayType>
+      <VOFilename />
+      <VoiceType />
+      <ExcludedSpeakerClasses />
+      <ExcludedListenerClasses />
+      <IncludedSpeakerClasses />
+      <IncludedListenerClasses />
+      <ActorDirection />
+      <SpeakerGuid>b1c865ff-6f3c-4343-ba9b-277282bea211</SpeakerGuid>
+      <ListenerGuid>b1a8e901-0000-0000-0000-000000000000</ListenerGuid>
+    </FlowChartNode>
+    <FlowChartNode xsi:type="TalkNode">
+      <NodeID>7</NodeID>
+      <Comments />
+      <PackageID>1</PackageID>
+      <ContainerNodeID>-1</ContainerNodeID>
+      <Links />
+      <ClassExtender>
+        <ExtendedProperties />
+      </ClassExtender>
+      <Conditionals>
+        <Operator>And</Operator>
+        <Components>
+          <ExpressionComponent xsi:type="ConditionalCall">
+            <Data>
+              <FullName>Boolean CharacterTurn(String)</FullName>
+              <Parameters>
+                <string>ID</string>
+              </Parameters>
+            </Data>
+            <Not>false</Not>
+            <Operator>And</Operator>
+          </ExpressionComponent>
+        </Components>
+      </Conditionals>
+      <OnEnterScripts>
+        <ScriptCall>
+          <Data>
+            <FullName>Boolean ActorMoodConcerned(String)</FullName>
+            <Parameters>
+              <string>Harsk</string>
+            </Parameters>
+          </Data>
+        </ScriptCall>
+      </OnEnterScripts>
+      <OnExitScripts />
+      <OnUpdateScripts />
+      <NotSkippable>false</NotSkippable>
+      <IsQuestionNode>false</IsQuestionNode>
+      <HideSpeaker>false</HideSpeaker>
+      <IsTempText>false</IsTempText>
+      <IsMultiline>false</IsMultiline>
+      <PlayVOAs3DSound>false</PlayVOAs3DSound>
+      <PlayType>Normal</PlayType>
+      <Persistence>None</Persistence>
+      <NoPlayRandomWeight>0</NoPlayRandomWeight>
+      <DisplayType>Conversation</DisplayType>
+      <VOFilename />
+      <VoiceType />
+      <ExcludedSpeakerClasses />
+      <ExcludedListenerClasses />
+      <IncludedSpeakerClasses />
+      <IncludedListenerClasses />
+      <ActorDirection />
+      <SpeakerGuid>b1c865ff-6f3c-4343-ba9b-277282bea231</SpeakerGuid>
+      <ListenerGuid>b1a8e901-0000-0000-0000-000000000000</ListenerGuid>
+    </FlowChartNode>
+    <FlowChartNode xsi:type="TalkNode">
+      <NodeID>8</NodeID>
+      <Comments />
+      <PackageID>1</PackageID>
+      <ContainerNodeID>-1</ContainerNodeID>
+      <Links />
+      <ClassExtender>
+        <ExtendedProperties />
+      </ClassExtender>
+      <Conditionals>
+        <Operator>And</Operator>
+        <Components>
+          <ExpressionComponent xsi:type="ConditionalCall">
+            <Data>
+              <FullName>Boolean CharacterTurn(String)</FullName>
+              <Parameters>
+                <string>ID</string>
+              </Parameters>
+            </Data>
+            <Not>false</Not>
+            <Operator>And</Operator>
+          </ExpressionComponent>
+        </Components>
+      </Conditionals>
+      <OnEnterScripts>
+        <ScriptCall>
+          <Data>
+            <FullName>Boolean ActorMoodConcerned(String)</FullName>
+            <Parameters>
+              <string>Merisiel</string>
+            </Parameters>
+          </Data>
+        </ScriptCall>
+      </OnEnterScripts>
+      <OnExitScripts />
+      <OnUpdateScripts />
+      <NotSkippable>false</NotSkippable>
+      <IsQuestionNode>false</IsQuestionNode>
+      <HideSpeaker>false</HideSpeaker>
+      <IsTempText>false</IsTempText>
+      <IsMultiline>false</IsMultiline>
+      <PlayVOAs3DSound>false</PlayVOAs3DSound>
+      <PlayType>Normal</PlayType>
+      <Persistence>None</Persistence>
+      <NoPlayRandomWeight>0</NoPlayRandomWeight>
+      <DisplayType>Conversation</DisplayType>
+      <VOFilename />
+      <VoiceType />
+      <ExcludedSpeakerClasses />
+      <ExcludedListenerClasses />
+      <IncludedSpeakerClasses />
+      <IncludedListenerClasses />
+      <ActorDirection />
+      <SpeakerGuid>b1c865ff-6f3c-4343-ba9b-277282bea208</SpeakerGuid>
+      <ListenerGuid>b1a8e901-0000-0000-0000-000000000000</ListenerGuid>
+    </FlowChartNode>
+    <FlowChartNode xsi:type="TalkNode">
+      <NodeID>9</NodeID>
+      <Comments />
+      <PackageID>1</PackageID>
+      <ContainerNodeID>-1</ContainerNodeID>
+      <Links />
+      <ClassExtender>
+        <ExtendedProperties />
+      </ClassExtender>
+      <Conditionals>
+        <Operator>And</Operator>
+        <Components>
+          <ExpressionComponent xsi:type="ConditionalCall">
+            <Data>
+              <FullName>Boolean CharacterTurn(String)</FullName>
+              <Parameters>
+                <string>ID</string>
+              </Parameters>
+            </Data>
+            <Not>false</Not>
+            <Operator>And</Operator>
+          </ExpressionComponent>
+        </Components>
+      </Conditionals>
+      <OnEnterScripts>
+        <ScriptCall>
+          <Data>
+            <FullName>Boolean ActorMoodConcerned(String)</FullName>
+            <Parameters>
+              <string>Seoni</string>
+            </Parameters>
+          </Data>
+        </ScriptCall>
+      </OnEnterScripts>
+      <OnExitScripts />
+      <OnUpdateScripts />
+      <NotSkippable>false</NotSkippable>
+      <IsQuestionNode>false</IsQuestionNode>
+      <HideSpeaker>false</HideSpeaker>
+      <IsTempText>false</IsTempText>
+      <IsMultiline>false</IsMultiline>
+      <PlayVOAs3DSound>false</PlayVOAs3DSound>
+      <PlayType>Normal</PlayType>
+      <Persistence>None</Persistence>
+      <NoPlayRandomWeight>0</NoPlayRandomWeight>
+      <DisplayType>Conversation</DisplayType>
+      <VOFilename />
+      <VoiceType />
+      <ExcludedSpeakerClasses />
+      <ExcludedListenerClasses />
+      <IncludedSpeakerClasses />
+      <IncludedListenerClasses />
+      <ActorDirection />
+      <SpeakerGuid>b1c865ff-6f3c-4343-ba9b-277282bea206</SpeakerGuid>
+      <ListenerGuid>b1a8e901-0000-0000-0000-000000000000</ListenerGuid>
+    </FlowChartNode>
+    <FlowChartNode xsi:type="TalkNode">
+      <NodeID>10</NodeID>
+      <Comments />
+      <PackageID>1</PackageID>
+      <ContainerNodeID>-1</ContainerNodeID>
+      <Links />
+      <ClassExtender>
+        <ExtendedProperties />
+      </ClassExtender>
+      <Conditionals>
+        <Operator>And</Operator>
+        <Components>
+          <ExpressionComponent xsi:type="ConditionalCall">
+            <Data>
+              <FullName>Boolean CharacterTurn(String)</FullName>
+              <Parameters>
+                <string>ID</string>
+              </Parameters>
+            </Data>
+            <Not>false</Not>
+            <Operator>And</Operator>
+          </ExpressionComponent>
+        </Components>
+      </Conditionals>
+      <OnEnterScripts>
+        <ScriptCall>
+          <Data>
+            <FullName>Boolean ActorMoodConcerned(String)</FullName>
+            <Parameters>
+              <string>Valeros</string>
+            </Parameters>
+          </Data>
+        </ScriptCall>
+      </OnEnterScripts>
+      <OnExitScripts />
+      <OnUpdateScripts />
+      <NotSkippable>false</NotSkippable>
+      <IsQuestionNode>false</IsQuestionNode>
+      <HideSpeaker>false</HideSpeaker>
+      <IsTempText>false</IsTempText>
+      <IsMultiline>false</IsMultiline>
+      <PlayVOAs3DSound>false</PlayVOAs3DSound>
+      <PlayType>Normal</PlayType>
+      <Persistence>None</Persistence>
+      <NoPlayRandomWeight>0</NoPlayRandomWeight>
+      <DisplayType>Conversation</DisplayType>
+      <VOFilename />
+      <VoiceType />
+      <ExcludedSpeakerClasses />
+      <ExcludedListenerClasses />
+      <IncludedSpeakerClasses />
+      <IncludedListenerClasses />
+      <ActorDirection />
+      <SpeakerGuid>b1c865ff-6f3c-4343-ba9b-277282bea212</SpeakerGuid>
+      <ListenerGuid>b1a8e901-0000-0000-0000-000000000000</ListenerGuid>
+    </FlowChartNode>
+    <FlowChartNode xsi:type="TalkNode">
+      <NodeID>11</NodeID>
+      <Comments />
+      <PackageID>1</PackageID>
+      <ContainerNodeID>-1</ContainerNodeID>
+      <Links>
+        <FlowChartLink xsi:type="DialogueLink">
+          <FromNodeID>11</FromNodeID>
+          <ToNodeID>4</ToNodeID>
+          <PointsToGhost>false</PointsToGhost>
+          <ClassExtender>
+            <ExtendedProperties />
+          </ClassExtender>
+          <RandomWeight>1</RandomWeight>
+          <PlayQuestionNodeVO>true</PlayQuestionNodeVO>
+          <QuestionNodeTextDisplay>ShowOnce</QuestionNodeTextDisplay>
+        </FlowChartLink>
+        <FlowChartLink xsi:type="DialogueLink">
+          <FromNodeID>11</FromNodeID>
+          <ToNodeID>7</ToNodeID>
+          <PointsToGhost>false</PointsToGhost>
+          <ClassExtender>
+            <ExtendedProperties />
+          </ClassExtender>
+          <RandomWeight>1</RandomWeight>
+          <PlayQuestionNodeVO>true</PlayQuestionNodeVO>
+          <QuestionNodeTextDisplay>ShowOnce</QuestionNodeTextDisplay>
+        </FlowChartLink>
+        <FlowChartLink xsi:type="DialogueLink">
+          <FromNodeID>11</FromNodeID>
+          <ToNodeID>5</ToNodeID>
+          <PointsToGhost>false</PointsToGhost>
+          <ClassExtender>
+            <ExtendedProperties />
+          </ClassExtender>
+          <RandomWeight>1</RandomWeight>
+          <PlayQuestionNodeVO>true</PlayQuestionNodeVO>
+          <QuestionNodeTextDisplay>ShowOnce</QuestionNodeTextDisplay>
+        </FlowChartLink>
+        <FlowChartLink xsi:type="DialogueLink">
+          <FromNodeID>11</FromNodeID>
+          <ToNodeID>6</ToNodeID>
+          <PointsToGhost>false</PointsToGhost>
+          <ClassExtender>
+            <ExtendedProperties />
+          </ClassExtender>
+          <RandomWeight>1</RandomWeight>
+          <PlayQuestionNodeVO>true</PlayQuestionNodeVO>
+          <QuestionNodeTextDisplay>ShowOnce</QuestionNodeTextDisplay>
+        </FlowChartLink>
+        <FlowChartLink xsi:type="DialogueLink">
+          <FromNodeID>11</FromNodeID>
+          <ToNodeID>8</ToNodeID>
+          <PointsToGhost>false</PointsToGhost>
+          <ClassExtender>
+            <ExtendedProperties />
+          </ClassExtender>
+          <RandomWeight>1</RandomWeight>
+          <PlayQuestionNodeVO>true</PlayQuestionNodeVO>
+          <QuestionNodeTextDisplay>ShowOnce</QuestionNodeTextDisplay>
+        </FlowChartLink>
+        <FlowChartLink xsi:type="DialogueLink">
+          <FromNodeID>11</FromNodeID>
+          <ToNodeID>9</ToNodeID>
+          <PointsToGhost>false</PointsToGhost>
+          <ClassExtender>
+            <ExtendedProperties />
+          </ClassExtender>
+          <RandomWeight>1</RandomWeight>
+          <PlayQuestionNodeVO>true</PlayQuestionNodeVO>
+          <QuestionNodeTextDisplay>ShowOnce</QuestionNodeTextDisplay>
+        </FlowChartLink>
+        <FlowChartLink xsi:type="DialogueLink">
+          <FromNodeID>11</FromNodeID>
+          <ToNodeID>10</ToNodeID>
+          <PointsToGhost>false</PointsToGhost>
+          <ClassExtender>
+            <ExtendedProperties />
+          </ClassExtender>
+          <RandomWeight>1</RandomWeight>
+          <PlayQuestionNodeVO>true</PlayQuestionNodeVO>
+          <QuestionNodeTextDisplay>ShowOnce</QuestionNodeTextDisplay>
+        </FlowChartLink>
+        <FlowChartLink xsi:type="DialogueLink">
+          <FromNodeID>11</FromNodeID>
+          <ToNodeID>14</ToNodeID>
+          <PointsToGhost>false</PointsToGhost>
+          <ClassExtender>
+            <ExtendedProperties />
+          </ClassExtender>
+          <RandomWeight>1</RandomWeight>
+          <PlayQuestionNodeVO>true</PlayQuestionNodeVO>
+          <QuestionNodeTextDisplay>ShowOnce</QuestionNodeTextDisplay>
+        </FlowChartLink>
+        <FlowChartLink xsi:type="DialogueLink">
+          <FromNodeID>11</FromNodeID>
+          <ToNodeID>15</ToNodeID>
+          <PointsToGhost>false</PointsToGhost>
+          <ClassExtender>
+            <ExtendedProperties />
+          </ClassExtender>
+          <RandomWeight>1</RandomWeight>
+          <PlayQuestionNodeVO>true</PlayQuestionNodeVO>
+          <QuestionNodeTextDisplay>ShowOnce</QuestionNodeTextDisplay>
+        </FlowChartLink>
+        <FlowChartLink xsi:type="DialogueLink">
+          <FromNodeID>11</FromNodeID>
+          <ToNodeID>18</ToNodeID>
+          <PointsToGhost>false</PointsToGhost>
+          <ClassExtender>
+            <ExtendedProperties />
+          </ClassExtender>
+          <RandomWeight>1</RandomWeight>
+          <PlayQuestionNodeVO>true</PlayQuestionNodeVO>
+          <QuestionNodeTextDisplay>ShowOnce</QuestionNodeTextDisplay>
+        </FlowChartLink>
+      </Links>
+      <ClassExtender>
+        <ExtendedProperties />
+      </ClassExtender>
+      <Conditionals>
+        <Operator>And</Operator>
+        <Components />
+      </Conditionals>
+      <OnEnterScripts />
+      <OnExitScripts />
+      <OnUpdateScripts />
+      <NotSkippable>false</NotSkippable>
+      <IsQuestionNode>false</IsQuestionNode>
+      <HideSpeaker>false</HideSpeaker>
+      <IsTempText>false</IsTempText>
+      <IsMultiline>true</IsMultiline>
+      <PlayVOAs3DSound>false</PlayVOAs3DSound>
+      <PlayType>Normal</PlayType>
+      <Persistence>None</Persistence>
+      <NoPlayRandomWeight>0</NoPlayRandomWeight>
+      <DisplayType>Conversation</DisplayType>
+      <VOFilename />
+      <VoiceType />
+      <ExcludedSpeakerClasses />
+      <ExcludedListenerClasses />
+      <IncludedSpeakerClasses />
+      <IncludedListenerClasses />
+      <ActorDirection />
+      <SpeakerGuid>b1c865ff-6f3c-4343-ba9b-277282bea209</SpeakerGuid>
+      <ListenerGuid>b1a8e901-0000-0000-0000-000000000000</ListenerGuid>
+    </FlowChartNode>
+    <FlowChartNode xsi:type="TalkNode">
+      <NodeID>14</NodeID>
+      <Comments />
+      <PackageID>1</PackageID>
+      <ContainerNodeID>-1</ContainerNodeID>
+      <Links />
+      <ClassExtender>
+        <ExtendedProperties />
+      </ClassExtender>
+      <Conditionals>
+        <Operator>And</Operator>
+        <Components>
+          <ExpressionComponent xsi:type="ConditionalCall">
+            <Data>
+              <FullName>Boolean CharacterTurn(String)</FullName>
+              <Parameters>
+                <string>ID</string>
+              </Parameters>
+            </Data>
+            <Not>false</Not>
+            <Operator>And</Operator>
+          </ExpressionComponent>
+        </Components>
+      </Conditionals>
+      <OnEnterScripts>
+        <ScriptCall>
+          <Data>
+            <FullName>Boolean ActorMoodConcerned(String)</FullName>
+            <Parameters>
+              <string>Amiri</string>
+            </Parameters>
+          </Data>
+        </ScriptCall>
+      </OnEnterScripts>
+      <OnExitScripts />
+      <OnUpdateScripts />
+      <NotSkippable>false</NotSkippable>
+      <IsQuestionNode>false</IsQuestionNode>
+      <HideSpeaker>false</HideSpeaker>
+      <IsTempText>false</IsTempText>
+      <IsMultiline>false</IsMultiline>
+      <PlayVOAs3DSound>false</PlayVOAs3DSound>
+      <PlayType>Normal</PlayType>
+      <Persistence>None</Persistence>
+      <NoPlayRandomWeight>0</NoPlayRandomWeight>
+      <DisplayType>Conversation</DisplayType>
+      <VOFilename />
+      <VoiceType />
+      <ExcludedSpeakerClasses />
+      <ExcludedListenerClasses />
+      <IncludedSpeakerClasses />
+      <IncludedListenerClasses />
+      <ActorDirection />
+      <SpeakerGuid>b1c865ff-6f3c-4343-ba9b-277282bea300</SpeakerGuid>
+      <ListenerGuid>b1a8e901-0000-0000-0000-000000000000</ListenerGuid>
+    </FlowChartNode>
+    <FlowChartNode xsi:type="TalkNode">
+      <NodeID>15</NodeID>
+      <Comments />
+      <PackageID>1</PackageID>
+      <ContainerNodeID>-1</ContainerNodeID>
+      <Links />
+      <ClassExtender>
+        <ExtendedProperties />
+      </ClassExtender>
+      <Conditionals>
+        <Operator>And</Operator>
+        <Components>
+          <ExpressionComponent xsi:type="ConditionalCall">
+            <Data>
+              <FullName>Boolean CharacterTurn(String)</FullName>
+              <Parameters>
+                <string>ID</string>
+              </Parameters>
+            </Data>
+            <Not>false</Not>
+            <Operator>And</Operator>
+          </ExpressionComponent>
+        </Components>
+      </Conditionals>
+      <OnEnterScripts>
+        <ScriptCall>
+          <Data>
+            <FullName>Boolean ActorMoodConcerned(String)</FullName>
+            <Parameters>
+              <string>Sajan</string>
+            </Parameters>
+          </Data>
+        </ScriptCall>
+      </OnEnterScripts>
+      <OnExitScripts />
+      <OnUpdateScripts />
+      <NotSkippable>false</NotSkippable>
+      <IsQuestionNode>false</IsQuestionNode>
+      <HideSpeaker>false</HideSpeaker>
+      <IsTempText>false</IsTempText>
+      <IsMultiline>false</IsMultiline>
+      <PlayVOAs3DSound>false</PlayVOAs3DSound>
+      <PlayType>Normal</PlayType>
+      <Persistence>None</Persistence>
+      <NoPlayRandomWeight>0</NoPlayRandomWeight>
+      <DisplayType>Conversation</DisplayType>
+      <VOFilename />
+      <VoiceType />
+      <ExcludedSpeakerClasses />
+      <ExcludedListenerClasses />
+      <IncludedSpeakerClasses />
+      <IncludedListenerClasses />
+      <ActorDirection />
+      <SpeakerGuid>b1c865ff-6f3c-4343-ba9b-277282bea302</SpeakerGuid>
+      <ListenerGuid>b1a8e901-0000-0000-0000-000000000000</ListenerGuid>
+    </FlowChartNode>
+    <FlowChartNode xsi:type="TalkNode">
+      <NodeID>16</NodeID>
+      <Comments />
+      <PackageID>1</PackageID>
+      <ContainerNodeID>-1</ContainerNodeID>
+      <Links />
+      <ClassExtender>
+        <ExtendedProperties />
+      </ClassExtender>
+      <Conditionals>
+        <Operator>And</Operator>
+        <Components>
+          <ExpressionComponent xsi:type="ConditionalCall">
+            <Data>
+              <FullName>Boolean CharacterTurn(String)</FullName>
+              <Parameters>
+                <string>ID</string>
+              </Parameters>
+            </Data>
+            <Not>false</Not>
+            <Operator>And</Operator>
+          </ExpressionComponent>
+        </Components>
+      </Conditionals>
+      <OnEnterScripts>
+        <ScriptCall>
+          <Data>
+            <FullName>Boolean ActorMoodConcerned(String)</FullName>
+            <Parameters>
+              <string>Lini</string>
+            </Parameters>
+          </Data>
+        </ScriptCall>
+      </OnEnterScripts>
+      <OnExitScripts />
+      <OnUpdateScripts />
+      <NotSkippable>false</NotSkippable>
+      <IsQuestionNode>false</IsQuestionNode>
+      <HideSpeaker>false</HideSpeaker>
+      <IsTempText>false</IsTempText>
+      <IsMultiline>false</IsMultiline>
+      <PlayVOAs3DSound>false</PlayVOAs3DSound>
+      <PlayType>Normal</PlayType>
+      <Persistence>None</Persistence>
+      <NoPlayRandomWeight>0</NoPlayRandomWeight>
+      <DisplayType>Conversation</DisplayType>
+      <VOFilename />
+      <VoiceType />
+      <ExcludedSpeakerClasses />
+      <ExcludedListenerClasses />
+      <IncludedSpeakerClasses />
+      <IncludedListenerClasses />
+      <ActorDirection />
+      <SpeakerGuid>b1c865ff-6f3c-4343-ba9b-277282bea301</SpeakerGuid>
+      <ListenerGuid>b1a8e901-0000-0000-0000-000000000000</ListenerGuid>
+    </FlowChartNode>
+    <FlowChartNode xsi:type="TalkNode">
+      <NodeID>18</NodeID>
+      <Comments />
+      <PackageID>1</PackageID>
+      <ContainerNodeID>-1</ContainerNodeID>
+      <Links>
+        <FlowChartLink xsi:type="DialogueLink">
+          <FromNodeID>18</FromNodeID>
+          <ToNodeID>19</ToNodeID>
+          <PointsToGhost>false</PointsToGhost>
+          <ClassExtender>
+            <ExtendedProperties />
+          </ClassExtender>
+          <RandomWeight>1</RandomWeight>
+          <PlayQuestionNodeVO>true</PlayQuestionNodeVO>
+          <QuestionNodeTextDisplay>ShowOnce</QuestionNodeTextDisplay>
+        </FlowChartLink>
+      </Links>
+      <ClassExtender>
+        <ExtendedProperties />
+      </ClassExtender>
+      <Conditionals>
+        <Operator>And</Operator>
+        <Components>
+          <ExpressionComponent xsi:type="ConditionalCall">
+            <Data>
+              <FullName>Boolean CharacterTurn(String)</FullName>
+              <Parameters>
+                <string>ID</string>
+              </Parameters>
+            </Data>
+            <Not>false</Not>
+            <Operator>And</Operator>
+          </ExpressionComponent>
+        </Components>
+      </Conditionals>
+      <OnEnterScripts>
+        <ScriptCall>
+          <Data>
+            <FullName>Boolean ActorMoodConcerned(String)</FullName>
+            <Parameters>
+              <string>Seelah</string>
+            </Parameters>
+          </Data>
+        </ScriptCall>
+      </OnEnterScripts>
+      <OnExitScripts />
+      <OnUpdateScripts />
+      <NotSkippable>false</NotSkippable>
+      <IsQuestionNode>false</IsQuestionNode>
+      <HideSpeaker>false</HideSpeaker>
+      <IsTempText>false</IsTempText>
+      <IsMultiline>false</IsMultiline>
+      <PlayVOAs3DSound>false</PlayVOAs3DSound>
+      <PlayType>Normal</PlayType>
+      <Persistence>None</Persistence>
+      <NoPlayRandomWeight>0</NoPlayRandomWeight>
+      <DisplayType>Conversation</DisplayType>
+      <VOFilename />
+      <VoiceType />
+      <ExcludedSpeakerClasses />
+      <ExcludedListenerClasses />
+      <IncludedSpeakerClasses />
+      <IncludedListenerClasses />
+      <ActorDirection />
+      <SpeakerGuid>b1c865ff-6f3c-4343-ba9b-277282bea303</SpeakerGuid>
+      <ListenerGuid>b1a8e901-0000-0000-0000-000000000000</ListenerGuid>
+    </FlowChartNode>
+    <FlowChartNode xsi:type="TalkNode">
+      <NodeID>19</NodeID>
+      <Comments />
+      <PackageID>1</PackageID>
+      <ContainerNodeID>-1</ContainerNodeID>
+      <Links />
+      <ClassExtender>
+        <ExtendedProperties />
+      </ClassExtender>
+      <Conditionals>
+        <Operator>And</Operator>
+        <Components />
+      </Conditionals>
+      <OnEnterScripts />
+      <OnExitScripts />
+      <OnUpdateScripts />
+      <NotSkippable>false</NotSkippable>
+      <IsQuestionNode>false</IsQuestionNode>
+      <HideSpeaker>false</HideSpeaker>
+      <IsTempText>false</IsTempText>
+      <IsMultiline>false</IsMultiline>
+      <PlayVOAs3DSound>false</PlayVOAs3DSound>
+      <PlayType>Normal</PlayType>
+      <Persistence>None</Persistence>
+      <NoPlayRandomWeight>0</NoPlayRandomWeight>
+      <DisplayType>Conversation</DisplayType>
+      <VOFilename />
+      <VoiceType />
+      <ExcludedSpeakerClasses />
+      <ExcludedListenerClasses />
+      <IncludedSpeakerClasses />
+      <IncludedListenerClasses />
+      <ActorDirection />
+      <SpeakerGuid>b1c865ff-6f3c-4343-ba9b-277282bea209</SpeakerGuid>
+      <ListenerGuid>b1a8e901-0000-0000-0000-000000000000</ListenerGuid>
+    </FlowChartNode>
+  </Nodes>
+  <Bookmarks>
+    <Bookmark>
+      <Type>Unassigned</Type>
+      <Name />
+      <NodeID>-1</NodeID>
+      <GhostNodeParentID>-1</GhostNodeParentID>
+    </Bookmark>
+    <Bookmark>
+      <Type>Unassigned</Type>
+      <Name />
+      <NodeID>-1</NodeID>
+      <GhostNodeParentID>-1</GhostNodeParentID>
+    </Bookmark>
+    <Bookmark>
+      <Type>Unassigned</Type>
+      <Name />
+      <NodeID>-1</NodeID>
+      <GhostNodeParentID>-1</GhostNodeParentID>
+    </Bookmark>
+    <Bookmark>
+      <Type>Unassigned</Type>
+      <Name />
+      <NodeID>-1</NodeID>
+      <GhostNodeParentID>-1</GhostNodeParentID>
+    </Bookmark>
+    <Bookmark>
+      <Type>Unassigned</Type>
+      <Name />
+      <NodeID>-1</NodeID>
+      <GhostNodeParentID>-1</GhostNodeParentID>
+    </Bookmark>
+    <Bookmark>
+      <Type>Unassigned</Type>
+      <Name />
+      <NodeID>-1</NodeID>
+      <GhostNodeParentID>-1</GhostNodeParentID>
+    </Bookmark>
+    <Bookmark>
+      <Type>Unassigned</Type>
+      <Name />
+      <NodeID>-1</NodeID>
+      <GhostNodeParentID>-1</GhostNodeParentID>
+    </Bookmark>
+    <Bookmark>
+      <Type>Unassigned</Type>
+      <Name />
+      <NodeID>-1</NodeID>
+      <GhostNodeParentID>-1</GhostNodeParentID>
+    </Bookmark>
+    <Bookmark>
+      <Type>Unassigned</Type>
+      <Name />
+      <NodeID>-1</NodeID>
+      <GhostNodeParentID>-1</GhostNodeParentID>
+    </Bookmark>
+    <Bookmark>
+      <Type>Unassigned</Type>
+      <Name />
+      <NodeID>-1</NodeID>
+      <GhostNodeParentID>-1</GhostNodeParentID>
+    </Bookmark>
+    <Bookmark>
+      <Type>Unassigned</Type>
+      <Name />
+      <NodeID>-1</NodeID>
+      <GhostNodeParentID>-1</GhostNodeParentID>
+    </Bookmark>
+    <Bookmark>
+      <Type>Unassigned</Type>
+      <Name />
+      <NodeID>-1</NodeID>
+      <GhostNodeParentID>-1</GhostNodeParentID>
+    </Bookmark>
+  </Bookmarks>
+  <ClassExtender>
+    <ExtendedProperties />
+  </ClassExtender>
+  <ConversationType>Conversation</ConversationType>
+  <WordLimit>0</WordLimit>
+  <Description>Scene description.</Description>
+  <SceneLocation>SCENE LOCATION</SceneLocation>
+  <SceneTime>SCENE TIME</SceneTime>
+  <CharacterMappings>
+    <CharacterMapping>
+      <Guid>b1c865ff-6f3c-4343-ba9b-277282bea209</Guid>
+      <InstanceTag>JubraylVhiski</InstanceTag>
+    </CharacterMapping>
+    <CharacterMapping>
+      <Guid>b1c865ff-6f3c-4343-ba9b-277282bea230</Guid>
+      <InstanceTag>Ezren</InstanceTag>
+    </CharacterMapping>
+    <CharacterMapping>
+      <Guid>b1c865ff-6f3c-4343-ba9b-277282bea210</Guid>
+      <InstanceTag>Kyra</InstanceTag>
+    </CharacterMapping>
+    <CharacterMapping>
+      <Guid>b1c865ff-6f3c-4343-ba9b-277282bea211</Guid>
+      <InstanceTag>Lem</InstanceTag>
+    </CharacterMapping>
+    <CharacterMapping>
+      <Guid>b1c865ff-6f3c-4343-ba9b-277282bea231</Guid>
+      <InstanceTag>Harsk</InstanceTag>
+    </CharacterMapping>
+    <CharacterMapping>
+      <Guid>b1c865ff-6f3c-4343-ba9b-277282bea208</Guid>
+      <InstanceTag>Merisiel</InstanceTag>
+    </CharacterMapping>
+    <CharacterMapping>
+      <Guid>b1c865ff-6f3c-4343-ba9b-277282bea206</Guid>
+      <InstanceTag>Seoni</InstanceTag>
+    </CharacterMapping>
+    <CharacterMapping>
+      <Guid>b1c865ff-6f3c-4343-ba9b-277282bea212</Guid>
+      <InstanceTag>Valeros</InstanceTag>
+    </CharacterMapping>
+    <CharacterMapping>
+      <Guid>b1c865ff-6f3c-4343-ba9b-277282bea300</Guid>
+      <InstanceTag>Amiri</InstanceTag>
+    </CharacterMapping>
+    <CharacterMapping>
+      <Guid>b1c865ff-6f3c-4343-ba9b-277282bea302</Guid>
+      <InstanceTag>Sajan</InstanceTag>
+    </CharacterMapping>
+    <CharacterMapping>
+      <Guid>b1c865ff-6f3c-4343-ba9b-277282bea301</Guid>
+      <InstanceTag>Lini</InstanceTag>
+    </CharacterMapping>
+    <CharacterMapping>
+      <Guid>b1c865ff-6f3c-4343-ba9b-277282bea303</Guid>
+      <InstanceTag>Seelah</InstanceTag>
+    </CharacterMapping>
+  </CharacterMappings>
+  <WarningDisplayed>Never</WarningDisplayed>
+</ConversationData>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\sc11_troubleinsandpoint_02_outro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Yet again, I have you to thank. It was only a matter of time before that creature murdered me as it did my brother.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>He wanted me to join his crusade against the people of Sandpoint. When I refused, he took me captive and imprisoned me underneath the glassworks. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Before he locked me away, he alluded to blackmailing our father for someone named Nualia. If what he said is true, my father helped the goblins infiltrate Sandpoint!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>I have known my share of deceit and villainy within my family as well. This must not be easy for you, but did he give any indication as to where this Nualia could be?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>...I think he said something like "Thistle-something." I know it was a goblin name.
+
+Thistletop!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>I am just relieved that you are safe! I will consult the Pathfinder Society to see what they know about Thistletop.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>It is a sorrow that Tsuto will no longer have a chance to mend his lost soul. What did he want with you?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>It appears that some madness overcame Tsuto in the end. Did he indicate what he hoped to accomplish by capturing you? </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>What'd the lad want with you?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>It wasn't time for your song to end, Mistress Kaijitsu. Why was Tsuto holding you captive?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Sarenrae's protection is yours. For what evil purpose did your bother hold you?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>I think the phrase you are looking for is, "Hero of Sandpoint." What in the many hells did he want with you anyway?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Given his torment, a death in battle may have been a mercy for him. How did he hope to use you?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Tsuto's killer is no more and will no longer threaten you or anyone in Sandpoint. The creature seemed to know who Tsuto was. They may be connected by more than his death.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>It seems Tsuto was a lost cause. Any notion what he planned to do with you?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>You are one of the pack and your life is as important as mine. Why did your brother put you in a cage?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>I wish it had gone another way. I really do. What did Tsuto want with you anyway?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>If true, your father also has much to atone for. We may have a chance to head off further disaster if we can find this Nualia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Sounds like we need to find and stop this Nualia person. Probably has a base somewhere with lots of goblins. Mention anything like that?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Noolia? Sounds like my next prey. Did Tsuto tell you were she hides?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Just point me in the direction of Nualia's lair and I will make sure she never bothers another creature.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>The Kaijitsu family has seen more than its share of misery today. Did you get a sense for where Nualia could be found?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Your brother reaped the pain and death his cowardice sowed. It seems that your father is planting a similar crop. Do you know where I can find Nualia? There may be hope in salvaging the remaining fields.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>This Nualia seems like she is at the root of your family's problems. If I can find her, I'll make sure that she doesn't hurt you again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>A painful betrayal. We may yet undo the dark deeds of Tsuto if we can find Nualia and her cult.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Given what little I now know about your father, it does not seem too distant a possibility. Did Tsuto happen to say where this Nualia has set up shop?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>With any kind of lead, I know I can find Nualia. Did he talk about any landmarks or names?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Why do you think he was holding you?</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

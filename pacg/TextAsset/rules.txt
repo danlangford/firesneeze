@@ -1,0 +1,1225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\rules</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>208</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Object of the Game</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Card Sets</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Golden Rule</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Playing Cards</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Drawing Cards</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Encountering a Card, part 1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Attempting a Check</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Taking Damage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Dying</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Closing a Location</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Encountering a Villain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>After a Scenario</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Steps of a Turn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>1. Advance the Blessings Deck</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>2. Give a Card</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>3. Move</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>4. Explore</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>5. Close a Location</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>6. End Your Turn</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Terms</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Boon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Bane</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Monster</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Barrier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Henchman</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Villain</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Weapon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Spell</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Armor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Item</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Ally</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Blessing</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Loot</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Check to Acquire</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Check to Defeat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Adventure</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Adventure Path</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Scenario</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Banish</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Bury</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Discard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Reveal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Display</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Recharge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Check</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Trait</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Skill</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Power</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Hand Size</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Proficiency</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Favored Card Type</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Skill Feat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Power Feat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Card Feat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Role</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Location</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Deck List</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>At This Location</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>When Closing</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>When Permanently Closed</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Location Deck</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Character Deck</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Blessings Deck</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Blessings Discard</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Evade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Examine</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Search</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Faceup Cards</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Before You Act</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>After You Act</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Reset</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Summoning</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Adding Cards</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Strategy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Should you split the party?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Should you be selfish?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Should you always explore?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Should you burn through your deck?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Should you look ahead?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Should you seek out danger?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Should you acquire boons you won't use?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Things to keep in mind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Cards do what they say</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Cards don't do what they don't say</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>No one else can take your turn for you</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Cards don't have memories</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Finish one thing before you start the next</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>If it isn't called a thing, it isn't a thing</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Add only what you are told to add</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Allow for abstractions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Choices matter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>At the start of your turn, the top card of the blessings deck is discarded onto the top of the blessings discard pile. You never acquire this blessing, though some cards may refer to it during your turn. If you have to remove one or more cards from the blessings deck for any reason and there are not enough cards to do so, the party loses the scenario. After the blessings deck is advanced, any effects that happen at the start of your turn are applied.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>You may give 1 card from your hand to another player at your location. (Other players cannot give you cards on your turn.)  
+
+You may play cards or use powers before or after you give a card (or choose not to give one).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>You may explore your location once each turn without playing a card that allows you to explore; this must be your first exploration for the turn. You may never explore outside of your explore step. When you explore, the top card of your current location deck is revealed. If it’s a boon, you may attempt to acquire it; if you don’t attempt that, it is banished. If it’s a bane, you must try to defeat it. Many effects allow you to explore again on your turn, and there is no limit to the number of times you can explore. 
+
+However, during a single exploration, no matter how many different effects allow you to explore again, they grant one additional exploration, not a series of additional explorations. If a card grants you an additional exploration, after you finish what you are doing, you must immediately use that exploration or forfeit it. 
+
+You may play cards or use powers before or after you explore (or choose not to explore).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>If your character is at a location that has no cards remaining and has not been closed, you may make one attempt to close it at this time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>First, any effects that happen at the end of the turn are applied. While this happens, unless a power directed you to end your turn, you may play cards and use powers. Then, reset your hand. When you’re done, the turn passes to the next character.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>You may move your character to another location. Moving then triggers any effects that happen when you enter or leave a location. When you choose to move, you must always select a new location, although it is possible for some effects to move you to the same location you came from. If you do not change locations, your character is not considered to have entered or left a location. 
+
+You may play cards or use powers before or after you move (or choose not to move). </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>In Pathfinder Adventures, your party of adventurers races against time on a quest to defeat a dangerous villain. Each character is represented by a deck of cards. In most scenarios, your characters explore a variety of locations as you try to hunt down the villain. You’ll need to clean out or protect these locations so you can defeat and corner the villain before time runs out. As you play more games, you’ll complete scenarios, customize your characters and improve their decks, and take on more and more powerful challenges.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Each card is marked with a set indicator. This might be a letter, such as B (indicating the card is part of the base set), or C (indicating that it’s from the Character Add-On Deck); adventure deck numbers from 1 to 6 indicate that the card is part of an adventure deck. If a card has a letter for the set indicator, treat its adventure deck number as 0.
+To the right of the letter or number, you’ll find the card type. There are many different card types in the Pathfinder Adventure Card Game. Among them are banes, which include villains, henchmen, monsters, and barriers; and boons, which include weapons, spells, armors, items, allies, blessings, and loot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>If a card and these rules are ever in conflict, the card should be considered correct. There is one exception to this: When the rules use the word “never,” no card can overrule it. If cards conflict with one another, then Adventure Paths overrule adventures, adventures overrule scenarios, scenarios overrule locations, locations overrule support cards, support cards overrule characters, and characters overrule other card types. Despite this hierarchy, if one card tells that you cannot do something and another card tells you that you can, comply with the card that tells you that you cannot; if a card tells you to ignore something, the thing you’re ignoring never has any effect. If a card instructs you to do something impossible, like draw a card from an empty deck, ignore that instruction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Any character can play a card whenever the card allows it. Playing a card means using a power on that card by revealing, displaying, discarding, recharging, burying, or banishing that card or by performing another action specified by that card. Activating a power on a displayed card also counts as playing it. If a power says using it counts as playing a boon, it counts as playing a card. Doing something with a card that does not use a power on that card does not count as playing that card. For example, if Kyra discards a spell to activate her healing power, it doesn’t count as playing that spell (meaning she also can’t recharge it). 
+
+Each power on a card is presented as a complete paragraph. When a card has multiple powers, you must choose one of them, and you must do everything that power says when possible. If a power says it may be used when something happens, you may use it every time that happens. Otherwise, a specific card’s power may only be used once per check or step. (Any paragraph in the power section of a boon that doesn’t involve playing the card for a particular effect is not itself a power—it’s a mandatory action you must take when you play the card.)
+
+If you play a card in such a way that it leaves your hand, that action can trigger only 1 power. For example, if a card says you may discard it to add to your die roll or discard it to explore your location, you may discard it to trigger either effect, but not both.
+
+If a card in your hand does not specify when it can be played, you can generally play it anytime you can play cards, with the exception that during an encounter you may only perform specific actions at specific times.
+
+continued...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Unless a card says otherwise, drawing means taking a card from the specified source and adding it to your hand. If no source is specified, drawn cards come from your character deck. When a card is drawn from a facedown deck, such as a character deck, a location deck, the blessings deck, or any other deck, it is drawn from the top of the deck. When a card is drawn from a faceup pile, such as your discard pile, the blessings discard pile, or any other pile, you'll choose the card. 
+
+This applies to actions other than drawing—for example, if you bury 1 card from your deck, the top card is buried; if you bury 1 card from your discard pile, you'll choose the card.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>When you encounter a card, you go through the steps (below). Other characters cannot perform these steps for you, though they might be able to play cards to help you deal with the encounter’s challenges.
+
+Each character may play no more than 1 card of each type during each step; for example, a character may play no more than 1 blessing while attempting a check, though multiple characters may each play 1 blessing during that check. A character may not activate a given power more than once during each step, other than effects that can be used each time something particular happens.
+ 
+The card you’re encountering might require or allow a check that can affect your check to acquire or defeat; that check will be resolved before you begin the check to acquire or defeat.
+
+If the card you’re encountering states that it is immune to a particular trait, during the encounter, characters may not play cards with the specified trait, use powers that would add that trait to the check, or roll dice with that trait. 
+
+The encounter will go through all of the following steps that apply in order. During each of these steps, you and the other characters may perform only the specified actions. Characters may only play cards or use powers that relate to each step (or relate to cards played or powers used in that step). Characters may not play any cards or activate any powers between these steps.
+
+&lt;b&gt;1. Apply Any Effects That Happen When You Encounter a Card.&lt;/b&gt;
+If any powers on the card you’re encountering happen when you encounter the card, they take effect at this time. You may also use powers or cards that state they can be used when you encounter a card. 
+
+continued...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Many times during the game, you will need to attempt a check to do something, such as acquire a new weapon or defeat a monster. When you are required to attempt a check, you may not choose to fail it.
+
+Each boon card has a section called Check to Acquire. This section indicates the skills that can be used in checks to acquire the boon and the difficulty of the checks. If you succeed in acquiring the card, it goes into your hand. If you fail, it is banished. 
+
+Each bane card has a section called Check to Defeat. This section indicates the skills that can be used in checks against the bane and the difficulty of the checks. If you succeed in defeating the bane, it is usually banished. If you fail to defeat a bane, it is usually considered undefeated, and it is shuffled back into the location deck. If you fail to defeat a monster, you are dealt damage (See Take Damage, If Necessary). 
+
+If a card refers to a check against another card, that refers to any check required by that card, whether it’s a check to defeat, a check to acquire, a check to recharge, or any other check. 
+
+If multiple checks are listed on the card with “or” between them, choose one of them. If there’s a “then” between them, you’ll need to succeed at both checks sequentially; you must attempt both checks, even if you fail the first, because failure often has consequences. “Or” takes priority over “then,” so if a card says “Wisdom 10 or Combat 13 then Combat 15,” you must first attempt either a Wisdom check with a difficulty of 10 or a combat check with a difficulty of 13; after that, you must attempt a combat check with a difficulty of 15.
+
+continued...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>When you are dealt damage, you and other characters may play cards and use powers that reduce or otherwise affect the specific type of damage you’re being dealt. If you’re being dealt Fire damage, for example, you may play cards that reduce Fire damage or cards that reduce all damage, but you may not play cards that reduce only Electricity or Combat damage. Each character may play no more than one of each card type to affect damage to the same character from the same source. If a card says it reduces damage with no type listed, it reduces all types of damage. 
+
+After any cards or powers affect the amount of damage dealt, choose that number of cards from your hand and discard them; if that number is 0, you are not dealt damage. If you don’t have enough cards in your hand, discard your entire hand and ignore the rest of the damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>If, for any reason, you are ever required to remove 1 or more cards from your deck and you don’t have enough cards, your character dies. Your deck, hand, and discard pile are buried, and your turn immediately ends. You cannot take turns, play cards, move, do anything, or affect anything while you are dead; effects that refer to characters do not affect you unless they specifically refer to dead characters. Certain powerful cards allow you to return from this state; if this doesn’t happen before the end of the scenario, the character does not receive credit for completing the scenario. If you are playing with Permanent Death turned on, then death is, well... permanent. The other characters may use the dead character’s cards when they rebuild their decks after the scenario.
+
+If all of the characters are dead at the same time, the players lose the scenario.
+
+If a character dies with Permanent Death on, you may choose a new character for the next scenario. It can be a character who died previously, though you do not get any of the feats that character previously earned. Build a deck choosing only cards with the Basic trait. If your party has begun adventure deck 3, you may ignore the Basic trait restriction; instead, you may use any cards in the vault with an adventure deck number at least 2 lower than that of the adventure you’re currently playing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>You may earn the opportunity to close a location in a number of ways. Usually you get the opportunity to close a location after defeating a henchman from that location deck (the henchman card will indicate if this is the case) or after that location deck runs out of cards. You can never attempt to close a location unless your character is at that location.
+
+When you have the opportunity and want to close a location, do whatever the location’s When Closing section says. Locations often require specific checks to close them; otherwise, they list specific tasks you must perform. (If a location says you may close it automatically, you don’t need to do anything else.) If the When Closing text offers multiple options separated by “or,” you must choose an option before you can use any powers, play any cards, or roll any dice. If you succeed at meeting the When Closing requirement, the location deck will be searched for villains. If any are found, all non-villain cards in the location deck will be banished. The location is not closed—but at least you know where the villains are! 
+
+If no villains were found, the location's When Permanently Closed effect is performed: First, any effects that say “before closing” are applied. Then all of the cards from the location deck are banished; it is now closed. Finally, any effects that say “on closing” are applied. The location stays closed for the rest of the scenario, so villains may not escape to that location (see Encountering a Villain). Characters may move to closed locations, and if there are cards there, they may explore and encounter those cards as normal. Most closed locations don’t have cards to explore, but some effects can put cards there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Most scenarios have a villain—a big bad bane for the players to fight at the end. 
+
+Unlike monsters and henchmen, a villain doesn’t just need to be defeated. A villain also needs to be cornered: you need to make sure there are no open locations the villain can escape to. 
+
+&lt;b&gt;Attempt to Temporarily Close Open Locations. &lt;/b&gt;
+When a character encounters a villain, each character at any other location may immediately attempt to fulfill the When Closing requirement for his location; the villain's location cannot be temporarily closed. You decide the order in which these attempts are made. If anything causes a character to move to a different location before his attempt is made, he cannot attempt to close a location. If any character succeeds, his location is temporarily closed and the villain cannot escape there this encounter. Temporarily closing a location only prevents the villain from escaping there during this encounter; it does not trigger any of the other effects of closing a location, and the location opens again immediately after the encounter. 
+
+&lt;b&gt;Encounter the Villain.&lt;/b&gt; 
+This encounter works exactly as it does with other banes, but be careful to look for any special rules listed on the villain card or the scenario.
+
+&lt;b&gt;If You Defeat the Villain, Close the Villain’s Location.&lt;/b&gt;
+You do not need to fulfill the When Closing requirement. If there are no additional villains in the location deck, all of its cards are banished. The location is permanently closed, and the location’s When Permanently Closed effect is triggered. If any villains remain in the deck, everything except the remaining villains is banished and the deck is shuffled; the location is not permanently closed, but if there are no other open locations for the villain to escape to, banish the villain. 
+
+continued...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>If at any point you need to advance the blessing deck but there are no cards remaining in it, the current turn immediately ends, and your party of adventurers loses the scenario. You also lose if all of the characters are dead at the same time (see Dying). You do not earn the reward from the scenario, and if you’re playing an adventure, you didn’t complete that scenario; you will need to replay it successfully before you can attempt the next scenario in the adventure.
+
+If the characters defeat the villain and prevent it from escaping, or they achieve a different condition for winning listed on the scenario card, your party defeats the scenario and earns the reward listed on the scenario card. You may be rewarded with loot cards, each of which can be given to any character in your party. If you’re rewarded with a feat, you'll get to check a checkbox on your character sheet. That feat now applies to your character in future scenarios. If you’re rewarded with a feat of a specific type and your character has no unchecked feats of that type, you do not gain a feat. You may not gain the reward from a given scenario, adventure, or Adventure Path more than once unless the reward specifically tells you otherwise. 
+
+Once you’ve played a scenario, whether you won or lost, rebuild your character decks. The cards you don't use will return to the vault. 
+
+If you’re playing an adventure and you successfully complete a scenario, you may proceed to the next scenario in the adventure. If you’ve successfully completed all of the scenarios in the adventure, you earn the adventure's reward and may proceed to the next adventure. If you've successfully completed all of the adventures in the Adventure Path, you earn the Adventure Path's reward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Boons are cards you may be able to acquire and put into your hand or deck for future use. Weapons, spells, armors, items, allies, blessings, and loot are all boons. Each player may play only one of each type of boon on a single check.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>You must defeat bane cards or suffer their consequences. Barriers and monsters appear randomly in location decks, while most scenarios feature specific villains and henchmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Monsters are banes that represent enemy characters. If you fail a check to defeat a monster, you are dealt damage (see Take Damage, If Necessary)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Barriers are banes that represent challenges. Some have specific rewards for success or penalties for failure. Some create a problem or a choice for players to work out.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>At the start of most scenarios, the villain and henchmen are shuffled together, then one of them is shuffled into each location deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Most scenarios have a villain—a big bad bane for the players to fight at the end. Villains work a lot like other monsters, but since defeating them is the goal of many scenarios, some special rules are used. 
+Unlike monsters and henchmen, a villain doesn’t just need to be defeated. A villain also needs to be cornered: you need to make sure there are no open locations the villain can escape to.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Weapon cards often require you to do something (such as reveal the card) to modify your combat check. If a weapon’s power refers to characters who are proficient with weapons, look at your character sheet to see if you’re proficient.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Spell cards have a wide variety of effects. Spells always have the Arcane or Divine trait or both; characters with a skill matching that trait will often be able to make the best use of a given spell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Armor cards help you by reducing damage. Armor powers specify which types of damage they reduce; if a power refers to “all” damage, that applies to all damage of all types. If the armor doesn’t reduce the type of damage you’re being dealt, you can’t play it to reduce the damage. For example, if you’re dealt Fire damage, and an armor card doesn’t say it reduces Fire damage or all damage, you can’t play it to reduce the damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Item cards have a wide variety of effects. Many of them help with non-combat checks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Ally cards often help you with checks you attempt, and many let you discard them to explore again on your turn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Blessing cards often allow you to explore or add dice to checks attempted by any player, including yourself, at any location. The dice added are normally of the type associated with the skill the character is using for the check; if a card instead specifies the exact dice to roll for the check, the added dice are of the type specified by that card.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Loot cards are unique in a couple of ways. The other boons can be found by exploring locations, but loot cards are only given out as rewards for completing scenarios, except in very rare cases when other cards give them out. They are automatically acquired, and so they have no check to acquire. Also, loot cards list a type, such as “weapon”; apart from the way loot cards are acquired, loot cards behave just like other boons of that type and count as cards of that type rather than loot when played. If a loot card ends up in a location deck, you automatically acquire it when you encounter it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>When you encounter a boon, you may attempt a check to acquire it. If you succeed at the check, the card goes into in your hand; if you fail or choose to not attempt the check, the card is banished (see Playing Cards). You only attempt the check to acquire when encountering a card, not when drawing it from your deck or playing it from your hand. Some boons list actions other than checks that you may take to acquire the card. Loot cards do not have a check to acquire; instead, you earn them as a reward for completing a scenario.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>This is the skill check or combat check needed to defeat the bane. If the check is listed as “None” or “See Below,” the requirements to defeat the bane may be stated in the bane’s power. If the check is listed as “None” and the power does not state the requirements to defeat the bane, the bane cannot be defeated. You normally take damage if you fail a check to defeat a monster (see Take Damage, If Necessary).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>An adventure is a series of linked scenarios.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>An Adventure Path is a series of linked adventures.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>A scenario is a single play session.  The goals and any unusual rules for this particular game session are described as part of the scenario.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>The card is removed from play; you do not get it back at the end of the scenario.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>The card is buried. You likely lose access to it until the end of the scenario.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>The card is put into your discard pile, at the bottom left of the screen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>The card is shown and stays in your hand. You may not reveal the same card for its power more than once per check or step.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>The card is placed faceup in front of your character; the card’s powers function as long as it is displayed. When a character displays a card, it is not part of that character’s hand, deck, or discard pile, but it still belongs to that character.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>The card is put at the bottom of your character deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Many times during the game, you will need to succeed at checks to do things, such as acquire a new weapon or defeat a monster. When you attempt a check, you'll roll dice defined by the skill you're using to defeat the check, and to succeed at the check, the result of your roll will need to be greater than or equal to the difficulty of the check.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Many effects use a card’s traits; for example, a Skeleton is harder to defeat when you play a weapon that has the Piercing trait, and banes with the Goblin trait may be harder to defeat in a particular scenario. Some cards give you a bonus if your character has a particular trait.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Characters have skills, which tell you which dice to roll when you attempt a check.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Powers are special things you can do before, during, or after the game. You might use some of your character’s powers at the start of the game, so read them right away. Any paragraph in the Powers section of your character sheet that doesn’t involve playing a card for a particular effect is a mandatory effect that always happens whenever the effect is appropriate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>This is the number of cards you draw to form your hand at the beginning of each scenario. When you reset your hand, you discard or draw cards so you have exactly this number of cards again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>If your character is proficient with weapons or specific types of armors, they’re listed here. Some weapons and armors are more useful for characters who are proficient with them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Characters begin each scenario with at least 1 card of this type in hand. Some characters choose their favored card type at the start of each scenario.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>When you gain a skill feat, check 1 new box in the Skills section on your character sheet. Skill feats add a bonus to a skill of your choice: you’ll add the number next to the box you selected to any check attempted with that skill. So if your Charisma die is d10, and you’ve checked the “+2” box for your Charisma skill, you’ll roll 1d10 and add 2 when you attempt a check that uses your Charisma skill (see Attempting a Check).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>When you gain a power feat, check 1 new box in the Powers section on your character sheet. Some power feats give you new powers, such as increasing your hand size or making you proficient with weapons or specific types of armors. Other power feats improve your character’s existing powers. If your character has a power that allows him to add 1d4 to another character’s combat check, and you’ve checked the “+1” box next to it, you’ll add 1d4+1 to the other character’s check. These modifiers apply only when using the power on your character sheet; if you instead play a card with a similar power, the feat modifier doesn’t apply.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>When you gain a card feat, check 1 new box on the Cards List on your character sheet. Each card feat allows you to put one more card of the type you choose into your character deck. After you choose a card feat, you will use the new number on your Cards List whenever you rebuild your deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>After completing the third adventure of Rise of the Runelords, each character will gain access to one of two roles. Roles offer new options to choose from when your characters gain power feats.
+
+Each of the character's two roles presents a different specialization, allowing you to choose one of two different paths for your character’s continuing advancement.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Locations represent the places your characters will visit during the scenario. If any character is at a location, it is considered occupied.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>This tells you the quantity of each card type present in the location deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>These are special powers that are in effect while the location is open. Some of these remain in effect when the location is permanently closed; in that case, they also appear on the back of the location card.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>When you have the opportunity to close a location and want to do so, you must perform this task. Usually you get the opportunity to close a location after a henchman is defeated there (when this is the case the henchman card will say so) or after the location deck runs out of cards (see Closing a Location). When you close a location, the villain can no longer escape to it, though characters can still move there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>When a location is permanently closed, the powers listed here go into effect.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Each location has its own list of card types that are used to build a location deck, in much the same way that a character has a list of card types that are used to build a character deck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>At the start of each scenario, your character deck must contain exactly the listed quantity of each card type. As you play through a scenario, you will add and remove cards from your deck, so it may vary from this list during play. At the end of the scenario, you’ll rebuild your deck to conform to the list again, although you might not end up with exactly the same cards you had before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>At the start of each turn, a card is discarded from the blessings deck. If there are no blessings left at the start of a turn, your party loses the scenario.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>At the start of your turn, flip the top card from the blessings deck faceup onto the top of the blessings discard pile. You never acquire this blessing, though some cards may refer to it during your turn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>If you evade the card, do not activate any other powers on it. Shuffle it back into the deck; it is neither defeated nor undefeated, and the encounter is over.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Sometimes a card allows you to examine one or more cards; you will be shown the specified cards. If a card allows you to examine a deck until you find a particular card type, but there is no card of that type in the deck, you will be shown all of the cards in that deck, but any directions related to that card will be ignored.
+
+(Examining does not count as exploring, though it may happen during an exploration.)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Sometimes a card allows you to search a deck and choose any card of a particular type; that means you may look at every card in the deck and choose any card of that type. Unless the card that allows the search says otherwise, the deck is shuffled afterwards.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Sometimes a card is left faceup on the top of the location deck. The card is still in the deck, and it will remain on top of the deck until it is defeated or the condition that caused it to be left faceup on the deck has been resolved. If a faceup card tells you that you must encounter it on your first exploration on a turn, then you will encounter it the first time you explore that turn. After that exploration, it will be ignored for the purpose of additional explorations that turn; however, it still counts as the top card of the deck for any other purpose. If multiple cards are left faceup on the same deck, you may place them in any order and encounter them in that order, one per exploration. If you’re instructed to put non-faceup cards on top of the deck, they will be placed immediately below any faceup cards. If you’re instructed to shuffle the deck, any faceup cards are left on top.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>If any powers on the card you’re encountering happen before you act, they take effect after you would have opportunity to evade. You may also use powers or cards that state they can be used before you act.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>If any powers on the card you’re encountering happen after you act, they take effect after all checks are rolled. You may also use powers or cards that state they can be used after you act. Do this whether or not you succeeded at your checks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Do the following whenever you are instructed to reset your hand. First, you may play cards or use powers that say they may be used when you reset your hand. Next, you may discard any number of cards.  Then, if you have more cards in your hand than your hand size specifies, you must discard until the number of cards in your hand matches your hand size. Finally, if you have fewer cards than your hand size, you will draw cards until the number of cards in your hand matches your hand size.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>If you’re told to summon and encounter a card, this immediately starts a new encounter. If you’re already in an encounter, complete the encounter with the summoned card before continuing the original encounter. If an effect causes multiple characters to summon and encounter cards, resolve the encounters sequentially in any order you like. If the summoned card is a villain or henchman, defeating it does not allow you to win the scenario or close a location deck—ignore any such text on those cards. Cards that you summon are not part of any location deck. 
+
+The When Closing section on some locations requires you to summon and defeat (or acquire) a card. Summon and encounter it; if you do not defeat (or acquire) it, the location is not closed.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Any cards added to a deck are shuffled into it unless the power that adds those cards says otherwise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>There’s an old saying in roleplaying games: Never split the party. Is that true for Pathfinder Adventures? This isn’t an RPG, so the answer is, “It depends.”
+
+Sometimes, it’s a good idea to have multiple characters at the same location; other times, it makes more sense to split the party. A lot of your strategy depends on which characters you’re playing. If you’re playing Valeros and Lem, staying together makes sense; if you’re playing Harsk and Merisiel, you may want to spread out. 
+
+The best strategy also depends on where you’re going. Harsk can handle the Treacherous Cave, but Ezren might not be able to close it if someone else runs into the villain. Sometimes you want backup for whatever perils await you; sometimes there’s a dragon that blasts everyone at the same location. Pay attention to where you are in the game. If you know where the villain is, splitting up so you can temporarily close open locations is a good idea... unless it isn’t. Every situation is different, and thinking before you move is always wise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>In multiplayer games, your friends will ask you for help. They might even stoop to begging. Should you ever tell them no?
+
+Probably not. This is a cooperative game, so sharing information and setting goals as a group is wise. Think about ways you can help each other, such as having Kyra forgo exploration to heal another character. You might spend a blessing to get a boon that you can’t use and give it to someone else who desperately wants it.
+
+But some players may not want to share as much as others, and there’s a good reason for it. Your character is a living, growing entity. Your choices will determine whether she succeeds at her goals. If you let your friends make decisions for you, you’re not looking out for number one.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>The blessings deck is a countdown timer, and it is very unforgiving—more exploration leads to more success. But there are times you just want to cool your jets and hang out for a while.
+
+One reason might be the state of your character deck. Spending turns in the Apothecary or the Temple and just letting yourself heal can be a smart move if your deck is getting thin.
+
+Another reason to slow down is to realign your party toward the end of the game. If you just need someone at the Warrens so you can temporarily close it when you find the villain, don’t risk finding a monster and upsetting your whole closing scheme. Take the time to get your strategy set, especially if you have plenty of turns to burn.
+
+Of course, the biggest disasters often occur shortly after someone says, “We’ve got plenty of turns left.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Playing a character such as Seelah or Merisiel gives you ways to churn through your deck faster, discarding cards quickly to get to the cards you want. While this makes you far more likely to defeat and acquire what you need, it comes with a cost: you might kill yourself.
+
+This game is all about trade-offs. Should you press your luck or hold off a bit? Not taking risks will make you lose as often as taking too many risks, but at least your character will be alive after you lose.
+
+One of the toughest choices involves shedding cards as you reset your hand. You’re allowed to discard any number of cards before you draw up, but that means you’re closer to death. There are few things more humiliating than dying because you forgot how many cards you needed to draw at the end of your turn.
+
+When you have too many cards in your hand, that’s a different problem. If you can play some cards that can be recharged, even if you might—in the long term—be better off if you saved them, it’s still worth playing them. Discarding cards for no gain is even more painful.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Harsk, Seelah, and cards like Augury let you look at cards in location decks before you must encounter them. This can be a tremendous help as you race the ticking clock that is the blessings deck. 
+
+Finding the villain early can mean the difference between success and failure. A card like Augury can strand a villain on the bottom of a deck, leaving him waiting for you to return while you loot and lock down other locations.
+
+Of course, all that peeking ahead comes at an opportunity cost: those Spyglasses could instead be cards that help you defeat banes and acquire boons. If you can’t actually beat what you find, there’s no point in finding it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>When you’re adventuring, you can go wherever you want. But not all locations are created equal.
+
+Start by looking at the text on all of the location. A common strategy is to clear out the “positive” locations first. The Academy practically helps you close it, letting you explore again as often as not. But that strategy leaves the “negative” locations for when you’re the most beaten up. You can probably handle the Bandits at the Guard Tower early, but having them around late in the game can be very annoying.
+
+A location’s When Closing requirement can guide your path as well. If you can’t succeed at a Survival check to save your life, stay clear of the Woods, despite its positive effect. If you can’t close the location when the henchman pops up, you’ll have to burn through the whole deck to try again.
+
+Sometimes you’ll want to leave a location open until the villain appears and you can temporarily close it. Churning through the Shrine to Lamashtu can hurt, but if you forgo your explorations there and just hang out, you might just close it before a blessing burns your brain.
+
+All else being equal, more exploration yields more fun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>The short answer is “absolutely.” At minimum, a boon is something you can give up as damage when that Hill Giant cracks your skull open. But there’s another reason: your fellow adventurer might want you to give it to him.
+
+This is sometimes trickier than it looks. To give a card to someone, you must start your turn at that character’s location. So that character might have to come to you to get it, assuming you even still have it in your hand when he does. Coordinating a timely rendezvous often spells a villain’s end.
+
+It’s a lot easier, of course, if a character good at acquiring a type of boon gets it herself. If you’re able to look ahead in the location deck or evade encounters, you can tell another player, “I just found something in this deck that you probably want.” Then she can spend her turns trying to get it, and you can get on with your own goals.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Read any card as it is encountered or played, and do whatever it says as soon as it makes sense to do so. Let the card tell you what to do, and don’t impose limitations that aren’t there. You can play an armor card even if there isn’t one in your deck list. You can play a Cure spell even if it’s not your turn. You can play a blessing on a check even if someone else has played one. Cards say everything they need to say.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Each card’s powers reference specific situations, and if you’re not in those situations, you can’t play it. If a card says it works on “a check,” you can play it on anyone’s check, but if a card says “your check,” it only works on yours. You can’t play a Cure spell to reduce the amount of damage you’re taking, because Cure isn’t about reducing damage. You can’t examine a location deck that has no cards. Your weapon doesn’t help you acquire new weapons. Each card tells you what it’s for, and you can use it only for that.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Whenever you encounter a card or make a check, you—and only you—must resolve it. No other character can evade it, defeat it, acquire it, close it, decide what to do with it, or fail at doing any of those things. If Sajan encounters a monster, Merisiel can’t evade it for him. If Kyra encounters a Ghoul, Seoni can’t attempt the check to defeat it. If Amiri encounters a Battered Chest, Lini cannot use Thieves’ Tools against it. If Valeros encounters a Spyglass, Harsk can’t attempt the check to acquire it. If Ezren defeats a henchman at the Sandpoint Cathedral, Seelah can’t discard a blessing to close the location. If the game tells you to do something, you have to do it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Cards forget they’ve been played after they’ve done whatever they do. So if you reveal an item to reduce damage dealt before an encounter, you can reveal that item again during the encounter. A monster isn’t affected by anything you did in a previous encounter with it. Even though you’ve played a card to explore again, after that exploration you can play another. Don’t ask your cards to remember what happened, because they’re just cards.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>You do many things in a specific order, and you need to finish doing each thing before you do the next thing. You move before you explore, not after. If a spell used in a check can be recharged, finish the first check before you begin your check to recharge it. If a villain requires two sequential combat checks, finish the first before starting the second. Don’t start a new process until you’ve finished the last one. (That said, if the game doesn’t specify an order for things, you decide the order.)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Every term described in the rules and on cards has a specific definition. The Goblin Warchanter has the Goblin trait, but the Goblin Dog doesn’t, even though it has Goblin in its name. A Potion of Healing may sound like its magical, but it doesn’t have the Magic trait. A Ghost deals Combat damage when it damages you, even if you failed a Divine check to defeat it. Detect Magic doesn’t use the word “explore,” so you can play it at times when you can’t explore. Don’t make assumptions—just read the card.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>If a card adds another die, that’s all it gives you: a die. It doesn’t give you your modifier bonuses again. It doesn’t give you the skill associated with that die. It doesn’t give you the ability to recharge an Arcane spell if you don’t have the Arcane skill. When you play a Longbow to add your Strength die to a Combat check, you don’t get to play a Blessing of Gorum to add 2 dice, because you’re not attempting a Strength check. You just get a die.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Sometimes the story you imagine can get in the way of playing the game. Despite their aquatic nature, Bunyips can be encountered in the General Store. Caltrops work against Ancient Skeletons, even if they don’t have flesh on their feet. Harsk can fire a Heavy Crossbow from the Mountain Peak into the Deeper Dungeons. Don’t force the cards to fit your story; let the cards tell you their stories.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Your choices have consequences. Once you choose cards for your character, you can’t trade them for other cards whenever you like. If a location makes you choose between attempting a check or banishing a card before closing it, you can’t attempt the check and then banish the card if you fail. If you roll too low on a Combat check, it’s too late to play a Strength spell to improve your result. Once you choose a side of a role card, you can’t switch to the other side. If something kills your character, your character dies. Every choice matters—take your choices seriously.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>&lt;b&gt;2. Apply Any Evasion Effects.&lt;/b&gt;
+You may use a power or card that lets you evade the card you’re encountering. If any powers on the card you’re encountering relate to evading the card, they take effect at this time. If you evade the card, no other powers on it are activated. It is shuffled back into the deck; it is neither defeated nor undefeated, and the encounter is over.
+
+&lt;b&gt;3. Apply Any Effects That Happen Before You Act.&lt;/b&gt;
+If any powers on the card you’re encountering happen before you act, they take effect at this time. You may also use powers or cards that state they can be used before you act. 
+
+&lt;b&gt;4. Attempt the Check.&lt;/b&gt;
+If the card is a boon, you may try to acquire it for your deck; if it’s a bane, you must try to defeat it (see Attempting a Check, below). If you choose not to acquire a boon, it counts as failing to acquire it. If a card’s check section says “None” or “See Below,” look at the card’s powers and immediately do whatever it says there.
+
+If a power allows you to automatically defeat or acquire a card, you may use it instead of attempting the check. Using such a power counts as succeeding at all checks required to defeat or acquire the card. You may not use such a power on any card that does not have a check to acquire or defeat, or on any card that has a check you’re not allowed to succeed at.
+
+After you attempt the check, you will deal with any effects that were triggered by the check. If any cards played while attempting a check include their own checks, the current check is resolved in this step and the new checks in subsequent steps. 
+
+&lt;b&gt;5. Attempt the Next Check, If Needed.&lt;/b&gt;
+If another check is required, it is resolved now. For example, some boons allow you to attempt a check to recharge them, and some banes require a second check to defeat. This step is repeated until you resolve all such checks.
+
+continued...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Only the character who encounters the card may attempt the check, save for one exception: if a card requires sequential checks, the character who encountered the card must attempt at least one of the checks, but other checks may each be attempted by any one character at the same location. While you are attempting a check against such a card that you did not encounter, powers that would apply to the character who encountered it apply to you instead. 
+
+Many cards also require checks to use powers or to recharge the cards after playing them. 
+
+Attempting a check requires several actions that are explained below. Remember that each player may not play more than 1 card of each type or use any 1 power more than once during each check, other than powers that can be used each time something particular happens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Adventure Deck</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Each adventure deck provides the cards needed to tell each chapter of the Rise of the Runelords story. Other adventure decks, available separately, continue the adventure by adding new scenarios to play, new locations to explore, new villains to fight, new loot to acquire, and much more.
+
+Each adventure deck is associated with a set indicator (with the beginning deck being deck B).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>When you reveal a card, it does not leave your hand. When you display a card, it leaves your hand immediately. When you play cards by performing any other actions, they are set aside while their effects are processed. For example, a spell might tell you to discard it, then allow you to succeed at a check to recharge it instead; it is set aside until you resolve the check that determines whether or not you recharge it. While set aside, a card does not count as being in your hand, your discard pile, your deck, or anywhere else.
+
+The first action required by a power is always performed before any other action. For example, if a card says “Recharge this card to recharge a card from your discard pile,” the card you're playing is recharged before the card from your discard pile.
+
+If you are instructed to play, reveal, display, discard, recharge, bury, banish, or otherwise manipulate a card, that card comes from your hand unless otherwise specified.
+
+You cannot activate a power or play a card that doesn’t apply to your current situation. For example, you cannot play a card to reduce damage when damage is not being dealt, and you cannot play a card to evade a monster when you are not encountering a monster.
+
+Your cards include your deck, the cards in your hand and your buried, discarded, and displayed cards. You can look through your displayed, discarded, and buried cards at any time. You can look through your character deck at any time, but the cards will be shown in a random order {Vic: If it's not random, change that!} unless you're using a power that lets you look at cards from your deck in the correct order
+
+A deck is a deck, a hand is a hand, and a pile is a pile whether or not it has cards in it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>&lt;b&gt;Check to See Whether the Villain Escapes.&lt;/b&gt;
+If any locations are not closed, the villain escapes. If you defeated the villain, the villain is shuffled together with blessings from the vault and 1 of those cards will be shuffled into each open location. If the villain is undefeated, the same thing will happen, but the blessings are taken from the blessings deck instead of the vault.
+
+&lt;b&gt;If the Villain Has Nowhere to Escape to, You Win!&lt;/b&gt;
+Some scenarios may have other conditions for winning.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Cards List</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Each character's Cards List indicates the exact quantity of each card type that you must choose to make up that character’s deck at the end of each scenario.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Starting Locations</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Multiple characters can choose the same starting location.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Type</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Villains, henchmen, and loot list another card type, and count as cards of that type.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Should you hoard blessings?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Blessings are among the most versatile cards in the game. Most can be used to add to checks or to explore again, but you can’t use one blessing to do both at the same time. So when you’re trying to decide whether to play a blessing on your companion’s check to acquire a wand, you might be wondering, “Did I just cost us a turn?”
+
+What is the opportunity cost of not exploring? Do you need that sword more than you need to find the villain? The risk-reward analysis requires some thought.
+
+Early in the game, you might be willing to spend a blessing on a check, but when the clock is ticking down, conservatism is often the wiser course. If it’s your combat check and you think you need the blessing to suceed, it’s likely worth playing it. Fail badly enough, and you might lose the blessing to damage anyway.
+
+This analysis is worth going through, but don’t let it stop you from acting. There are always more turns—at least, until there aren’t.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Skills, Dice, and Modifiers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>If your character sheet says “Strength d10,” and the “+1” box next to that has been checked, your Strength skill is d10+1, and your Strength die is d10. (The “+1” is called a “modifier.”) If your character sheet also says “Melee: Strength +3,” your Melee skill is d10+4, your Melee die is d10, and the Melee modifier is +4.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Rolling Dice</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>The game uses a shorthand form describing the number and type of dice rolled: Xd#, where “X” represents the number of dice and “d#” represents the number of sides on the dice. For example, when you are asked to roll 2d6, you'll roll 2 6-sided dice and their values are added together. Sometimes the shorthand includes a “+” or “–” and a number listed after the die, meaning that number is added to, or subtracted from, the total of the roll (not each individual die rolled). No matter how many penalties are applied to a roll of the dice, the result can’t be reduced below 0.
+
+Sometimes, the type of die that you need to roll is determined by your skill. If you’re told to use your Strength skill + 1d8, and your Strength die is a d10, you'll roll one 10-sided die and one 8-sided die.
+If a card calls for a die roll that affects multiple characters or situations (for example, if it says that each character at a location is dealt 1d4 damage), dice are rolled separately for each.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Limited Resources</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>If you’re required to do something with a certain number of things and there aren’t that many things available, you must use as many as there are. For example, if you’re told to choose 2 characters at a location occupied by only 1 character, that character will be chosen. If you’re required to draw 4 cards from a deck that has only 3 cards, the 3 cards will be drawn. (Regardless, if you need to remove any number of cards from the blessings deck and don’t have enough, you lose the scenario; if you need to remove any number of cards from your deck and don’t have enough, your character dies.)
+
+Note that this only applies when you are required to do something. If you have the opportunity to do something that requires a limited resource, and you don’t have enough of that resource, you cannot do that thing. For example, if a location's “When Closing” requirement says “Discard 2 spells,” and you have only 1 spell, you cannot close that location.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Bane Effects</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>If a bane says an effect happens if or when you do a particular thing, it applies to any character who does that thing. If it limits the things you can do, that limit applies to any character who wants to do those things; however, if the limitation is the result of an action such as playing a card or attempting a check, it applies only to the character who took that action.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>&lt;b&gt;6. Apply Any Effects That Happen After You Act.&lt;/b&gt;
+If any powers on the card you’re encountering happen after you act, they take effect at this time. You may also use powers or cards that state they can be used after you act. Do this whether or not you succeeded at your checks. 
+
+&lt;b&gt;7. Resolve the Encounter.&lt;/b&gt;
+If you succeed at all of the checks required to defeat a bane, it is banished; if you don’t succeed, it is undefeated—shuffle the card back into its location deck. If you encounter a bane that has the Mythic trait, when it is defeated, your character gets a mythic charge. If you succeed at a check to acquire a boon, it goes into hand; otherwise, it is banished. If you are forced to end your turn during an encounter, the encountered card is shuffled back into the deck, or if it was summoned, it is banished; it is neither defeated nor undefeated, and the encounter is over.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Cards that require a check specify the skill or skills you can use to attempt the check. Each check to defeat or acquire a card lists one or more skills; you may choose any of the listed skills for your check. For example, if a check lists Dexterity, Disable, Strength, and Melee, you may use any one of those skills to attempt your check. Even if your character doesn’t have any of the skills listed for a check, you can still attempt the check, but your die is a d4.
+
+Some cards allow you to use a particular skill for a specific type of check, or to use one skill instead of another. (These cards generally say things like “For your combat check, use your Strength or Melee skill,” or “Use your Strength skill instead of your Diplomacy skill.”) You may play only 1 such card or use only 1 such power to determine which skill you’re using. A few cards that can be used on checks don’t use any of your skills; they instead specify the exact dice you need to roll or the result of your die roll.
+
+The skill you’re using for the check, and any skill referenced by that skill, are added as traits to the check. For example, if your character has the skill Melee: Strength +2, and you are using your Melee skill, both the Strength and the Melee traits are added to the check. When you’re playing a card to determine the skill you’re using, that card’s traits are also added to the check. (This isn’t the same as giving you a skill; for example, playing a spell with the Arcane trait adds the Arcane trait to your check, but does not give you the Arcane skill.) If a power adds an additional skill to a check, that skill is not added as a trait to the check. For example, a card that adds your Craft skill to your combat check does not add the Craft trait to your check.
+
+Most monsters and some barriers call for a combat check. Weapons and many other cards that can be used during combat generally tell you what skill to use when you attempt a combat check; if you aren’t playing one of those cards, you must use your Strength or Melee skill.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>To succeed at a check, the result of your die roll and modifiers must be greater than or equal to the difficulty of the check. In checks to defeat a bane or acquire a boon, the difficulty is the number in the circle under the skill you’ve chosen. In other checks, the difficulty is the number in the text that follows the skill you’ve chosen. (For example, where a card’s power instructs you to attempt a Fortitude 7 check, the difficulty is 7.) Some cards increase or decrease the difficulty of a check. When determining the lowest or highest difficulty to defeat or acquire a card, powers from cards that affect the difficulty are applied, except for powers that happen before you act, while you act, or after you act.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Characters may now play cards or use powers that affect your check. Characters may not do things that modify a skill unless you’re using that skill, and characters may not do things that affect combat unless you’re attempting a combat check. Do not add traits from these cards to the check; for example, playing a spell with the Divine trait to affect the check does not give the check the Divine trait.
+
+Some cards and powers affect only specific types of checks, such as Dexterity checks, Acrobatics checks, or non-combat checks. If your character is using a skill that refers to another skill, both skills count for the purpose of determining the type of check. For example, if you’re using the Arcane skill on a combat check, and your character's Arcane skill is Intelligence +2, the check counts as both a combat Arcane check and a combat Intelligence check. Traits also determine the type of check; for example, if you’re attempting a combat check and you played a weapon that added the Ranged trait, it counts as a Ranged combat check.
+
+Some cards allow you to replace a specific die with a different one. For example, if a power allowed you to roll your Divine die in place of the normal die for a check to acquire a boon, it would replace the die (not the skill) you would normally use with your Divine die (not your Divine skill).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>The skill you’re using and the cards you played determine the number and type of dice you roll. For example, if you’re attempting a check using your Strength skill, and your Strength die is d10, you’ll roll 1d10. If another player played a blessing to add a die to your check, you would roll 2d10.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Roll the dice. Any modifiers that add to or subtract from the check are applied and the result is displayed. No matter how many penalties are applied to a roll of the dice, the result cannot be reduced below 0. Powers may allow or require you to reroll 1 or more dice; each such power can let you reroll dice only once in a single check or step. If the result is greater than or equal to the difficulty of the check, you succeed. If the result is lower than the difficulty, you fail.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>If you fail a check to defeat a monster, it deals an amount of damage to you equal to the difference between  the difficulty to defeat the monster and your check result. Unless the card specifies otherwise, this damage  is Combat damage. For example, if the difficulty to defeat a monster is 10 and the result of your check is 8,  the monster deals 2 Combat damage to you (see Taking Damage). Remember that players may not play more than 1  of each card type during a check, so if you previously played a spell to affect the check, you may not play a  spell to reduce damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,1650 @@
+<N>
+ <N ID="PW1B_Evade">
+  <Icon>PW1B_Evade</Icon>
+  <Name>0</Name>
+  <Description>1</Description>
+  <Family>PW1B_Evade</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_Evade_1">
+  <Icon>PW1B_Evade_1</Icon>
+  <Name>189</Name>
+  <Description>190</Description>
+  <Family>PW1B_Evade</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1B_Evade</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_Backstab">
+  <Icon>PW1B_Backstab</Icon>
+  <Name>2</Name>
+  <Description>3</Description>
+  <Family>PW1B_Backstab</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_Backstab_1">
+  <Icon>PW1B_Backstab_1</Icon>
+  <Name>4</Name>
+  <Description>5</Description>
+  <Family>PW1B_Backstab</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1B_Backstab</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_Backstab_2">
+  <Icon>PW1B_Backstab_2</Icon>
+  <Name>6</Name>
+  <Description>7</Description>
+  <Family>PW1B_Backstab</Family>
+  <Rank>2</Rank>
+  <Index>2</Index>
+  <Requires>PW1B_Backstab_1</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_Backstab_3">
+  <Icon>PW1B_Backstab_3</Icon>
+  <Name>187</Name>
+  <Description>188</Description>
+  <Family>PW1B_Backstab</Family>
+  <Rank>3</Rank>
+  <Index>3</Index>
+  <Requires>PW1B_Backstab_2</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_Backstab_4">
+  <Icon>PW1B_Backstab_4</Icon>
+  <Name>201</Name>
+  <Description>202</Description>
+  <Family>PW1B_Backstab</Family>
+  <Rank>4</Rank>
+  <Index>4</Index>
+  <Requires>PW1B_Backstab_3</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_TrapSense">
+  <Icon>PW1B_TrapSense</Icon>
+  <Name>191</Name>
+  <Description>192</Description>
+  <Family>PW1B_TrapSense</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1B_SkillMastery_Acrobat">
+  <Icon>PW1B_SkillMastery</Icon>
+  <Name>193</Name>
+  <Description>194</Description>
+  <Family>PW1B_TrapSense</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1B_TrapSense</Requires>
+ </N>
+  <N ID="PW1B_SkillMastery_Thief">
+  <Icon>PW1B_SkillMastery</Icon>
+  <Name>193</Name>
+  <Description>194</Description>
+  <Family>PW1B_SkillMastery_Thief</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1B_TrinketHunter">
+  <Icon>PW1B_TrinketHunter</Icon>
+  <Name>195</Name>
+  <Description>196</Description>
+  <Family>PW1B_TrinketHunter</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1B_TrinketHunter_1">
+  <Icon>PW1B_TrinketHunter_1</Icon>
+  <Name>197</Name>
+  <Description>198</Description>
+  <Family>PW1B_TrinketHunter</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1B_TrinketHunter</Requires> 
+ </N>
+ <N ID="PW1B_TreasureHunter">
+  <Icon>PW1B_TreasureHunter</Icon>
+  <Name>203</Name>
+  <Description>204</Description>
+  <Family>PW1B_TreasureHunter</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1B_TreasureHunter_1">
+  <Icon>PW1B_TreasureHunter_1</Icon>
+  <Name>205</Name>
+  <Description>206</Description>
+  <Family>PW1B_TreasureHunter</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1B_TreasureHunter</Requires>
+ </N>
+ <N ID="PW1B_TreasureHunter_2">
+  <Icon>PW1B_TreasureHunter_2</Icon>
+  <Name>207</Name>
+  <Description>208</Description>
+  <Family>PW1B_TreasureHunter</Family>
+  <Rank>2</Rank>
+  <Index>2</Index>
+  <Requires>PW1B_TreasureHunter_1</Requires>
+ </N>
+ <N ID="PW1B_CalistrasFavor">
+  <Icon>PW1B_CalistrasFavor</Icon>
+  <Name>199</Name>
+  <Description>200</Description>
+  <Family>PW1B_CalistrasFavor</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_UseMagicDevice">
+  <Icon>PW1B_UseMagicDevice</Icon>
+  <Name>209</Name>
+  <Description>210</Description>
+  <Family>PW1B_UseMagicDevice</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_InnatePower">
+  <Icon>PW1B_InnatePower</Icon>
+  <Name>8</Name>
+  <Description>9</Description>
+  <Family>PW1B_InnatePower</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1B_ArcaneBond">
+  <Icon>PW1B_ArcaneBond</Icon>
+  <Name>10</Name>
+  <Description>11</Description>
+  <Family>PW1B_InnatePower</Family>
+  <Rank>-1</Rank>
+  <Index>1</Index>
+  <Requires>PW1B_InnatePower</Requires>
+  <Modifier>1</Modifier>
+</N>
+ <N ID="PW1B_FireRay">
+  <Icon>PW1B_FireRay</Icon>
+  <Name>12</Name>
+  <Description>13</Description>
+  <Family>PW1B_FireRay</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_FireRay_1">
+  <Icon>PW1B_FireRay_1</Icon>
+  <Name>14</Name>
+  <Description>15</Description>
+  <Family>PW1B_FireRay</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1B_FireRay</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_FireRay_2">
+  <Icon>PW1B_FireRay_2</Icon>
+  <Name>16</Name>
+  <Description>17</Description>
+  <Family>PW1B_FireRay</Family>
+  <Rank>2</Rank>
+  <Index>2</Index>
+  <Requires>PW1B_FireRay_1</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_FireRay_3">
+  <Icon>PW1B_FireRay_3</Icon>
+  <Name>211</Name>
+  <Description>212</Description>
+  <Family>PW1B_FireRay</Family>
+  <Rank>3</Rank>
+  <Index>3</Index>
+  <Requires>PW1B_FireRay_2</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_FireRay_4">
+  <Icon>PW1B_FireRay_4</Icon>
+  <Name>213</Name>
+  <Description>214</Description>
+  <Family>PW1B_FireRay</Family>
+  <Rank>4</Rank>
+  <Index>4</Index>
+  <Requires>PW1B_FireRay_3</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_AcidRay">
+  <Icon>PW1B_AcidRay</Icon>
+  <Name>215</Name>
+  <Description>216</Description>
+  <Family>PW1B_FireRay</Family>
+  <Rank>-1</Rank>
+  <Index>5</Index>
+  <Requires>PW1B_FireRay</Requires>
+  <Active>1</Active>
+  <Modifier>1</Modifier>
+ </N>
+ <N ID="PW1B_DemonicResistance">
+  <Icon>PW1B_DemonicResistance</Icon>
+  <Name>217</Name>
+  <Description>218</Description>
+  <Family>PW1B_DemonicResistance</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1B_DemonicResistance_1">
+  <Icon>PW1B_DemonicResistance_1</Icon>
+  <Name>221</Name>
+  <Description>222</Description>
+  <Family>PW1B_DemonicResistance</Family>
+  <Rank>1</Rank>
+  <Index>2</Index>
+  <Requires>PW1B_DemonicResistance</Requires>
+ </N>
+ <N ID="PW1B_DemonicResistanceAcidCold">
+  <Icon>PW1B_DemonicResistanceAcidCold</Icon>
+  <Name>219</Name>
+  <Description>220</Description>
+  <Family>PW1B_DemonicResistance</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1B_DemonicResistance</Requires>
+  <Modifier>1</Modifier>
+ </N>
+ <N ID="PW1B_CelestialResistance">
+  <Icon>PW1B_CelestialResistance</Icon>
+  <Name>230</Name>
+  <Description>231</Description>
+  <Family>PW1B_CelestialResistance</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1B_CelestialResistance_1">
+  <Icon>PW1B_CelestialResistance_1</Icon>
+  <Name>234</Name>
+  <Description>222</Description>
+  <Family>PW1B_CelestialResistance</Family>
+  <Rank>1</Rank>
+  <Index>2</Index>
+  <Requires>PW1B_CelestialResistance</Requires>
+ </N>
+ <N ID="PW1B_CelestialResistanceElectricity">
+  <Icon>PW1B_CelestialResistanceElectricity</Icon>
+  <Name>232</Name>
+  <Description>233</Description>
+  <Family>PW1B_CelestialResistance</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1B_CelestialResistance</Requires>
+  <Modifier>1</Modifier>
+ </N>
+ <N ID="PW1B_UnholyAura">
+  <Icon>PW1B_UnholyAura</Icon>
+  <Name>223</Name>
+  <Description>225</Description>
+  <Family>PW1B_UnholyAura</Family>
+  <Rank>0</Rank>
+  <Index>0</Index> 
+ </N>
+ <N ID="PW1B_Conviction">
+  <Icon>PW1B_Conviction</Icon>
+  <Name>224</Name>
+  <Description>225</Description>
+  <Family>PW1B_Conviction</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1B_SacrificialSummoning">
+  <Icon>PW1B_SacrificialSummoning</Icon>
+  <Name>226</Name>
+  <Description>227</Description>
+  <Family>PW1B_SacrificialSummoning</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+  <Active>1</Active> 
+ </N>
+ <N ID="PW1B_DivineIntervention">
+  <Icon>PW1B_DivineIntervention</Icon>
+  <Name>228</Name>
+  <Description>229</Description>
+  <Family>PW1B_DivineIntervention</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+  <Active>1</Active> 
+ </N>
+ <N ID="PW1B_Tactics">
+  <Icon>PW1B_Tactics</Icon>
+  <Name>18</Name>
+  <Description>19</Description>
+  <Family>PW1B_Tactics</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1B_Tactics_1">
+  <Icon>PW1B_Tactics_1</Icon>
+  <Name>20</Name>
+  <Description>21</Description>
+  <Family>PW1B_Tactics</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1B_Tactics</Requires>
+ </N>
+ <N ID="PW1B_Tactics_2">
+  <Icon>PW1B_Tactics_2</Icon>
+  <Name>22</Name>
+  <Description>23</Description>
+  <Family>PW1B_Tactics</Family>
+  <Rank>2</Rank>
+  <Index>2</Index>
+  <Requires>PW1B_Tactics_1</Requires>
+ </N>
+ <N ID="PW1B_Tactics_3">
+  <Icon>PW1B_Tactics_3</Icon>
+  <Name>235</Name>
+  <Description>236</Description>
+  <Family>PW1B_Tactics</Family>
+  <Rank>3</Rank>
+  <Index>3</Index>
+  <Requires>PW1B_Tactics_2</Requires>
+ </N>
+ <N ID="PW1B_Tactics_4">
+  <Icon>PW1B_Tactics_4</Icon>
+  <Name>251</Name>
+  <Description>252</Description>
+  <Family>PW1B_Tactics</Family>
+  <Rank>4</Rank>
+  <Index>4</Index>
+  <Requires>PW1B_Tactics_3</Requires>
+ </N>
+ <N ID="PW1B_Tactics_5">
+  <Icon>PW1B_Tactics_5</Icon>
+  <Name>253</Name>
+  <Description>254</Description>
+  <Family>PW1B_Tactics</Family>
+  <Rank>5</Rank>
+  <Index>5</Index>
+  <Requires>PW1B_Tactics_4</Requires>
+ </N>
+ <N ID="PW1B_WeaponTraining">
+  <Icon>PW1B_WeaponTraining</Icon>
+  <Name>24</Name>
+  <Description>25</Description>
+  <Family>PW1B_WeaponTraining</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1B_ArmorTraining">
+  <Icon>PW1B_ArmorTraining</Icon>
+  <Name>237</Name>
+  <Description>238</Description>
+  <Family>PW1B_WeaponTraining</Family>
+  <Rank>-1</Rank>
+  <Index>1</Index>
+  <Modifier>1</Modifier>
+  <Requires>PW1B_WeaponTraining</Requires>
+ </N>
+ <N ID="PW1B_WeaponMastery">
+  <Icon>PW1B_WeaponMastery</Icon>
+  <Name>255</Name>
+  <Description>256</Description>
+  <Family>PW1B_WeaponTraining</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1B_WeaponTraining</Requires>
+ </N>
+ <N ID="PW1B_DefensiveTactics">
+  <Icon>PW1B_DefensiveTactics</Icon>
+  <Name>239</Name>
+  <Description>240</Description>
+  <Family>PW1B_DefensiveTactics</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1B_DefensiveTactics_1">
+  <Icon>PW1B_DefensiveTactics_1</Icon>
+  <Name>241</Name>
+  <Description>242</Description>
+  <Family>PW1B_DefensiveTactics</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1B_DefensiveTactics</Requires>
+ </N>
+ <N ID="PW1B_PowerShot">
+  <Icon>PW1B_PowerShot</Icon>
+  <Name>257</Name>
+  <Description>258</Description>
+  <Family>PW1B_PowerShot</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_ArmamentAficionado_W">
+  <Icon>PW1B_ArmamentAficionado_W</Icon>
+  <Name>243</Name>
+  <Description>244</Description>
+  <Family>PW1B_ArmamentAficionado_W</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1B_ArmamentAficionado_W_1">
+  <Icon>PW1B_ArmamentAficionado_W_1</Icon>
+  <Name>246</Name>
+  <Description>247</Description>
+  <Family>PW1B_ArmamentAficionado_W</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1B_ArmamentAficionado_W</Requires>
+ </N>
+ <N ID="PW1B_ArmamentAficionado_A">
+  <Icon>PW1B_ArmamentAficionado_A</Icon>
+  <Name>335</Name>
+  <Description>245</Description>
+  <Family>PW1B_ArmamentAficionado_A</Family>
+  <Rank>0</Rank>
+  <Index>0</Index> 
+ </N>
+ <N ID="PW1B_ArmamentAficionado_A_1">
+  <Icon>PW1B_ArmamentAficionado_A_1</Icon>
+  <Name>336</Name>
+  <Description>248</Description>
+  <Family>PW1B_ArmamentAficionado_A</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1B_ArmamentAficionado_A</Requires>
+ </N>
+ <N ID="PW1B_BlessingOfAle">
+  <Icon>PW1B_BlessingOfAle</Icon>
+  <Name>249</Name>
+  <Description>250</Description>
+  <Family>PW1B_BlessingOfAle</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1B_BlessingOfBravery">
+  <Icon>PW1B_BlessingOfBravery</Icon>
+  <Name>259</Name>
+  <Description>260</Description>
+  <Family>PW1B_BlessingOfBravery</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1B_RebukeDeath">
+  <Icon>PW1B_RebukeDeath</Icon>
+  <Name>26</Name>
+  <Description>27</Description>
+  <Family>PW1B_RebukeDeath</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_RebukeDeath_1">
+  <Icon>PW1B_RebukeDeath_1</Icon>
+  <Name>28</Name>
+  <Description>29</Description>
+  <Family>PW1B_RebukeDeath</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1B_RebukeDeath</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_RebukeDeath_2">
+  <Icon>PW1B_RebukeDeath_2</Icon>
+  <Name>124</Name>
+  <Description>125</Description>
+  <Family>PW1B_RebukeDeath</Family>
+  <Rank>2</Rank>
+  <Index>2</Index>
+  <Requires>PW1B_RebukeDeath_1</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_EmpoweredHealing">
+  <Icon>PW1B_EmpoweredHealing</Icon>
+  <Name>126</Name>
+  <Description>127</Description>
+  <Family>PW1B_RebukeDeath</Family>
+  <Rank>-1</Rank>
+  <Index>3</Index>
+  <Requires>PW1B_RebukeDeath</Requires>
+  <Active>1</Active>
+  <Modifier>1</Modifier>
+ </N>
+ <N ID="PW1B_SunsBlessing">
+  <Icon>PW1B_SunsBlessing</Icon>
+  <Name>30</Name>
+  <Description>31</Description>
+  <Family>PW1B_SunsBlessing</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1B_SunsBlessing_1">
+  <Icon>PW1B_SunsBlessing_1</Icon>
+  <Name>32</Name>
+  <Description>33</Description>
+  <Family>PW1B_SunsBlessing</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1B_SunsBlessing</Requires>
+ </N>
+ <N ID="PW1B_SunsWrath">
+  <Icon>PW1B_SunsWrath</Icon>
+  <Name>136</Name>
+  <Description>137</Description>
+  <Family>PW1B_SunsBlessing</Family>
+  <Rank>-1</Rank>
+  <Index>2</Index>
+  <Requires>PW1B_SunsBlessing</Requires>
+  <Modifier>1</Modifier>
+ </N>
+ <N ID="PW1B_BountyOfTheGods">
+  <Icon>PW1B_BountyOfTheGods</Icon>
+  <Name>128</Name>
+  <Description>129</Description>
+  <Family>PW1B_BountyOfTheGods</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1B_BountyOfTheGods_1">
+  <Icon>PW1B_BountyOfTheGods_1</Icon>
+  <Name>130</Name>
+  <Description>131</Description>
+  <Family>PW1B_BountyOfTheGods</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1B_BountyOfTheGods</Requires>
+ </N>
+ <N ID="PW1B_BlessingOfRedemption">
+  <Icon>PW1B_BlessingOfRedemption</Icon>
+  <Name>132</Name>
+  <Description>133</Description>
+  <Family>PW1B_BlessingOfRedemption</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1B_BlessingOfRedemption_1">
+  <Icon>PW1B_BlessingOfRedemption_1</Icon>
+  <Name>134</Name>
+  <Description>135</Description>
+  <Family>PW1B_BlessingOfRedemption</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>BlessingOfRedemption</Requires>
+ </N>
+ <N ID="PW1B_BlessingOfSwiftRedemption">
+  <Icon>PW1B_BlessingOfSwiftRedemption</Icon>
+  <Name>142</Name>
+  <Description>143</Description>
+  <Family>PW1B_BlessingOfRedemption</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>BlessingOfRedemption</Requires>
+ </N>
+ <N ID="PW1B_ArmorOfFaith">
+  <Icon>PW1B_ArmorOfFaith</Icon>
+  <Name>138</Name>
+  <Description>139</Description>
+  <Family>PW1B_ArmorOfFaith</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1B_CrusadersArsenal">
+  <Icon>PW1B_CrusadersArsenal</Icon>
+  <Name>140</Name>
+  <Description>141</Description>
+  <Family>PW1B_ArmorOfFaith</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1B_ArmorOfFaith</Requires>
+ </N>
+ <N ID="PW1B_TouchOfGlory">
+  <Icon>PW1B_TouchOfGlory</Icon>
+  <Name>144</Name>
+  <Description>145</Description>
+  <Family>PW1B_TouchOfGlory</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_TouchOfWrath">
+  <Icon>PW1B_TouchOfWrath</Icon>
+  <Name>146</Name>
+  <Description>147</Description>
+  <Family>PW1B_TouchOfGlory</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1B_TouchOfGlory</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_Scout">
+  <Icon>PW1B_Scout</Icon>
+  <Name>34</Name>
+  <Description>35</Description>
+  <Family>PW1B_Scout</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_Track">
+  <Icon>PW1B_Track</Icon>
+  <Name>36</Name>
+  <Description>37</Description>
+  <Family>PW1B_Scout</Family>
+  <Rank>0</Rank>
+  <Index>1</Index>
+  <Requires>PW1B_Scout</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_MasterHunter">
+  <Icon>PW1B_MasterHunter</Icon>
+  <Name>181</Name>
+  <Description>182</Description>
+  <Family>PW1B_Scout</Family>
+  <Rank>2</Rank>
+  <Index>2</Index>
+  <Requires>PW1B_Track</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_FarShot">
+  <Icon>PW1B_FarShot</Icon>
+  <Name>38</Name>
+  <Description>39</Description>
+  <Family>PW1B_FarShot</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_FarShot_1">
+  <Icon>PW1B_FarShot_1</Icon>
+  <Name>40</Name>
+  <Description>41</Description>
+  <Family>PW1B_FarShot</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1B_FarShot</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_FarShot_2">
+  <Icon>PW1B_FarShot_2</Icon>
+  <Name>42</Name>
+  <Description>43</Description>
+  <Family>PW1B_FarShot</Family>
+  <Rank>2</Rank>
+  <Index>2</Index>
+  <Requires>PW1B_FarShot_1</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_FarShot_3">
+  <Icon>PW1B_FarShot_3</Icon>
+  <Name>321</Name>
+  <Description>322</Description>
+  <Family>PW1B_FarShot</Family>
+  <Rank>3</Rank>
+  <Index>3</Index>
+  <Requires>PW1B_FarShot_2</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_FarShot_4">
+  <Icon>PW1B_FarShot_4</Icon>
+  <Name>169</Name>
+  <Description>170</Description>
+  <Family>PW1B_FarShot</Family>
+  <Rank>4</Rank>
+  <Index>4</Index>
+  <Requires>PW1B_FarShot_3</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_RapidShot">
+  <Icon>PW1B_RapidShot</Icon>
+  <Name>171</Name>
+  <Description>172</Description>
+  <Family>PW1B_RapidShot</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_Manyshot">
+  <Icon>PW1B_Manyshot</Icon>
+  <Name>173</Name>
+  <Description>174</Description>
+  <Family>PW1B_RapidShot</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1B_RapidShot</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_RapidReload_Harsk">
+  <Icon>PW1B_RapidReload_Harsk</Icon>
+  <Name>175</Name>
+  <Description>176</Description>
+  <Family>PW1B_RapidReload_Harsk</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1B_FavoredEnemyGiant">
+  <Icon>PW1B_FavoredEnemyGiant</Icon>
+  <Name>343</Name>
+  <Description>344</Description>
+  <Family>PW1B_FavoredEnemyGiant</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1B_FavoredEnemyGiant_1">
+  <Icon>PW1B_FavoredEnemyGiant_1</Icon>
+  <Name>183</Name>
+  <Description>184</Description>
+  <Family>PW1B_FavoredEnemyGiant</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1B_FavoredEnemyGiant</Requires>
+ </N>
+ <N ID="PW1C_WildEmpathy_Harsk">
+  <Icon>PW1C_WildEmpathy_Harsk</Icon>
+  <Name>64</Name>
+  <Description>65</Description>
+  <Family>PW1C_WildEmpathy_Harsk</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_RangerSpellcasting">
+  <Icon>PW1B_RangerSpellcasting</Icon>
+  <Name>177</Name>
+  <Description>178</Description>
+  <Family>PW1B_RangerSpellcasting</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1B_HuntersBlessing">
+  <Icon>PW1B_HuntersBlessing</Icon>
+  <Name>179</Name>
+  <Description>180</Description>
+  <Family>PW1B_HuntersBlessing</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1B_NaturesBlessing">
+  <Icon>PW1B_NaturesBlessing</Icon>
+  <Name>185</Name>
+  <Description>186</Description>
+  <Family>PW1B_NaturesBlessing</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1B_QuickenSpell">
+  <Icon>PW1B_QuickenSpell</Icon>
+  <Name>44</Name>
+  <Description>45</Description>
+  <Family>PW1B_QuickenSpell</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_QuickenSpell_1">
+  <Icon>PW1B_QuickenSpell_1</Icon>
+  <Name>116</Name>
+  <Description>117</Description>
+  <Family>PW1B_QuickenSpell</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1B_QuickenSpell</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_Spellcraft">
+  <Icon>PW1B_Spellcraft</Icon>
+  <Name>46</Name>
+  <Description>47</Description>
+  <Family>PW1B_Spellcraft</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1B_ExtendSpell">
+  <Icon>PW1B_ExtendSpell</Icon>
+  <Name>48</Name>
+  <Description>49</Description>
+  <Family>PW1B_ExtendSpell</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1B_ExtendSpell_1">
+  <Icon>PW1B_ExtendSpell_1</Icon>
+  <Name>50</Name>
+  <Description>51</Description>
+  <Family>PW1B_ExtendSpell</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1B_ExtendSpell</Requires>
+ </N>
+ <N ID="PW1B_ExtendSpell_2">
+  <Icon>PW1B_ExtendSpell_2</Icon>
+  <Name>102</Name>
+  <Description>103</Description>
+  <Family>PW1B_ExtendSpell</Family>
+  <Rank>2</Rank>
+  <Index>2</Index>
+  <Requires>PW1B_ExtendSpell_1</Requires>
+ </N>
+ <N ID="PW1B_ExtendSpell_3">
+  <Icon>PW1B_ExtendSpell_3</Icon>
+  <Name>104</Name>
+  <Description>105</Description>
+  <Family>PW1B_ExtendSpell</Family>
+  <Rank>3</Rank>
+  <Index>3</Index>
+  <Requires>PW1B_ExtendSpell_2</Requires>
+ </N>
+ <N ID="PW1B_IntenseSpells">
+  <Icon>PW1B_IntenseSpells</Icon>
+  <Name>106</Name>
+  <Description>107</Description>
+  <Family>PW1B_IntenseSpells</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1B_IntenseSpellsAcidCold">
+  <Icon>PW1B_IntenseSpellsAcidCold</Icon>
+  <Name>108</Name>
+  <Description>109</Description>
+  <Family>PW1B_IntenseSpells</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1B_IntenseSpells</Requires>
+  <Modifier>1</Modifier>
+ </N>
+ <N ID="PW1B_IntenseSpellsElectricityFire">
+  <Icon>PW1B_IntenseSpellsElectricityFire</Icon>
+  <Name>110</Name>
+  <Description>111</Description>
+  <Family>PW1B_IntenseSpells</Family>
+  <Rank>1</Rank>
+  <Index>2</Index>
+  <Requires>PW1B_IntenseSpells</Requires>
+  <Modifier>1</Modifier>
+ </N>
+ <N ID="PW1B_InvisibilityField">
+  <Icon>PW1B_InvisibilityField</Icon>
+  <Name>118</Name>
+  <Description>119</Description>
+  <Family>PW1B_InvisibilityField</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1B_Arcana">
+  <Icon>PW1B_Arcana</Icon>
+  <Name>112</Name>
+  <Description>113</Description>
+  <Family>PW1B_Arcana</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1B_Arcana_1">
+  <Icon>PW1B_Arcana_1</Icon>
+  <Name>114</Name>
+  <Description>115</Description>
+  <Family>PW1B_Arcana</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1B_Arcana</Requires>
+ </N> 
+ <N ID="PW1B_Persuasive">
+  <Icon>PW1B_Persuasive</Icon>
+  <Name>120</Name>
+  <Description>121</Description>
+  <Family>PW1B_Arcana</Family>
+  <Rank>1</Rank>
+  <Index>2</Index>
+  <Requires>PW1B_Arcana</Requires>
+  <Modifier>1</Modifier>
+ </N>
+ <N ID="PW1B_Cantrip">
+  <Icon>PW1B_Cantrip</Icon>
+  <Name>122</Name>
+  <Description>123</Description>
+  <Family>PW1B_Cantrip</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+  <Active>1</Active>
+ </N> 
+ <N ID="PW1B_BardicPerformance">
+  <Icon>PW1B_BardicPerformance</Icon>
+  <Name>52</Name>
+  <Description>53</Description>
+  <Family>PW1B_BardicPerformance</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_BardicPerformance_1">
+  <Icon>PW1B_BardicPerformance_1</Icon>
+  <Name>54</Name>
+  <Description>55</Description>
+  <Family>PW1B_BardicPerformance</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1B_BardicPerformance</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_BardicPerformance_2">
+  <Icon>PW1B_BardicPerformance_2</Icon>
+  <Name>56</Name>
+  <Description>57</Description>
+  <Family>PW1B_BardicPerformance</Family>
+  <Rank>2</Rank>
+  <Index>2</Index>
+  <Requires>PW1B_BardicPerformance_1</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_BardicPerformance_3">
+  <Icon>PW1B_BardicPerformance_3</Icon>
+  <Name>148</Name>
+  <Description>149</Description>
+  <Family>PW1B_BardicPerformance</Family>
+  <Rank>3</Rank>
+  <Index>3</Index>
+  <Requires>PW1B_BardicPerformance_2</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_InspiredPerformance">
+  <Icon>PW1B_InspiredPerformance</Icon>
+  <Name>150</Name>
+  <Description>151</Description>
+  <Family>PW1B_BardicPerformance</Family>
+  <Rank>-1</Rank>
+  <Index>4</Index>
+  <Requires>PW1B_BardicPerformance</Requires>
+  <Modifier>1</Modifier>
+ </N>
+ <N ID="PW1B_Versatile">
+  <Icon>PW1B_Versatile</Icon>
+  <Name>58</Name>
+  <Description>59</Description>
+  <Family>PW1B_Versatile</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_Encore">
+  <Icon>PW1B_Encore</Icon>
+  <Name>152</Name>
+  <Description>153</Description>
+  <Family>PW1B_Versatile</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1B_Versatile</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1B_FriendlySuggestion">
+  <Icon>PW1B_FriendlySuggestion</Icon>
+  <Name>154</Name>
+  <Description>155</Description>
+  <Family>PW1B_FriendlySuggestion</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1B_DangerousSuggestion">
+  <Icon>PW1B_DangerousSuggestion</Icon>
+  <Name>163</Name>
+  <Description>164</Description>
+  <Family>PW1B_FriendlySuggestion</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1B_FriendlySuggestion</Requires>
+  <Modifier>1</Modifier>
+ </N>
+ <N ID="PW1B_DeadlySuggestion">
+  <Icon>PW1B_DeadlySuggestion</Icon>
+  <Name>165</Name>
+  <Description>166</Description>
+  <Family>PW1B_FriendlySuggestion</Family>
+  <Rank>1</Rank>
+  <Index>2</Index>
+  <Requires>PW1B_FriendlySuggestion</Requires>
+  <Modifier>1</Modifier>
+ </N>
+ <N ID="PW1B_ScholarOfMagicLore">
+  <Icon>PW1B_ScholarOfMagicLore</Icon>
+  <Name>156</Name>
+  <Description>157</Description>
+  <Family>PW1B_ScholarOfMagicLore</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1B_MasterOfMagicLore">
+  <Icon>PW1B_MasterOfMagicLore</Icon>
+  <Name>158</Name>
+  <Description>159</Description>
+  <Family>PW1B_ScholarOfMagicLore</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1B_ScholarOfMagicLore</Requires>
+ </N>
+ <N ID="PW1B_ApprenticeEnchanter">
+  <Icon>PW1B_ApprenticeEnchanter</Icon>
+  <Name>167</Name>
+  <Description>168</Description>
+  <Family>PW1B_ApprenticeEnchanter</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1B_BlessingOfMusic">
+  <Icon>PW1B_BlessingOfMusic</Icon>
+  <Name>160</Name>
+  <Description>162</Description>
+  <Family>PW1B_BlessingOfMusic</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1B_BlessingOfCharm">
+  <Icon>PW1B_BlessingOfCharm</Icon>
+  <Name>161</Name>
+  <Description>162</Description>
+  <Family>PW1B_BlessingOfCharm</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1C_Rage">
+  <Icon>PW1C_Rage</Icon>
+  <Name>60</Name>
+  <Description>61</Description>
+  <Family>PW1C_Rage</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1C_Rage_1">
+  <Icon>PW1C_Rage_1</Icon>
+  <Name>75</Name>
+  <Description>74</Description>
+  <Family>PW1C_Rage</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1C_Rage</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1C_Rage_2">
+  <Icon>PW1C_Rage_2</Icon>
+  <Name>261</Name>
+  <Description>262</Description>
+  <Family>PW1C_Rage</Family>
+  <Rank>2</Rank>
+  <Index>2</Index>
+  <Requires>PW1C_Rage_1</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1C_Rage_3">
+  <Icon>PW1C_Rage_3</Icon>
+  <Name>263</Name>
+  <Description>264</Description>
+  <Family>PW1C_Rage</Family>
+  <Rank>3</Rank>
+  <Index>3</Index>
+  <Requires>PW1C_Rage_2</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1C_Rage_4">
+  <Icon>PW1C_Rage_4</Icon>
+  <Name>265</Name>
+  <Description>266</Description>
+  <Family>PW1C_Rage</Family>
+  <Rank>4</Rank>
+  <Index>4</Index>
+  <Requires>PW1C_Rage_3</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1C_RousedAnger">
+  <Icon>PW1C_RousedAnger</Icon>
+  <Name>267</Name>
+  <Description>268</Description>
+  <Family>PW1C_Rage</Family>
+  <Rank>-1</Rank>
+  <Index>5</Index>
+  <Requires>PW1C_Rage</Requires>
+  <Active>1</Active>
+  <Modifier>1</Modifier>
+ </N>
+ <N ID="PW1C_FastMovement">
+  <Icon>PW1C_FastMovement</Icon>
+  <Name>62</Name>
+  <Description>63</Description>
+  <Family>PW1C_FastMovement</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1C_FastMovement_1">
+  <Icon>PW1C_FastMovement_1</Icon>
+  <Name>76</Name>
+  <Description>77</Description>
+  <Family>PW1C_FastMovement</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1C_FastMovement</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1C_ArmamentAficionado_W">
+  <Icon>PW1C_ArmamentAficionado_Amiri</Icon>
+  <Name>243</Name>
+  <Description>244</Description>
+  <Family>PW1C_ArmamentAficionado_W</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1C_ArmamentAficionado_W_1">
+  <Icon>PW1C_ArmamentAficionado_Amiri_1</Icon>
+  <Name>246</Name>
+  <Description>247</Description>
+  <Family>PW1C_ArmamentAficionado_W</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1C_ArmamentAficionado_W</Requires>
+ </N>
+ <N ID="PW1C_ArmamentAficionado_A">
+  <Icon>PW1C_ArmamentAficionado_Amiri_A</Icon>
+  <Name>335</Name>
+  <Description>245</Description>
+  <Family>PW1C_ArmamentAficionado_A</Family>
+  <Rank>0</Rank>
+  <Index>0</Index> 
+ </N>
+ <N ID="PW1C_ArmamentAficionado_A_1">
+  <Icon>PW1C_ArmamentAficionado_Amiri_A_1</Icon>
+  <Name>336</Name>
+  <Description>248</Description>
+  <Family>PW1C_ArmamentAficionado_A</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1C_ArmamentAficionado_A</Requires>
+ </N>
+ <N ID="PW1C_StrengthSurge">
+  <Icon>PW1C_StrengthSurge</Icon>
+  <Name>269</Name>
+  <Description>270</Description>
+  <Family>PW1C_StrengthSurge</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1C_DamageReduction">
+  <Icon>PW1C_DamageReduction</Icon>
+  <Name>271</Name>
+  <Description>272</Description>
+  <Family>PW1C_DamageReduction</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1C_Superstition">
+  <Icon>PW1C_Superstition</Icon>
+  <Name>273</Name>
+  <Description>274</Description>
+  <Family>PW1C_DamageReduction</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1C_DamageReduction</Requires>
+ </N>
+ <N ID="PW1C_WildEmpathy">
+  <Icon>PW1C_WildEmpathy</Icon>
+  <Name>64</Name>
+  <Description>67</Description>
+  <Family>PW1C_WildEmpathy</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1C_WildEmpathy_1">
+  <Icon>PW1C_WildEmpathy_1</Icon>
+  <Name>78</Name>
+  <Description>79</Description>
+  <Family>PW1C_WildEmpathy</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1C_WildEmpathy</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1C_WildEmpathy_2">
+  <Icon>PW1C_WildEmpathy_2</Icon>
+  <Name>80</Name>
+  <Description>81</Description>
+  <Family>PW1C_WildEmpathy</Family>
+  <Rank>2</Rank>
+  <Index>2</Index>
+  <Requires>PW1C_WildEmpathy_1</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1C_WildEmpathy_3">
+  <Icon>PW1C_WildEmpathy_3</Icon>
+  <Name>275</Name>
+  <Description>276</Description>
+  <Family>PW1C_WildEmpathy</Family>
+  <Rank>3</Rank>
+  <Index>3</Index>
+  <Requires>PW1C_WildEmpathy_2</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1C_WildEmpathy_4">
+  <Icon>PW1C_WildEmpathy_4</Icon>
+  <Name>283</Name>
+  <Description>284</Description>
+  <Family>PW1C_WildEmpathy</Family>
+  <Rank>4</Rank>
+  <Index>4</Index>
+  <Requires>PW1C_WildEmpathy_3</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1C_NatureBond">
+  <Icon>PW1C_NatureBond</Icon>
+  <Name>66</Name>
+  <Description>65</Description>
+  <Family>PW1C_NatureBond</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1C_Wildshape">
+  <Icon>PW1C_Wildshape</Icon>
+  <Name>68</Name>
+  <Description>69</Description>
+  <Family>PW1C_Wildshape</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1C_Wildshape_1">
+  <Icon>PW1C_Wildshape_1</Icon>
+  <Name>82</Name>
+  <Description>83</Description>
+  <Family>PW1C_Wildshape</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1C_Wildshape</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1C_Wildshape_2">
+  <Icon>PW1C_Wildshape_2</Icon>
+  <Name>84</Name>
+  <Description>85</Description>
+  <Family>PW1C_Wildshape</Family>
+  <Rank>2</Rank>
+  <Index>2</Index>
+  <Requires>PW1C_Wildshape_1</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1C_ElementalBody">
+  <Icon>PW1C_ElementalBody</Icon>
+  <Name>86</Name>
+  <Description>87</Description>
+  <Family>PW1C_Wildshape</Family>
+  <Rank>-1</Rank>
+  <Index>3</Index>
+  <Requires>PW1C_Wildshape</Requires>
+  <Active>1</Active>
+  <Modifier>1</Modifier>
+ </N>
+ <N ID="PW1C_SpeakWithAnimals">
+  <Icon>PW1C_SpeakWithAnimals</Icon>
+  <Name>277</Name>
+  <Description>278</Description>
+  <Family>PW1C_SpeakWithAnimals</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1C_SpeakWithAnimals_1">
+  <Icon>PW1C_SpeakWithAnimals_1</Icon>
+  <Name>279</Name>
+  <Description>280</Description>
+  <Family>PW1C_SpeakWithAnimals</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1C_SpeakWithAnimals</Requires>
+ </N>
+ <N ID="PW1C_NaturalSpell">
+  <Icon>PW1C_NaturalSpell</Icon>
+  <Name>285</Name>
+  <Description>286</Description>
+  <Family>PW1C_NaturalSpell</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1C_NaturalSpell_1">
+  <Icon>PW1C_NaturalSpell_1</Icon>
+  <Name>287</Name>
+  <Description>288</Description>
+  <Family>PW1C_NaturalSpell</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1C_NaturalSpell</Requires>
+ </N>
+ <N ID="PW1C_NaturesWrath">
+  <Icon>PW1C_NaturesWrath</Icon>
+  <Name>289</Name>
+  <Description>290</Description>
+  <Family>PW1C_NaturesWrath</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1C_PrimevalWisdom">
+  <Icon>PW1C_PrimevalWisdom</Icon>
+  <Name>281</Name>
+  <Description>282</Description>
+  <Family>PW1C_PrimevalWisdom</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1C_DetectEvil">
+  <Icon>PW1C_DetectEvil</Icon>
+  <Name>70</Name>
+  <Description>73</Description>
+  <Family>PW1C_DetectEvil</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1C_DetectEvil_1">
+  <Icon>PW1C_DetectEvil_1</Icon>
+  <Name>92</Name>
+  <Description>93</Description>
+  <Family>PW1C_DetectEvil</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1C_DetectEvil</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1C_AuraOfGood">
+  <Icon>PW1C_AuraOfGood</Icon>
+  <Name>323</Name>
+  <Description>324</Description>
+  <Family>PW1C_DetectEvil</Family>
+  <Rank>-1</Rank>
+  <Index>2</Index>
+  <Requires>PW1C_DetectEvil</Requires>
+  <Active>1</Active>  
+  <Modifier>1</Modifier>
+ </N>
+ <N ID="PW1C_DivineGrace">
+  <Icon>PW1C_DivineGrace</Icon>
+  <Name>72</Name>
+  <Description>71</Description>
+  <Family>PW1C_DivineGrace</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1C_DivineGrace_1">
+  <Icon>PW1C_DivineGrace_1</Icon>
+  <Name>88</Name>
+  <Description>89</Description>
+  <Family>PW1C_DivineGrace</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1C_DivineGrace</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1C_DivineGrace_2">
+  <Icon>PW1C_DivineGrace_2</Icon>
+  <Name>309</Name>
+  <Description>310</Description>
+  <Family>PW1C_DivineGrace</Family>
+  <Rank>2</Rank>
+  <Index>2</Index>
+  <Requires>PW1C_DivineGrace_1</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1C_DivineGrace_3">
+  <Icon>PW1C_DivineGrace_3</Icon>
+  <Name>311</Name>
+  <Description>312</Description>
+  <Family>PW1C_DivineGrace</Family>
+  <Rank>3</Rank>
+  <Index>3</Index>
+  <Requires>PW1C_DivineGrace_2</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1C_DivineGrace_Opt1">
+  <Icon>PW1C_DivineGrace_Opt1</Icon>
+  <Name>90</Name>
+  <Description>91</Description>
+  <Family>PW1C_DivineGrace</Family>
+  <Rank>-1</Rank>
+  <Index>4</Index>
+  <Requires>PW1C_DivineGrace</Requires>
+  <Active>1</Active>
+  <Modifier>1</Modifier>
+ </N>
+ <N ID="PW1C_AuraOfRighteousness">
+  <Icon>PW1C_AuraOfRighteousness</Icon>
+  <Name>313</Name>
+  <Description>314</Description>
+  <Family>PW1C_AuraOfRighteousness</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1C_SunsBlessing_Seelah">
+  <Icon>PW1C_SunsBlessing_Seelah</Icon>
+  <Name>30</Name>
+  <Description>31</Description>
+  <Family>PW1C_SunsBlessing_Seelah</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1C_LayOnHands">
+  <Icon>PW1C_LayOnHands</Icon>
+  <Name>319</Name>
+  <Description>320</Description>
+  <Family>PW1C_LayOnHands</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1C_ValorOfIomedae">
+  <Icon>PW1C_ValorOfIomedae</Icon>
+  <Name>315</Name>
+  <Description>316</Description>
+  <Family>PW1C_ValorOfIomedae</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1C_ValorOfIomedae_1">
+  <Icon>PW1C_ValorOfIomedae_1</Icon>
+  <Name>317</Name>
+  <Description>318</Description>
+  <Family>PW1C_ValorOfIomedae</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1C_ValorOfIomedae</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1C_UnarmedStrike">
+  <Icon>PW1C_UnarmedStrike</Icon>
+  <Name>94</Name>
+  <Description>95</Description>
+  <Family>PW1C_UnarmedStrike</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1C_KiStrike">
+  <Icon>PW1C_KiStrike</Icon>
+  <Name>96</Name>
+  <Description>97</Description>
+  <Family>PW1C_UnarmedStrike</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1C_UnarmedStrike</Requires>
+  <Active>1</Active>
+  <Modifier>1</Modifier>
+ </N>
+ <N ID="PW1C_FlameStrike">
+  <Icon>PW1C_FlameStrike</Icon>
+  <Name>98</Name>
+  <Description>99</Description>
+  <Family>PW1C_UnarmedStrike</Family>
+  <Rank>2</Rank>
+  <Index>2</Index>
+  <Requires>PW1C_KiStrike</Requires>
+  <Active>1</Active>
+  <Modifier>1</Modifier>
+ </N>
+ <N ID="PW1C_FlurryOfBlows">
+  <Icon>PW1C_FlurryOfBlows</Icon>
+  <Name>100</Name>
+  <Description>101</Description>
+  <Family>PW1C_FlurryOfBlows</Family>
+  <Rank>-0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1C_DrunkenResilience">
+  <Icon>PW1C_DrunkenResilience</Icon>
+  <Name>291</Name>
+  <Description>293</Description>
+  <Family>PW1C_DrunkenResilience</Family>
+  <Rank>-0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1C_DrunkenResilience_1">
+  <Icon>PW1C_DrunkenResilience_1</Icon>
+  <Name>294</Name>
+  <Description>296</Description>
+  <Family>PW1C_DrunkenResilience</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1C_DrunkenResilience</Requires>
+ </N>
+ <N ID="PW1C_DrunkenResilience_2">
+  <Icon>PW1C_DrunkenResilience_2</Icon>
+  <Name>297</Name>
+  <Description>298</Description>
+  <Family>PW1C_DrunkenResilience</Family>
+  <Rank>2</Rank>
+  <Index>2</Index>
+  <Requires>PW1C_DrunkenResilience_1</Requires>
+ </N>
+ <N ID="PW1C_PurityOfBody">
+  <Icon>PW1C_PurityOfBody</Icon>
+  <Name>292</Name>
+  <Description>293</Description>
+  <Family>PW1C_PurityOfBody</Family>
+  <Rank>-0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1C_DiamondBody">
+  <Icon>PW1C_DiamondBody</Icon>
+  <Name>295</Name>
+  <Description>296</Description>
+  <Family>PW1C_PurityOfBody</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1C_PurityOfBody</Requires>
+ </N>
+ <N ID="PW1C_IllHaveAnother">
+  <Icon>PW1C_IllHaveAnother</Icon>
+  <Name>299</Name>
+  <Description>300</Description>
+  <Family>PW1C_IllHaveAnother</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1C_ThisRoundsOnMe">
+  <Icon>PW1C_ThisRoundsOnMe</Icon>
+  <Name>301</Name>
+  <Description>302</Description>
+  <Family>PW1C_ThisRoundsOnMe</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1C_DrunkenCourage">
+  <Icon>PW1C_DrunkenCourage</Icon>
+  <Name>303</Name>
+  <Description>304</Description>
+  <Family>PW1C_DrunkenCourage</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1B_RapidReload_Sajan">
+  <Icon>PW1B_RapidReload_Sajan</Icon>
+  <Name>175</Name>
+  <Description>176</Description>
+  <Family>PW1B_RapidReload_Sajan</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1C_WayOfTheBow">
+  <Icon>PW1C_WayOfTheBow</Icon>
+  <Name>305</Name>
+  <Description>306</Description>
+  <Family>PW1C_WayOfTheBow</Family>
+  <Rank>-0</Rank>
+  <Index>0</Index>
+ </N>
+ <N ID="PW1C_WayOfTheBow_1">
+  <Icon>PW1C_WayOfTheBow_1</Icon>
+  <Name>307</Name>
+  <Description>308</Description>
+  <Family>PW1C_WayOfTheBow</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1C_WayOfTheBow</Requires>
+ </N>
+ <N ID="PW1B_RapidShot_Sajan">
+  <Icon>PW1B_RapidShot_Sajan</Icon>
+  <Name>171</Name>
+  <Description>172</Description>
+  <Family>PW1B_RapidShot_Sajan</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+  <Active>1</Active> 
+ </N>
+ <N ID="PW1T_ShieldBash">
+  <Icon>PW1T_ShieldBash</Icon>
+  <Name>329</Name>
+  <Description>330</Description>
+  <Family>PW1T_ShieldBash</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1T_ShieldBash_1">
+  <Icon>PW1T_ShieldBash_1</Icon>
+  <Name>331</Name>
+  <Description>332</Description>
+  <Family>PW1T_ShieldBash</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1T_ShieldBash</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1T_ShieldBash_2">
+  <Icon>PW1T_ShieldBash_2</Icon>
+  <Name>333</Name>
+  <Description>334</Description>
+  <Family>PW1T_ShieldBash</Family>
+  <Rank>2</Rank>
+  <Index>2</Index>
+  <Requires>PW1T_ShieldBash_1</Requires>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1T_CallInAFavor">
+  <Icon>PW1T_CallInAFavor</Icon>
+  <Name>325</Name>
+  <Description>326</Description>
+  <Family>PW1T_CallInAFavor</Family>
+  <Rank>0</Rank>
+  <Index>0</Index>
+  <Active>1</Active>
+ </N>
+ <N ID="PW1T_CallInAFavor_1">
+  <Icon>PW1T_CallInAFavor_1</Icon>
+  <Name>327</Name>
+  <Description>328</Description>
+  <Family>PW1T_CallInAFavor</Family>
+  <Rank>1</Rank>
+  <Index>1</Index>
+  <Requires>PW1T_CallInAFavor</Requires>
+  <Active>1</Active>
+  </N>
+</N> 

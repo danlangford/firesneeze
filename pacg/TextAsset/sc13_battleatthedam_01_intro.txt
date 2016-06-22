@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\sc13_battleatthedam_01_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Skull's Crossing: A marvel of ancient levee technology artistically realized with stone cranial bones.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Dam skulls! Right? You're just talking about the dam skulls. And the Kreeg ogres are doing a number on them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Indeed. The cacophonous banging of the demolition crew can be heard all the way to Kenabres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Skull's Crossing. Kreeg ogres are makin' slow work of the dam. We let 'em be, the place will come down all the same.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Skull's Crossing is the area’s most marvelous architectural feature. The Kreeg ogres are doing their share of damage to it, but it would take them years to bring it down at this rate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The Kreeg ogres are here. They are trying to break apart the dam. I'm not sure they have the best tools for it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The dam certainly has enough skulls on it. By the look of it, these ogres have been in a fight. If they're tired, this is the time to strike.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Bank Node 7</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>I understand why an ogre would not trust Skullscraw Sing. I don't think fighting the stone with weapons will work though.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Ogres attackin' the dam. I'll pick off what I can, but I can't see them leavin' without a hard fight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>The ogres waste their strength combating a centuries-old stone dam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>These Kreegs have certainly lost their minds. The size of this thing... and they think they are bringing it down themselves?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The Kreeg ogres are sure doing a number on this dam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The Kreeg ogres are destroying Central Varisia's one piece of ancient technology left to us from the Thassilonian era.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Skull's Crossing: A marvel of ancient levee technology artistically realized with stone cranial bones. It is currently being demolished by a crew of cacophonous Kreeg ogres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>The ogres here think they are just breaking a physical structure. I fear that this dam holds much more dangerous elements within. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>The Kreeg tribe of ogres is trying its best to break apart the dam of Skull's Crossing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Ogres are doing their best to bring this dam down. There has already been significant damage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>This dam doesn't have many points of entry. As much as I hate the direct approach, it may be the only way to stop the ogres here from demolishing it. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Bank Node 7</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>It appears the ogres have already been fighting some local trolls. With any luck, the Kreegs will find that they are too tired to fight and will wave the flag of surrender.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>The ogres are wounded and worn out. They've been fighting someone recently.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>I wonder how the dam is controlled. There must be some magic that allows it to function.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>There is nothing natural about this place. There is something not from this world deep inside.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Their work here likely riled that Magga creature into a frenzy. Their attempts to destroy the dam must end.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>They will make weak opponents for the prepared and rested warrior.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>These ogres have managed only to enrage some local trolls and a lake monster. And me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>I sense a great and terrible power within. The ogres must be stopped before they disrupt it further.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>They are injured and their movements suggest exhaustion. Sarenrae indeed blesses the side of righteousness in the fight to come.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Fortunately, the ogres are loud and tired. I may be able to get the jump on them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>The Kreegs look pure done in. Demolishin' a dam ain't as easy as they were thinkin.'</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Kenabres? That's reaching. Hasn't that place been overrun by demons or something?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Not yet that I've heard. Back to the task at hand, it appears the ogres have also been fighting some local trolls. With any luck, the Kreegs will find that they are too tired to fight and will wave the flag of surrender.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

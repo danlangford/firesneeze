@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\sc12_crowbait_01_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The star itself is known as the Sihedron rune, and came to represent the seven schools of magic practiced in Thassilon, and by association, the seven sins that land’s rulers personified: envy, gluttony, greed, lust, pride, sloth, and wrath.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Brodert Quink didn't know how the seven-pointed star related to any of the murders, but he did say that it was among the most important runes of ancient Thassilon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>That sounds a lot like the medallion Nualia was wearing. How is she connected to—?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Many humble gratitudes for discovering this informa—</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>I don't know what to make of that, but it sounds import—</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Nualia was devoted to her own wrath. Lamashtu was just a means to—</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>At last! A remnant of Thassilon lives. Discovering the identity of this murderer may answer a great many myst—</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>So there is some connection between Nualia and the murd—</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Another puzzle piece arrives, but all life's pieces are a puz—</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Wow! Smart and se—</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>If Nualia had a Sihedron rune and "his Lordship" is carving the Sihed—</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>So both Nualia and this murderer use the same ru—</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Noolia's medallion was the same. So she was connect—</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[bursts into the Rusty Dragon sweat-soaked, wild-eyed, and muttering]
+
+Walking scarecrows. Corpses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>They even ate the dogs!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>It's time again to hunt the dead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Well. Enough of this rune talk. It's time to go kill some walking scarecrows.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>If these monsters are eating dogs, it is time to go!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Time to cleave some walking scarecrows.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>This plague of undead continues. They will be redeemed by the sword.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>It appears misfortune finds Maester Grump irresistible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>With any luck, Grump's recent troubles will be connected to other murders, and I will be one step closer to understanding how this is all connected to Thassilon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>If these corpses are anything like Grayst, they may be linked to "his Lordship."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>It appears that living the pastoral life is almost as dangerous as living an adventurers life. Off to Sandpoint's rural surrounds yet again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Some believe you gain power by consuming your enemies. I do not know what you gain by eating dogs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Fair to say, this may be connected to what happened to Grayst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Foul things comin' from the old Hambley place. Just ain’t been right there for a few days now. We paid the farm a visit, but...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>We were attacked. Folk looked just like corpses but fed like starved animals!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>It's times like this I appreciate the old Deathbane.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

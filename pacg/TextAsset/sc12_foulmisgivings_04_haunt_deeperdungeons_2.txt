@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\sc12_foulmisgivings_04_haunt_deeperdungeons</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Dozens of memories of expeditions, sea voyages, and travels to exotic locales race through your mind. As the memories build momentum, they become increasingly infused with a sense of bitter disappointment and regret.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[You know now that you are experiencing memories that never were, memories of fantastic discoveries you could have made had you not chosen to settle down with a shrill harpy of a wife.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

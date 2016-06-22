@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\sc12_crowbait_02_outro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"His Lordship" runs with a pack of ghasts. If he's killed, the pack will scatter and organized attacks on Sandpoint will end.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>So "his Lordship" runs with a pack of ghasts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"His Lordship" picked the wrong kind of pack to join.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"His Lordship's" got an unnatural affection for ghasts, it seems.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"His Lordship" exerts some unnatural influence over this pack of ghasts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Is "his Lordship" also a ghast?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>So "his Lordship" has a pack of ghasts in his employ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>As suspected, "his Lordship" commands a pack of ghasts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"His Lordship" allies or commands a  pack of ghasts. It would be fascinating if it wasn't terrifying.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"His Lordship" holds rule over a pack of ghasts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>...no. Still weird. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Bank Node 12</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>And now that I see that this ghast is wearing Aldern Foxglove's sigil, this "Lordship" thing makes a little more sense.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The ghast who just fell has the same markings as Aldern Foxglove. It is time for "his Lordship" to eschew the shadows.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>That Rogors fellow used to be one of Aldern Foxglove's servants. I wonder if he's involved. "His Lordship" may be trying to frame Aldern as well.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>And that sigil that Rogors wears. That looks to be a Foxglove symbol. Aldern is likely "his Lordship."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>And this ghast is carrying a sigil of that fool noble, Foxglove. It seems we owe "his Lordship" a visit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Rogors appears to hold Foxglove's sigil. Is "his Lordship" Aldern Foxglove?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>This ghast appears to bear a symbol. Could it be? The Foxglove sigil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Seems this ghast used to belong to the Foxgloves, if that symbol tells us anything.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"His Lordship" is Alder Fox Glove.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>It looks like this Rogors ghast has a Foxglove sigil. Looks like we owe Foxglove Manor a visit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>This one has the Foxglove symbol. That Aldern boy is probably in over his head if he has anything to do with "his Lordship."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Ahhh... So "the Pack" is a pack of ghasts...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

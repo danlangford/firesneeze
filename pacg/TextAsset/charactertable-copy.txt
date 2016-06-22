@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\charactertable</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Valeros</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Valeros is a good-hearted former mercenary whose longing for adventure convinced him to flee an arranged betrothal to a farmer’s daughter. He trained himself in swordplay and spent many years as a mercenary, but now he fights for those in need. Though noble of heart and fiercely loyal, Valeros hides such sentiments under a jaded and crass demeanour, frequently observing that there is nothing better than an evening of hard drinking and soft company.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Merisiel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Orphaned at a young age and raised by humans in the slums, the elf Merisiel saw many friends grow old and die in the decades it took her to become an adult. Unfettered by responsibilities, she now travels where her curiosity takes her, wandering the world with those she calls friends at the time. Merisiel believes in experiencing life to the fullest -- you never know when you will meet an unexpected end -- and that there are few problems a dagger cannot solve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Seoni</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Born into a clan of nomadic wanderers, Seoni wears dozens of runic tattoos that tell the ancient stories of her people and aid her in drawing upon their arcane powers. Quick thinking and with a plan for every situation, she proudly exhibits the marks of her people and endlessly seeks new understanding of her magical abilities. She travels the world dispelling myths that her people are nothing more than liars and thieves by righting injustices wherever she finds them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Kyra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Kyra and her family grew up near a small temple to Sarenrae, the goddess of healing, honesty, redemption, and the sun. When bandits attacked Kyra’s village, Sarenrae’s priestesses defended the innocent, driving off the raiders at the cost of their lives and their sanctuary. Standing in the burned ruin of the temple, young Kyra swore her life and sword arm to the goddess, promising mercy to the deserving and a quick death to those who spread in darkness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Lem</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Born a slave to human nobles in a land corrupted by devils, Lem was blessed with a quick wit that earned him easy work as an entertainer. He managed to escape from bondage, but had to leave friends and family behind. Now he fights to ensure that no one else has to bear the burdens that weigh upon his memory. His greatest weapons are his easy laugh, his repertoire of inspirational music and tales, and—when need be—his quick blade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Harsk</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Harsk has always been an unusual sort of dwarf, preferring open skies to cramped underground halls, the flexibility of a crossbow to the sturdiness of an axe, and tea to ale—it keeps his senses sharp. A gruff and driven dwarf, he left his home to fulfill a vow of justice to avenge his brother’s death at the hands of raiding giants. He has since learned much of the world, its lands, its beasts, and its vast array of people and places worth protecting.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Ezren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>After learning that the father whose name he’d spent most of his adult life trying to clear was indeed guilty, Ezren abandoned his former life and became a wizard. Finding no masters willing to take on an apprentice of his age, he devoted himself to unlocking the mysteries of magic alone. His studies soon revealed a true aptitude for the arcane arts, and he now seeks to explore the world he neglected for so long.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Amiri</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Amiri is a fierce tribal warrior from the rugged clans of the north. She claimed her oversized bastard sword as a trophy after single-handedly wiping out a band of frost giants. When she returned to her people, she discovered her raid had been meant to be a suicide mission—a punishment for consistently one-upping her tribe’s male warriors in battle. In a rage she slaughtered her traitorous comrades, then forsook her homeland to make her own place in the world.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Lini</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Lini has always had a way with wild creatures. More than once, her enclave was threatened by some great beast, yet each time, she soothed it and sent it on its way. As an adult, she chose to leave her druidic fellows behind to protect the wild places of the world. Since then, Lini has collected more than a dozen sticks, one from each of the forests she has visited. These sticks are a road map of her experiences, and each holds a wealth of memories for her. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Sajan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Born into a warrior caste in a far-off land, Sajan turned his back on his duties to search for his twin sister, a fellow martial artist taken from their land by a distant lord. Under sentence of death in his homeland for desertion, he obsessively seeks clues that could reunite him with his twin. Sajan has traveled many lands and has been slow to trust the impulsive natives of those realms, but offers his insight and skill to any whom he deems worthy of joining him on his quest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Seelah</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>As a starving young orphan, Seelah encountered a paladin and became fascinated by her shining helm. She stole the helmet, an act that led to the paladin’s death in a subsequent battle. In the aftermath, the guilt-stricken girl climbed onto the holy warrior’s pyre, only to be saved by the other paladins, who took her in and made her one of them. At first, Seelah fought to atone for her deeds, but since she has become a full and devout champion of Iomedae, goddess of justice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Ameiko</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Orik</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

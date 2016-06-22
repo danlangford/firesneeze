@@ -1,0 +1,56 @@
+<N>
+ <N ID="AD1T_Tutorial">
+  <Set>0</Set>
+  <Name>0</Name>
+  <Description>1</Description>
+  <Reward>2</Reward>
+ </N>
+ <N ID="AD1Q_Quest">
+  <Set>0</Set>
+  <Name>0</Name>
+  <Description>0</Description>
+  <Reward>0</Reward>
+ </N>
+ <N ID="AD1B_PerilsOfTheLostCoast">
+  <Set>B</Set>
+  <Name>3</Name>
+  <Description>4</Description>
+  <Reward>5</Reward>
+ </N>
+ <N ID="AD11_BurntOfferings">
+  <Set>1</Set>
+  <Name>6</Name>
+  <Description>7</Description>
+  <Reward>8</Reward>
+ </N>
+ <N ID="AD12_TheSkinsawMurders">
+  <Set>2</Set>
+  <Name>9</Name>
+  <Description>10</Description>
+  <Reward>11</Reward>
+ </N>
+ <N ID="AD13_TheHookMountainMassacre">
+  <Set>3</Set>
+  <Name>12</Name>
+  <Description>13</Description>
+  <Reward>14</Reward>
+ </N>
+ <N ID="AD14_FortressOfTheStoneGiants">
+  <Set>4</Set>
+  <Name>15</Name>
+  <Description>16</Description>
+  <Reward>17</Reward>
+ </N>
+ <N ID="AD15_SinsOfTheSaviors">
+  <Set>5</Set>
+  <Name>18</Name>
+  <Description>19</Description>
+  <Reward>20</Reward>
+ </N>
+ <N ID="AD16_SpiresOfXin-Shalast">
+  <Set>6</Set>
+  <Name>21</Name>
+  <Description>22</Description>
+  <Reward>23</Reward>
+ </N>
+</N>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\adventuretable</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Tutorial</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Perils Of The Lost Coast</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The Lost Coast might be tame, but nowhere in the frontier lands of Varisia is entirely safe. Recently, gangs of Sczarni bandits—unscrupulous human thieves—have targeted the people of the quiet town of Sandpoint. Dangers lurk in town as well, as several innocents have suffered the venom of a mysterious poisoner. But most fearful are the rumors of slaughtered livestock and death soaring on shadowy wings. Sandpoint needs heroes. Are you up to the challenge?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Each character gains a skill feat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Burnt Offerings</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>With celestial ancestry, Nualia was born on the path of light, but a childhood facing the constant attention and jealousy of Sandpoint’s people drove her to embrace the demon goddess Lamashtu. Bitter and vengeful, Nualia has taken refuge in the ruins of Thistletop, enlisting the aid of goblins, a band of vicious outcasts, and other mysterious allies in a plot to destroy Sandpoint. Those who would save the town must defend it from her goblin raiders, quell the evils unleashed in the chaos, and then take the fight to Thistletop and Nualia herself!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Each character gains a card feat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The Skinsaw Murders</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The dead stalk the streets of Sandpoint! The bloody trail leads to packs of ravenous undead and the haunted halls of Foxglove Manor. Behind this bloody spree is the Skinsaw Man, a ghoulish murderer backed by the merciless Skinsaw Cult—the same sinister allies who backed Nualia. Pursuing the fiends to the city of Magnimar reveals the dark goals of these evil-minded fanatics and their mysterious leader, an “angel” hidden amid the dizzying heights of the towering Shadow Clock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Each character gains a card feat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>The Hook Mountain Massacre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>No one has heard from the rangers of Fort Rannick for months, and the lord-mayor of Magnimar fears the worst. Investigating the fate of the lost rangers leads to the homestead of the monstrously inbred Graul half-ogres, and then the Kreeg clan of ogres, who have taken over the fort. Saving the fort reveals a stonehearted warlord manipulating the ogres, threatening to destroy the ancient dam of Skull’s Crossing and sacrifice the town of Turtleback Ferry in the name of a mysterious master.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Each character chooses a role card and gains a power feat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Fortress of the Stone Giants</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>The giants are on the march! The stone giants of Jorgenfist and their red dragon ally have invaded Sandpoint. To save the town, its heroes must drive off the titanic invaders and pursue the survivors back to their rugged stronghold. Amid the mighty towers of Jorgenfist lurk forgotten evils and secrets of dark arcana. In the deepest halls schemes the stone giant Mokmurian, a power-hungry magician pursuing the secrets of sin magic and plotting to restore the ancient evil empire of Thassilon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Each character gains a card feat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Sins of the Saviors</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>The evil might of Thassilon has been revealed, and Sandpoint sits upon one of its more fiendish ruins. To combat the resurrection of this dark nation of sin-obsessed wizards, Sandpoint’s heroes must scour the town of its haunted ruins, then travel to the dragon-guarded shores of Rimeskull. There, they’ll infiltrate the ancient Thassilonian laboratory of Runeforge, face its seven sinful branches and their timeless magical guardians, and claim the power of runeforged weapons for their own.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Each character gains a card feat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Spires of Xin-Shalast</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>The restoration of Thassilon has begun. Within his fortress-city of Xin-Shalast, Karzoug, Runelord of Greed, stirs from his ages-long slumber. Those who survive climbing the dizzying Kodar Mountains and exploring the ruined city of Xin-Shalast must still face Karzoug’s most nefarious guardians and fight their way to the Eye of Avarice. Within that Magical refuge they’ll finally face Karzoug himself in a battle to determine the fate of all Varisia. Will the heroes survive, or will the runelords rise once more?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Each character gains a card feat.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

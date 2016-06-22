@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\sc12_angelinthetower_01_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This is the Shadow Clock. You'll find Xanesha or one of her faceless here. Or she may be at one of her other hunting grounds around the city.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>If you fight her head on, make sure to land the first blow quickly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>You can count on it. Now it's time you leave the Lost Coast for good.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>That is a certainty. You are no longer welcome in the Lost Coast. It is time you depart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>To be sure. Your captivity means less to me than stopping Xanesha. Leave the Lost Coast now and forever more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>I don't intend to give her a chance to surrender. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>That is my preferred style. It's time you leave. I find out you're anywhere in the Lost Coast after this, you're a dead man.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>You speak of understood things. You must go now. The Lost Coast is no longer home to the framer of faces.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Duly noted. I would take this opportunity to find another home far away from the Lost Coast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>I'll be quick enough. Don't you worry. You, on the other hand, need to be doubly quick in getting yer arse out of the Lost Coast 'fore I start changin' my mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You have served your part. It is time for you to leave the Lost Coast. For good.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You have illuminated the threat satisfactorily. Consider yourself exiled from the Lost Coast. It is under Sarenrae's protection, and you are not welcome.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>While this doesn't forgive all of your sins, it is first step. If I find that you have lost your way again, Iomedae's justice will be swift.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>She is fond of places that foster greed. So you'll find her influence where there is religion and commerce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Our next meeting will not be so amicable. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

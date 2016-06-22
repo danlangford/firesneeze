@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\sc13_thefortinperil_01_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The Graul ogrekin caught my patrol while the tougher Kreeg ogres took Fort Rannick. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>You don't get to be suicidal, Jakardos. That's not what mother would've wanted. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>To build any hope in keeping Turtleback Ferry safe, we'll need to take Rannick back.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>If there's a another man rock-headed enough to fight the impossible fight, it's Valeros.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>I don't have any better offers. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Oh, I got it. Please leave the heroic embellishments to the singers, Valeros.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>I don't think I'll be joining you in this mad crusade. Lucrecia—my love—has made me a better offer. She'll let me into the fort without any of this fighting. I'll be sure to tell her you're coming.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Get back here, traitor! Your head's mine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Death is not certain. The Dawnflower's will is.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>If we do things my way, then no one's gotta die. Just follow my lead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Sounds like my kind of fight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>I'll not see you facin' the Kreeg ogres alone. You have my bow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>The Sihedron rune is here. It's more than an intuition. I must get inside the fort. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>All for a stone house? If it means hunting ogres, I'll join you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Where there is the will to fight, there is an opportunity to prevail.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Though I'm not a warrior by trade, I can certainly find as many survivors as possible. You'll need them to man the fort when we retake it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>The Inheritor blesses such a show of valor. For victory, for the heart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Dying may or may not be necessary in this endeavor. I will do my part to make sure you remain alive despite yourselves.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>I don't think I'll be joining you in this mad crusade. Lucrecia—my love—has made me a better offer. She'll let me into the fort without any of this fighting. I'll be sure to tell her you're coming.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>The Graul ogrekin caught my patrol while the tougher Kreeg ogres took Fort Rannick. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>The three of us'll die trying to retake Rannick, but we'll do it. Wouldn't say no to help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>There are multiple entry points, right? And there still may be some Arrows left alive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Lem, you got that? Vale said there's no other man he'd trust more to do the impossible.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>That a Sihedron tattoo on that boy's wrist?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Why is this a surprise? You all knew he had a Sihedron tattoo, right? 
+
+No?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>And he's got a Sihedron tattoo. That must be the "more elegant" approach to harvesting that the letter from Xanesha's sister mentioned.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>There's a Sihedron tattoo on Kaven's wrist. He's already doomed.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\sc1b_thepoisonpill_02_outro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>So you defeated Jubrayl, and you apprehended me. At last, Sandpoint is safe… Ha!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>I can't wait to tell Ameiko! You, my rotund and venomous adversary, have inspired me to compose a comedy about dandy rogue Jugrail Whiskey and his bumbling dimwitted sidekick, Pitbug!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>If I have prevented just one death from your traps, it is worth it. May the light of Sarenrae cleanse your wretched soul!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>I recognize your sarcasm, Podiker. Just what are you implying?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Don't test my patience, Pillbug. What are you gettin' at?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You weren't the only one laughing! Wish it had been more of a challenge. Taking your traps apart was too easy a job to pass up! I've seen better trigger mechanisms whipped up by Birdcruncher goblins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Last words of a beaten man. If Sandpoint is still in danger, then let's hear it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Safe or not, Ameiko's got a promise to keep. To the Rusty Dragon!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>So the Kaijitsu girl put you up to this? Splendid! Her father will be so proud...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Whatever fate you've avoided at my hands, it only leaves you at the mercy of the greater evils about to consume this wretched town.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>That is the wrong question, fool! A poison has been running through the veins of this town long before I crafted a single brew.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>I see! A rich guy hired you and Jubrayl to create chaos around town, in preparation for some other intrigue...
+Well, I can't say this wasn't fun! But I've got a date to keep at the Rusty Dragon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Ah... Even though my venom was top notch, the traps were second-rate? Trust an aristocrat to be stingy with the tools he provides...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Ameiko didn't want you dead. I'll never understand why.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>You and Jubrayl are the first wave of attack? Who is fielding you?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>What are you saying? What else is coming? I need to warn Ameiko!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>I expect the town's safety is largely out of your hands now. What are you getting at?</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\sc12_foulmisgivings_04_haunt_desecratedvault</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[You freeze in place as a flood of information flows through your mind. It is as if you are in the realm of an animated stained-glass window.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[You experience visions of a distinguished gentleman intently researching necromantic tomes, gathering the components for a potion, building a phylactery, and finally taking his potion and doubling over in agony as his body begins to rot away.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[You are filled with blinding shame that a loved one would do this to himself, followed by a burning rage that he was stopped before he finished. You double over in agony. In anger.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

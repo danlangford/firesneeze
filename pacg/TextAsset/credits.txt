@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<credits justify="center" indent="150" br_height="30" line_spacing="0">
+
+  <image justify="center" indent="0" width="512" height="256" scale="1" name="credits_logo_southpark.tga" y="125" fade_in="2" hold="1" fade_out="2"/>
+  <br br_height="0" delay="3"/>
+  <localized_text justify="center" name="text_title">Developed by</localized_text>
+  <br/>
+  <image justify="center" name="image_oeilogo"/>
+  <!--text name="text_title">Obsidian Entertainment</text-->
+  <br/>
+  <br/>
+	
+  <localized_text name="title_department_long" justify="center">Pathfinder Adventures Development Team</localized_text>
+  <br br_height="30"/>
+
+  <!--                           PRODUCTION                                   -->
+  
+  <localized_text name="title_job" justify="center">Game Director</localized_text>
+  <text name="text_name" justify="center">Nathan Davis</text>
+  <br br_height="20"/>
+  
+  <localized_text name="title_job" justify="center">Production</localized_text>
+  <text name="text_name" justify="center">Ryan Rucinski</text>
+  <br br_height="20"/>
+  
+  <localized_text name="title_job" justify="center">Additional Production</localized_text>
+  <text name="text_name" justify="center">Joseph Than</text>
+  <br br_height="20"/>
+  
+  <!--                           ART                                    -->
+  
+  <localized_text name="title_job" justify="center">Art Lead</localized_text>
+  <text name="text_name" justify="center">André Nguyen</text>
+  <br br_height="20"/>
+
+  <localized_text name="title_job" justify="center">Art</localized_text>
+  <text name="text_name" justify="center">Lindsey Laney</text>
+  <br br_height="20"/>
+
+  
+  <!--                           PROGRAMMING                                    -->
+  
+  <localized_text name="title_job" justify="center">Programming Lead</localized_text>
+  <text name="text_name" justify="center">Kevin Smith</text>
+  <br br_height="20"/>
+
+  <localized_text name="title_job" justify="center">Programmers</localized_text>
+  <text name="text_name" justify="center">George Wang</text> 
+  <text name="text_name" justify="center">Keno San Pablo</text> 
+  <text name="text_name" justify="center">Nate McDorman</text>
+  <br br_height="20"/>
+  
+  <localized_text name="title_job" justify="center">Additional Programming</localized_text>
+  <text name="text_name" justify="center">Ankur Oswal</text>
+  <text name="text_name" justify="center">Kristian Trodick</text>
+  <br br_height="20"/>
+	
+   <!--                           Design                                    -->
+  
+  <localized_text name="title_job" justify="center">Design</localized_text>
+  <text name="text_name" justify="center">Dave Williams</text>
+  <text name="text_name" justify="center">Michelle Flamm</text>
+  <br br_height="20"/>
+
+  <localized_text name="title_job" justify="center">Additional Design</localized_text>
+  <text name="text_name" justify="center">Ryan Rodriguez</text>
+  <br br_height="20"/>
+ <!--                           AUDIO                                   -->
+  
+  <localized_text name="title_job" justify="center">Composer and Sound Design Lead</localized_text>
+  <text name="text_name" justify="center">Justin Bell</text>
+  <br br_height="20"/>
+
+  <localized_text name="title_job" justify="center">Additional Sound Design</localized_text>
+  <text name="text_name" justify="center">Zachary Simon</text> 
+  <text name="text_name" justify="center">Adam Lehwald</text>
+  <br br_height="20"/>
+
+  <localized_text name="title_job" justify="center">Additional Drum Programming</localized_text>
+  <text name="text_name" justify="center">David Gilbreath</text> 
+  <br br_height="20"/>
+
+  
+ 
+  <!--                           QUALITY ASSURANCE                                   -->
+  
+  <localized_text name="title_job" justify="center">Quality Assurance Lead</localized_text>
+  <text name="text_name" justify="center">Stephanie Bogart</text>
+  <br br_height="20"/>
+  
+  <localized_text name="title_job" justify="center">Quality Assurance</localized_text>
+  <text name="text_name" justify="center">David Lockwood</text> 
+  <text name="text_name" justify="center">Kevin Bellardi</text>
+  <br br_height="20"/>
+  
+  <localized_text name="title_job" justify="center">Additional Quality Assurance</localized_text>
+  <text name="text_name" justify="center">Andy Artz</text>
+  <text name="text_name" justify="center">Aarik Dorobiala</text>
+  <text name="text_name" justify="center">Maria Vasilchikova</text>
+  <br br_height="20"/>
+  
+  <localized_text name="title_job" justify="center">Pathfinder Adventures Playtesters</localized_text>
+  <text name="text_name" justify="center">Andrew Warner</text>  
+  <text name="text_name" justify="center">Dan Hamman</text>
+  <text name="text_name" justify="center">Ron Lundeen</text>
+  <text name="text_name" justify="center">Ryan Jensen</text>
+  <text name="text_name" justify="center">Olivier Pougnand</text>
+  <br br_height="60"/>
+  
+  <!--                           OPERATIONS                                     -->
+  
+  <localized_text name="title_department" justify="center">Operations</localized_text>
+  <br br_height="30"/>
+  
+  <localized_text name="title_job" justify="center">CEO and President</localized_text>
+  <text name="text_name" justify="center">Feargus Urquhart</text>
+  <br br_height="20"/>
+
+  <localized_text name="title_job" justify="center">Chief Development Officer</localized_text>
+  <text name="text_name" justify="center">Chris Parker</text>
+  <br br_height="20"/>
+
+  <localized_text name="title_job" justify="center">Chief Information Officer</localized_text>
+  <text name="text_name" justify="center">Darren Monahan</text>
+  <br br_height="20"/>
+
+  <image justify="center" indent="200" width="600" height="348" scale="1.0" name="credits_con_26.png" y="210" fade_in="3" hold="5" fade_out="3"/>
+
+  <localized_text name="title_job" justify="center">Chief Technology Officer</localized_text>
+  <text name="text_name" justify="center">Chris Jones</text>
+  <br br_height="20"/>
+
+  <localized_text name="title_job" justify="center">Director of Publishing</localized_text>
+  <text name="text_name" justify="center">Stuart Roch</text>
+  <br br_height="20"/>
+  
+  <localized_text name="title_job" justify="center">Community Support Manager</localized_text>
+  <text name="text_name" justify="center">Mikey Dowling</text>
+  <br br_height="20"/>
+  
+  <localized_text name="title_job" justify="center">Community Support</localized_text>
+  <text name="text_name" justify="center">Aarik Dorobiala</text>
+  <br br_height="20"/>
+  
+  <localized_text name="title_job" justify="center">Legal Counsel</localized_text>
+  <text name="text_name" justify="center">Jeffrey W. Rose</text>
+  <br br_height="20"/>
+  
+  <localized_text name="title_job" justify="center">Accounting</localized_text>
+  <text name="text_name" justify="center">Jennifer Hendrix</text>
+  <br br_height="20"/>
+
+  <localized_text name="title_job" justify="center">Human Resources Director</localized_text>
+  <text name="text_name" justify="center">Tina Parker</text>
+  <br br_height="20"/>
+
+  <image justify="center" indent="200" width="600" height="379" scale="1.0" name="credits_con_34.png" y="120" fade_in="3" hold="5" fade_out="3"/>
+
+  <localized_text name="title_job" justify="center">Hiring Manager</localized_text>
+  <text name="text_name" justify="center">Bree Maldonado</text>
+  <br br_height="20"/>
+
+  <localized_text name="title_job" justify="center">Information Technology</localized_text>
+  <text name="text_name" justify="center">Chris Benson</text>
+  <text name="text_name" justify="center">John Wunder</text>
+  <br br_height="20"/>
+
+  <localized_text name="title_job" justify="center">Front Desk</localized_text>
+  <text name="text_name" justify="center">Maria Vasilchikova</text>
+  <br br_height="20"/>
+
+  <localized_text name="title_job" justify="center">Special Thanks</localized_text>
+  <text name="text_name" justify="center">Jessica and Glen Davis</text>
+  <text name="text_name" justify="center">Margo, Katie, and Aidan for being an amazing family!</text>
+  <text name="text_name" justify="center">Thank you for all the support Christina, Dini, Aubria and Jeff</text>
+  <text name="text_name" justify="center">Cindi Rice</text>
+  <text name="text_name" justify="center">To the Wolf Pack: Paws up! To Jim Zub, who was the spark, and </text>
+  <text name="text_name" justify="center">to the one I can't forget: Thank you.</text>
+  <text name="text_name" justify="center">Thanks to my sweet peas, Lottie and Warren Lockwood</text>
+  <text name="text_name" justify="center">Chris Avellone</text>
+  <text name="text_name" justify="center">Shane DeFreest</text>
+  <text name="text_name" justify="center">Żywiec</text>
+  <br br_height="60"/>
+  
+  <!--                           Forum                                     -->
+  
+  <localized_text name="title_department" justify="center">Forum Community</localized_text>
+  <br br_height="30"/>
+
+  <image justify="center" indent="200" width="600" height="331" scale="1.0" name="credits_con_37.png" y="60" fade_in="3" hold="5" fade_out="3"/>
+
+  <localized_text name="title_job" justify="center">Chief Moderator</localized_text>
+  <text name="text_name" justify="center">Fionavar (Richard Manley-Tannis)</text>
+  <br br_height="20"/>
+
+  <localized_text name="title_job" justify="center">Global Moderators</localized_text>
+  <text name="text_name" justify="center">Gorth (Michael Thye Schmidt)</text>
+  <text name="text_name" justify="center">Pidesco (João Revez Melo)</text>
+  <text name="text_name" justify="center">Rosbjerg (Kristian Rosbjerg Jensen)</text>  
+  <text name="text_name" justify="center">Tigranes</text>
+  <br br_height="20"/>
+
+  <localized_text name="title_job" justify="center">Moderators</localized_text>
+  <text name="text_name" justify="center">Cantousent (Daniel Mazzanti)</text>
+  <text name="text_name" justify="center">CoM_Solaufein (Greg Scott)</text>  
+  <text name="text_name" justify="center">Gfted1</text>
+  <text name="text_name" justify="center">Gorgon</text> 
+  <text name="text_name" justify="center">LadyCrimson</text>   
+  <text name="text_name" justify="center">Tale (Justin Hallmark)</text>
+  <text name="text_name" justify="center">TrueNeutral (Andrew de Weerd)</text>
+  <br br_height="60"/>
+ 
+ <!--                           Paizo                                     -->
+   
+  <localized_text name="title_department" justify="center">Paizo Inc.</localized_text>
+  <br br_height="30"/>
+ 
+  <localized_text name="title_job" justify="center">Game Design</localized_text>
+  <text name="text_name" justify="center">Mike Selinker</text>
+  <br br_height="20"/>
+ 
+  <localized_text name="title_job" justify="center">Based On A Game Concept By</localized_text>
+  <text name="text_name" justify="center">Rian Sand</text>
+  <br br_height="20"/>
+ 
+  <localized_text name="title_job" justify="center">Pathfinder Adventure Card Game Development Team</localized_text>
+  <text name="text_name" justify="center">Mike Selinker</text>
+  <text name="text_name" justify="center">Chad Brown</text>
+  <text name="text_name" justify="center">Tanis O'Connor</text>
+  <text name="text_name" justify="center">Paul Peterson</text>
+  <text name="text_name" justify="center">Keith Richmond</text>
+  <text name="text_name" justify="center">Liz Spain</text>
+  <text name="text_name" justify="center">Gaby Weilding</text>
+  <br br_height="20"/>
+ 
+  <localized_text name="title_job" justify="center">Pathfinder Adventure Card Game Brand Manager</localized_text>
+  <text name="text_name" justify="center">Vic Wertz</text>
+  <br br_height="20"/>
+ 
+  <localized_text name="title_job" justify="center">Based On Rise Of The Runelords By</localized_text>
+  <text name="text_name" justify="center">Wolfgang Baur</text>
+  <text name="text_name" justify="center">Stephen S. Greer</text>
+  <text name="text_name" justify="center">James Jacobs</text>
+  <text name="text_name" justify="center">Nicolas Logue</text>
+  <text name="text_name" justify="center">Richard Pett</text>
+  <text name="text_name" justify="center">Greg A. Vaughn</text>
+  <br br_height="20"/>
+ 
+  <localized_text name="title_job" justify="center">Story Development</localized_text>
+  <text name="text_name" justify="center">John Bulmahn</text>
+  <text name="text_name" justify="center">Erik Mona</text>
+  <text name="text_name" justify="center">James Jacobs</text>
+  <text name="text_name" justify="center">F. Wesley Schneider</text>
+  <br br_height="20"/>
+ 
+  <localized_text name="title_job" justify="center">Flavor Text</localized_text>
+  <text name="text_name" justify="center">Jessica Price</text>
+  <text name="text_name" justify="center">F. Wesley Schneider</text>
+  <br br_height="20"/>
+ 
+  <localized_text name="title_job" justify="center">Editing</localized_text>
+  <text name="text_name" justify="center">Judy Bauer</text>
+  <text name="text_name" justify="center">Brian Campbell</text>
+  <text name="text_name" justify="center">Vic Wertz</text>
+  <br br_height="20"/>
+ 
+  <localized_text name="title_job" justify="center">Art Direction and Graphic Design</localized_text>
+  <text name="text_name" justify="center">Sarah E. Robinson</text>
+  <br br_height="20"/>
+ 
+  <localized_text name="title_job" justify="center">Art Assistance</localized_text>
+  <text name="text_name" justify="center">Emily Crowell</text>
+  <text name="text_name" justify="center">Crystal Frasier</text>
+  <text name="text_name" justify="center">Sonja Morris</text>
+  <text name="text_name" justify="center">Andrew Vallas</text>
+  <br br_height="20"/>
+ 
+  <localized_text name="title_job" justify="center">Illustrations</localized_text>
+  <text name="text_name" justify="center">Dave Allsop</text>
+  <text name="text_name" justify="center">Alex Aparin</text>
+  <text name="text_name" justify="center">Yngvar Asplund</text>
+  <text name="text_name" justify="center">Helge C. Balzer</text>
+  <text name="text_name" justify="center">Rayph Beisner</text>
+  <text name="text_name" justify="center">Eric Belisle</text>
+  <text name="text_name" justify="center">Peter Bergting</text>
+  <text name="text_name" justify="center">Kerem Beyit</text>
+  <text name="text_name" justify="center">Branko Bistrovic</text>
+  <text name="text_name" justify="center">Eric Braddock</text>
+  <text name="text_name" justify="center">Noah Bradley</text>
+  <text name="text_name" justify="center">Christopher Burdett</text>
+  <text name="text_name" justify="center">Dmitry Burmak</text>
+  <text name="text_name" justify="center">Jeff Carlisle</text>
+  <text name="text_name" justify="center">Concept Art House</text>
+  <text name="text_name" justify="center">Kev Crossley</text>
+  <text name="text_name" justify="center">Alberto Dal Lago</text>
+  <text name="text_name" justify="center">Julie Dillon</text>
+  <text name="text_name" justify="center">Matt Dixon</text>
+  <text name="text_name" justify="center">Vincent Dutrait</text>
+  <text name="text_name" justify="center">Carolina Eade</text>
+  <text name="text_name" justify="center">Cole Eastburn</text>
+  <text name="text_name" justify="center">Jesper Ejsing</text>
+  <text name="text_name" justify="center">Emrah Elmasli</text>
+  <text name="text_name" justify="center">Wayne England</text>
+  <text name="text_name" justify="center">Jason Engle</text>
+  <text name="text_name" justify="center">Nadia Enis</text>
+  <text name="text_name" justify="center">Jorge Fares</text>
+  <text name="text_name" justify="center">Taylor Fischer</text>
+  <text name="text_name" justify="center">Gonzalo Flores</text>
+  <text name="text_name" justify="center">Mariusz Gandzel</text>
+  <text name="text_name" justify="center">Fabio Gorla</text>
+  <text name="text_name" justify="center">Grafit</text>
+  <text name="text_name" justify="center">John Gravato</text>
+  <text name="text_name" justify="center">Paul Guzenko</text>
+  <text name="text_name" justify="center">Miguel Regodón Harkness</text>
+  <text name="text_name" justify="center">Mauricio Herrera</text>
+  <text name="text_name" justify="center">Jon Hodgson</text>
+  <text name="text_name" justify="center">Andrew Hou</text>
+  <text name="text_name" justify="center">Imaginary Friends Studios</text>
+  <text name="text_name" justify="center">Tyler Jacobson</text>
+  <text name="text_name" justify="center">Ivan Kashubo</text>
+  <text name="text_name" justify="center">Andrew Kim</text>
+  <text name="text_name" justify="center">Tim Kings-Lynne</text>
+  <text name="text_name" justify="center">Mathias Kollros</text>
+  <text name="text_name" justify="center">Kekai Kotaki</text>
+  <text name="text_name" justify="center">Peter Lazarski</text>
+  <text name="text_name" justify="center">Rob Lazzaretti</text>
+  <text name="text_name" justify="center">Chuck Lukacs</text>
+  <text name="text_name" justify="center">Warren Mahy</text>
+  <text name="text_name" justify="center">Damien Mammoliti</text>
+  <text name="text_name" justify="center">Diana Martinez</text>
+  <text name="text_name" justify="center">Roberto Pitturru</text>
+  <text name="text_name" justify="center">Ryan Portillo</text>
+  <text name="text_name" justify="center">Steve Prescott</text>
+  <text name="text_name" justify="center">Emiliano Pretrozzi</text>
+  <text name="text_name" justify="center">Scott Purdy</text>
+  <text name="text_name" justify="center">Maichol Quinto</text>
+  <text name="text_name" justify="center">Dave Rapoza</text>
+  <text name="text_name" justify="center">Wayne Reynolds</text>
+  <text name="text_name" justify="center">Mike Sass</text>
+  <text name="text_name" justify="center">Kyushik Shin</text>
+  <text name="text_name" justify="center">Bryan Sola</text>
+  <text name="text_name" justify="center">Craig J Spearing</text>
+  <text name="text_name" justify="center">Dean Spencer</text>
+  <text name="text_name" justify="center">Matteo Spirito</text>
+  <text name="text_name" justify="center">Florian Stitz</text>
+  <text name="text_name" justify="center">Christer Sveen</text>
+  <text name="text_name" justify="center">Christophe Swal</text>
+  <text name="text_name" justify="center">Francisco Rico Torres</text>
+  <text name="text_name" justify="center">Francis Tsai</text>
+  <text name="text_name" justify="center">Svetlin Velinov</text>
+  <text name="text_name" justify="center">Carlos Villa</text>
+  <text name="text_name" justify="center">Tyler Walpole</text>
+  <text name="text_name" justify="center">Eva Widermann</text>
+  <text name="text_name" justify="center">Ben Wootten</text>
+  <text name="text_name" justify="center">Kevin Yan</text>
+  <text name="text_name" justify="center">Kieran Yanner</text>
+  <text name="text_name" justify="center">Ilker Serdar Yildiz</text>
+  <br br_height="20"/>
+  
+  <localized_text name="title_job" justify="center">Paizo Chief Executive Officer</localized_text>
+  <text name="text_name" justify="center">Lisa Stevens</text>
+  <br br_height="20"/>
+  
+  <localized_text name="title_job" justify="center">Paizo Executive Team</localized_text>
+  <text name="text_name" justify="center">Jeffrey Alvarez</text>
+  <text name="text_name" justify="center">Erik Mona</text>
+  <text name="text_name" justify="center">Lisa Stevens</text>
+  <text name="text_name" justify="center">Vic Wertz</text>
+  <br br_height="20"/>
+  
+  <localized_text name="title_job" justify="center">Pathfinder Society Organized Play Coordinator</localized_text>
+  <text name="text_name" justify="center">Tonya Woldridge</text>
+  <br br_height="20"/>
+    
+ <localized_text name="title_job" justify="center">Pathfinder Playtesters</localized_text>
+  <text name="text_name" justify="center">A.J. Wallenvand</text>
+  <text name="text_name" justify="center">Aaron Hale</text>
+  <text name="text_name" justify="center">Aaron Rabold</text>
+  <text name="text_name" justify="center">Adam Fenerty</text>
+  <text name="text_name" justify="center">Adam Harp</text>
+  <text name="text_name" justify="center">Adam Prater</text>
+  <text name="text_name" justify="center">Alexander Fenton</text>
+  <text name="text_name" justify="center">Allison Tsatsa</text>
+  <text name="text_name" justify="center">Alyssa Clingenpeel</text>
+  <text name="text_name" justify="center">Amanda Lucas</text>
+  <text name="text_name" justify="center">Amy Reinsmith</text>
+  <text name="text_name" justify="center">Andrew Behrens</text>
+  <text name="text_name" justify="center">Andrew Betts</text>
+  <text name="text_name" justify="center">Andrew Finazzo</text>
+  <text name="text_name" justify="center">Andrew Lloyd</text>
+  <text name="text_name" justify="center">Angus Maclennan</text>
+  <text name="text_name" justify="center">Anna Margaret Greene</text>
+  <text name="text_name" justify="center">Anne Freitas</text>
+  <text name="text_name" justify="center">Ashton Sperry</text>
+  <text name="text_name" justify="center">Ben Bachman</text>
+  <text name="text_name" justify="center">Ben Krauskopf</text>
+  <text name="text_name" justify="center">Benjamin Kies</text>
+  <text name="text_name" justify="center">Bev Gordon</text>
+  <text name="text_name" justify="center">Blake Ferchalk</text>
+  <text name="text_name" justify="center">Brandon Shiffler</text>
+  <text name="text_name" justify="center">Brett McLean</text>
+  <text name="text_name" justify="center">Bridgette Redman</text>
+  <text name="text_name" justify="center">Bruce Paulson</text>
+  <text name="text_name" justify="center">Caeden Crotty</text>
+  <text name="text_name" justify="center">Carl Harris</text>
+  <text name="text_name" justify="center">Carolyn Wallace</text>
+  <text name="text_name" justify="center">Chad Hutchinson</text>
+  <text name="text_name" justify="center">Chad Wagner</text>
+  <text name="text_name" justify="center">Charles Townsend</text>
+  <text name="text_name" justify="center">Chris Ballowe</text>
+  <text name="text_name" justify="center">Chris Rathunde</text>
+  <text name="text_name" justify="center">Chris Self</text>
+  <text name="text_name" justify="center">Chris Stephens</text>
+  <text name="text_name" justify="center">Chris Yohe</text>
+  <text name="text_name" justify="center">Christopher Lucas</text>
+  <text name="text_name" justify="center">Clayton Pelon</text>
+  <text name="text_name" justify="center">Clint Blome</text>
+  <text name="text_name" justify="center">Corey Hadley</text>
+  <text name="text_name" justify="center">Corey O’Connor</text>
+  <text name="text_name" justify="center">Courtney Barrick</text>
+  <text name="text_name" justify="center">Crystal Blevins</text>
+  <text name="text_name" justify="center">Crystal Frazier</text>
+  <text name="text_name" justify="center">Dain Nielsen</text>
+  <text name="text_name" justify="center">Damon Griffin</text>
+  <text name="text_name" justify="center">Dan Houser</text>
+  <text name="text_name" justify="center">Dann Bohn</text>
+  <text name="text_name" justify="center">Darcy Mahaffey</text>
+  <text name="text_name" justify="center">Darran Caldemeyer</text>
+  <text name="text_name" justify="center">Darren Barnes</text>
+  <text name="text_name" justify="center">Darren Hron</text>
+  <text name="text_name" justify="center">Dave Hehdquist</text>
+  <text name="text_name" justify="center">David Altz</text>
+  <text name="text_name" justify="center">David Levi</text>
+  <text name="text_name" justify="center">David Schwartz</text>
+  <text name="text_name" justify="center">David Woodruff</text>
+  <text name="text_name" justify="center">Decius</text>
+  <text name="text_name" justify="center">Dennis Lugo-Coll</text>
+  <text name="text_name" justify="center">Derek Ellingsworth</text>
+  <text name="text_name" justify="center">Derek Poppink</text>
+  <text name="text_name" justify="center">Derrick Harris</text>
+  <text name="text_name" justify="center">Desirae Rabold</text>
+  <text name="text_name" justify="center">Desmond Chavez</text>
+  <text name="text_name" justify="center">Doug Baumeister</text>
+  <text name="text_name" justify="center">Doug Maynard</text>
+  <text name="text_name" justify="center">Douglas Balzer</text>
+  <text name="text_name" justify="center">Dusty Kock</text>
+  <text name="text_name" justify="center">Dylan Mahaffey</text>
+  <text name="text_name" justify="center">Elaine Betts</text>
+  <text name="text_name" justify="center">Elias Benevedes</text>
+  <text name="text_name" justify="center">Elijah Harrison</text>
+  <text name="text_name" justify="center">Ellie Akers</text>
+  <text name="text_name" justify="center">Elliot Newbold</text>
+  <text name="text_name" justify="center">Emmanuel Greene</text>
+  <text name="text_name" justify="center">Eric Clingenpeel</text>
+  <text name="text_name" justify="center">Eric Harshbarger</text>
+  <text name="text_name" justify="center">Eric Langenderfer</text>
+  <text name="text_name" justify="center">Eric Meyer</text>
+  <text name="text_name" justify="center">Eric Morton</text>
+  <text name="text_name" justify="center">Eric Snyder</text>
+  <text name="text_name" justify="center">Erich Salvesen</text>
+  <text name="text_name" justify="center">Erik Bridge</text>
+  <text name="text_name" justify="center">Farrell Hopkins</text>
+  <text name="text_name" justify="center">Frank Zado</text>
+  <text name="text_name" justify="center">Greg Durant</text>
+  <text name="text_name" justify="center">Greg Hanigan</text>
+  <text name="text_name" justify="center">Greg Wood</text>
+  <text name="text_name" justify="center">Heather Halpin</text>
+  <text name="text_name" justify="center">JD Britton</text>
+  <text name="text_name" justify="center">Jaime Ansell</text>
+  <text name="text_name" justify="center">Jake Minol</text>
+  <text name="text_name" justify="center">James Davidson</text>
+  <text name="text_name" justify="center">James Perper Jr.</text>
+  <text name="text_name" justify="center">James Perper Sr.</text>
+  <text name="text_name" justify="center">Jamie Kuryla</text>
+  <text name="text_name" justify="center">Jason Erbe</text>
+  <text name="text_name" justify="center">Jason Gowing</text>
+  <text name="text_name" justify="center">Jason Hoff</text>
+  <text name="text_name" justify="center">Jason Lyon</text>
+  <text name="text_name" justify="center">Jaye Sonia</text>
+  <text name="text_name" justify="center">Jed Jarvis</text>
+  <text name="text_name" justify="center">Jeff Badger</text>
+  <text name="text_name" justify="center">Jeff Huston</text>
+  <text name="text_name" justify="center">Jen Sweet</text>
+  <text name="text_name" justify="center">Jennifer L. Ingle</text>
+  <text name="text_name" justify="center">Jenny Bendel</text>
+  <text name="text_name" justify="center">Jeremy Aldrieh</text>
+  <text name="text_name" justify="center">Jeremy Hallum</text>
+  <text name="text_name" justify="center">Jesse Faith</text>
+  <text name="text_name" justify="center">Jessica Price</text>
+  <text name="text_name" justify="center">Jim Cavalcoli</text>
+  <text name="text_name" justify="center">Joe Hicks</text>
+  <text name="text_name" justify="center">Joel Flank</text>
+  <text name="text_name" justify="center">John Halpin</text>
+  <text name="text_name" justify="center">John Schubert</text>
+  <text name="text_name" justify="center">Jon Meerdink</text>
+  <text name="text_name" justify="center">Joseph Muennich</text>
+  <text name="text_name" justify="center">Josh Jacoby</text>
+  <text name="text_name" justify="center">Josh Rosen</text>
+  <text name="text_name" justify="center">Joshua Minol</text>
+  <text name="text_name" justify="center">Julien Marchant</text>
+  <text name="text_name" justify="center">Justin VanSlyke</text>
+  <text name="text_name" justify="center">Kara Bradley</text>
+  <text name="text_name" justify="center">Karl Rodriguez</text>
+  <text name="text_name" justify="center">Keith J. Scherer</text>
+  <text name="text_name" justify="center">Keith Sweeting</text>
+  <text name="text_name" justify="center">Kelly Bancroft</text>
+  <text name="text_name" justify="center">Ken Sweeting</text>
+  <text name="text_name" justify="center">Kerrie Ferchalk</text>
+  <text name="text_name" justify="center">Kevin Craghead</text>
+  <text name="text_name" justify="center">Kevin Ingle</text>
+  <text name="text_name" justify="center">Kristen Gipson</text>
+  <text name="text_name" justify="center">Kristen Loudon</text>
+  <text name="text_name" justify="center">Krysti Schroeder</text>
+  <text name="text_name" justify="center">Kyle Elliot</text>
+  <text name="text_name" justify="center">Kyle Olson</text>
+  <text name="text_name" justify="center">Laura Lane</text>
+  <text name="text_name" justify="center">Leo Benevedes</text>
+  <text name="text_name" justify="center">Levi Boaz</text>
+  <text name="text_name" justify="center">Levi Duncan</text>
+  <text name="text_name" justify="center">Lillian Cohen-Moore</text>
+  <text name="text_name" justify="center">Lisa Stevens</text>
+  <text name="text_name" justify="center">Liz Mohler</text>
+  <text name="text_name" justify="center">Liz Munro</text>
+  <text name="text_name" justify="center">Lizzie Matkowski</text>
+  <text name="text_name" justify="center">Logan Bonner</text>
+  <text name="text_name" justify="center">Lucas Servideo</text>
+  <text name="text_name" justify="center">Luis Loza</text>
+  <text name="text_name" justify="center">Marc Ryser</text>
+  <text name="text_name" justify="center">Marilynn Britton</text>
+  <text name="text_name" justify="center">Mark Partridge</text>
+  <text name="text_name" justify="center">Mark Seifter</text>
+  <text name="text_name" justify="center">Mark Wallevand</text>
+  <text name="text_name" justify="center">Mary Ann Miller</text>
+  <text name="text_name" justify="center">Marya Marshall</text>
+  <text name="text_name" justify="center">Matt Matkowski</text>
+  <text name="text_name" justify="center">Matt McDonald</text>
+  <text name="text_name" justify="center">Matt McLane</text>
+  <text name="text_name" justify="center">Matthew Starch</text>
+  <text name="text_name" justify="center">Megan Brophy-McLean</text>
+  <text name="text_name" justify="center">Melina Hubler</text>
+  <text name="text_name" justify="center">Michael Costello</text>
+  <text name="text_name" justify="center">Michael Grater</text>
+  <text name="text_name" justify="center">Micheal Johnson</text>
+  <text name="text_name" justify="center">Mike Brock</text>
+  <text name="text_name" justify="center">Mike Fry</text>
+  <text name="text_name" justify="center">Mike McCammon</text>
+  <text name="text_name" justify="center">Mike Seales</text>
+  <text name="text_name" justify="center">Mike Wyman</text>
+  <text name="text_name" justify="center">Miriah White</text>
+  <text name="text_name" justify="center">Nathan Tonella</text>
+  <text name="text_name" justify="center">Neil Morrell</text>
+  <text name="text_name" justify="center">Nochtal Balzer</text>
+  <text name="text_name" justify="center">Omar Medina</text>
+  <text name="text_name" justify="center">Pat Luther</text>
+  <text name="text_name" justify="center">Patrice Lutz</text>
+  <text name="text_name" justify="center">Paul Melkild</text>
+  <text name="text_name" justify="center">Peni Griffin</text>
+  <text name="text_name" justify="center">Peter Kies</text>
+  <text name="text_name" justify="center">Phillip Goettsch</text>
+  <text name="text_name" justify="center">Phillip Reed</text>
+  <text name="text_name" justify="center">Pierce Watters</text>
+  <text name="text_name" justify="center">Randy Kopenhagen</text>
+  <text name="text_name" justify="center">Rich Crotty</text>
+  <text name="text_name" justify="center">Richard Francis</text>
+  <text name="text_name" justify="center">Richard Redman</text>
+  <text name="text_name" justify="center">Richard deMorris</text>
+  <text name="text_name" justify="center">Rob Hand</text>
+  <text name="text_name" justify="center">Rob Warehall</text>
+  <text name="text_name" justify="center">Robert Griffin</text>
+  <text name="text_name" justify="center">Robert Hetherington</text>
+  <text name="text_name" justify="center">Robert Marshall</text>
+  <text name="text_name" justify="center">Ron Lundeen</text>
+  <text name="text_name" justify="center">Ron Rhinehart</text>
+  <text name="text_name" justify="center">Rose Walton</text>
+  <text name="text_name" justify="center">Ross Williams</text>
+  <text name="text_name" justify="center">Royce Thigpen</text>
+  <text name="text_name" justify="center">Russ Taylor</text>
+  <text name="text_name" justify="center">Ryan Costello</text>
+  <text name="text_name" justify="center">Ryan Heinemann</text>
+  <text name="text_name" justify="center">Ryan Kangas</text>
+  <text name="text_name" justify="center">Ryan Macklin</text>
+  <text name="text_name" justify="center">Sana Marshall</text>
+  <text name="text_name" justify="center">Scott Akers</text>
+  <text name="text_name" justify="center">Scott Jenkins</text>
+  <text name="text_name" justify="center">Scott Provost</text>
+  <text name="text_name" justify="center">Scott Yauger</text>
+  <text name="text_name" justify="center">Sean Fenton</text>
+  <text name="text_name" justify="center">Sean Francis</text>
+  <text name="text_name" justify="center">Sean Munro</text>
+  <text name="text_name" justify="center">Sean Nicol</text>
+  <text name="text_name" justify="center">Sebastian Lucier</text>
+  <text name="text_name" justify="center">Seth Gipson</text>
+  <text name="text_name" justify="center">Shaki Bogmeif</text>
+  <text name="text_name" justify="center">Shane Wilson</text>
+  <text name="text_name" justify="center">Shawn Erbe</text>
+  <text name="text_name" justify="center">Sidra Marshall</text>
+  <text name="text_name" justify="center">Stephanie Goettsch</text>
+  <text name="text_name" justify="center">Stephanie Lundeen</text>
+  <text name="text_name" justify="center">Stephanie Ptuetze</text>
+  <text name="text_name" justify="center">Stephen Blevins</text>
+  <text name="text_name" justify="center">Steve Cameron</text>
+  <text name="text_name" justify="center">Steven Craghead</text>
+  <text name="text_name" justify="center">Steven Lau</text>
+  <text name="text_name" justify="center">Tami Riner</text>
+  <text name="text_name" justify="center">Taylor Hubler</text>
+  <text name="text_name" justify="center">Taylor Kessner</text>
+  <text name="text_name" justify="center">Thomas Lutz</text>
+  <text name="text_name" justify="center">Tiffiny Faith</text>
+  <text name="text_name" justify="center">Tim Horton</text>
+  <text name="text_name" justify="center">Tim Rolston</text>
+  <text name="text_name" justify="center">Tim Wallace</text>
+  <text name="text_name" justify="center">Tim Werner</text>
+  <text name="text_name" justify="center">Tom Riner</text>
+  <text name="text_name" justify="center">Tracey Yohe</text>
+  <text name="text_name" justify="center">Tyler Beck</text>
+  <text name="text_name" justify="center">Warren Wyman</text>
+  <text name="text_name" justify="center">Wayne Halsey</text>
+  <text name="text_name" justify="center">Wil Wheaton</text>
+  <text name="text_name" justify="center">Will Sobel</text>
+  <text name="text_name" justify="center">William Ansell</text>
+  <text name="text_name" justify="center">William Morsan</text>
+  <text name="text_name" justify="center">Zack Nagel</text>
+  <text name="text_name" justify="center">Zhi Liao</text>
+  <br br_height="30"/>   
+    
+  <localized_text name="title_job" justify="center">Thanks To</localized_text>
+  <text name="text_name" justify="center">Jeffrey Alvarez</text>
+  <text name="text_name" justify="center">Mike Kenway</text>
+  <br br_height="20"/>
+ 
+ <localized_text name="title_job" justify="center">Special Thanks</localized_text>
+  <text name="text_name" justify="center">The paizo.com community for their constant feedback</text>
+  <br br_height="30"/>
+ 
+  <image justify="center" name="image_paizologo" fade_in="3" hold="5" fade_out="3"/>
+   <br br_height="20"/>
+   
+  <image justify="center" name="image_unitylogo" fade_in="3" hold="5" fade_out="3"/>
+   <br br_height="20"/>
+   
+  <image justify="center" name="image_playfablogo" fade_in="3" hold="5" fade_out="3"/>
+ <br br_height="20"/>
+ 
+  <image justify="center" indent="200" width="600" height="364" scale="1.0" name="credits_con_27.png" y="120" fade_in="3" hold="5" fade_out="3"/>
+
+  <image justify="center" indent="0" width="1024" height="83.2" scale="1" name="credits_logo_combined.tga"/>
+  <br br_height="30"/>
+
+  <text name="text_name" justify="center">© 2014-2016 Obsidian Entertainment, Inc. Obsidian and the</text>
+  <text name="text_name" justify="center">Obsidian Entertainment logo are registered trademarks</text> 
+  <text name="text_name" justify="center">of Obsidian Entertainment, Inc.</text>
+  <br br_height="20"/>
+  <text name="text_name" justify="center">Paizo, Paizo Inc., the Paizo golem logo, Pathfinder, the Pathfinder</text>
+  <text name="text_name" justify="center">logo, and Pathfinder Society are registered trademarks of Paizo Inc.;</text>
+  <text name="text_name" justify="center">Pathfinder Adventure Card Game, Pathfinder Adventures, Pathfinder</text>
+  <text name="text_name" justify="center">Roleplaying Game, and Rise of the Runelords are trademarks of</text>
+  <text name="text_name" justify="center">Paizo Inc. © 2013–2016 Paizo Inc.</text> 
+  <br br_height="30"/>
+  <text name="text_name" justify="center">Portions of this game powered by PlayFab, Inc.</text>
+  <text name="text_name" justify="center">PlayFab® is a registered trademark of PlayFab, Inc.</text>  
+  <br br_height="30"/>
+  
+
+</credits>

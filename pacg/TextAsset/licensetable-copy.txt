@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\licensetable</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>66</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Character Add-On Deck</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Expand your party with new heroes and abilities!
+·	Amiri the Barbarian
+·	Lini the Druid
+·	Seelah the Paladin
+·	Sajan the Monk
+
+This also includes Deck C which features:
+·	Allies, items, and more for these heroes
+·	Additional monsters and barriers
+·	Fan Favorite: Deathbane Light Crossbow +1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Burnt Offerings</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>LIMITED TIME DISCOUNT! You've conquered the Perils of the Lost Coast! Now, pit your heroes against goblins, ancient traps, evil fanatics, and worse! 
+
+This expansion includes: 
+·	5 new scenarios
+·	7 new locations
+·	2 new maps
+·	Over 40 monsters, henchman and villains
+·	Weapons, spells, items, loot and more!
+
+NOTE: Unlocks on purchase, but only accessible by characters who have completed Perils of the Lost Coast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The Skinsaw Murders</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>You've survived Burnt Offerings! Now, Uncover a mystery fraught with ravenous ghouls, age-old hauntings, foul cultists, and worse!
+
+This expansion includes: 
+·	5 new scenarios, including the very haunted Foul Misgivings
+·	4 new locations
+·	2 new maps
+·	Over 40 monsters, henchman and villains
+·	More allies, blessings, armor, loot and more!
+
+NOTE: Unlocks on purchase, but only accessible by characters who have completed Burnt Offerings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>The Hook Mountain Massacre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>You've solved The Skinsaw Murders! Now, Venture into the dark heart of ogre country! 
+
+This expansion includes: 
+·	5 new scenarios, including the game-changing Here Comes the Flood
+·	4 new locations
+·	4 new maps
+·	Over 40 monsters, henchman and villains
+·	More weapons, spells, items, loot and more!
+
+NOTE: Unlocks on purchase, but only accessible by characters who have completed The Skinsaw Murders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Fortress of the Stone Giants</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>You've resisted The Hook Mountain Massacre! Now, fend off a stone giant invasion, raid magical dungeons, and unlock the mystery of an ancient empire! 
+
+This expansion includes: 
+·	5 new scenarios
+·	4 new locations
+·	3 new maps
+·	Over 40 monsters, henchman and villains.
+·	More allies, blessings, armor, loot and more!
+
+NOTE: Unlocks on purchase, but only accessible by characters who have completed The Hook Mountain Massacre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Sins of the Saviors</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You've infiltrated the Fortress of the Stone Giants! Now, slay a ferocious dragon, face the magical might of ancient sins, and claim treasures of extraordinary power! 
+
+This expansion includes: 
+·	5 new scenarios
+·	9 new locations
+·	2 new maps
+·	Over 40 monsters, henchman and villains
+·	More allies, items, armor, loot and more!
+
+NOTE: Unlocks on purchase, but only accessible by characters who have completed Fortress of the Stone Giants.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Spires of Xin-Shalast</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>You've faced the Sins of the Saviors! Now, confront cannibal spirits, the champions of a fallen empire, and the Runelord of Greed! 
+
+This expansion includes: 
+·	5 new scenarios, including the epic conclusion
+·	4 new locations
+·	4 new maps
+·	Over 40 monsters, henchman and villains
+·	More weapons, spells, items, loot and more!
+
+NOTE: Unlocks on purchase, but only accessible by characters who have completed Sins of the Saviors.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>4,000 Gold</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Get 4,000 gold right now! You can use it to buy adventures, characters, or treasure chests!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>9,000 Gold</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Get 9,000 gold right now! You can use it to buy adventures, characters, or treasure chests!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>20,000 Gold</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Get 20,000 gold right now! You can use it to buy adventures, characters, or treasure chests!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Daily Gold</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>BEST VALUE! Collect 200 gold every day for 30 days, just for logging in. That's 6000 gold! </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Rise of the Runelords Bundle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>With the bundle, you will receive all Rise of the Runelords adventure decks as they are released!
+
+This includes currently available adventures:
+·	Burnt Offerings
+·	The Skinsaw Murders
+
+As they are released, you can continue the adventure in:
+·	The Hook Mountain Massacre
+·	Fortress of the Stone Giants
+·	Sins of the Saviors
+·	Spires of Xin Shalast
+
+You will also have many more adventuring options with:
+·	All 11 Rise of the Runelord heroes
+·	Character Add-On Deck with additional boons and banes
+·	Promo cards with each adventure deck</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>One Treasure Chest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Purchase a Treasure Chest and open it to reveal four cards! One of them is guaranteed to be Rare! 
+
+These cards will be added to your vault and will be found by adventuring. The chances that your characters will find great boons during a scenario increases with every treasure chest card you own. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Ezren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Character description for licensing Ezren!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Harsk</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Character description for licensing Harsk!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Kyra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Character description for licensing Kyra!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Lem</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Character description for licensing Lem!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Merisiel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Character description for licensing Merisiel!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Seoni</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Character description for licensing Seoni!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Valeros</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Character description for licensing Valeros!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Amiri</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Character description for licensing Amiri!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Lini</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Character description for licensing Lini!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Sajan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Character description for licensing Sajan!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Seelah</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Character description for licensing Seelah!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Ameiko</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Character description for licensing Ameiko!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Orik</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Character description for licensing Orik!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Five Treasure Chests</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Purchase five Treasure Chests and open each to reveal four cards! One of them is guaranteed to be Rare! 
+
+These cards will be added to your vault and will be found by adventuring. The chances that your characters will find great boons during a scenario increases with every treasure chest card you own. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Ten Treasure Chests</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Purchase ten Treasure Chests and open each to reveal four cards! One of them is guaranteed to be Rare! 
+
+These cards will be added to your vault and will be found by adventuring. The chances that your characters will find great boons during a scenario increases with every treasure chest card you own. 
+
+Includes one FREE bonus Treasure Chest! </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Forty Treasure Chests</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Purchase forty Treasure Chests and open each to reveal four cards! One of them is guaranteed to be Rare! 
+
+These cards will be added to your vault and will be found by adventuring. The chances that your characters will find great boons during a scenario increases with every treasure chest card you own. 
+
+BEST VALUE! Includes 8 FREE bonus Treasure Chests! </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Dummy Product</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>This is a dummy product meant to be used for developers only. It should function as a real purchase.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Rise of the Runelords Bundle Available Now!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

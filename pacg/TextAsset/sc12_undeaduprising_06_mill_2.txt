@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\sc12_undeaduprising_06_mill</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[The mill is coated with sawdust strewn with footprints and splashes of blood. A desperate struggle took place here several hours ago.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[The lingering scent of decay in the air is curious, though. It smells almost as if an animal had died somewhere in the room and its remains were allowed to ripen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[The mangled, ruined remains of a woman lie on the mill’s lower floor amid heaps of bloodstained firewood.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[A man's body has been horribly desecrated. The poor man has been affixed to the wall by several hooks normally used to hang machinery. The body is mutilated, the face carved away and lower jaw missing entirely. His bare chest is defaced as well, bearing a strange rune in the shape of a seven-pointed star.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

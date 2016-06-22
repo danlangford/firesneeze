@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\sc13_herecomestheflood_01_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>I've never seen rain like this. It doesn't seem natural.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Something also appears to be happening at the dam. If that breaks, the town and all its people could be washed away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>We won't let that happen. Whether they like us or not, we will get the people of Turtleback Ferry to safety.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Bank Node 7</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Something also appears to be causing trouble at the dam, and the rains will not relent. If it breaks, the town and all its people could be washed away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>I've never seen rain like this. It doesn't seem natural. I don't like the sounds coming from the dam even more.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>The lake's rising fast, and there's something big and bad at the dam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>The rains aren't lettin' up, and the dam at Skull's Crossing isn't in good shape either. Somethin's bound to break through.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>The rains are not letting up, and I don't need a prophetic dream to know that something terrible is happening up at the dam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>This weather system is infused with dark magic. It's designed to drown beast and man alike.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>The land falls away to the lake and the river. The rain continues to fall, and the dam falters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Claybottom Lake is flooding. And there's something making the most monstrous dissonance at the dam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The waters are rising. But I fear true danger is coming from the dam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>It's starting to flood. The dam at Skull's Crossing isn't holding the water. It sounds like something is breaking its way through.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Claybottom Lake is overflowing already. I anticipate no reduction in precipitation. Worse, the ancient dam holding the lake above is not working at full capacity. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Bank Node 7</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>The townspeople here don't seem to know better. I guess it's up to me to get them to safety. Sigh... another volunteer hero gig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>No one is safe here. They must be given sanctuary.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>There are many innocent people to protect. That is my first responsibility.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>The best thing to do in the short term is help the townsfolk to safety.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>One way or another, the people of Turtleback will need to be brought to safety.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>I must prioritize the meager lives of Turtleback Ferry before I may address the dam's weakness.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Most of the town is vulnerable to both flooding and attack. It's time to get folks to safety.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Dumb, stubborn people of Turtleback aren't getting to safety unless I move them myself.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Unless they are taken to a sanctuary, the people of Turtleback will not fight another day.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>I'll seek out as many people as I can. Like it or not, they'll need to leave town to get to safety.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>I will rescue as many of my wild brothers and sisters as possible. Some people might be worth saving too.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>I always knew that underneath all that mercenary swagger was a selfless woman full of light and fury. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Let's keep that secret between us.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\sc12_undeaduprising_05_sanatorium</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[The squat, stone building that serves as the sanatorium has three floors under a stout, stone-flagged roof, and is built in the lee of the limestone escarpment known as Ashen Rise.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[A brisk sense of cleanliness fills the place. The floors are scrubbed and walls are freshly painted white. The somewhat sour smell of burning incense abounds. A scent that Habe has found soothes most deviant minds.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[There is an eerie quiet as it becomes clear that all of the sanatorium's patients are gone.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

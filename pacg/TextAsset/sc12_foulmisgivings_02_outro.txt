@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\sc12_foulmisgivings_02_outro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>It seems that he has a letter from Xanesha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>There's a letter here from Xanesha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>It seems Xanesha wrote Aldern a convenient letter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>He may have spoken true about working for Xanesha. She sent him this letter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>It appears he held onto the written word of his guide in blood, Xanesha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Looks like there's a note from this Xanesha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Alder Fox Glove had a paper from Xanesha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>It appears that Xanesha composed a missive for Aldern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>So here's a letter from that Xanesha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Seems that Xanesha was tellin' him what to do from afar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>There's a correspondence here from Xanesha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>&lt;i&gt;Aldern, 
+You have served us quite well. The delivery you harvested from the caverns far exceeds what I had hoped for. You may consider your debt to the Brothers paid in full.&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>&lt;i&gt;I will provide the list of proper victims for the Sihedron ritual in two days’ time. The ones I have selected must be marked before they die; otherwise they do my master no good and the greed in their souls will go to waste.&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>So it is on to greater exploits! I've heard wonderfully interesting rumors about Magnimar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>A larger city with more walls. Sometimes you got to follow the tracks where they lead.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>I'll miss Sandpoint. But there is sure to be more to offer in Magnimar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Perhaps this mystery's connection to the Sihedron rune may be discovered in Magnimar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>There's another city for me to fight through. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>It's just as well. I was outgrowing Sandpoint anyway.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>It is time I make myself known in Magnimar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>It's past time I go to Magnimar anyway.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>So, to the city of Magnimar. I am sure it is also in danger, but its people don't know it yet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>I do not wish to leave Sandpoint undefended, but it is clear the goddess has another destination for me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>It appears Magnimar holds the next piece of this puzzle. I will not be sorry to see the back of this place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>&lt;i&gt;Yet I still have need of you, and when you awaken from your death, you should find your mind clear and able to understand this task more than in the state you are in as I write this.&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>&lt;i&gt;You remember the workings of the Sihedron ritual, I trust. You seemed quite lucid at the time, but if you find after your rebirth that you have forgotten, return to your townhouse in Magnimar.&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

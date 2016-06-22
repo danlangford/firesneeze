@@ -1,0 +1,32 @@
+<N>
+ <N ID="Deck1">
+  <Adventure ID="AD11_BurntOfferings" Set="1">Burnt Offerings</Adventure>
+  <Scenario ID="SC11_AttackOnSandpoint" Number="1">Deck 1</Scenario>
+  <Character ID="CH1C_Seelah" Class="Paladin">Seelah</Character>
+  <Character ID="CH1C_Amiri" Class="Barbarian">Amiri</Character>
+  <Character ID="CH1C_Sajan" Class="Monk">Sajan</Character>
+  <Character ID="CH1B_Ezren" Class="Wizard">Ezren</Character>
+  <Character ID="CH1B_Lem" Class="Bard">Lem</Character>
+  <Character ID="CH1C_Lini" Class="Druid">Lini</Character>
+ </N>
+ <N ID="Deck2">
+  <Adventure ID="AD12_TheSkinsawMurders" Set="2">The Skinsaw Murders</Adventure>
+  <Scenario ID="SC12_UndeadUprising" Number="2">Deck 2</Scenario>
+  <Character ID="CH1B_Kyra" Class="Cleric">Kyra</Character>
+  <Character ID="CH1C_Amiri" Class="Barbarian">Amiri</Character>
+  <Character ID="CH1B_Harsk" Class="Ranger">Harsk</Character>
+  <Character ID="CH1B_Seoni" Class="Sorcerer">Seoni</Character>
+  <Character ID="CH1B_Valeros" Class="Fighter">Valeros</Character>
+  <Character ID="CH1B_Merisiel" Class="Rogue">Merisiel</Character>
+ </N>
+ <N ID="Deck3">
+  <Adventure ID="AD13_TheHookMountainMassacre" Set="3">The Hook Mountain Massacre</Adventure>
+  <Scenario ID="SC13_ThemOgresAintRight" Number="3">Deck 3</Scenario>
+  <Character ID="CH1B_Ezren" Class="Wizard">Ezren</Character>
+  <Character ID="CH1C_Seelah" Class="Paladin">Seelah</Character>
+  <Character ID="CH1B_Kyra" Class="Cleric">Kyra</Character>
+  <Character ID="CH1C_Lini" Class="Druid">Lini</Character>
+  <Character ID="CH1B_Merisiel" Class="Rogue">Merisiel</Character>
+  <Character ID="CH1B_Harsk" Class="Ranger">Harsk</Character>
+ </N>	
+</N> 

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\sc11_approachtothistletop_01_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>We've arrived at Thistletop. You should know that you are facing five goblin tribes working together which means they've got something big planned. And big plans require big bosses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>There's been a lot of chatter about the "longshanks" who killed so many of them in Sandpoint. Seems like you've made an impression. If it will help quell the goblin threat, I will join you in this fight.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Alliances forged by force are brittle things. If you hit the right pressure point, the whole thing will crumble.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>It seems that Nualia chooses to shield herself with lesser creatures. I pity them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>There's been a lot of chatter about the "longshanks" who killed so many of them in Sandpoint. Seems like you've made an impression. I will scout the periphery. Anyone deciding to join the fight from outside will find themselves full of arrows.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Though Thistletop is covered in brambles and crude fortifications, something ancient and perhaps sinister lies below. These goblins are merely a distraction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Thistletop looks to have natural cover in all of those brambles. You can't see 'em, but that brush is crawlin' with goblins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Five goblin tribes? Is that all? And I was afraid that a clever quip and a song wouldn't be enough to win the day. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Thank you for your guidance, Shalelu. May the light of Sarenrae guide the rest of the way.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Me against five armies? Easy. Just one dead goblin at a time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Nualia's plans seem directed at Sandpoint. Could this be the start of something even larger?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>And that means plenty of blood to spill. In this I plan to be generous.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Five? I don't know why goblins like Noolia so much. She must scare them more than humans or heroes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>As my friends will tell you, I am a big plan's worst enemy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>It seems that Nualia chooses to shield herself with lesser creatures. I pity them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Five goblin tribes? Is that all? And I thought we might need more than a pair of cunning rogues to do the job. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Lead on, Shalelu!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>We'll be doing this mission my way. I'll quietly dispose of as many goblins as I can. And Lem, you'll—</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>—create distractions and help when I can. If I get a shot at one of the big bosses, I'll take it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>I'm sure a clever quip and a song will win the day.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>You can't see 'em, but that brush is crawlin' with goblins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Nualia's shield will prove a soft and bloody one.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>So many goblins just to be used as fodder? The attacks at Sandpoint may only be the beginning.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Alliances forged by force are brittle things. If you hit the right pressure point, the whole thing will crumble.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Nualia will soon find there's no plan I can't destroy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>It appears that Lamashtu's servant is bringing a faithless congregation for whatever darkness she has planned.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>We will require caution. These goblins are merely a distraction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>My kind of odds. </DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

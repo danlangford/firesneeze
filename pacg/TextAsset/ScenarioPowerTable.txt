@@ -1,0 +1,622 @@
+<N>
+ <N ID="PS1B_LinearMapMovement">
+  <Name>254</Name>
+  <Description>255</Description>
+ </N>
+ <N ID="PS1B_Brigandoom">
+  <Name>6</Name>
+  <Description>8</Description>
+ </N>
+ <N ID="PS1B_Brigandoom_1">
+  <Name>6</Name>
+  <Description>180</Description>
+ </N>
+ <N ID="PS1B_Quest_Brigandoom">
+  <Name>284</Name>
+  <Description>8</Description>
+ </N>
+ <N ID="PS1B_Quest_Brigandoom_1">
+  <Name>284</Name>
+  <Description>180</Description>
+ </N>
+ <N ID="PS1B_ThePoisonPill">
+  <Name>12</Name>
+  <Description>14</Description>
+ </N>
+ <N ID="PS1B_ThePoisonPill_1">
+  <Name>284</Name>
+  <Description>181</Description>
+ </N>
+  <N ID="PS1B_Quest_ThePoisonPill">
+  <Name>284</Name>
+  <Description>14</Description>
+ </N>
+ <N ID="PS1B_Quest_ThePoisonPill_1">
+  <Name>284</Name>
+  <Description>181</Description>
+ </N>
+ <N ID="PS1B_BlackFangsDungeon">
+  <Name>18</Name>
+  <Description>20</Description>
+ </N>
+ <N ID="PS1B_BlackFangsDungeon_1">
+  <Name>18</Name>
+  <Description>182</Description>
+ </N>
+ <N ID="PS11_ApproachToThistletop">
+  <Name>24</Name>
+  <Description>26</Description>
+ </N>
+ <N ID="PS11_ApproachToThistletop_1">
+  <Name>24</Name>
+  <Description>183</Description>
+ </N>
+ <N ID="PS11_AttackOnSandpoint">
+  <Name>30</Name>
+  <Description>32</Description>
+ </N>
+ <N ID="PS11_AttackOnSandpoint_1">
+  <Name>30</Name>
+  <Description>184</Description>
+ </N>
+  <N ID="PS11_Quest_ApproachToThistletop">
+  <Name>284</Name>
+  <Description>26</Description>
+ </N>
+ <N ID="PS11_Quest_ApproachToThistletop_1">
+  <Name>284</Name>
+  <Description>183</Description>
+ </N>
+  <N ID="PS12_Quest_ApproachToThistletop">
+  <Name>284</Name>
+  <Description>289</Description>
+ </N>
+ <N ID="PS12_Quest_ApproachToThistletop_1">
+  <Name>284</Name>
+  <Description>290</Description>
+ </N>
+  <N ID="PS13_Quest_ApproachToThistletop">
+  <Name>284</Name>
+  <Description>291</Description>
+ </N>
+ <N ID="PS13_Quest_ApproachToThistletop_1">
+  <Name>284</Name>
+  <Description>292</Description>
+ </N>
+ <N ID="PS11_Quest_AttackOnSandpoint">
+  <Name>284</Name>
+  <Description>32</Description>
+ </N>
+ <N ID="PS11_Quest_AttackOnSandpoint_1">
+  <Name>284</Name>
+  <Description>184</Description>
+ </N>
+ <N ID="PS12_Quest_AttackOnSandpoint">
+  <Name>284</Name>
+  <Description>285</Description>
+ </N>
+ <N ID="PS12_Quest_AttackOnSandpoint_1">
+  <Name>284</Name>
+  <Description>286</Description>
+ </N>
+ <N ID="PS13_Quest_AttackOnSandpoint">
+  <Name>284</Name>
+  <Description>287</Description>
+ </N>
+ <N ID="PS13_Quest_AttackOnSandpoint_1">
+  <Name>284</Name>
+  <Description>288</Description>
+ </N>
+ <N ID="PS11_LocalHeroes">
+  <Name>36</Name>
+  <Description>38</Description>
+ </N>
+ <N ID="PS11_LocalHeroes_1">
+  <Name>36</Name>
+  <Description>185</Description>
+ </N>
+  <N ID="PS11_Quest_LocalHeroes">
+  <Name>284</Name>
+  <Description>38</Description>
+ </N>
+ <N ID="PS11_Quest_LocalHeroes_1">
+  <Name>284</Name>
+  <Description>185</Description>
+ </N>
+ <N ID="PS11_ThistletopDelve">
+  <Name>42</Name>
+  <Description>44</Description>
+ </N>
+ <N ID="PS11_ThistletopDelve_1">
+  <Name>42</Name>
+  <Description>186</Description>
+ </N>
+  <N ID="PS11_Quest_ThistletopDelve">
+  <Name>284</Name>
+  <Description>44</Description>
+ </N>
+ <N ID="PS11_Quest_ThistletopDelve_1">
+  <Name>284</Name>
+  <Description>186</Description>
+ </N>
+ <N ID="PS11_TroubleInSandpoint">
+  <Name>48</Name>
+  <Description>50</Description>
+ </N>
+ <N ID="PS11_TroubleInSandpoint_1">
+  <Name>48</Name>
+  <Description>187</Description>
+ </N>
+  <N ID="PS11_Quest_TroubleInSandpoint">
+  <Name>284</Name>
+  <Description>50</Description>
+ </N>
+ <N ID="PS11_Quest_TroubleInSandpoint_1">
+  <Name>284</Name>
+  <Description>187</Description>
+ </N>
+ <N ID="PS12_AngelInTheTower">
+  <Name>54</Name>
+  <Description>58</Description>
+ </N>
+ <N ID="PS12_AngelInTheTower_1">
+  <Name>54</Name>
+  <Description>188</Description>
+ </N>
+  <N ID="PS12_Quest_AngelInTheTower">
+  <Name>284</Name>
+  <Description>58</Description>
+ </N>
+ <N ID="PS12_Quest_AngelInTheTower_1">
+  <Name>284</Name>
+  <Description>188</Description>
+ </N>
+ <N ID="PS12_CrowBait">
+  <Name>61</Name>
+  <Description>65</Description>
+ </N>
+ <N ID="PS12_CrowBait_1">
+  <Name>61</Name>
+  <Description>189</Description>
+ </N>
+ <N ID="PS12_Quest_CrowBait">
+  <Name>284</Name>
+  <Description>65</Description>
+ </N>
+ <N ID="PS12_Quest_CrowBait_1">
+  <Name>284</Name>
+  <Description>189</Description>
+ </N>
+ <N ID="PS12_FoulMisgivings">
+  <Name>68</Name>
+  <Description>71</Description>
+ </N>
+ <N ID="PS12_FoulMisgivings_1">
+  <Name>68</Name>
+  <Description>190</Description>
+ </N>
+ <N ID="PS12_Quest_FoulMisgivings">
+  <Name>284</Name>
+  <Description>71</Description>
+ </N>
+ <N ID="PS12_Quest_FoulMisgivings_1">
+  <Name>284</Name>
+  <Description>190</Description>
+ </N>
+ <N ID="PS12_TheCultExposed">
+  <Name>74</Name>
+  <Description>77</Description>
+ </N>
+ <N ID="PS12_TheCultExposed_1">
+  <Name>744</Name>
+  <Description>191</Description>
+ </N>
+ <N ID="PS12_Quest_TheCultExposed">
+  <Name>284</Name>
+  <Description>77</Description>
+ </N>
+ <N ID="PS12_Quest_TheCultExposed_1">
+  <Name>284</Name>
+  <Description>191</Description>
+ </N>
+ <N ID="PS12_UndeadUprising">
+  <Name>80</Name>
+  <Description>86</Description>
+ </N>
+ <N ID="PS12_UndeadUprising">
+  <Name>80</Name>
+  <Description>86</Description>
+ </N>
+ <N ID="PS12_UndeadUprising_1">
+  <Name>80</Name>
+  <Description>192</Description>
+ </N>
+ <N ID="PS13_BattleAtTheDam">
+  <Name>89</Name>
+  <Description>92</Description>
+ </N>
+ <N ID="PS13_BattleAtTheDam_1">
+  <Name>89</Name>
+  <Description>193</Description>
+ </N>
+  <N ID="PS13_Quest_BattleAtTheDam">
+  <Name>284</Name>
+  <Description>92</Description>
+ </N>
+ <N ID="PS13_Quest_BattleAtTheDam_1">
+  <Name>284</Name>
+  <Description>193</Description>
+ </N>
+ <N ID="PS13_HereComesTheFlood">
+  <Name>93</Name>
+  <Description>95</Description>
+ </N>
+ <N ID="PS13_HereComesTheFlood_1">
+  <Name>93</Name>
+  <Description>194</Description>
+ </N>
+  <N ID="PS13_Quest_HereComesTheFlood">
+  <Name>284</Name>
+  <Description>95</Description>
+ </N>
+ <N ID="PS13_Quest_HereComesTheFlood_1">
+  <Name>284</Name>
+  <Description>194</Description>
+ </N>
+ <N ID="PS13_IntoTheMountains">
+  <Name>97</Name>
+  <Description>100</Description>
+ </N>
+ <N ID="PS13_IntoTheMountains_1">
+  <Name>97</Name>
+  <Description>195</Description>
+ </N>
+   <N ID="PS1B_Quest_IntoTheMountains">
+  <Name>284</Name>
+  <Description>313</Description>
+ </N>
+ <N ID="PS1B_Quest_IntoTheMountains_1">
+  <Name>284</Name>
+  <Description>314</Description>
+ </N>
+   <N ID="PS11_Quest_IntoTheMountains">
+  <Name>284</Name>
+  <Description>315</Description>
+ </N>
+ <N ID="PS11_Quest_IntoTheMountains_1">
+  <Name>284</Name>
+  <Description>316</Description>
+ </N>
+   <N ID="PS12_Quest_IntoTheMountains">
+  <Name>284</Name>
+  <Description>317</Description>
+ </N>
+ <N ID="PS12_Quest_IntoTheMountains_1">
+  <Name>284</Name>
+  <Description>195</Description>
+ </N>
+  <N ID="PS13_Quest_IntoTheMountains">
+  <Name>284</Name>
+  <Description>318</Description>
+ </N>
+ <N ID="PS13_Quest_IntoTheMountains_1">
+  <Name>284</Name>
+  <Description>195</Description>
+ </N>
+ <N ID="PS13_TheFortInPeril">
+  <Name>102</Name>
+  <Description>105</Description>
+ </N>
+ <N ID="PS13_TheFortInPeril_1">
+  <Name>102</Name>
+  <Description>196</Description>
+ </N>
+  <N ID="PS13_Quest_TheFortInPeril">
+  <Name>284</Name>
+  <Description>105</Description>
+ </N>
+ <N ID="PS13_Quest_TheFortInPeril_1">
+  <Name>284</Name>
+  <Description>196</Description>
+ </N>
+ <N ID="PS13_ThemOgresAintRight">
+  <Name>107</Name>
+  <Description>110</Description>
+ </N>
+ <N ID="PS13_ThemOgresAintRight_1">
+  <Name>107</Name>
+  <Description>197</Description>
+ </N>
+  <N ID="PS13_Quest_ThemOgresAintRight">
+  <Name>107</Name>
+  <Description>110</Description>
+ </N>
+ <N ID="PS13_Quest_ThemOgresAintRight_1">
+  <Name>107</Name>
+  <Description>197</Description>
+ </N>
+ <N ID="PS14_SandpointUnderSiege">
+  <Name>111</Name>
+  <Description>114</Description>
+ </N>
+ <N ID="PS14_SandpointUnderSiege_1">
+  <Name>111</Name>
+  <Description>114</Description>
+ </N>
+  <N ID="PS14_Quest_SandpointUnderSiege">
+  <Name>284</Name>
+  <Description>114</Description>
+ </N>
+ <N ID="PS14_Quest_SandpointUnderSiege_1">
+  <Name>284</Name>
+  <Description>114</Description>
+ </N>
+ <N ID="PS14_Jorgenfist">
+  <Name>115</Name>
+  <Description>118</Description>
+ </N>
+ <N ID="PS14_Jorgenfist_1">
+  <Name>115</Name>
+  <Description>263</Description>
+ </N>
+  <N ID="PS14_Quest_Jorgenfist">
+  <Name>284</Name>
+  <Description>118</Description>
+ </N>
+ <N ID="PS14_Quest_Jorgenfist_1">
+  <Name>284</Name>
+  <Description>263</Description>
+ </N>
+ <N ID="PS14_TheBlackTower">
+  <Name>119</Name>
+  <Description>122</Description>
+ </N>
+ <N ID="PS14_TheBlackTower_1">
+  <Name>119</Name>
+  <Description>264</Description>
+ </N>
+  <N ID="PS14_Quest_TheBlackTower">
+  <Name>284</Name>
+  <Description>122</Description>
+ </N>
+ <N ID="PS14_Quest_TheBlackTower_1">
+  <Name>284</Name>
+  <Description>264</Description>
+ </N>
+ <N ID="PS14_UnderJorgenfist">
+  <Name>124</Name>
+  <Description>127</Description>
+ </N>
+ <N ID="PS14_UnderJorgenfist_1">
+  <Name>124</Name>
+  <Description>265</Description>
+ </N>
+  <N ID="PS1B_Quest_UnderJorgenfist">
+  <Name>284</Name>
+  <Description>305</Description>
+ </N>
+ <N ID="PS1B_Quest_UnderJorgenfist_1">
+  <Name>284</Name>
+  <Description>306</Description>
+ </N>
+  <N ID="PS11_Quest_UnderJorgenfist">
+  <Name>284</Name>
+  <Description>307</Description>
+ </N>
+ <N ID="PS11_Quest_UnderJorgenfist_1">
+  <Name>284</Name>
+  <Description>308</Description>
+ </N>
+  <N ID="PS12_Quest_UnderJorgenfist">
+  <Name>284</Name>
+  <Description>309</Description>
+ </N>
+ <N ID="PS12_Quest_UnderJorgenfist_1">
+  <Name>284</Name>
+  <Description>310</Description>
+ </N>
+  <N ID="PS13_Quest_UnderJorgenfist">
+  <Name>284</Name>
+  <Description>311</Description>
+ </N>
+ <N ID="PS13_Quest_UnderJorgenfist_1">
+  <Name>284</Name>
+  <Description>312</Description>
+ </N>
+  <N ID="PS14_Quest_UnderJorgenfist">
+  <Name>284</Name>
+  <Description>127</Description>
+ </N>
+ <N ID="PS14_Quest_UnderJorgenfist_1">
+  <Name>284</Name>
+  <Description>265</Description>
+ </N>
+ <N ID="PS14_TheAncientLibrary">
+  <Name>128</Name>
+  <Description>131</Description>
+ </N>
+ <N ID="PS14_TheAncientLibrary_1">
+  <Name>128</Name>
+  <Description>131</Description>
+ </N>
+  <N ID="PS14_Quest_TheAncientLibrary">
+  <Name>284</Name>
+  <Description>131</Description>
+ </N>
+ <N ID="PS14_Quest_TheAncientLibrary_1">
+  <Name>284</Name>
+  <Description>131</Description>
+ </N>
+ <N ID="PS1B_Random_AllDifficulty1">
+  <Name>209</Name>
+  <Description>258</Description>
+ </N>
+ <N ID="PS1B_Random_BlessDeckSize">
+  <Name>211</Name>
+  <Description>199</Description>
+ </N>
+ <N ID="PS1B_Random_BoonDifficulty2">
+  <Name>212</Name>
+  <Description>259</Description>
+ </N>
+ <N ID="PS1B_Random_BaneDifficulty2">
+  <Name>213</Name>
+  <Description>260</Description>
+ </N>
+ <N ID="PS1B_Random_SpellItemBlessingBury1">
+  <Name>224</Name>
+  <Description>202</Description>
+ </N>
+ <N ID="PS1B_Random_AllyArmorWeaponBury1">
+  <Name>225</Name>
+  <Description>203</Description>
+ </N>
+ <N ID="PS1B_Random_MonsterDamage1">
+  <Name>226</Name>
+  <Description>204</Description>
+ </N>
+ <N ID="PS1B_Random_BarrierDamage2">
+  <Name>227</Name>
+  <Description>205</Description>
+ </N>
+ <N ID="PS1B_Random_Damage2Bury1">
+  <Name>228</Name>
+  <Description>206</Description>
+ </N>
+ <N ID="PS1B_Random_BoonFailBlessingDiscard">
+  <Name>229</Name>
+  <Description>207</Description>
+ </N>
+ <N ID="PS1B_Random_ZombieHorde">
+  <Name>217</Name>
+  <Description>208</Description>
+ </N>
+ <N ID="PS1B_Random_GiantHorde">
+  <Name>299</Name>
+  <Description>301</Description>
+ </N>
+ <N ID="PS1B_Random_GoblinHorde">
+  <Name>300</Name>
+  <Description>302</Description>
+ </N>
+ <N ID="PS1B_Random_SnakeHorde">
+  <Name>303</Name>
+  <Description>304</Description>
+ </N>
+ <N ID="PS1B_Random_Thorns">
+  <Name>256</Name>
+  <Description>257</Description>
+ </N>
+ <N ID="PS1B_Random_NewMoon">
+  <Name>231</Name>
+  <Description>249</Description>
+ </N>
+ <N ID="PS1B_Random_TheDarknessSpreads">
+  <Name>233</Name>
+  <Description>251</Description>
+ </N>
+ <N ID="PS1B_Random_OpenWounds">
+  <Name>234</Name>
+  <Description>252</Description>
+ </N>
+ <N ID="PS1B_Random_TerrorReigns">
+  <Name>235</Name>
+  <Description>253</Description>
+ </N>
+ <N ID="PS1B_Random_ChaosBorealis">
+  <Name>236</Name>
+  <Description>254</Description>
+ </N>
+ <N ID="PS1B_Random_CurseOfTheGods">
+  <Name>230</Name>
+  <Description>248</Description>
+ </N>
+ <N ID="PS1B_Random_Isolation">
+  <Name>223</Name>
+  <Description>247</Description>
+ </N>
+ <N ID="PS1B_Random_ShatteredPathways">
+  <Name>218</Name>
+  <Description>242</Description>
+ </N>
+ <N ID="PS11_Random_BoonDifficulty3">
+  <Name>212</Name>
+  <Description>261</Description>
+ </N>
+ <N ID="PS11_Random_BaneDifficulty3">
+  <Name>213</Name>
+  <Description>262</Description>
+ </N>
+ <N ID="PS12_Random_AllDifficulty2">
+  <Name>209</Name>
+  <Description>198</Description>
+ </N>
+ <N ID="PS13_Random_BoonDifficulty4">
+  <Name>212</Name>
+  <Description>200</Description>
+ </N>
+ <N ID="PS13_Random_BaneDifficulty4">
+  <Name>213</Name>
+  <Description>201</Description>
+ </N>
+ <N ID="PS1B_Quest_BlackFangsDungeon">
+  <Name>284</Name>
+  <Description>266</Description>
+ </N>
+ <N ID="PS1B_Quest_BlackFangsDungeon_1">
+  <Name>284</Name>
+  <Description>267</Description>
+ </N>
+  <N ID="PS11_Quest_BlackFangsDungeon">
+  <Name>284</Name>
+  <Description>293</Description>
+ </N>
+ <N ID="PS11_Quest_BlackFangsDungeon_1">
+  <Name>284</Name>
+  <Description>294</Description>
+ </N>
+  <N ID="PS12_Quest_BlackFangsDungeon">
+  <Name>284</Name>
+  <Description>295</Description>
+ </N>
+ <N ID="PS12_Quest_BlackFangsDungeon_1">
+  <Name>284</Name>
+  <Description>296</Description>
+ </N>
+  <N ID="PS13_Quest_BlackFangsDungeon">
+  <Name>284</Name>
+  <Description>297</Description>
+ </N>
+ <N ID="PS13_Quest_BlackFangsDungeon_1">
+  <Name>284</Name>
+  <Description>298</Description>
+ </N>
+ <N ID="PS11_Quest_TroubleInSandpoint">
+  <Name>284</Name>
+  <Description>269</Description>
+ </N>
+ <N ID="PS11_Quest_TroubleInSandpoint_1">
+  <Name>284</Name>
+  <Description>275</Description>
+ </N>
+ <N ID="PS12_Quest_UndeadUprising">
+  <Name>284</Name>
+  <Description>273</Description>
+ </N>
+ <N ID="PS12_Quest_UndeadUprising_1">
+  <Name>284</Name>
+  <Description>279</Description>
+ </N>
+ <N ID="PS13_Quest_ThemOgresAintRight">
+  <Name>284</Name>
+  <Description>272</Description>
+ </N>
+ <N ID="PS13_Quest_ThemOgresAintRight_1">
+  <Name>284</Name>
+  <Description>278</Description>
+ </N>
+ <N ID="PS1T_Tutorial">
+  <Name>0</Name>
+  <Description>178</Description>
+ </N>
+</N>

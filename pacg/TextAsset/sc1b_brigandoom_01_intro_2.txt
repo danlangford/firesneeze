@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\sc1b_brigandoom_01_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>49</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>We've finally arrived at Sandpoint! This place looks quieter than it did my dreams. 
+
+Of course, looks may be deceiving.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>They better be! Magnimar or Riddleport probably would have been more fun. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>You there! You look equipped and able! I can't get a supply shipment past the waterfront these days. That brigand Jubrayl Vhiski and his thugs are robbing honest folks in the streets. Our incompetent sheriff can't seem to do a thing about it!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>On the upside, easy money can often be made in these backwater holes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Sandpoint: It will be a relief to be far from the politics of Absalom. 
+
+It is said the ruins of old Thassilon can be found here. Given peace and time, I could learn much.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>So this is Sandpoint. Doesn't seem like much. 
+
+I bet there's a place to get a drink or three... and some soft company while we're at it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>We've arrived at Sandpoint, Light of the Lost Coast. 
+
+Be happy when this place is at my back... too many walls for one to breathe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Sandpoint: Light of the Lost Coast! I have a wonderful feeling about this humble but lively town. Fortunately, I haven't seen a single slave ship yet!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>My pilgrimage to Sandpoint Cathedral is almost complete. Father Zantus has done right by the gods. I look forward to honoring Sarenrae there.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>I guess it &lt;i&gt;sounds&lt;/i&gt; like a noble enough cause. This isn't quite what I envisioned... but every journey has to start somewhere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>If this job is noble enough to earn us a noble's vault, my blades are ready!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>It is said the ruins of old Thassilon can be found here. Given peace and time, I could learn much.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Assuming you have the coin, happy to do business with you. If I get to bloody my daggers, all the better!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>I suppose the wonders of Thassilon may wait another day.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>I did not come here to dispose of thugs, but ridding this town of its criminal element is worth the time.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>So a good old-fashioned bounty hunt? Sounds like a great way to introduce myself to the locals.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>I've got no patience for these kinds of crooks. I'm in. I can stay one night in Sandpoint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>It seems no place is without its loathsome bullies. I'd be happy and honored to assist you, sir!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>As long as there's a place to throw back a few cheap drinks, I'm happy to bunk here for a night or three.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Of course! I love a good old-fashioned bounty hunt!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Charming as ever, Valeros. 
+
+I'm sure Sarenrae has more in store for us.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Too many walls for me. At least the wilds of the Lost Coast aren't far.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>You'll need my sharp eyes and steady hand to flush him out. Count me in.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Seems like a lovely and welcoming place to me. What luck! There's a grumpy-looking local coming to greet us!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>One may honor Sarenrae by defeating an agent of darkness. Your cause is mine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>I couldn't agree more! Perhaps I will compose a song when all is said and done. 
+
+What rhymes with Vhiski?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Beware. Places like this provide easy prey to those with dark intent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>It is Sarenrae's will that this criminal is prevented from doing more harm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Sandpoint... well, I've been in worse places. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>This must be Sandpoint. With this many people huddled together in a place, violence can never be far away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Lucky for me, me and violence are old friends.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>It seems my steel won't be sheathed for long. I can't think of a better introduction to the town.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>It seems my steel won't be sheathed for long. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Looks like a town that could use an extra blade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>I have followed the breadcrumbs of my sister's disappearance here to Sandpoint. It is likely to be another disappointment. Nothing is gained without trial.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>While I search, I must keep as sharp as a temple sword. This task shall be my whetstone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>It is doubtful that I will find my quarry here. That will not keep me from seeking it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>While I search, I must keep as sharp as a temple sword. This task shall be my whetstone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Sandpoint...
+
+The Lost Coast and its many forests are just outside its walls! </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Too many walls 'ere. I will do well to leave this place.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>This Briganjub Raylviski must be hiding in the woods across the river. That's where I would hide!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>The Lost Coast and its many forests are just outside its walls! </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>I'll flush him out of the woods across the river. He won't stay hidden long!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>The Inheritor guides my sword to this place. Sandpoint, they call it: half a world from my life as a child thief on the streets of Katapesh.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Have no fear, merchant. He will be brought to justice. I thank you for making the way of Iomedae clear today.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>The Inheritor guides us to humble places at times.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>It is unlikely that the Inheritor guided us to a peaceful place, but we shall make the best of it, yes?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>It is as I suspected. We are to be the tools of justice. Be thankful that our purpose is this clear.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>We are to be the tools of justice. Be thankful that our purpose is this clear.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

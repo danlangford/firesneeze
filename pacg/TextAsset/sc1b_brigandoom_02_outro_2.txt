@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\sc1b_brigandoom_02_outro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>I yield! Ain't being paid enough to get killed over Vinder's haul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>A wise decision. Who set you to steal from Vinder? Speak, and we shall be... lenient.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Now let's see what the angry man in the big hat will give us.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Aw, I was just starting to have fun!
+
+Very well. I'll bite! Who's filling your pockets?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Indeed. Perhaps Sandpoint has its share of intrigues, after all. I don't imagine that you will tell me who is funding this operation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Cough up the name of your boss, and perhaps we can just settle this over a few tankards.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Right now, lad. You'd best give up the name of yer chief.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Tellin' you won't help me live to a ripe old age. Better just take me to Sheriff Hemlock. Cheers!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>You understand perfectly, sir. Tellin' you isn't likely to help me live to your ripe old age. Better just take me to Sheriff Hemlock. Cheers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>You don't say? Might I have the pleasure of asking which cunning lady or gentleman is executing such a clever and unlucrative scheme?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Tell me who put you up to this, and the gods may yet have mercy on your wretched soul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Coward! Tell me who yer workin' for so I can gut 'em!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Am I to understand that you are only the hilt of the unsheathed blade? Who wields the weapon?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>You get… paid? I don't understand. Who would pay for such a thing?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>You still have a chance at redemption. Whom do you work for?</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

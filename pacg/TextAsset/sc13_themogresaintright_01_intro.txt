@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\sc13_themogresaintright_01_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>43</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>This is Turtleback Ferry. I know only a little about these lands. Fort Rannick is in the mountains just to the north. The Black Arrow rangers stationed there protect the land from the giants of the Storval Plateau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>There's no sign of the Order of the Black Arrow here. I fear the worst. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>I think some survived. There's a family of ogrekin to the north. They seem like the type that would prefer to catch and torture.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Bank Node 1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Best I can tell, the fort is lost. Any hope of finding living Black Arrow rangers lies in those the ogrekin took. Any captives better be tough ones at that.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>I must assume that we were too late to help Fort Rannick. Perhaps we may find survivors of the attack in the surrounding wilderness. I understand there is a tribe of ogrekin that may take prisoners.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>The Order of the Black Arrow has fallen. Some of its brothers may have been spared by the vindictive folly of the ogrekin nearby.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Old Yads at the Bottoms Up says it might be too late. The Kreeg ogres have taken Fort Rannick and the Graul ogrekin clan has mopped up the rest. I'd say it's time to look for survivors.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>If what passes for word on the street here is to be believed, we are too late. Fort Rannick is under ogre control. All of the Black Arrow rangers are probably either dead or broken by ogrekin.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Animals have fled the mountains near Fort Rannick. The ogres there are more destructive than the Black Arrow rangers who used to be there. A firepelt cougar says a family of ogrekin is holding a few surviving rangers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>No one in town has heard from the Order of the Black Arrow. It might be too late for Fort Rannick. It's possible some ogrekin are keeping some prisoners at a nearby farm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>I'm seein' no sign of the Order of the Black Arrow. Not in town, nor in the wilds. But a clan of ogrekin been unusually quiet as of late. Could be they got captives to play with.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>What little I can get from the inhabitants suggests that Fort Rannick has already fallen, and some ogrekin clan has taken what's left of the rangers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>There's no sign of the Order of the Black Arrow here. I fear the worst. If there's a possibility some survived, I will find and protect them. There's a family of ogrekin to the north that may be holding some prisoners.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Everyone is convinced that the Black Arrow rangers are no more. Nothing is coming out of Fort Rannick. While the ogres launched an attack on the fort, the area's ogrekin attacked the patrols.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>What a twisted relief that would be. I fear what we'll find. Together we will prevail.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>If what I hear is true, the Graul ogrekin are cruel, sadistic, and sloppy. There's a chance some of the Arrows live.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Bank Node 1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Turtleback Ferry has not seen the light of Sarenrae in some time. But at least there’s a temple of Erastil here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>I did it. I found a town more backwater than Sandpoint, and it's called Turtleback Ferry.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Not that there's much to Turtleback Ferry, but it's good to feel the mountain air again. Even if it's more than a little bit damp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Not much keeps Turtleback Ferry safe from the giants of the Storval Plateau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Turtleback Ferry: a small town with less dire problems than Magnimar, but probably not quite so bad as wherever I'll go next.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>I knew the place was called Turtleback Ferry, but I didn't expect boats made out of turtle shells.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>The fortress of Rannick allows this Turtleback Ferry to exist. Without walls, warriors, or weapons, this town's only tactical asset is it's vulnerability.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Normally, I feel nothing but excitement when arriving at a new place, be it hamlet or metropolis, but Turtleback Ferry seems... dreary.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>There's an unsettling silence here in Turtleback Ferry. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Turtleback Ferry. I never thought I'd return to this sorry excuse for a village, but if the Black Arrow rangers need my help again, I'll answer the call.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Unlike Sandpoint, Turtleback Ferry lacks history and artifacts. But it does have an overabundance of rain. If my books survive this journey, I may start whispering prayers to the so-called gods.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Bank Node 1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>There's no sign of the Order of the Black Arrow here. I fear the worst. If there's a possibility some survived, I will find and protect them. There's a family of ogrekin to the north that may be holding some prisoners.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>If what passes for word on the street here is to be believed, we are too late. Fort Rannick is under ogre control. All of the Black Arrow rangers are probably either dead or broken by ogrekin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Best I can tell, the fort is lost. Any hope of finding living Black Arrow rangers lies in those the ogrekin took. Any captives better be tough ones at that.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>I'm seein' no sign of the Order of the Black Arrow. Not in town, nor in the wilds. But a clan of ogrekin been unusually quiet as of late. Could be they got captives to play with.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>What little I can get from the inhabitants suggests that Fort Rannick has already fallen, and some ogrekin clan has taken what's left of the rangers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Animals have fled the mountains near Fort Rannick. The ogres there are more destructive than the Black Arrow rangers who used to be there. A firepelt cougar says a family of ogrekin is holding a few surviving rangers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>The Order of the Black Arrow has fallen. Some of its brothers may have been spared by the vindictive folly of the ogrekin nearby.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>No one in town has heard from the Order of the Black Arrow. It might be too late for Fort Rannick. It's possible some ogrekin are keeping some prisoners at a nearby farm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Everyone is convinced that the Black Arrow rangers are no more. Nothing is coming out of Fort Rannick. While the ogres launched an attack on the fort, the area's ogrekin attacked the patrols. If anyone's alive, they'll be captives of the ogrekin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Old Yads at the Bottoms Up says it might be too late. The Kreeg ogres have taken Fort Rannick and the Graul ogrekin clan has mopped up the rest. I'd say it's time to look for survivors.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>I must assume that we were too late to help Fort Rannick. Perhaps we may find survivors of the attack in the surrounding wilderness. I understand there is a tribe of ogrekin that may take prisoners.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>They are a cold-hearted bunch: former criminals stripped of everything but their names, and given a job to do.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Together in the warmth and heat of Sarenrae, I mean.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

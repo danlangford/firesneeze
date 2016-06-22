@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\sc11_attackonsandpoint_02_outro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Thank you! Thank you! I am in your debt. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>I will not accept a debt that cannot be repaid. A man who relies on the debts of others never has everything he needs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>As much as I would value a wealthy benefactor, I know too well what it means to be a part of your world. Regretfully, I must decline.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Debts are for cages. I will not keep you in a cage. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Buy me a few rounds, and we can call the debt repaid. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>You are most welcome, sir. Just live your life to the fullest every day. You never know when that day could be your last.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>A life debt then. Very well. I give you permission to save my life one day.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Very well. I'll take a bag of money, your finest jewels, and perhaps an estate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Iomedae protects us. Live your life with honor and your debt is forgiven.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Really. No bother. I'd rather be left alone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Debts are the domain of darker deities. You owe me nothing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>No need. I am sure you would have done the same.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Regardless, I feel I must repay you properly. If a woman of your talent and beauty would care to honor me with her company, I will be at the Rusty Dragon for the next few days.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>&lt;i&gt;Behind the flattery, there is something&lt;/i&gt; wrong &lt;i&gt;about this man. But perhaps he is not beyond redemption.&lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>But of course, you funny man.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Regardless, I feel I must repay you properly. I find your passion for living fascinating. I will be at the Rusty Dragon for the next few days.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Very well. If you insist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Regardless, I feel I must repay you properly. I find your strength of will fascinating. I will be at the Rusty Dragon for the next few days.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Do what you will. It is none of my concern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Regardless, I feel I must repay you properly. I find your experience and intelligence fascinating. I will be at the Rusty Dragon for the next few days.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Be that as it may, you will find my answer unwavering.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Is that all? I feel I must repay you properly. I find your strength and prowess fascinating. I will be at the Rusty Dragon for the next few days.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>And by a few rounds, I really mean around ten, and I take these kind of debts seriously.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Regardless, I feel I must repay you properly. If a woman of your talent and beauty would care to honor me with her company, I will be at the Rusty Dragon for the next few days.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>&lt;i&gt;Something is not right about this man.  Something corrupt. &lt;/i&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>If that is your will, Sarenrae will bathe you in her fiery light.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Regardless, I feel I must repay you properly. If a woman of your talent and beauty would care to honor me with her company, I will be at the Rusty Dragon for the next few days.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>You are too kind. Really... There's no need.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Regardless, I feel I must repay you properly. If a woman of your skill and ferocity would care to honor me with her company, I will be at the Rusty Dragon for the next few days.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>I do not think so. You smell of dead things.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Splendid! If a woman of your strength and beauty would care to honor me with her company, I will be at the Rusty Dragon for the next few days.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>If you think that's where our next battle will be, I will see you at the Rusty Dragon!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>That is not exactly what I had in mind. Regardless, I feel I must repay you properly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>If a woman of your talent and beauty would care to honor me with her company, I will be at the Rusty Dragon for the next few days.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Regardless, I feel I must repay you properly. I find your skill and ruggedness fascinating. I will be at the Rusty Dragon for the next few days.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>You should know that I'm only interested in your money.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

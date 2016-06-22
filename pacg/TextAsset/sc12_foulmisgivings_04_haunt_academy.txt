@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\sc12_foulmisgivings_04_haunt_academy</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[The temperature in the room drops dramatically. Breath frosts in the air and fingers of rime slither across the walls. Portraits depict figures suddenly shifting from paintings of living people to those of dead folk.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[A mother and daughter slump into misshapen, tumor-ridden corpses. A proud, vibrant young man grows pale as a long cut opens in his throat and blood washes down over his chest. His wife blackens and chars. Her arms, legs, and back twist as if broken in dozens of places.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[A portrait of Aldern warps as his flesh darkens with rot, his hair falls out, and he deforms into a ghoullike monster.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[An older portrait of a distinguished and grave-looking gentlemen erupts into a sudden explosion of fungus and tumorous growth. This wave of fungus and disease washes over the entire room in seconds before the room suddenly reverts to normal.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

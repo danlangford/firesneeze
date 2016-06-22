@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\sc1b_thepoisonpill_01_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>44</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Welcome to the Rusty Dragon! You must be the one who put an end to Jubrayl Vhiski's crime spree! First round's on me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Why, thank you, mistress of inebriation! The tale is but one of the many I shall regale you with in my short time in Sandpoint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>That is most generous but unnecessary. Gods willing, Jubrayl will come to see wisdom in his captivity. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>He may be imprisoned, but another will succeed him in time. Now that this business is settled, I may commence with the investigation of Thassilonian ruins scattered across the Lost Coast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Mighty kind of you, lass! But if it's all the same, I'll just take a strong pot of tea. Somethin' tells me there are more troubles to come.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>How could I resist? This little town might not be so bad after all! I'll take an Ulseberry Ale, my sweet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Very kind of you. I fear that his activity was a piece in a larger puzzle. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Much obliged! I'll take a second, a third, and a fourth round while you are at it!
+
+Topped off with a fifth for good luck, of course.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Perhaps you'd be interested in dealing with another local act of villainy. Someone's laying lethal "rat traps" around Sandpoint. So far they've killed a few household pets, but it's just a matter of time until someone gets hurt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Throw in a performance on the elegant samisen you've got behind the bar, and you have yourself a deal!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Fear not! This poisoner cannot hide from the light of Sarenrae.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>A discount? Perhaps, a small investment of effort now will afford me more time to study. Very well! I shall put my research aside a little longer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Aye, of course! Huntin' down a poisoner is its own reward.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Declawing a few traps around town? Easy! </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>A barkeep who gives away drinks and discounts for good deeds? I would have settled for tips and rumors!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Just no more limericks, Lem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Now that this business is settled, I may commence with the investigation of Thassilonian ruins scattered across the Lost Coast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Aye, somethin' tells me there are more troubles to come. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Kyra, you are always so optimistic! I'm just relieved there's been some excitement in this town.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>I'm just relieved that there's been some excitement in this town! I'll take an Ulseberry Ale, my sweet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>A barkeep who gives away drinks for good deeds? Why do I get the feeling I am about to have a new task yoked about my shoulders?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>As long as you're providing drinks, I'm at your service!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>A sixth, seventh, eighth, and ninth would also be welcome!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Might as well round that out to an even ten...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>If we are going to get you that blindingly drunk, I want to see some work first, while you are still standing. Someone's laying lethal "rat traps" around Sandpoint. So far they've killed a few household pets, but it's just a matter of time until someone gets hurt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>You drive a hard bargain. 
+
+Deal!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>...and I'll just take a strong pot of tea, lass.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Put an end to this plot, and I'll cut your nightly rate at the Rusty Dragon in half!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Put an end to this plot, and the next nine rounds are on me!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Nothin' comes without a price. But I'll not let that stop you from giving me a strong ale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Can't say I like battling traps much. But slaying a poisoner is a task that just needs doing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>I didn't say the poisoner needed to die—</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Ya didn't need to. I'll get the job done.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Nothin' comes without a price. But I'll not let that stop you from giving me a strong ale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>In Vudra, the path of drunken mastery was not open to me. A place like this may one day open the way.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>If you are looking to master drunkenness, I would be happy to share my considerable experience.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>I cannot deny this challenge. It is a chance to learn and grow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>A place like this may one day open the way of the drunken master for me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>I would happily celebrate a successful hunt with you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Poisonous traps? Cityfolk can be so barbaric!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>I would happily celebrate a successful hunt with you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>You are a gracious host. I only regret that he did not make peace when it was offered. I, on the other hand, will take the drink that is offered.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Gods willing, Jubrayl will come to see wisdom while in captivity.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>There is no need for any reward. It is enough to know where I may right wrongs.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

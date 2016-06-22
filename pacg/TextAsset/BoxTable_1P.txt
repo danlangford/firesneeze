@@ -1,0 +1,4 @@
+001	AL1P_PoogOfZarongel
+001	BL1P_BlessingOfZarongel
+001	MO1P_Grindylow
+001	WP1P_Horsechopper+1

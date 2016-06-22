@@ -1,0 +1,65 @@
+<N>
+
+ <Character ID="CH1B_Ezren">
+  <Cards>IT1B_AmuletOfLife,SP1B_ForceMissile,SP12_Web,IT1B_TokenOfRemembrance,LT11_SihedronMedallion,AL11_Toad,AL1B_Acolyte,AL1B_StandardBearer,WP11_Dogslicer+1,SP11_FrostRay,SP1B_Augury,SP11_ScorchingRay,SP12_LightningBolt,SP12_Haste,SP12_ToxicCloud,SP1B_DetectMagic,SP1B_Invisibility</Cards>
+  <Powers>PW1B_ExtendSpell,PW1B_ExtendSpell_1</Powers>
+  <Skills>INT,INT,INT</Skills>
+  <CardFeats>SP,SP</CardFeats>
+ </Character>
+ 
+ <Character ID="CH1C_Seelah">
+  <Cards>BL1B_BlessingOfGorum,WP11_BastardSword+1,AR11_ElvenBreastplate,SP1B_Cure,BL1B_BlessingOfShelyn,LT12_ImpalerOfThorns,AL1B_NightWatch,AL1B_StandardBearer,BL1B_BlessingOfTheGods,BL1B_BlessingOfTheGods,WP1B_Longsword,BL1B_BlessingOfTheGods,WP1B_Mace,AR1B_Half-plate,AR1B_WoodenShield,BL1B_BlessingOfGorum,BL1B_BlessingOfTheGods</Cards>
+  <Skills>STR,WIS,STR</Skills>
+  <Powers>PW1C_DivineGrace_Opt1,PW1C_DivineGrace_1</Powers>
+  <CardFeats>BL,WP</CardFeats>
+ </Character>
+
+ <Character ID="CH1B_Kyra">
+    <Cards>SP1B_Cure,SP1B_Inflict,BL1B_BlessingOfShelyn,BL1B_BlessingOfLamashtu,WP1B_FlamingMace+1,BL1B_BlessingOfTheGods,BL1B_BlessingOfTheGods,BL1B_BlessingOfGorum,AR1B_MagicChainMail,AR1B_MagicShield,LT11_SihedronMedallion,AL1B_Guard,BL1B_BlessingOfShelyn,BL1B_BlessingOfTorag,BL1B_BlessingOfTheGods,SP1B_Aid,SP1B_Guidance,WP1B_Mace</Cards>
+  <Powers>PW1B_RebukeDeath_1,PW1B_SunsBlessing_1</Powers>
+  <Skills>WIS,WIS,STR</Skills>
+  <CardFeats>BL,SP</CardFeats>
+ </Character>
+
+ 
+ <Character ID="CH1C_Lini">
+  <Cards>WP1B_HeavyCrossbow,AL1B_Crow,AL1C_Dog,AL11_Toad,BL1B_BlessingOfShelyn,BL1B_BlessingOfTheGods,BL1B_BlessingOfTheGods,BL1B_BlessingOfTheGods,LT12_MedusaMask,LT11_SihedronMedallion,SP1B_Cure,SP1B_Cure,SP1B_Inflict,SP1B_Guidance,SP11_Enfeeble,SP11_Speed,SP12_Web</Cards>
+  <Skills>WIS,WIS,WIS</Skills>
+  <Powers>PW1C_WildEmpathy_1,PW1C_WildEmpathy_2</Powers>
+  <CardFeats>WP,SP</CardFeats>
+ </Character>
+
+  <Character ID="CH1B_Merisiel">
+  <Cards>WP11_Dagger+1,WP1B_HeavyCrossbow,AR12_ArrowCatchingStuddedLeather,IT1B_Caltrops,AL1B_Burglar,BL1B_BlessingOfTheGods,WP1B_Dart,IT1B_Crowbar,AL1B_Guard,BL1B_BlessingOfTheGods,IT1B_PotionOfGlibness,IT1B_PotionOfHealing,BL1B_BlessingOfTheGods,IT1B_ThievesTools,BL1B_BlessingOfTheGods,IT1B_ThievesTools,AL1B_Archer</Cards>
+  <Powers>PW1B_Backstab_1,PW1B_Backstab_2</Powers>
+  <Skills>DEX,DEX,DEX</Skills>
+  <CardFeats>WP,AL</CardFeats>
+ </Character>
+
+ <Character ID="CH1B_Harsk">
+  <Cards>WP1C_DeathbaneLightCrossbow+1,LT12_SnakeskinTunic,IT1B_Crowbar,BL1B_BlessingOfTheGods,BL11_BlessingOfLamashtu,AL1B_Crow,BL1B_BlessingOfErastil,IT11_StaffOfMinorHealing,BL1B_BlessingOfCalistria,WP1B_HeavyCrossbow,WP1B_LightCrossbow,WP1B_LightCrossbow,WP1B_ShockLongbow+1,IT1B_AmuletOfLife,BL1B_BlessingOfTheGods,SP1B_Cure,AL1B_ShaleluAndosana</Cards>
+  <Skills>DEX,DEX,DEX</Skills>
+  <Powers>PW1B_FarShot_1,PW1B_FarShot_2</Powers>
+  <CardFeats>AL,SP</CardFeats>
+ </Character>
+
+
+ <Scenario ID="SC1B_Brigandoom"/>
+ <Scenario ID="SC1B_ThePoisonPill"/>
+ <Scenario ID="SC1B_BlackFangsDungeon"/>
+ <Scenario ID="SC11_AttackOnSandpoint"/>
+ <Scenario ID="SC11_LocalHeroes"/>
+ <Scenario ID="SC11_TroubleInSandpoint"/>
+ <Scenario ID="SC11_ApproachToThisletop"/>
+ <Scenario ID="SC11_ThistletopDelve"/>
+ <Scenario ID="SC12_UndeadUprising" />
+ <Scenario ID="SC12_CrowBait" />
+ <Scenario ID="SC12_FoulMisgivings"/>
+ <Scenario ID="SC12_TheCultExposed"/>
+ <Scenario ID="SC12_AngelInTheTower"/>
+ 
+ <Adventure ID="AD1B_PerilsOfTheLostCoast"/>
+ <Adventure ID="AD11_BurntOfferings"/>
+ <Adventure ID="AD12_TheSkinsawMurders"/>
+ 
+</N>

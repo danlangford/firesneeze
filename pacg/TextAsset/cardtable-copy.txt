@@ -1,0 +1,6851 @@
+<N>
+ <N ID="">
+  <Campaign />
+  <Set>1</Set>
+  <Rarity />
+  <Name>-1</Name>
+  <Description>-1</Description>
+  <Type2 />
+  <Traits />
+ </N>
+ <N ID="AL01_Chameleon">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1334</Name>
+  <Description>1335</Description>
+  <Type2>None</Type2>
+  <Traits>6300,9800</Traits>
+ </N>
+ <N ID="AL01_Incanter">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1324</Name>
+  <Description>1325</Description>
+  <Type2>None</Type2>
+  <Traits>5700,12950</Traits>
+ </N>
+ <N ID="AL01_MenagerieKeeper">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1326</Name>
+  <Description>1327</Description>
+  <Type2>None</Type2>
+  <Traits>6300,9600</Traits>
+ </N>
+ <N ID="AL01_SocialClimber">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>1246</Name>
+  <Description>1247</Description>
+  <Type2>None</Type2>
+  <Traits>6300,1100</Traits>
+ </N>
+ <N ID="AL01_Squire">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1288</Name>
+  <Description>1289</Description>
+  <Type2>None</Type2>
+  <Traits>6300,1100</Traits>
+ </N>
+ <N ID="AL02_Cook">
+  <Campaign>Booster</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>1248</Name>
+  <Description>1249</Description>
+  <Type2>None</Type2>
+  <Traits>6300,6100</Traits>
+ </N>
+ <N ID="AL02_RogueApe">
+  <Campaign>Booster</Campaign>
+  <Set>2</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1290</Name>
+  <Description>1291</Description>
+  <Type2>None</Type2>
+  <Traits>875,9800</Traits>
+ </N>
+ <N ID="AL03_Duelist">
+  <Campaign>Booster</Campaign>
+  <Set>3</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1250</Name>
+  <Description>1251</Description>
+  <Type2>None</Type2>
+  <Traits>6300,11800</Traits>
+ </N>
+ <N ID="AL03_Evangelist">
+  <Campaign>Booster</Campaign>
+  <Set>3</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1266</Name>
+  <Description>1267</Description>
+  <Type2>None</Type2>
+  <Traits>5500,2700</Traits>
+ </N>
+ <N ID="AL03_Reveler">
+  <Campaign>Booster</Campaign>
+  <Set>3</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1328</Name>
+  <Description>1329</Description>
+  <Type2>None</Type2>
+  <Traits>6300,1700</Traits>
+ </N>
+ <N ID="AL03_Valet">
+  <Campaign>Booster</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>1252</Name>
+  <Description>1253</Description>
+  <Type2>None</Type2>
+  <Traits>6300,6100</Traits>
+ </N>
+ <N ID="AL03_VarisianIllusionist">
+  <Campaign>Booster</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>1340</Name>
+  <Description>1341</Description>
+  <Type2>None</Type2>
+  <Traits>6300,12950</Traits>
+ </N>
+ <N ID="AL04_Ataxian">
+  <Campaign>Booster</Campaign>
+  <Set>4</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1314</Name>
+  <Description>1315</Description>
+  <Type2>None</Type2>
+  <Traits>9200</Traits>
+ </N>
+ <N ID="AL04_Scribe">
+  <Campaign>Booster</Campaign>
+  <Set>4</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1336</Name>
+  <Description>1337</Description>
+  <Type2>None</Type2>
+  <Traits>6300,6100</Traits>
+ </N>
+ <N ID="AL05_BelkzenWarchief">
+  <Campaign>Booster</Campaign>
+  <Set>5</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1782</Name>
+  <Description>1783</Description>
+  <Type2>None</Type2>
+  <Traits>8575</Traits>
+ </N>
+ <N ID="AL05_Chevalier">
+  <Campaign>Booster</Campaign>
+  <Set>5</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1254</Name>
+  <Description>1255</Description>
+  <Type2>None</Type2>
+  <Traits>5700,1100</Traits>
+ </N>
+ <N ID="AL05_DeathInitiate">
+  <Campaign>Booster</Campaign>
+  <Set>5</Set>
+  <Rarity>Legendary</Rarity>
+  <Name>1775</Name>
+  <Description>1776</Description>
+  <Type2>None</Type2>
+  <Traits>6300,7810</Traits>
+ </N>
+ <N ID="AL05_DragonSmiter">
+  <Campaign>Booster</Campaign>
+  <Set>5</Set>
+  <Rarity>Legendary</Rarity>
+  <Name>1777</Name>
+  <Description>1778</Description>
+  <Type2>None</Type2>
+  <Traits>6300,8650</Traits>
+ </N>
+ <N ID="AL05_FireCleric">
+  <Campaign>Booster</Campaign>
+  <Set>5</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1773</Name>
+  <Description>1774</Description>
+  <Type2>None</Type2>
+  <Traits>6300,2700</Traits>
+ </N>
+ <N ID="AL05_PathfinderVenture-Captain">
+  <Campaign>Booster</Campaign>
+  <Set>5</Set>
+  <Rarity>Legendary</Rarity>
+  <Name>1771</Name>
+  <Description>1772</Description>
+  <Type2>None</Type2>
+  <Traits>6300</Traits>
+ </N>
+ <N ID="AL06_ClockworkDragonling">
+  <Campaign>Booster</Campaign>
+  <Set>6</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1342</Name>
+  <Description>1343</Description>
+  <Type2>None</Type2>
+  <Traits>1500</Traits>
+ </N>
+ <N ID="AL06_ClockworkOwl">
+  <Campaign>Booster</Campaign>
+  <Set>6</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1268</Name>
+  <Description>1269</Description>
+  <Type2>None</Type2>
+  <Traits>1500</Traits>
+ </N>
+ <N ID="AL06_MerrenUnwin">
+  <Campaign>Booster</Campaign>
+  <Set>6</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1316</Name>
+  <Description>1317</Description>
+  <Type2>None</Type2>
+  <Traits>6300,10100</Traits>
+ </N>
+ <N ID="AL06_Princeling">
+  <Campaign>Booster</Campaign>
+  <Set>6</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1256</Name>
+  <Description>1257</Description>
+  <Type2>None</Type2>
+  <Traits>6300,1100</Traits>
+ </N>
+ <N ID="AL0B_Dilettante">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1240</Name>
+  <Description>1241</Description>
+  <Type2>None</Type2>
+  <Traits>5500,1100,1800</Traits>
+ </N>
+ <N ID="AL0B_Fox">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1242</Name>
+  <Description>1243</Description>
+  <Type2>None</Type2>
+  <Traits>800,1800</Traits>
+ </N>
+ <N ID="AL0B_GiantWeasel">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1631</Name>
+  <Description>1632</Description>
+  <Type2>None</Type2>
+  <Traits>800</Traits>
+ </N>
+ <N ID="AL0B_NobleBrat">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1244</Name>
+  <Description>1245</Description>
+  <Type2>None</Type2>
+  <Traits>6300,1100,3900</Traits>
+ </N>
+ <N ID="AL0B_SczarniThief">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Legendary</Rarity>
+  <Name>1725</Name>
+  <Description>1726</Description>
+  <Type2>None</Type2>
+  <Traits>6300,9800</Traits>
+ </N>
+ <N ID="AL0B_SilentEnforcer">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Legendary</Rarity>
+  <Name>1780</Name>
+  <Description>1781</Description>
+  <Type2>None</Type2>
+  <Traits>6300,7810</Traits>
+ </N>
+ <N ID="AL0B_Smith">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1264</Name>
+  <Description>1265</Description>
+  <Type2>None</Type2>
+  <Traits>6300,1970</Traits>
+ </N>
+ <N ID="AL11_AldernFoxglove">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>4</Name>
+  <Description>5</Description>
+  <Type2>None</Type2>
+  <Traits>6300,8000</Traits>
+ </N>
+ <N ID="AL11_AmeikoKaijitsu">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>6</Name>
+  <Description>7</Description>
+  <Type2>None</Type2>
+  <Traits>6300,9800,1700</Traits>
+ </N>
+ <N ID="AL11_CyrdakDrokkus">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>18</Name>
+  <Description>19</Description>
+  <Type2>None</Type2>
+  <Traits>6300,1700</Traits>
+ </N>
+ <N ID="AL11_GrizzledMercenary">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>24</Name>
+  <Description>25</Description>
+  <Type2>None</Type2>
+  <Traits>6300,6100</Traits>
+ </N>
+ <N ID="AL11_IlsoariGandethus">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>30</Name>
+  <Description>31</Description>
+  <Type2>None</Type2>
+  <Traits>6300,12950</Traits>
+ </N>
+ <N ID="AL11_Toad">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>52</Name>
+  <Description>53</Description>
+  <Type2>None</Type2>
+  <Traits>800,1000</Traits>
+ </N>
+ <N ID="AL11_VenVinder">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>58</Name>
+  <Description>59</Description>
+  <Type2>None</Type2>
+  <Traits>6300,10600</Traits>
+ </N>
+ <N ID="AL12_BrodertQuink">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>662</Name>
+  <Description>663</Description>
+  <Type2>None</Type2>
+  <Traits>6300,9900</Traits>
+ </N>
+ <N ID="AL12_MaesterGrump">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>664</Name>
+  <Description>665</Description>
+  <Type2>None</Type2>
+  <Traits>6300</Traits>
+ </N>
+ <N ID="AL12_Merchant">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>666</Name>
+  <Description>667</Description>
+  <Type2>None</Type2>
+  <Traits>6300,6100</Traits>
+ </N>
+ <N ID="AL13_BlackArrowRanger">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>760</Name>
+  <Description>761</Description>
+  <Type2>None</Type2>
+  <Traits>6300,9600</Traits>
+ </N>
+ <N ID="AL13_Cat">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>764</Name>
+  <Description>765</Description>
+  <Type2>None</Type2>
+  <Traits>800,1000</Traits>
+ </N>
+ <N ID="AL13_GiantBadger">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>762</Name>
+  <Description>763</Description>
+  <Type2>None</Type2>
+  <Traits>800</Traits>
+ </N>
+ <N ID="AL13_JakardrosSovark">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>766</Name>
+  <Description>767</Description>
+  <Type2>None</Type2>
+  <Traits>6300,9600</Traits>
+ </N>
+ <N ID="AL13_Monkey">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>768</Name>
+  <Description>769</Description>
+  <Type2>None</Type2>
+  <Traits>800</Traits>
+ </N>
+ <N ID="AL13_ValeTemros">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>770</Name>
+  <Description>771</Description>
+  <Type2>None</Type2>
+  <Traits>6300,9600</Traits>
+ </N>
+ <N ID="AL13_YapThePixie">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>772</Name>
+  <Description>773</Description>
+  <Type2>None</Type2>
+  <Traits>9200</Traits>
+ </N>
+ <N ID="AL14_Bear">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>931</Name>
+  <Description>932</Description>
+  <Type2>None</Type2>
+  <Traits>800</Traits>
+ </N>
+ <N ID="AL14_CharmedRedDragon">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>933</Name>
+  <Description>934</Description>
+  <Type2>None</Type2>
+  <Traits>3500</Traits>
+ </N>
+ <N ID="AL14_ClockworkLibrarian">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>935</Name>
+  <Description>936</Description>
+  <Type2>None</Type2>
+  <Traits>1500</Traits>
+ </N>
+ <N ID="AL14_ConnaTheWise">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>937</Name>
+  <Description>938</Description>
+  <Type2>None</Type2>
+  <Traits>5000,11200</Traits>
+ </N>
+ <N ID="AL14_Eagle">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>939</Name>
+  <Description>940</Description>
+  <Type2>None</Type2>
+  <Traits>800</Traits>
+ </N>
+ <N ID="AL14_Lizard">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>941</Name>
+  <Description>942</Description>
+  <Type2>None</Type2>
+  <Traits>800,1000</Traits>
+ </N>
+ <N ID="AL15_ElvenSharpshooter">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1051</Name>
+  <Description>1052</Description>
+  <Type2>None</Type2>
+  <Traits>3800,9600</Traits>
+ </N>
+ <N ID="AL15_PyromaniacMage">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1053</Name>
+  <Description>1054</Description>
+  <Type2>None</Type2>
+  <Traits>6300,12950</Traits>
+ </N>
+ <N ID="AL15_SacredKiller">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1055</Name>
+  <Description>1056</Description>
+  <Type2>None</Type2>
+  <Traits>5600,9800</Traits>
+ </N>
+ <N ID="AL15_Shaman">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1057</Name>
+  <Description>1058</Description>
+  <Type2>None</Type2>
+  <Traits>5600,2700,3400</Traits>
+ </N>
+ <N ID="AL15_Velociraptor">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1059</Name>
+  <Description>1060</Description>
+  <Type2>None</Type2>
+  <Traits>800</Traits>
+ </N>
+ <N ID="AL15_Zuvuzeg">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1061</Name>
+  <Description>1062</Description>
+  <Type2>None</Type2>
+  <Traits>8600,3200</Traits>
+ </N>
+ <N ID="AL16_Ayruzi">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1169</Name>
+  <Description>1170</Description>
+  <Type2>None</Type2>
+  <Traits>8600,700</Traits>
+ </N>
+ <N ID="AL16_Gyukak">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1171</Name>
+  <Description>1172</Description>
+  <Type2>None</Type2>
+  <Traits>8600,5000,8500</Traits>
+ </N>
+ <N ID="AL16_Morgiv">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1173</Name>
+  <Description>1174</Description>
+  <Type2>None</Type2>
+  <Traits>4000</Traits>
+ </N>
+ <N ID="AL16_Mountaineer">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1175</Name>
+  <Description>1176</Description>
+  <Type2>None</Type2>
+  <Traits>6300,6100</Traits>
+ </N>
+ <N ID="AL16_Svevenka">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1177</Name>
+  <Description>1178</Description>
+  <Type2>None</Type2>
+  <Traits>8200,3600</Traits>
+ </N>
+ <N ID="AL1B_Acolyte">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>0</Name>
+  <Description>1</Description>
+  <Type2>None</Type2>
+  <Traits>6300,3900</Traits>
+ </N>
+ <N ID="AL1B_Archer">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>8</Name>
+  <Description>9</Description>
+  <Type2>None</Type2>
+  <Traits>6300,3900</Traits>
+ </N>
+ <N ID="AL1B_Burglar">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>10</Name>
+  <Description>11</Description>
+  <Type2>None</Type2>
+  <Traits>6300,1800</Traits>
+ </N>
+ <N ID="AL1B_Crow">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>14</Name>
+  <Description>15</Description>
+  <Type2>None</Type2>
+  <Traits>800,1800</Traits>
+ </N>
+ <N ID="AL1B_FatherZantus">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>22</Name>
+  <Description>23</Description>
+  <Type2>None</Type2>
+  <Traits>6300,2700,3400</Traits>
+ </N>
+ <N ID="AL1B_Guard">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>26</Name>
+  <Description>27</Description>
+  <Type2>None</Type2>
+  <Traits>6300,1800</Traits>
+ </N>
+ <N ID="AL1B_Guide">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>28</Name>
+  <Description>29</Description>
+  <Type2>None</Type2>
+  <Traits>6300,1800</Traits>
+ </N>
+ <N ID="AL1B_MayorKendraDeverin">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>32</Name>
+  <Description>33</Description>
+  <Type2>None</Type2>
+  <Traits>6300,7500</Traits>
+ </N>
+ <N ID="AL1B_NightWatch">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>34</Name>
+  <Description>35</Description>
+  <Type2>None</Type2>
+  <Traits>6300,1800</Traits>
+ </N>
+ <N ID="AL1B_Sage">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>38</Name>
+  <Description>39</Description>
+  <Type2>None</Type2>
+  <Traits>6300,9900,1800</Traits>
+ </N>
+ <N ID="AL1B_ShaleluAndosana">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>40</Name>
+  <Description>41</Description>
+  <Type2>None</Type2>
+  <Traits>3800,10100</Traits>
+ </N>
+ <N ID="AL1B_SheriffHemlock">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>42</Name>
+  <Description>43</Description>
+  <Type2>None</Type2>
+  <Traits>6300,3900</Traits>
+ </N>
+ <N ID="AL1B_Soldier">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>46</Name>
+  <Description>47</Description>
+  <Type2>None</Type2>
+  <Traits>6300,3900</Traits>
+ </N>
+ <N ID="AL1B_StandardBearer">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>50</Name>
+  <Description>51</Description>
+  <Type2>None</Type2>
+  <Traits>6300,1800</Traits>
+ </N>
+ <N ID="AL1B_Troubadour">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>54</Name>
+  <Description>55</Description>
+  <Type2>None</Type2>
+  <Traits>6300,1800</Traits>
+ </N>
+ <N ID="AL1C_Dog">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>C</Set>
+  <Rarity>Common</Rarity>
+  <Name>20</Name>
+  <Description>21</Description>
+  <Type2>None</Type2>
+  <Traits>800,1800</Traits>
+ </N>
+ <N ID="AL1C_Saber-ToothedTiger">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>C</Set>
+  <Rarity>Common</Rarity>
+  <Name>36</Name>
+  <Description>37</Description>
+  <Type2>None</Type2>
+  <Traits>800</Traits>
+ </N>
+ <N ID="AL1C_Snake">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>C</Set>
+  <Rarity>Common</Rarity>
+  <Name>44</Name>
+  <Description>45</Description>
+  <Type2>None</Type2>
+  <Traits>800,3900</Traits>
+ </N>
+ <N ID="AL1P_PoogOfZarongel">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>P</Set>
+  <Rarity>Common</Rarity>
+  <Name>1214</Name>
+  <Description>1215</Description>
+  <Type2>None</Type2>
+  <Traits>5200,2700</Traits>
+ </N>
+ <N ID="AR01_AgileChain">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1347</Name>
+  <Description>1348</Description>
+  <Type2>None</Type2>
+  <Traits>6900,7300,3900</Traits>
+ </N>
+ <N ID="AR01_ChallengingShield">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Legendary</Rarity>
+  <Name>1681</Name>
+  <Description>1682</Description>
+  <Type2>None</Type2>
+  <Traits>7300,8400,10400</Traits>
+ </N>
+ <N ID="AR01_DjezetSkin">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1673</Name>
+  <Description>1674</Description>
+  <Type2>None</Type2>
+  <Traits>6900,7300</Traits>
+ </N>
+ <N ID="AR01_FortifiedLeatherArmor">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1302</Name>
+  <Description>1303</Description>
+  <Type2>None</Type2>
+  <Traits>6900,7300,3900</Traits>
+ </N>
+ <N ID="AR01_GaleArmor">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1675</Name>
+  <Description>1676</Description>
+  <Type2>None</Type2>
+  <Traits>6900,7300</Traits>
+ </N>
+ <N ID="AR01_OriksShield">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>1597</Name>
+  <Description>1598</Description>
+  <Type2>None</Type2>
+  <Traits />
+ </N>
+ <N ID="AR01_ShadowChain">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1345</Name>
+  <Description>1346</Description>
+  <Type2>None</Type2>
+  <Traits>6900,7300,3900</Traits>
+ </N>
+ <N ID="AR02_BlackclothArmor">
+  <Campaign>Booster</Campaign>
+  <Set>2</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1318</Name>
+  <Description>1319</Description>
+  <Type2>None</Type2>
+  <Traits>6900,7300,3900</Traits>
+ </N>
+ <N ID="AR02_ChainMailOfPoisonResistance">
+  <Campaign>Booster</Campaign>
+  <Set>2</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1353</Name>
+  <Description>1354</Description>
+  <Type2>None</Type2>
+  <Traits>6000,7300</Traits>
+ </N>
+ <N ID="AR02_CrocodileSkinArmor">
+  <Campaign>Booster</Campaign>
+  <Set>2</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1621</Name>
+  <Description>1622</Description>
+  <Type2>None</Type2>
+  <Traits>6900,1800</Traits>
+ </N>
+ <N ID="AR02_HideArmorOfAcidResistance">
+  <Campaign>Booster</Campaign>
+  <Set>2</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1351</Name>
+  <Description>1352</Description>
+  <Type2>None</Type2>
+  <Traits>6900,7300</Traits>
+ </N>
+ <N ID="AR02_Hunter'sChain">
+  <Campaign>Booster</Campaign>
+  <Set>2</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1349</Name>
+  <Description>1350</Description>
+  <Type2>None</Type2>
+  <Traits>6900,7300,3900</Traits>
+ </N>
+ <N ID="AR02_InvigoratingShield">
+  <Campaign>Booster</Campaign>
+  <Set>2</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1453</Name>
+  <Description>1454</Description>
+  <Type2>None</Type2>
+  <Traits>10400,8400,7300</Traits>
+ </N>
+ <N ID="AR02_LegionArmor">
+  <Campaign>Booster</Campaign>
+  <Set>2</Set>
+  <Rarity>Legendary</Rarity>
+  <Name>1679</Name>
+  <Description>1680</Description>
+  <Type2>None</Type2>
+  <Traits>6000,7300</Traits>
+ </N>
+ <N ID="AR02_ShieldOfAcidResistance">
+  <Campaign>Booster</Campaign>
+  <Set>2</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1357</Name>
+  <Description>1358</Description>
+  <Type2>None</Type2>
+  <Traits>10400,8400,7300</Traits>
+ </N>
+ <N ID="AR03_ShieldOfForceResistance">
+  <Campaign>Booster</Campaign>
+  <Set>3</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1355</Name>
+  <Description>1356</Description>
+  <Type2>None</Type2>
+  <Traits>10400,8400,7300</Traits>
+ </N>
+ <N ID="AR03_SteelIbisLamellar">
+  <Campaign>Booster</Campaign>
+  <Set>3</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1640</Name>
+  <Description>1641</Description>
+  <Type2>None</Type2>
+  <Traits>6900,7300</Traits>
+ </N>
+ <N ID="AR04_CatskinLeather">
+  <Campaign>Booster</Campaign>
+  <Set>4</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1495</Name>
+  <Description>1496</Description>
+  <Type2>None</Type2>
+  <Traits>6900,7300,3900</Traits>
+ </N>
+ <N ID="AR04_EbonThorn">
+  <Campaign>Booster</Campaign>
+  <Set>4</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1658</Name>
+  <Description>1659</Description>
+  <Type2>None</Type2>
+  <Traits>6000,7300</Traits>
+ </N>
+ <N ID="AR04_RobeOfEnergyResistance">
+  <Campaign>Booster</Campaign>
+  <Set>4</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1320</Name>
+  <Description>1321</Description>
+  <Type2>None</Type2>
+  <Traits>6900,2800,7300</Traits>
+ </N>
+ <N ID="AR04_SnipersStuddedLeather">
+  <Campaign>Booster</Campaign>
+  <Set>4</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1648</Name>
+  <Description>1649</Description>
+  <Type2>None</Type2>
+  <Traits>6900,7300,3900</Traits>
+ </N>
+ <N ID="AR05_BearskinArmor">
+  <Campaign>Booster</Campaign>
+  <Set>5</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1615</Name>
+  <Description>1616</Description>
+  <Type2>None</Type2>
+  <Traits>6900,7300</Traits>
+ </N>
+ <N ID="AR05_FortifiedBreastplate">
+  <Campaign>Booster</Campaign>
+  <Set>5</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1652</Name>
+  <Description>1653</Description>
+  <Type2>None</Type2>
+  <Traits>6000,7300</Traits>
+ </N>
+ <N ID="AR05_MetalSpikes">
+  <Campaign>Booster</Campaign>
+  <Set>5</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1613</Name>
+  <Description>1614</Description>
+  <Type2>None</Type2>
+  <Traits>6900,9000</Traits>
+ </N>
+ <N ID="AR05_SpellWardShield">
+  <Campaign>Booster</Campaign>
+  <Set>5</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1719</Name>
+  <Description>1720</Description>
+  <Type2>None</Type2>
+  <Traits>10400,8400,7300,3900</Traits>
+ </N>
+ <N ID="AR05_WingedShieldOfStorms">
+  <Campaign>Booster</Campaign>
+  <Set>5</Set>
+  <Rarity>Legendary</Rarity>
+  <Name>1677</Name>
+  <Description>1678</Description>
+  <Type2>None</Type2>
+  <Traits>10400,8400,7300</Traits>
+ </N>
+ <N ID="AR06_LeopardLeather">
+  <Campaign>Booster</Campaign>
+  <Set>6</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1562</Name>
+  <Description>1563</Description>
+  <Type2>None</Type2>
+  <Traits>6900,7300,3900</Traits>
+ </N>
+ <N ID="AR06_OphidianArmor">
+  <Campaign>Booster</Campaign>
+  <Set>6</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1238</Name>
+  <Description>1239</Description>
+  <Type2>None</Type2>
+  <Traits>6900,7300</Traits>
+ </N>
+ <N ID="AR06_PeltOfTheUlfenWolf">
+  <Campaign>Booster</Campaign>
+  <Set>6</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1611</Name>
+  <Description>1612</Description>
+  <Type2>None</Type2>
+  <Traits>6900,7300</Traits>
+ </N>
+ <N ID="AR06_RobeOfVision">
+  <Campaign>Booster</Campaign>
+  <Set>6</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1322</Name>
+  <Description>1323</Description>
+  <Type2>None</Type2>
+  <Traits>6900,2800,7300</Traits>
+ </N>
+ <N ID="AR0B_BoneSpikes">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1627</Name>
+  <Description>1628</Description>
+  <Type2>None</Type2>
+  <Traits>6900,9000,1800</Traits>
+ </N>
+ <N ID="AR0B_LocksmithLeather">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1671</Name>
+  <Description>1672</Description>
+  <Type2>None</Type2>
+  <Traits>6900,7300,3900</Traits>
+ </N>
+ <N ID="AR0B_MailOfEscape">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Legendary</Rarity>
+  <Name>1667</Name>
+  <Description>1668</Description>
+  <Type2>None</Type2>
+  <Traits>6000,7300,3900</Traits>
+ </N>
+ <N ID="AR0B_SuperiorLeatherArmor">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1669</Name>
+  <Description>1670</Description>
+  <Type2>None</Type2>
+  <Traits>6900,1800</Traits>
+ </N>
+ <N ID="AR11_ElvenBreastplate">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>64</Name>
+  <Description>65</Description>
+  <Type2>None</Type2>
+  <Traits>6000,7300,3900</Traits>
+ </N>
+ <N ID="AR11_ShieldOfFireResistance">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>94</Name>
+  <Description>95</Description>
+  <Type2>None</Type2>
+  <Traits>10400,8400,7300</Traits>
+ </N>
+ <N ID="AR12_ArrowCatchingStuddedLeather">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>650</Name>
+  <Description>651</Description>
+  <Type2>None</Type2>
+  <Traits>6900,7300</Traits>
+ </N>
+ <N ID="AR12_DeathbaneShield">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>652</Name>
+  <Description>653</Description>
+  <Type2>None</Type2>
+  <Traits>10400,7300,8400</Traits>
+ </N>
+ <N ID="AR12_HideArmorOfFireResistance">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>654</Name>
+  <Description>655</Description>
+  <Type2>None</Type2>
+  <Traits>6900,7300</Traits>
+ </N>
+ <N ID="AR13_MagicFullPlate">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>746</Name>
+  <Description>747</Description>
+  <Type2>None</Type2>
+  <Traits>6000,7300</Traits>
+ </N>
+ <N ID="AR13_MagicStuddedLeatherArmor">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>748</Name>
+  <Description>749</Description>
+  <Type2>None</Type2>
+  <Traits>6900,7300</Traits>
+ </N>
+ <N ID="AR13_SpinyShield">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>750</Name>
+  <Description>751</Description>
+  <Type2>None</Type2>
+  <Traits>10400,8400,7300</Traits>
+ </N>
+ <N ID="AR14_BreastplateOfFireResistance">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>909</Name>
+  <Description>910</Description>
+  <Type2>None</Type2>
+  <Traits>6000,7300</Traits>
+ </N>
+ <N ID="AR14_ChainmailOfColdResistance">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>911</Name>
+  <Description>912</Description>
+  <Type2>None</Type2>
+  <Traits>6000,7300</Traits>
+ </N>
+ <N ID="AR14_LesserBolsteringArmor">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>913</Name>
+  <Description>914</Description>
+  <Type2>None</Type2>
+  <Traits>6900,7300</Traits>
+ </N>
+ <N ID="AR14_ReflectingShield">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>915</Name>
+  <Description>916</Description>
+  <Type2>None</Type2>
+  <Traits>10400,8400,7300</Traits>
+ </N>
+ <N ID="AR15_BolsteringArmor">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1041</Name>
+  <Description>1042</Description>
+  <Type2>None</Type2>
+  <Traits>6900,7300</Traits>
+ </N>
+ <N ID="AR15_InvincibleBreastplate">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1043</Name>
+  <Description>1044</Description>
+  <Type2>None</Type2>
+  <Traits>6000,7300</Traits>
+ </N>
+ <N ID="AR15_WingedShield">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1045</Name>
+  <Description>1046</Description>
+  <Type2>None</Type2>
+  <Traits>10400,8400,7300</Traits>
+ </N>
+ <N ID="AR16_AdamantinePlateArmor">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1151</Name>
+  <Description>1152</Description>
+  <Type2>None</Type2>
+  <Traits>6000,7300</Traits>
+ </N>
+ <N ID="AR16_DemonArmor">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1153</Name>
+  <Description>1154</Description>
+  <Type2>None</Type2>
+  <Traits>6000,7300</Traits>
+ </N>
+ <N ID="AR16_EntropyShield">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1155</Name>
+  <Description>1156</Description>
+  <Type2>None</Type2>
+  <Traits>10400,8400,7300,1000</Traits>
+ </N>
+ <N ID="AR16_FortressShield">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1157</Name>
+  <Description>1158</Description>
+  <Type2>None</Type2>
+  <Traits>10400,8400,7300</Traits>
+ </N>
+ <N ID="AR16_GreaterBolsteringArmor">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1159</Name>
+  <Description>1160</Description>
+  <Type2>None</Type2>
+  <Traits>6900,7300</Traits>
+ </N>
+ <N ID="AR1B_ChainMail">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>60</Name>
+  <Description>61</Description>
+  <Type2>None</Type2>
+  <Traits>6000,1800</Traits>
+ </N>
+ <N ID="AR1B_ChainMail_Masterwork">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>798</Name>
+  <Description>799</Description>
+  <Type2>None</Type2>
+  <Traits>6000,3900</Traits>
+ </N>
+ <N ID="AR1B_ChainMail_Rusted">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>796</Name>
+  <Description>797</Description>
+  <Type2>None</Type2>
+  <Traits>6000,1800</Traits>
+ </N>
+ <N ID="AR1B_ElvenChainShirt">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>66</Name>
+  <Description>67</Description>
+  <Type2>None</Type2>
+  <Traits>6900,7300,3900</Traits>
+ </N>
+ <N ID="AR1B_Half-plate">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>70</Name>
+  <Description>71</Description>
+  <Type2>None</Type2>
+  <Traits>6000,3900</Traits>
+ </N>
+ <N ID="AR1B_Half-Plate_Masterwork">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>808</Name>
+  <Description>809</Description>
+  <Type2>None</Type2>
+  <Traits>6000,3900</Traits>
+ </N>
+ <N ID="AR1B_Half-Plate_Rusted">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>806</Name>
+  <Description>807</Description>
+  <Type2>None</Type2>
+  <Traits>6000,3900</Traits>
+ </N>
+ <N ID="AR1B_LeatherArmor">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>74</Name>
+  <Description>75</Description>
+  <Type2>None</Type2>
+  <Traits>6900,1800</Traits>
+ </N>
+ <N ID="AR1B_MagicChainMail">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>78</Name>
+  <Description>79</Description>
+  <Type2>None</Type2>
+  <Traits>6000,7300,3900</Traits>
+ </N>
+ <N ID="AR1B_MagicHalf-plate">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>82</Name>
+  <Description>83</Description>
+  <Type2>None</Type2>
+  <Traits>6000,7300,3900</Traits>
+ </N>
+ <N ID="AR1B_MagicLeatherArmor">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>86</Name>
+  <Description>87</Description>
+  <Type2>None</Type2>
+  <Traits>6900,7300,3900</Traits>
+ </N>
+ <N ID="AR1B_MagicShield">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>90</Name>
+  <Description>91</Description>
+  <Type2>None</Type2>
+  <Traits>10400,8400,7300,3900</Traits>
+ </N>
+ <N ID="AR1B_WoodenShield">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>96</Name>
+  <Description>97</Description>
+  <Type2>None</Type2>
+  <Traits>10400,8400,1800</Traits>
+ </N>
+ <N ID="AR1B_WoodenShield_Battered">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>800</Name>
+  <Description>801</Description>
+  <Type2>None</Type2>
+  <Traits>10400,8400,1800</Traits>
+ </N>
+ <N ID="AR1B_WoodenShield_Masterwork">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>802</Name>
+  <Description>803</Description>
+  <Type2>None</Type2>
+  <Traits>10400,8400,3900</Traits>
+ </N>
+ <N ID="AR1P_GoblinPlate+1">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>P</Set>
+  <Rarity>Common</Rarity>
+  <Name>1228</Name>
+  <Description>1229</Description>
+  <Type2>None</Type2>
+  <Traits>6000,7300</Traits>
+ </N>
+ <N ID="AR1T_ChainMail">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>T</Set>
+  <Rarity>Common</Rarity>
+  <Name>60</Name>
+  <Description>1195</Description>
+  <Type2>None</Type2>
+  <Traits>6000,1800</Traits>
+ </N>
+ <N ID="AR1T_Half-Plate">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>T</Set>
+  <Rarity>Common</Rarity>
+  <Name>70</Name>
+  <Description>1194</Description>
+  <Type2>None</Type2>
+  <Traits>6000,3900</Traits>
+ </N>
+ <N ID="AR1T_MagicLeatherArmor">
+  <Campaign />
+  <Set>B</Set>
+  <Rarity />
+  <Name>86</Name>
+  <Description>231</Description>
+  <Type2 />
+  <Traits>6900,7300,3900</Traits>
+ </N>
+ <N ID="AR1T_OriksShield">
+  <Campaign />
+  <Set>T</Set>
+  <Rarity />
+  <Name>784</Name>
+  <Description>785</Description>
+  <Type2 />
+  <Traits>10400,8400</Traits>
+ </N>
+ <N ID="BL01_BountyOfDesna">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Legendary</Rarity>
+  <Name>1765</Name>
+  <Description>1766</Description>
+  <Type2>None</Type2>
+  <Traits>3400,3300</Traits>
+ </N>
+ <N ID="BL01_BountyOfNorgorber">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Legendary</Rarity>
+  <Name>1763</Name>
+  <Description>1764</Description>
+  <Type2>None</Type2>
+  <Traits>3400,8100</Traits>
+ </N>
+ <N ID="BL01_BountyOfTorag">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Legendary</Rarity>
+  <Name>1761</Name>
+  <Description>1762</Description>
+  <Type2>None</Type2>
+  <Traits>3400,12300</Traits>
+ </N>
+ <N ID="BL01_DoctrineOfAbadar">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1759</Name>
+  <Description>1760</Description>
+  <Type2>None</Type2>
+  <Traits>3400,100</Traits>
+ </N>
+ <N ID="BL02_FavorOfLamashtu">
+  <Campaign>Booster</Campaign>
+  <Set>2</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1749</Name>
+  <Description>1750</Description>
+  <Type2>None</Type2>
+  <Traits>3400,6800</Traits>
+ </N>
+ <N ID="BL02_FavorOfTheGods">
+  <Campaign>Booster</Campaign>
+  <Set>2</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1745</Name>
+  <Description>1746</Description>
+  <Type2>None</Type2>
+  <Traits>3400,1800</Traits>
+ </N>
+ <N ID="BL03_FavorOfAbadar">
+  <Campaign>Booster</Campaign>
+  <Set>3</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1751</Name>
+  <Description>1752</Description>
+  <Type2>None</Type2>
+  <Traits>3400,100</Traits>
+ </N>
+ <N ID="BL04_BlessingOfSivanah">
+  <Campaign>Booster</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>1605</Name>
+  <Description>1606</Description>
+  <Type2>None</Type2>
+  <Traits>3400,10800</Traits>
+ </N>
+ <N ID="BL04_FavorOfNorgorber">
+  <Campaign>Booster</Campaign>
+  <Set>4</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1753</Name>
+  <Description>1754</Description>
+  <Type2>None</Type2>
+  <Traits>3400,8100</Traits>
+ </N>
+ <N ID="BL05_AidOfShelyn">
+  <Campaign>Booster</Campaign>
+  <Set>5</Set>
+  <Rarity>Legendary</Rarity>
+  <Name>1769</Name>
+  <Description>1770</Description>
+  <Type2>None</Type2>
+  <Traits>3400,10300</Traits>
+ </N>
+ <N ID="BL05_BlessingOfAchaekek">
+  <Campaign>Booster</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1607</Name>
+  <Description>1608</Description>
+  <Type2>None</Type2>
+  <Traits>3400,300</Traits>
+ </N>
+ <N ID="BL05_DoctrineOfCalistria">
+  <Campaign>Booster</Campaign>
+  <Set>5</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1767</Name>
+  <Description>1768</Description>
+  <Type2>None</Type2>
+  <Traits>3400,2300</Traits>
+ </N>
+ <N ID="BL05_FavorOfGozreh">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1755</Name>
+  <Description>1756</Description>
+  <Type2>None</Type2>
+  <Traits>3400,5400</Traits>
+ </N>
+ <N ID="BL06_FavorOfNethys">
+  <Campaign>Booster</Campaign>
+  <Set>6</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1757</Name>
+  <Description>1758</Description>
+  <Type2>None</Type2>
+  <Traits>3400,7910</Traits>
+ </N>
+ <N ID="BL0B_BlessingOfCaydenCailean">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>1601</Name>
+  <Description>1602</Description>
+  <Type2>None</Type2>
+  <Traits>3400,2500</Traits>
+ </N>
+ <N ID="BL0B_BlessingOfMilani">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>1603</Name>
+  <Description>1604</Description>
+  <Type2>None</Type2>
+  <Traits>3400,7800</Traits>
+ </N>
+ <N ID="BL0B_FavorOfCalistria">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1727</Name>
+  <Description>1728</Description>
+  <Type2>None</Type2>
+  <Traits>3400,2300</Traits>
+ </N>
+ <N ID="BL0B_FavorOfDesna">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1729</Name>
+  <Description>1730</Description>
+  <Type2>None</Type2>
+  <Traits>3400,3300</Traits>
+ </N>
+ <N ID="BL0B_FavorOfErastil">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1731</Name>
+  <Description>1732</Description>
+  <Type2>None</Type2>
+  <Traits>3400,4100</Traits>
+ </N>
+ <N ID="BL0B_FavorOfGorum">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1733</Name>
+  <Description>1734</Description>
+  <Type2>None</Type2>
+  <Traits>3400,5300</Traits>
+ </N>
+ <N ID="BL0B_FavorOfIomedae">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1735</Name>
+  <Description>1736</Description>
+  <Type2>None</Type2>
+  <Traits>3400,6400</Traits>
+ </N>
+ <N ID="BL0B_FavorOfIrori">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1737</Name>
+  <Description>1738</Description>
+  <Type2>None</Type2>
+  <Traits>3400,6500</Traits>
+ </N>
+ <N ID="BL0B_FavorOfPharasma">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1739</Name>
+  <Description>1740</Description>
+  <Type2>None</Type2>
+  <Traits>3400,8700</Traits>
+ </N>
+ <N ID="BL0B_FavorOfSarenrae">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1741</Name>
+  <Description>1742</Description>
+  <Type2>None</Type2>
+  <Traits>3400,10000</Traits>
+ </N>
+ <N ID="BL0B_FavorOfShelyn">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1743</Name>
+  <Description>1744</Description>
+  <Type2>None</Type2>
+  <Traits>3400,10300</Traits>
+ </N>
+ <N ID="BL0B_FavorOfTorag">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1747</Name>
+  <Description>1748</Description>
+  <Type2>None</Type2>
+  <Traits>3400,12300</Traits>
+ </N>
+ <N ID="BL11_BlessingOfLamashtu">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>170</Name>
+  <Description>171</Description>
+  <Type2>None</Type2>
+  <Traits>3400,6800</Traits>
+ </N>
+ <N ID="BL12_BlessingOfAbadar">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>674</Name>
+  <Description>675</Description>
+  <Type2>None</Type2>
+  <Traits>3400,100</Traits>
+ </N>
+ <N ID="BL13_BlessingOfNorgorber">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>780</Name>
+  <Description>781</Description>
+  <Type2>None</Type2>
+  <Traits>3400,8100</Traits>
+ </N>
+ <N ID="BL14_BlessingOfGozreh">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>951</Name>
+  <Description>952</Description>
+  <Type2>None</Type2>
+  <Traits>3400,5400</Traits>
+ </N>
+ <N ID="BL16_BlessingOfNethys">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1187</Name>
+  <Description>1188</Description>
+  <Type2>None</Type2>
+  <Traits>3400,7910</Traits>
+ </N>
+ <N ID="BL1B_BlessingOfCalistria">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>146</Name>
+  <Description>147</Description>
+  <Type2>None</Type2>
+  <Traits>3400,2300</Traits>
+ </N>
+ <N ID="BL1B_BlessingOfDesna">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>150</Name>
+  <Description>151</Description>
+  <Type2>None</Type2>
+  <Traits>3400,3300</Traits>
+ </N>
+ <N ID="BL1B_BlessingOfErastil">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>154</Name>
+  <Description>155</Description>
+  <Type2>None</Type2>
+  <Traits>3400,4100</Traits>
+ </N>
+ <N ID="BL1B_BlessingOfGorum">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>158</Name>
+  <Description>159</Description>
+  <Type2>None</Type2>
+  <Traits>3400,5300</Traits>
+ </N>
+ <N ID="BL1B_BlessingOfIomedae">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>162</Name>
+  <Description>163</Description>
+  <Type2>None</Type2>
+  <Traits>3400,6400</Traits>
+ </N>
+ <N ID="BL1B_BlessingOfIrori">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>166</Name>
+  <Description>167</Description>
+  <Type2>None</Type2>
+  <Traits>3400,6500</Traits>
+ </N>
+ <N ID="BL1B_BlessingOfPharasma">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>172</Name>
+  <Description>173</Description>
+  <Type2>None</Type2>
+  <Traits>3400,8700</Traits>
+ </N>
+ <N ID="BL1B_BlessingOfSarenrae">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>176</Name>
+  <Description>177</Description>
+  <Type2>None</Type2>
+  <Traits>3400,10000</Traits>
+ </N>
+ <N ID="BL1B_BlessingOfShelyn">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>180</Name>
+  <Description>181</Description>
+  <Type2>None</Type2>
+  <Traits>3400,10300</Traits>
+ </N>
+ <N ID="BL1B_BlessingOfTheGods">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>184</Name>
+  <Description>185</Description>
+  <Type2>None</Type2>
+  <Traits>3400,1800</Traits>
+ </N>
+ <N ID="BL1B_BlessingOfTorag">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>188</Name>
+  <Description>189</Description>
+  <Type2>None</Type2>
+  <Traits>3400,12300</Traits>
+ </N>
+ <N ID="BL1P_BlessingOfZarongel">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>P</Set>
+  <Rarity>Common</Rarity>
+  <Name>1222</Name>
+  <Description>1223</Description>
+  <Type2>None</Type2>
+  <Traits>3400</Traits>
+ </N>
+ <N ID="BL1T_BlessingOfTheGods">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>T</Set>
+  <Rarity>Common</Rarity>
+  <Name>184</Name>
+  <Description>1196</Description>
+  <Type2>None</Type2>
+  <Traits>3400,1800</Traits>
+ </N>
+ <N ID="BX11_BlacksmithsSon">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>818</Name>
+  <Description>133</Description>
+  <Type2>None</Type2>
+  <Traits>5600,8350,1800</Traits>
+ </N>
+ <N ID="BX11_GoblinRaid">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>112</Name>
+  <Description>113</Description>
+  <Type2>None</Type2>
+  <Traits>10860,5200,1800</Traits>
+ </N>
+ <N ID="BX11_MonsterInTheCloset">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>120</Name>
+  <Description>121</Description>
+  <Type2>None</Type2>
+  <Traits>10860,5200,1800</Traits>
+ </N>
+ <N ID="BX11_PitOfMalfeshnekor">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>126</Name>
+  <Description>127</Description>
+  <Type2>None</Type2>
+  <Traits>2275</Traits>
+ </N>
+ <N ID="BX11_ShopkeepersDaughter">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>132</Name>
+  <Description>133</Description>
+  <Type2>None</Type2>
+  <Traits>6300,8350,1800</Traits>
+ </N>
+ <N ID="BX11_SlashingBlade">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>138</Name>
+  <Description>139</Description>
+  <Type2>None</Type2>
+  <Traits>12400,3900</Traits>
+ </N>
+ <N ID="BX12_FallingBell">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>620</Name>
+  <Description>621</Description>
+  <Type2>None</Type2>
+  <Traits>8350,3900</Traits>
+ </N>
+ <N ID="BX12_LockedStoneDoor">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>622</Name>
+  <Description>623</Description>
+  <Type2>None</Type2>
+  <Traits>7050,12600</Traits>
+ </N>
+ <N ID="BX12_SkinsawRitual">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>624</Name>
+  <Description>625</Description>
+  <Type2>None</Type2>
+  <Traits>10860,3040,3900</Traits>
+ </N>
+ <N ID="BX12_ZombieHorde">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>626</Name>
+  <Description>627</Description>
+  <Type2>None</Type2>
+  <Traits>10860,12525,13100,3900</Traits>
+ </N>
+ <N ID="BX12_ZombieNest">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>628</Name>
+  <Description>629</Description>
+  <Type2>None</Type2>
+  <Traits>10860,12525,13100,1800</Traits>
+ </N>
+ <N ID="BX13_CrypticMessage">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>722</Name>
+  <Description>723</Description>
+  <Type2>None</Type2>
+  <Traits>2275</Traits>
+ </N>
+ <N ID="BX13_DoorSpike">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>724</Name>
+  <Description>725</Description>
+  <Type2>None</Type2>
+  <Traits>12400</Traits>
+ </N>
+ <N ID="BX13_HandChopper">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>726</Name>
+  <Description>727</Description>
+  <Type2>None</Type2>
+  <Traits>12400</Traits>
+ </N>
+ <N ID="BX13_RangerStash">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>728</Name>
+  <Description>729</Description>
+  <Type2>None</Type2>
+  <Traits>2275,7050</Traits>
+ </N>
+ <N ID="BX14_ArcaneLock">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>954</Name>
+  <Description>953</Description>
+  <Type2>None</Type2>
+  <Traits>7050,7300,1000</Traits>
+ </N>
+ <N ID="BX14_CirclesOfBinding">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>955</Name>
+  <Description>956</Description>
+  <Type2>None</Type2>
+  <Traits>8350</Traits>
+ </N>
+ <N ID="BX14_InvasionPlans">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>957</Name>
+  <Description>958</Description>
+  <Type2>None</Type2>
+  <Traits>2275</Traits>
+ </N>
+ <N ID="BX14_ReductionField">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>959</Name>
+  <Description>960</Description>
+  <Type2>None</Type2>
+  <Traits>12400,7300,1000</Traits>
+ </N>
+ <N ID="BX15_CrushingDoor">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1019</Name>
+  <Description>1020</Description>
+  <Type2>None</Type2>
+  <Traits>12400</Traits>
+ </N>
+ <N ID="BX15_DisjunctionPulse">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1021</Name>
+  <Description>1022</Description>
+  <Type2>None</Type2>
+  <Traits>12400,7300,1000</Traits>
+ </N>
+ <N ID="BX15_NecromanticDeathtrap">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1023</Name>
+  <Description>1024</Description>
+  <Type2>None</Type2>
+  <Traits>12400,7300,1000</Traits>
+ </N>
+ <N ID="BX15_TrappedSpellbook">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1025</Name>
+  <Description>1026</Description>
+  <Type2>None</Type2>
+  <Traits>2275,12400,1000</Traits>
+ </N>
+ <N ID="BX16_Avalanche">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1123</Name>
+  <Description>1124</Description>
+  <Type2>None</Type2>
+  <Traits>8350,11950,3000</Traits>
+ </N>
+ <N ID="BX16_CorrodedLock">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1125</Name>
+  <Description>1126</Description>
+  <Type2>None</Type2>
+  <Traits>7050</Traits>
+ </N>
+ <N ID="BX16_IcyLedge">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1127</Name>
+  <Description>1128</Description>
+  <Type2>None</Type2>
+  <Traits>8350,3000</Traits>
+ </N>
+ <N ID="BX16_OccludingField">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1129</Name>
+  <Description>1130</Description>
+  <Type2>None</Type2>
+  <Traits>8350,7300,1000</Traits>
+ </N>
+ <N ID="BX16_StampedingAurochs">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1131</Name>
+  <Description>1132</Description>
+  <Type2>None</Type2>
+  <Traits>10860,800</Traits>
+ </N>
+ <N ID="BX1B_Ambush">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>100</Name>
+  <Description>101</Description>
+  <Type2>None</Type2>
+  <Traits>12600</Traits>
+ </N>
+ <N ID="BX1B_BatteredChest">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>102</Name>
+  <Description>103</Description>
+  <Type2>None</Type2>
+  <Traits>2275,7050,3900</Traits>
+ </N>
+ <N ID="BX1B_CollapsedCeiling">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>106</Name>
+  <Description>107</Description>
+  <Type2>None</Type2>
+  <Traits>8350,12600,3900</Traits>
+ </N>
+ <N ID="BX1B_ExplosiveRunes">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>108</Name>
+  <Description>109</Description>
+  <Type2>None</Type2>
+  <Traits>12400,7300,1000,12600</Traits>
+ </N>
+ <N ID="BX1B_LargeChest">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>114</Name>
+  <Description>115</Description>
+  <Type2>None</Type2>
+  <Traits>2275,7050,12600</Traits>
+ </N>
+ <N ID="BX1B_LockedPassage">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>118</Name>
+  <Description>119</Description>
+  <Type2>None</Type2>
+  <Traits>7050,3900</Traits>
+ </N>
+ <N ID="BX1B_MysticInscription">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>122</Name>
+  <Description>123</Description>
+  <Type2>None</Type2>
+  <Traits>2275,7300,3900</Traits>
+ </N>
+ <N ID="BX1B_PitTrap">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>128</Name>
+  <Description>129</Description>
+  <Type2>None</Type2>
+  <Traits>12400</Traits>
+ </N>
+ <N ID="BX1B_SkeletonHorde">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>134</Name>
+  <Description>135</Description>
+  <Type2>None</Type2>
+  <Traits>10860,12525,3900</Traits>
+ </N>
+ <N ID="BX1B_TrappedLocker">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>140</Name>
+  <Description>141</Description>
+  <Type2>None</Type2>
+  <Traits>2275,7050,12400,9300,1800</Traits>
+ </N>
+ <N ID="BX1B_TrappedPassageway">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>142</Name>
+  <Description>143</Description>
+  <Type2>None</Type2>
+  <Traits>12400,1800</Traits>
+ </N>
+ <N ID="BX1B_TreasureMap">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>144</Name>
+  <Description>145</Description>
+  <Type2>None</Type2>
+  <Traits>2275,1800</Traits>
+ </N>
+ <N ID="BX1C_SecretStash">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>C</Set>
+  <Rarity>Common</Rarity>
+  <Name>130</Name>
+  <Description>131</Description>
+  <Type2>None</Type2>
+  <Traits>2275,3900</Traits>
+ </N>
+ <N ID="BX1P_DanceWithSquealyNord">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>P</Set>
+  <Rarity>Common</Rarity>
+  <Name>1226</Name>
+  <Description>1227</Description>
+  <Type2>None</Type2>
+  <Traits>8350,800,3900</Traits>
+ </N>
+ <N ID="HE11_Bruthazmus">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>200</Name>
+  <Description>201</Description>
+  <Type2>Monster</Type2>
+  <Traits>2225,5200,9600</Traits>
+ </N>
+ <N ID="HE11_GoblinRaider">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>202</Name>
+  <Description>203</Description>
+  <Type2>Monster</Type2>
+  <Traits>5200</Traits>
+ </N>
+ <N ID="HE11_Koruvus">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>204</Name>
+  <Description>205</Description>
+  <Type2>Monster</Type2>
+  <Traits>5200,7830</Traits>
+ </N>
+ <N ID="HE11_LyrieAkenja">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>206</Name>
+  <Description>207</Description>
+  <Type2>Monster</Type2>
+  <Traits>6300,12950</Traits>
+ </N>
+ <N ID="HE11_OrikVancaskerkin">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>208</Name>
+  <Description>209</Description>
+  <Type2>Monster</Type2>
+  <Traits>4200,6300</Traits>
+ </N>
+ <N ID="HE11_Tangletooth">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>210</Name>
+  <Description>211</Description>
+  <Type2>Monster</Type2>
+  <Traits>800,3030</Traits>
+ </N>
+ <N ID="HE11_TsutoKaijitsu">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>212</Name>
+  <Description>213</Description>
+  <Type2>Monster</Type2>
+  <Traits>5500,7810,9800</Traits>
+ </N>
+ <N ID="HE11_WrathfulSinspawn">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>214</Name>
+  <Description>215</Description>
+  <Type2>Monster</Type2>
+  <Traits>150</Traits>
+ </N>
+ <N ID="HE12_CharmedFacelessStalker">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>596</Name>
+  <Description>597</Description>
+  <Type2>Monster</Type2>
+  <Traits>150</Traits>
+ </N>
+ <N ID="HE12_Dr.Habe">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>598</Name>
+  <Description>599</Description>
+  <Type2>Monster</Type2>
+  <Traits>6300</Traits>
+ </N>
+ <N ID="HE12_GhoulScarecrow">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>600</Name>
+  <Description>601</Description>
+  <Type2>Monster</Type2>
+  <Traits>12525,4975</Traits>
+ </N>
+ <N ID="HE12_GraystSevilla">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>602</Name>
+  <Description>603</Description>
+  <Type2>Monster</Type2>
+  <Traits>6300,4200</Traits>
+ </N>
+ <N ID="HE12_Haunt">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>604</Name>
+  <Description>605</Description>
+  <Type2>Monster</Type2>
+  <Traits>12525</Traits>
+ </N>
+ <N ID="HE12_PidgetTergelson">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>606</Name>
+  <Description>607</Description>
+  <Type2>Monster</Type2>
+  <Traits>7100,12920</Traits>
+ </N>
+ <N ID="HE12_ScarecrowGolem">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>608</Name>
+  <Description>609</Description>
+  <Type2>Monster</Type2>
+  <Traits>3020,5250</Traits>
+ </N>
+ <N ID="HE12_SkinsawCultist">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>610</Name>
+  <Description>611</Description>
+  <Type2>Monster</Type2>
+  <Traits>6300,3040</Traits>
+ </N>
+ <N ID="HE12_ZombieMinion">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>612</Name>
+  <Description>613</Description>
+  <Type2>Monster</Type2>
+  <Traits>12525,13100,12600</Traits>
+ </N>
+ <N ID="HE13_CrowfoodGraul">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>686</Name>
+  <Description>687</Description>
+  <Type2>Monster</Type2>
+  <Traits>5000,8470,4200,9800</Traits>
+ </N>
+ <N ID="HE13_DorellaAndHookmawKreeg">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>688</Name>
+  <Description>689</Description>
+  <Type2>Monster</Type2>
+  <Traits>5000,8430,11200,4200</Traits>
+ </N>
+ <N ID="HE13_GraulOgrekin">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>690</Name>
+  <Description>691</Description>
+  <Type2>Monster</Type2>
+  <Traits>5000,8470</Traits>
+ </N>
+ <N ID="HE13_GraulOgrekin1">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>690</Name>
+  <Description>788</Description>
+  <Type2>Monster</Type2>
+  <Traits>5000,8470</Traits>
+ </N>
+ <N ID="HE13_GraulOgrekin2">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>690</Name>
+  <Description>789</Description>
+  <Type2>Monster</Type2>
+  <Traits>5000,8470</Traits>
+ </N>
+ <N ID="HE13_GraulOgrekin3">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>690</Name>
+  <Description>790</Description>
+  <Type2>Monster</Type2>
+  <Traits>5000,8470</Traits>
+ </N>
+ <N ID="HE13_GraulOgrekin4">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>690</Name>
+  <Description>791</Description>
+  <Type2>Monster</Type2>
+  <Traits>5000,8470</Traits>
+ </N>
+ <N ID="HE13_HookMountainHag">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>692</Name>
+  <Description>693</Description>
+  <Type2>Monster</Type2>
+  <Traits>5470</Traits>
+ </N>
+ <N ID="HE13_KavenWindstrike">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>694</Name>
+  <Description>695</Description>
+  <Type2>Monster</Type2>
+  <Traits>6300,9600,9800</Traits>
+ </N>
+ <N ID="HE13_KreegOgre">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>696</Name>
+  <Description>697</Description>
+  <Type2>Monster</Type2>
+  <Traits>5000,8430</Traits>
+ </N>
+ <N ID="HE13_LamatarBayden">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>698</Name>
+  <Description>699</Description>
+  <Type2>Monster</Type2>
+  <Traits>12525,12930,9600</Traits>
+ </N>
+ <N ID="HE13_Lucrecia">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>700</Name>
+  <Description>701</Description>
+  <Type2>Monster</Type2>
+  <Traits>6830,11200</Traits>
+ </N>
+ <N ID="HE13_Lunderbud">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>702</Name>
+  <Description>703</Description>
+  <Type2>Monster</Type2>
+  <Traits>5000</Traits>
+ </N>
+ <N ID="HE13_NightbellyBoa">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>704</Name>
+  <Description>705</Description>
+  <Type2>Monster</Type2>
+  <Traits>800</Traits>
+ </N>
+ <N ID="HE13_RuckusGraulAndHound">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>706</Name>
+  <Description>707</Description>
+  <Type2>Monster</Type2>
+  <Traits>5000,8470,4200,800</Traits>
+ </N>
+ <N ID="HE14_Cinderma">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>1189</Name>
+  <Description>836</Description>
+  <Type2>Monster</Type2>
+  <Traits>5000</Traits>
+ </N>
+ <N ID="HE14_EngaKeckvia">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>1190</Name>
+  <Description>837</Description>
+  <Type2>Monster</Type2>
+  <Traits>6750,1675</Traits>
+ </N>
+ <N ID="HE14_Forgefiend">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>1191</Name>
+  <Description>838</Description>
+  <Type2>Monster</Type2>
+  <Traits>8600</Traits>
+ </N>
+ <N ID="HE14_HarpyMonk">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>839</Name>
+  <Description>840</Description>
+  <Type2>Monster</Type2>
+  <Traits>5850,7810</Traits>
+ </N>
+ <N ID="HE14_HeadlessLord">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>841</Name>
+  <Description>842</Description>
+  <Type2>Monster</Type2>
+  <Traits>5000,8430,12525,4200</Traits>
+ </N>
+ <N ID="HE14_HillGiantRuneslave">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>843</Name>
+  <Description>844</Description>
+  <Type2>Monster</Type2>
+  <Traits>5000</Traits>
+ </N>
+ <N ID="HE14_JorgenfistStoneGiant">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>845</Name>
+  <Description>846</Description>
+  <Type2>Monster</Type2>
+  <Traits>5000</Traits>
+ </N>
+ <N ID="HE14_Lokansir">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>847</Name>
+  <Description>848</Description>
+  <Type2>Monster</Type2>
+  <Traits>5000</Traits>
+ </N>
+ <N ID="HE14_Longtooth">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>849</Name>
+  <Description>850</Description>
+  <Type2>Monster</Type2>
+  <Traits>3500</Traits>
+ </N>
+ <N ID="HE14_TyrantTroll">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>851</Name>
+  <Description>852</Description>
+  <Type2>Monster</Type2>
+  <Traits>5000,12470</Traits>
+ </N>
+ <N ID="HE15_Alu-DemonSister">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>985</Name>
+  <Description>986</Description>
+  <Type2>Monster</Type2>
+  <Traits>8600,3200</Traits>
+ </N>
+ <N ID="HE15_HighladyAthroxis">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>987</Name>
+  <Description>988</Description>
+  <Type2>Monster</Type2>
+  <Traits>6300,4200,12950</Traits>
+ </N>
+ <N ID="HE15_HoundOfLamashtu">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>991</Name>
+  <Description>992</Description>
+  <Type2>Monster</Type2>
+  <Traits>8600</Traits>
+ </N>
+ <N ID="HE15_SimulacrumOfVraxeris">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>993</Name>
+  <Description>994</Description>
+  <Type2>Monster</Type2>
+  <Traits>6300,6330</Traits>
+ </N>
+ <N ID="HE15_StoneHead">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>995</Name>
+  <Description>996</Description>
+  <Type2>Barrier</Type2>
+  <Traits>12400,7300</Traits>
+ </N>
+ <N ID="HE15_WarriorOfWrath">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>997</Name>
+  <Description>998</Description>
+  <Type2>Monster</Type2>
+  <Traits>6300,4200,12950</Traits>
+ </N>
+ <N ID="HE15_XyoddinXerriock">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>999</Name>
+  <Description>1000</Description>
+  <Type2>Monster</Type2>
+  <Traits>12525,13100,9800</Traits>
+ </N>
+ <N ID="HE16_CannibalHaunt">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1085</Name>
+  <Description>1086</Description>
+  <Type2>Monster</Type2>
+  <Traits>12525,3650</Traits>
+ </N>
+ <N ID="HE16_EnslavedBlueDragon">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1087</Name>
+  <Description>1088</Description>
+  <Type2>Monster</Type2>
+  <Traits>3500</Traits>
+ </N>
+ <N ID="HE16_KarivekVekker">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1089</Name>
+  <Description>1090</Description>
+  <Type2>Monster</Type2>
+  <Traits>12525,6370,4950,3650</Traits>
+ </N>
+ <N ID="HE16_Khalib">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1091</Name>
+  <Description>1092</Description>
+  <Type2>Monster</Type2>
+  <Traits>6300,12350</Traits>
+ </N>
+ <N ID="HE16_LengSpider">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1093</Name>
+  <Description>1094</Description>
+  <Type2>Monster</Type2>
+  <Traits>11450</Traits>
+ </N>
+ <N ID="HE16_SilasVekker">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1095</Name>
+  <Description>1096</Description>
+  <Type2>Monster</Type2>
+  <Traits>12525,6370,4950,3650</Traits>
+ </N>
+ <N ID="HE16_ViorianDekanti">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1097</Name>
+  <Description>1098</Description>
+  <Type2>Monster</Type2>
+  <Traits>6300,12350,4200</Traits>
+ </N>
+ <N ID="HE16_WardenOfRunes">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1099</Name>
+  <Description>1100</Description>
+  <Type2>Monster</Type2>
+  <Traits>5000</Traits>
+ </N>
+ <N ID="HE1B_AncientSkeleton">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>192</Name>
+  <Description>193</Description>
+  <Type2>Monster</Type2>
+  <Traits>12525,10830</Traits>
+ </N>
+ <N ID="HE1B_Bandit">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>196</Name>
+  <Description>197</Description>
+  <Type2>Monster</Type2>
+  <Traits>1650,6300,12600</Traits>
+ </N>
+ <N ID="HE1B_PoisonTrap">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>216</Name>
+  <Description>217</Description>
+  <Type2>Barrier</Type2>
+  <Traits>12400,9300</Traits>
+ </N>
+ <N ID="HE1T_Cultist">
+  <Campaign />
+  <Set>B</Set>
+  <Rarity />
+  <Name>314</Name>
+  <Description>787</Description>
+  <Type2 />
+  <Traits>6300,3040,1800</Traits>
+ </N>
+ <N ID="IT01_BracersOfImprovedProtection">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1381</Name>
+  <Description>1382</Description>
+  <Type2>None</Type2>
+  <Traits>200,7300,1800</Traits>
+ </N>
+ <N ID="IT01_BroochOfShielding">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Legendary</Rarity>
+  <Name>1706</Name>
+  <Description>1705</Description>
+  <Type2>None</Type2>
+  <Traits>200,7300,3900</Traits>
+ </N>
+ <N ID="IT01_CentipedeVenom">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>1304</Name>
+  <Description>1305</Description>
+  <Type2>None</Type2>
+  <Traits>7000,9300,3900</Traits>
+ </N>
+ <N ID="IT01_EngineersWorkgloves">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Legendary</Rarity>
+  <Name>1703</Name>
+  <Description>1704</Description>
+  <Type2>None</Type2>
+  <Traits>200,7300,3900</Traits>
+ </N>
+ <N ID="IT01_HeavyloadBelt">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1701</Name>
+  <Description>1702</Description>
+  <Type2>None</Type2>
+  <Traits>200,7300,3900</Traits>
+ </N>
+ <N ID="IT01_KohlOfUncannyDiscernment">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1623</Name>
+  <Description>1624</Description>
+  <Type2>None</Type2>
+  <Traits>200,500</Traits>
+ </N>
+ <N ID="IT01_OrbOfFire">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1440</Name>
+  <Description>1441</Description>
+  <Type2>None</Type2>
+  <Traits>8300,7300,4400,3900</Traits>
+ </N>
+ <N ID="IT01_OrbOfShocking">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1444</Name>
+  <Description>1445</Description>
+  <Type2>None</Type2>
+  <Traits>8300,7300,3700,3900</Traits>
+ </N>
+ <N ID="IT01_PotionOfInvisibility">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1373</Name>
+  <Description>1374</Description>
+  <Type2>None</Type2>
+  <Traits>7000,500</Traits>
+ </N>
+ <N ID="IT01_WandOfFlame">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1436</Name>
+  <Description>1437</Description>
+  <Type2>None</Type2>
+  <Traits>12700,7300,1000,1400,4400</Traits>
+ </N>
+ <N ID="IT01_WandOfLightningBolt">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1438</Name>
+  <Description>1439</Description>
+  <Type2>None</Type2>
+  <Traits>12700,7300,1400,3700,3900</Traits>
+ </N>
+ <N ID="IT02_AmuletOfFrozenFists">
+  <Campaign>Booster</Campaign>
+  <Set>2</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1383</Name>
+  <Description>1384</Description>
+  <Type2>None</Type2>
+  <Traits>200,7300,1800</Traits>
+ </N>
+ <N ID="IT02_BlackMarshSpiderVenom">
+  <Campaign>Booster</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>1306</Name>
+  <Description>1307</Description>
+  <Type2>None</Type2>
+  <Traits>7000,9300</Traits>
+ </N>
+ <N ID="IT02_HatOfGlamour">
+  <Campaign>Booster</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>1284</Name>
+  <Description>1285</Description>
+  <Type2>None</Type2>
+  <Traits>200,7300</Traits>
+ </N>
+ <N ID="IT02_ImprovedSagesJournal">
+  <Campaign>Booster</Campaign>
+  <Set>2</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1387</Name>
+  <Description>1388</Description>
+  <Type2>None</Type2>
+  <Traits>2100,3900</Traits>
+ </N>
+ <N ID="IT02_OrbOfMagic">
+  <Campaign>Booster</Campaign>
+  <Set>2</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1522</Name>
+  <Description>1523</Description>
+  <Type2>None</Type2>
+  <Traits>8300,7300</Traits>
+ </N>
+ <N ID="IT02_PotionOfDeftness">
+  <Campaign>Booster</Campaign>
+  <Set>2</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1375</Name>
+  <Description>1376</Description>
+  <Type2>None</Type2>
+  <Traits>7000,500,3900</Traits>
+ </N>
+ <N ID="IT02_PotionOfPerseverance">
+  <Campaign>Booster</Campaign>
+  <Set>2</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1379</Name>
+  <Description>1380</Description>
+  <Type2>None</Type2>
+  <Traits>7000,500,3900</Traits>
+ </N>
+ <N ID="IT02_PotionOfSecrets">
+  <Campaign>Booster</Campaign>
+  <Set>2</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1377</Name>
+  <Description>1378</Description>
+  <Type2>None</Type2>
+  <Traits>7000,500,1800</Traits>
+ </N>
+ <N ID="IT02_SkinsawMask">
+  <Campaign>Booster</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>1636</Name>
+  <Description>1637</Description>
+  <Type2>None</Type2>
+  <Traits>200,7300</Traits>
+ </N>
+ <N ID="IT02_WandOfIce">
+  <Campaign>Booster</Campaign>
+  <Set>2</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1585</Name>
+  <Description>1586</Description>
+  <Type2>None</Type2>
+  <Traits>12700,7300,1000,1400,3900</Traits>
+ </N>
+ <N ID="IT02_Whetstone">
+  <Campaign>Booster</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>1286</Name>
+  <Description>1287</Description>
+  <Type2>None</Type2>
+  <Traits>12200</Traits>
+ </N>
+ <N ID="IT03_AmuletOfShockingFists">
+  <Campaign>Booster</Campaign>
+  <Set>3</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1385</Name>
+  <Description>1386</Description>
+  <Type2>None</Type2>
+  <Traits>200,7300,1800</Traits>
+ </N>
+ <N ID="IT03_BloodrootPoison">
+  <Campaign>Booster</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>1308</Name>
+  <Description>1309</Description>
+  <Type2>None</Type2>
+  <Traits>7000,9300</Traits>
+ </N>
+ <N ID="IT03_CandleOfTheKoboldKing">
+  <Campaign>Booster</Campaign>
+  <Set>3</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1536</Name>
+  <Description>1537</Description>
+  <Type2 />
+  <Traits>3400,7300,8300</Traits>
+ </N>
+ <N ID="IT03_FlaskOfForce">
+  <Campaign>Booster</Campaign>
+  <Set>3</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1542</Name>
+  <Description>1543</Description>
+  <Type2>None</Type2>
+  <Traits>8300,7300,1000,4600</Traits>
+ </N>
+ <N ID="IT03_FlaskOfShock">
+  <Campaign>Booster</Campaign>
+  <Set>3</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1552</Name>
+  <Description>1553</Description>
+  <Type2>None</Type2>
+  <Traits>8300,7300,1000,3700</Traits>
+ </N>
+ <N ID="IT03_OrbOfFirestorm">
+  <Campaign>Booster</Campaign>
+  <Set>3</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1524</Name>
+  <Description>1525</Description>
+  <Type2>None</Type2>
+  <Traits>8300,7300,4400</Traits>
+ </N>
+ <N ID="IT03_Pole">
+  <Campaign>Booster</Campaign>
+  <Set>3</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1310</Name>
+  <Description>1311</Description>
+  <Type2>None</Type2>
+  <Traits>12200</Traits>
+ </N>
+ <N ID="IT03_StaffOfHealing">
+  <Campaign>Booster</Campaign>
+  <Set>3</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1570</Name>
+  <Description>1571</Description>
+  <Type2>None</Type2>
+  <Traits>11600,7300,3400,5900</Traits>
+ </N>
+ <N ID="IT03_StaffOfImprovedHealing">
+  <Campaign>Booster</Campaign>
+  <Set>3</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1572</Name>
+  <Description>1573</Description>
+  <Type2>None</Type2>
+  <Traits>11600,7300,3400,5900</Traits>
+ </N>
+ <N ID="IT03_StaffOfTrueHealing">
+  <Campaign>Booster</Campaign>
+  <Set>3</Set>
+  <Rarity>Legendary</Rarity>
+  <Name>1574</Name>
+  <Description>1575</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,3400,5900</Traits>
+ </N>
+ <N ID="IT04_AmuletOfInescapableLocation">
+  <Campaign>Booster</Campaign>
+  <Set>4</Set>
+  <Rarity>Legendary</Rarity>
+  <Name>1534</Name>
+  <Description>1535</Description>
+  <Type2>None</Type2>
+  <Traits>200,7300</Traits>
+ </N>
+ <N ID="IT04_FlaskOfFire">
+  <Campaign>Booster</Campaign>
+  <Set>4</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1538</Name>
+  <Description>1539</Description>
+  <Type2>None</Type2>
+  <Traits>8300,7300,1000,4400</Traits>
+ </N>
+ <N ID="IT04_FlaskOfFrost">
+  <Campaign>Booster</Campaign>
+  <Set>4</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1546</Name>
+  <Description>1547</Description>
+  <Type2>None</Type2>
+  <Traits>8300,7300,1000,3000</Traits>
+ </N>
+ <N ID="IT04_FlaskOfMagic">
+  <Campaign>Booster</Campaign>
+  <Set>4</Set>
+  <Rarity>Legendary</Rarity>
+  <Name>1550</Name>
+  <Description>1551</Description>
+  <Type2>None</Type2>
+  <Traits>8300,7300,1000,3400</Traits>
+ </N>
+ <N ID="IT04_GreaterSagesJournal">
+  <Campaign>Booster</Campaign>
+  <Set>4</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1558</Name>
+  <Description>1559</Description>
+  <Type2>None</Type2>
+  <Traits>2100</Traits>
+ </N>
+ <N ID="IT04_NetOfSnaring">
+  <Campaign>Booster</Campaign>
+  <Set>4</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1654</Name>
+  <Description>1655</Description>
+  <Type2>None</Type2>
+  <Traits>8300,7300</Traits>
+ </N>
+ <N ID="IT04_OrbOfIce">
+  <Campaign>Booster</Campaign>
+  <Set>4</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1526</Name>
+  <Description>1527</Description>
+  <Type2>None</Type2>
+  <Traits>8300,7300,3000</Traits>
+ </N>
+ <N ID="IT04_OrbOfStorms">
+  <Campaign>Booster</Campaign>
+  <Set>4</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1528</Name>
+  <Description>1529</Description>
+  <Type2>None</Type2>
+  <Traits>8300,7300,3700</Traits>
+ </N>
+ <N ID="IT04_SoulSoap">
+  <Campaign>Booster</Campaign>
+  <Set>4</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1568</Name>
+  <Description>1569</Description>
+  <Type2>None</Type2>
+  <Traits>8300,500,3900</Traits>
+ </N>
+ <N ID="IT05_FlaskOfForceMissile">
+  <Campaign>Booster</Campaign>
+  <Set>5</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1544</Name>
+  <Description>1545</Description>
+  <Type2>None</Type2>
+  <Traits>8300,7300,1000,4600</Traits>
+ </N>
+ <N ID="IT05_FlaskOfIce">
+  <Campaign>Booster</Campaign>
+  <Set>5</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1548</Name>
+  <Description>1549</Description>
+  <Type2>None</Type2>
+  <Traits>8300,7300,1000,3000</Traits>
+ </N>
+ <N ID="IT05_FlaskOfStorm">
+  <Campaign>Booster</Campaign>
+  <Set>5</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1554</Name>
+  <Description>1555</Description>
+  <Type2>None</Type2>
+  <Traits>8300,7300,1000,3700</Traits>
+ </N>
+ <N ID="IT05_PureHolyWater">
+  <Campaign>Booster</Campaign>
+  <Set>5</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1262</Name>
+  <Description>1263</Description>
+  <Type2>None</Type2>
+  <Traits>7000,7300,3400</Traits>
+ </N>
+ <N ID="IT05_WellOfManyWorlds">
+  <Campaign>Booster</Campaign>
+  <Set>5</Set>
+  <Rarity>Legendary</Rarity>
+  <Name>1587</Name>
+  <Description>1588</Description>
+  <Type2>None</Type2>
+  <Traits>8300,7300</Traits>
+ </N>
+ <N ID="IT05_WyvernPoison">
+  <Campaign>Booster</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1312</Name>
+  <Description>1313</Description>
+  <Type2>None</Type2>
+  <Traits>7000,9300</Traits>
+ </N>
+ <N ID="IT06_FlaskOfFirestorm">
+  <Campaign>Booster</Campaign>
+  <Set>6</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1540</Name>
+  <Description>1541</Description>
+  <Type2>None</Type2>
+  <Traits>8300,7300,1000,4400</Traits>
+ </N>
+ <N ID="IT06_RingOfSereneContortions">
+  <Campaign>Booster</Campaign>
+  <Set>6</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1609</Name>
+  <Description>1610</Description>
+  <Type2>None</Type2>
+  <Traits>200,7300</Traits>
+ </N>
+ <N ID="IT06_RingOfSuperiorProtection">
+  <Campaign>Booster</Campaign>
+  <Set>6</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1449</Name>
+  <Description>1450</Description>
+  <Type2>None</Type2>
+  <Traits>200,7300</Traits>
+ </N>
+ <N ID="IT0B_HealersKit">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Legendary</Rarity>
+  <Name>1695</Name>
+  <Description>1696</Description>
+  <Type2>None</Type2>
+  <Traits>12200,500,5900</Traits>
+ </N>
+ <N ID="IT0B_HolySymbol">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1683</Name>
+  <Description>1684</Description>
+  <Type2>None</Type2>
+  <Traits>200,7300,3400</Traits>
+ </N>
+ <N ID="IT0B_HolyText">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Legendary</Rarity>
+  <Name>1691</Name>
+  <Description>1692</Description>
+  <Type2>None</Type2>
+  <Traits>2100</Traits>
+ </N>
+ <N ID="IT0B_OrbOfFrost">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1530</Name>
+  <Description>1531</Description>
+  <Type2>None</Type2>
+  <Traits>8300,7300,3000,3900</Traits>
+ </N>
+ <N ID="IT0B_PortableRam">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Legendary</Rarity>
+  <Name>1693</Name>
+  <Description>1694</Description>
+  <Type2>None</Type2>
+  <Traits>12200,3900</Traits>
+ </N>
+ <N ID="IT0B_PotionOfResinousSkin">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1685</Name>
+  <Description>1686</Description>
+  <Type2>None</Type2>
+  <Traits>7000,500</Traits>
+ </N>
+ <N ID="IT0B_Samisen">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>1595</Name>
+  <Description>1596</Description>
+  <Type2>None</Type2>
+  <Traits />
+ </N>
+ <N ID="IT0B_Shovel">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Legendary</Rarity>
+  <Name>1687</Name>
+  <Description>1688</Description>
+  <Type2>None</Type2>
+  <Traits>12200</Traits>
+ </N>
+ <N ID="IT0B_SpellComponentPouch">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1697</Name>
+  <Description>1698</Description>
+  <Type2>None</Type2>
+  <Traits>200,7300,1000</Traits>
+ </N>
+ <N ID="IT0B_VeterinariansKit">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1699</Name>
+  <Description>1700</Description>
+  <Type2>None</Type2>
+  <Traits>12200,7300,5900</Traits>
+ </N>
+ <N ID="IT0B_Wayfinder">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1689</Name>
+  <Description>1690</Description>
+  <Type2>None</Type2>
+  <Traits>8300,7300</Traits>
+ </N>
+ <N ID="IT11_PotionOfGracefulness">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>270</Name>
+  <Description>271</Description>
+  <Type2>None</Type2>
+  <Traits>7000,500,3900</Traits>
+ </N>
+ <N ID="IT11_PotionOfRuggedness">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>280</Name>
+  <Description>281</Description>
+  <Type2>None</Type2>
+  <Traits>7000,500,3900</Traits>
+ </N>
+ <N ID="IT11_StaffOfMinorHealing">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>294</Name>
+  <Description>295</Description>
+  <Type2>None</Type2>
+  <Traits>11600,7300,3400,5900</Traits>
+ </N>
+ <N ID="IT11_WandOfForceMissile">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>302</Name>
+  <Description>303</Description>
+  <Type2>None</Type2>
+  <Traits>12700,7300,1000,1400,3900</Traits>
+ </N>
+ <N ID="IT11_WandOfShield">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>304</Name>
+  <Description>305</Description>
+  <Type2>None</Type2>
+  <Traits>12700,7300,1000</Traits>
+ </N>
+ <N ID="IT12_ChimeOfUnlocking">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>656</Name>
+  <Description>657</Description>
+  <Type2>None</Type2>
+  <Traits>8300,7300</Traits>
+ </N>
+ <N ID="IT12_CloakOfElvenkind">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>658</Name>
+  <Description>659</Description>
+  <Type2>None</Type2>
+  <Traits>2800,7300</Traits>
+ </N>
+ <N ID="IT12_RingOfProtection">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>660</Name>
+  <Description>661</Description>
+  <Type2>None</Type2>
+  <Traits>200,7300</Traits>
+ </N>
+ <N ID="IT13_BeltOfGiantStrength">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>752</Name>
+  <Description>753</Description>
+  <Type2>None</Type2>
+  <Traits>200,7300</Traits>
+ </N>
+ <N ID="IT13_BeltOfIncredibleDexterity">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>754</Name>
+  <Description>755</Description>
+  <Type2>None</Type2>
+  <Traits>200,7300</Traits>
+ </N>
+ <N ID="IT13_HeadbandOfAlluringCharisma">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>756</Name>
+  <Description>757</Description>
+  <Type2>None</Type2>
+  <Traits>200,7300</Traits>
+ </N>
+ <N ID="IT13_WandOfScorchingRay">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>758</Name>
+  <Description>759</Description>
+  <Type2>None</Type2>
+  <Traits>12700,4400,9500,7300</Traits>
+ </N>
+ <N ID="IT14_AmuletOfFieryFists">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>917</Name>
+  <Description>918</Description>
+  <Type2>None</Type2>
+  <Traits>200,7300</Traits>
+ </N>
+ <N ID="IT14_BracersOfGreaterProtection">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>919</Name>
+  <Description>920</Description>
+  <Type2>None</Type2>
+  <Traits>200,7300</Traits>
+ </N>
+ <N ID="IT14_GreaterLuckstone">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>921</Name>
+  <Description>922</Description>
+  <Type2>None</Type2>
+  <Traits>8300,7300</Traits>
+ </N>
+ <N ID="IT14_HeadbandOfInspiredWisdom">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>923</Name>
+  <Description>924</Description>
+  <Type2>None</Type2>
+  <Traits>200,7300</Traits>
+ </N>
+ <N ID="IT14_MagicSpyglass">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>925</Name>
+  <Description>926</Description>
+  <Type2>None</Type2>
+  <Traits>8300,7300</Traits>
+ </N>
+ <N ID="IT14_NecklaceOfFireballs">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>927</Name>
+  <Description>928</Description>
+  <Type2>None</Type2>
+  <Traits>200,1400,4400,7300</Traits>
+ </N>
+ <N ID="IT14_StaffOfHeavenAndEarth">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>929</Name>
+  <Description>930</Description>
+  <Type2>None</Type2>
+  <Traits>11600,7300</Traits>
+ </N>
+ <N ID="IT15_HeadbandOfEpicIntelligence">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1047</Name>
+  <Description>1048</Description>
+  <Type2>None</Type2>
+  <Traits>200,7300</Traits>
+ </N>
+ <N ID="IT15_WandOfTreasureFinding">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1049</Name>
+  <Description>1050</Description>
+  <Type2>None</Type2>
+  <Traits>12700,7300,1000</Traits>
+ </N>
+ <N ID="IT16_BeltOfPhysicalMight">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1161</Name>
+  <Description>1162</Description>
+  <Type2>None</Type2>
+  <Traits>200,7300</Traits>
+ </N>
+ <N ID="IT16_BootsOfTeleportation">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1163</Name>
+  <Description>1164</Description>
+  <Type2>None</Type2>
+  <Traits>2800,7300</Traits>
+ </N>
+ <N ID="IT16_RingOfEnergyResistance">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1165</Name>
+  <Description>1166</Description>
+  <Type2>None</Type2>
+  <Traits>200,7300</Traits>
+ </N>
+ <N ID="IT16_SihedronRing">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1167</Name>
+  <Description>1168</Description>
+  <Type2>None</Type2>
+  <Traits>200,7300,10700</Traits>
+ </N>
+ <N ID="IT1B_AmuletOfFortitude">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>220</Name>
+  <Description>221</Description>
+  <Type2>None</Type2>
+  <Traits>200,7300,3900</Traits>
+ </N>
+ <N ID="IT1B_AmuletOfLife">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>222</Name>
+  <Description>223</Description>
+  <Type2>None</Type2>
+  <Traits>200,7300,1800</Traits>
+ </N>
+ <N ID="IT1B_BlastStone">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>226</Name>
+  <Description>227</Description>
+  <Type2>None</Type2>
+  <Traits>8300,500,1800</Traits>
+ </N>
+ <N ID="IT1B_BootsOfElvenkind">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>228</Name>
+  <Description>229</Description>
+  <Type2>None</Type2>
+  <Traits>2800,7300</Traits>
+ </N>
+ <N ID="IT1B_BracersOfProtection">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>230</Name>
+  <Description>231</Description>
+  <Type2>None</Type2>
+  <Traits>200,7300,1800</Traits>
+ </N>
+ <N ID="IT1B_Caltrops">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>232</Name>
+  <Description>233</Description>
+  <Type2>None</Type2>
+  <Traits>8300,1800</Traits>
+ </N>
+ <N ID="IT1B_CapeOfEscape">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>234</Name>
+  <Description>235</Description>
+  <Type2>None</Type2>
+  <Traits>2800,7300</Traits>
+ </N>
+ <N ID="IT1B_Codex">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>236</Name>
+  <Description>237</Description>
+  <Type2>None</Type2>
+  <Traits>2100,1800</Traits>
+ </N>
+ <N ID="IT1B_Crowbar">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>238</Name>
+  <Description>239</Description>
+  <Type2>None</Type2>
+  <Traits>12200,1800</Traits>
+ </N>
+ <N ID="IT1B_HolyCandle">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>244</Name>
+  <Description>245</Description>
+  <Type2>None</Type2>
+  <Traits>8300,7300,3400</Traits>
+ </N>
+ <N ID="IT1B_HolyWater">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>246</Name>
+  <Description>247</Description>
+  <Type2>None</Type2>
+  <Traits>7000,7300,3400,1800</Traits>
+ </N>
+ <N ID="IT1B_Luckstone">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>248</Name>
+  <Description>249</Description>
+  <Type2>None</Type2>
+  <Traits>8300,7300</Traits>
+ </N>
+ <N ID="IT1B_MasterworkTools">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>250</Name>
+  <Description>251</Description>
+  <Type2>None</Type2>
+  <Traits>12200,3900</Traits>
+ </N>
+ <N ID="IT1B_Mattock">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>254</Name>
+  <Description>255</Description>
+  <Type2>None</Type2>
+  <Traits>12200,1800</Traits>
+ </N>
+ <N ID="IT1B_PotionOfEnergyResistance">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>258</Name>
+  <Description>259</Description>
+  <Type2>None</Type2>
+  <Traits>7000,500</Traits>
+ </N>
+ <N ID="IT1B_PotionOfFortitude">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>260</Name>
+  <Description>261</Description>
+  <Type2>None</Type2>
+  <Traits>7000,500,1800</Traits>
+ </N>
+ <N ID="IT1B_PotionOfGhostlyForm">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>264</Name>
+  <Description>265</Description>
+  <Type2>None</Type2>
+  <Traits>7000,500</Traits>
+ </N>
+ <N ID="IT1B_PotionOfGlibness">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>266</Name>
+  <Description>267</Description>
+  <Type2>None</Type2>
+  <Traits>7000,500,1800</Traits>
+ </N>
+ <N ID="IT1B_PotionOfHealing">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>272</Name>
+  <Description>273</Description>
+  <Type2>None</Type2>
+  <Traits>7000,500,5900</Traits>
+ </N>
+ <N ID="IT1B_PotionOfHiding">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>276</Name>
+  <Description>277</Description>
+  <Type2>None</Type2>
+  <Traits>7000,500,1800</Traits>
+ </N>
+ <N ID="IT1B_PotionOfVision">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>282</Name>
+  <Description>283</Description>
+  <Type2>None</Type2>
+  <Traits>7000,500,1800</Traits>
+ </N>
+ <N ID="IT1B_Spyglass">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>290</Name>
+  <Description>291</Description>
+  <Type2>None</Type2>
+  <Traits>8300</Traits>
+ </N>
+ <N ID="IT1B_ThievesTools">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>296</Name>
+  <Description>297</Description>
+  <Type2>None</Type2>
+  <Traits>12200,1800</Traits>
+ </N>
+ <N ID="IT1B_TokenOfRemembrance">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>298</Name>
+  <Description>299</Description>
+  <Type2>None</Type2>
+  <Traits>8300,7300,1000,3400</Traits>
+ </N>
+ <N ID="IT1B_TomeOfKnowledge">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>300</Name>
+  <Description>301</Description>
+  <Type2>None</Type2>
+  <Traits>2100,7300,3900</Traits>
+ </N>
+ <N ID="IT1C_AmuletOfMightyFists">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>C</Set>
+  <Rarity>Common</Rarity>
+  <Name>224</Name>
+  <Description>225</Description>
+  <Type2>None</Type2>
+  <Traits>200,7300,1800</Traits>
+ </N>
+ <N ID="IT1C_CrownOfCharisma">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>C</Set>
+  <Rarity>Common</Rarity>
+  <Name>240</Name>
+  <Description>241</Description>
+  <Type2>None</Type2>
+  <Traits>200,7300,3900</Traits>
+ </N>
+ <N ID="IT1C_EyesOfTheEagle">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>C</Set>
+  <Rarity>Common</Rarity>
+  <Name>242</Name>
+  <Description>243</Description>
+  <Type2>None</Type2>
+  <Traits>8300,7300,3900</Traits>
+ </N>
+ <N ID="IT1C_SagesJournal">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>C</Set>
+  <Rarity>Common</Rarity>
+  <Name>286</Name>
+  <Description>287</Description>
+  <Type2>None</Type2>
+  <Traits>2100,1800</Traits>
+ </N>
+ <N ID="IT1P_BirdcruncherCrown">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>P</Set>
+  <Rarity>Common</Rarity>
+  <Name>1224</Name>
+  <Description>1225</Description>
+  <Type2>None</Type2>
+  <Traits>200,7300</Traits>
+ </N>
+ <N ID="IT1T_AmuletOfLife">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>T</Set>
+  <Rarity>Common</Rarity>
+  <Name>222</Name>
+  <Description>1208</Description>
+  <Type2>None</Type2>
+  <Traits>200,7300,1800</Traits>
+ </N>
+ <N ID="IT1T_BootsOfElvenkind">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>T</Set>
+  <Rarity>Common</Rarity>
+  <Name>228</Name>
+  <Description>1209</Description>
+  <Type2>None</Type2>
+  <Traits>2800,7300</Traits>
+ </N>
+ <N ID="IT1T_BracersOfProtection">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>T</Set>
+  <Rarity>Common</Rarity>
+  <Name>230</Name>
+  <Description>1212</Description>
+  <Type2>None</Type2>
+  <Traits>200,7300,1800</Traits>
+ </N>
+ <N ID="IT1T_Codex">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>T</Set>
+  <Rarity>Common</Rarity>
+  <Name>236</Name>
+  <Description>1210</Description>
+  <Type2>None</Type2>
+  <Traits>2100,1800</Traits>
+ </N>
+ <N ID="IT1T_MasterworkTools">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>T</Set>
+  <Rarity>Common</Rarity>
+  <Name>250</Name>
+  <Description>1213</Description>
+  <Type2>None</Type2>
+  <Traits>12200,3900</Traits>
+ </N>
+ <N ID="IT1T_PotionOfHealing">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>T</Set>
+  <Rarity>Common</Rarity>
+  <Name>272</Name>
+  <Description>1211</Description>
+  <Type2>None</Type2>
+  <Traits>7000,500,5900</Traits>
+ </N>
+ <N ID="IT1T_Samisen">
+  <Campaign />
+  <Set>T</Set>
+  <Rarity />
+  <Name>782</Name>
+  <Description>783</Description>
+  <Type2 />
+  <Traits>12200</Traits>
+ </N>
+ <N ID="LT11_SihedronMedallion">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>288</Name>
+  <Description>289</Description>
+  <Type2>Item</Type2>
+  <Traits>200,7300,10700</Traits>
+ </N>
+ <N ID="LT12_ImpalerOfThorns">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>672</Name>
+  <Description>673</Description>
+  <Type2>Weapon</Type2>
+  <Traits>11300,7600,9000,12500,7300</Traits>
+ </N>
+ <N ID="LT12_MedusaMask">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>670</Name>
+  <Description>671</Description>
+  <Type2>Item</Type2>
+  <Traits>200,7300</Traits>
+ </N>
+ <N ID="LT12_SnakeskinTunic">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>668</Name>
+  <Description>669</Description>
+  <Type2>Armor</Type2>
+  <Traits>6900,7300</Traits>
+ </N>
+ <N ID="LT12_StalkerMask">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>804</Name>
+  <Description>805</Description>
+  <Type2>Item</Type2>
+  <Traits>200,7300</Traits>
+ </N>
+ <N ID="LT13_HeadbandOfVastIntelligence">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>774</Name>
+  <Description>775</Description>
+  <Type2>Item</Type2>
+  <Traits>200,7300</Traits>
+ </N>
+ <N ID="LT13_SihedronMedallion">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>776</Name>
+  <Description>777</Description>
+  <Type2>Item</Type2>
+  <Traits>200,7300,10700</Traits>
+ </N>
+ <N ID="LT13_WandOfEnervation">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>778</Name>
+  <Description>779</Description>
+  <Type2>Item</Type2>
+  <Traits>12700,7300,1000</Traits>
+ </N>
+ <N ID="LT14_EmeraldCodex">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>943</Name>
+  <Description>944</Description>
+  <Type2>Item</Type2>
+  <Traits>2100,7300</Traits>
+ </N>
+ <N ID="LT14_MokmuriansClub">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>969</Name>
+  <Description>970</Description>
+  <Type2>Weapon</Type2>
+  <Traits>2900,7600,2000,12500,7300</Traits>
+ </N>
+ <N ID="LT14_RobeOfRunes">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>947</Name>
+  <Description>948</Description>
+  <Type2>Item</Type2>
+  <Traits>2800,7300</Traits>
+ </N>
+ <N ID="LT15_FangedFalchion">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1063</Name>
+  <Description>1064</Description>
+  <Type2>Weapon</Type2>
+  <Traits>11900,7600,10900,7300</Traits>
+ </N>
+ <N ID="LT15_OrdikonsStaff">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1065</Name>
+  <Description>1066</Description>
+  <Type2>Item</Type2>
+  <Traits>11600,7300</Traits>
+ </N>
+ <N ID="LT15_RevelationQuill">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1067</Name>
+  <Description>1068</Description>
+  <Type2>Item</Type2>
+  <Traits>200,7300</Traits>
+ </N>
+ <N ID="LT15_RuneforgedWeapons">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1069</Name>
+  <Description>1070</Description>
+  <Type2>None</Type2>
+  <Traits>11400,7300</Traits>
+ </N>
+ <N ID="LT15_StaffOfHungryShadows">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1071</Name>
+  <Description>1072</Description>
+  <Type2>Item</Type2>
+  <Traits>11600,7300</Traits>
+ </N>
+ <N ID="LT15_SummonMonster">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1073</Name>
+  <Description>1074</Description>
+  <Type2>Spell</Type2>
+  <Traits>7300,1000,3400</Traits>
+ </N>
+ <N ID="LT16_ChellanSwordOfGreed">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1179</Name>
+  <Description>1180</Description>
+  <Type2>Weapon</Type2>
+  <Traits>11900,7600,10900,7300,5900</Traits>
+ </N>
+ <N ID="LT16_KarzougsBurningGlaive">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1181</Name>
+  <Description>1182</Description>
+  <Type2>Weapon</Type2>
+  <Traits>9400,7600,10900,12500,7300,5900</Traits>
+ </N>
+ <N ID="LT16_RobesOfXin-Shalast">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1183</Name>
+  <Description>1184</Description>
+  <Type2>Item</Type2>
+  <Traits>2800,7300,10700</Traits>
+ </N>
+ <N ID="LT16_SihedronTome">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1185</Name>
+  <Description>1186</Description>
+  <Type2>Item</Type2>
+  <Traits>2100,7300,10700</Traits>
+ </N>
+ <N ID="MO11_AtticWhisperer">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>306</Name>
+  <Description>307</Description>
+  <Type2>None</Type2>
+  <Traits>12525,3900</Traits>
+ </N>
+ <N ID="MO11_GiantHermitCrab">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>328</Name>
+  <Description>329</Description>
+  <Type2>None</Type2>
+  <Traits>800,900,3900</Traits>
+ </N>
+ <N ID="MO11_GoblinCutpurse">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>332</Name>
+  <Description>333</Description>
+  <Type2>None</Type2>
+  <Traits>5200,9800,1800</Traits>
+ </N>
+ <N ID="MO11_GoblinDog">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>334</Name>
+  <Description>335</Description>
+  <Type2>None</Type2>
+  <Traits>800,1800</Traits>
+ </N>
+ <N ID="MO11_GoblinPyro">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>336</Name>
+  <Description>337</Description>
+  <Type2>None</Type2>
+  <Traits>5200,12800,3900</Traits>
+ </N>
+ <N ID="MO11_GoblinSnake">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>338</Name>
+  <Description>339</Description>
+  <Type2>None</Type2>
+  <Traits>150,1800</Traits>
+ </N>
+ <N ID="MO11_GoblinWarchanter">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>340</Name>
+  <Description>341</Description>
+  <Type2>None</Type2>
+  <Traits>5200,1700,3900</Traits>
+ </N>
+ <N ID="MO11_TickwoodBoar">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>382</Name>
+  <Description>383</Description>
+  <Type2>None</Type2>
+  <Traits>800</Traits>
+ </N>
+ <N ID="MO11_YethHound">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>396</Name>
+  <Description>397</Description>
+  <Type2>None</Type2>
+  <Traits>8600,3900</Traits>
+ </N>
+ <N ID="MO12_Carrionstorm">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>614</Name>
+  <Description>615</Description>
+  <Type2>None</Type2>
+  <Traits>12525,11750,3900</Traits>
+ </N>
+ <N ID="MO12_DiseasedRats">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>616</Name>
+  <Description>617</Description>
+  <Type2>None</Type2>
+  <Traits>800,11750,3900</Traits>
+ </N>
+ <N ID="MO12_FacelessStalker">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>618</Name>
+  <Description>619</Description>
+  <Type2>None</Type2>
+  <Traits>150</Traits>
+ </N>
+ <N ID="MO13_DonkeyRats">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>708</Name>
+  <Description>709</Description>
+  <Type2>None</Type2>
+  <Traits>800,3900</Traits>
+ </N>
+ <N ID="MO13_Grazuul">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>710</Name>
+  <Description>711</Description>
+  <Type2>None</Type2>
+  <Traits>5000,12470,900,4200</Traits>
+ </N>
+ <N ID="MO13_Hag">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>712</Name>
+  <Description>713</Description>
+  <Type2>None</Type2>
+  <Traits>5470</Traits>
+ </N>
+ <N ID="MO13_MuckGraul">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>714</Name>
+  <Description>715</Description>
+  <Type2>None</Type2>
+  <Traits>9250,8470</Traits>
+ </N>
+ <N ID="MO13_Myriana">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>716</Name>
+  <Description>717</Description>
+  <Type2>None</Type2>
+  <Traits>12525,4950,8200,6370</Traits>
+ </N>
+ <N ID="MO13_Ogrekin">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>718</Name>
+  <Description>719</Description>
+  <Type2>None</Type2>
+  <Traits>5000,8470</Traits>
+ </N>
+ <N ID="MO13_Ogrekin1">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>718</Name>
+  <Description>792</Description>
+  <Type2>None</Type2>
+  <Traits>5000,8470</Traits>
+ </N>
+ <N ID="MO13_Ogrekin2">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>718</Name>
+  <Description>793</Description>
+  <Type2>None</Type2>
+  <Traits>5000,8470</Traits>
+ </N>
+ <N ID="MO13_Ogrekin3">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>718</Name>
+  <Description>794</Description>
+  <Type2>None</Type2>
+  <Traits>5000,8470</Traits>
+ </N>
+ <N ID="MO13_Ogrekin4">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>718</Name>
+  <Description>795</Description>
+  <Type2>None</Type2>
+  <Traits>5000,8470</Traits>
+ </N>
+ <N ID="MO13_SkullRipper">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>720</Name>
+  <Description>721</Description>
+  <Type2>None</Type2>
+  <Traits>3020</Traits>
+ </N>
+ <N ID="MO14_CaveBear">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>853</Name>
+  <Description>854</Description>
+  <Type2>None</Type2>
+  <Traits>800</Traits>
+ </N>
+ <N ID="MO14_Deathweb">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>855</Name>
+  <Description>856</Description>
+  <Type2>None</Type2>
+  <Traits>12525</Traits>
+ </N>
+ <N ID="MO14_GhoulBat">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>857</Name>
+  <Description>858</Description>
+  <Type2>None</Type2>
+  <Traits>12525</Traits>
+ </N>
+ <N ID="MO14_Harpy">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>859</Name>
+  <Description>860</Description>
+  <Type2>None</Type2>
+  <Traits>5850</Traits>
+ </N>
+ <N ID="MO14_HillGiant">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>861</Name>
+  <Description>862</Description>
+  <Type2>None</Type2>
+  <Traits>5000</Traits>
+ </N>
+ <N ID="MO14_Mammoth">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>863</Name>
+  <Description>864</Description>
+  <Type2>None</Type2>
+  <Traits>800</Traits>
+ </N>
+ <N ID="MO14_Redcap">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>865</Name>
+  <Description>866</Description>
+  <Type2>None</Type2>
+  <Traits>4275</Traits>
+ </N>
+ <N ID="MO14_Roc">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>867</Name>
+  <Description>868</Description>
+  <Type2>None</Type2>
+  <Traits>800</Traits>
+ </N>
+ <N ID="MO14_ShiningChild">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>869</Name>
+  <Description>870</Description>
+  <Type2>None</Type2>
+  <Traits>8600</Traits>
+ </N>
+ <N ID="MO14_StoneGiant">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>871</Name>
+  <Description>872</Description>
+  <Type2>None</Type2>
+  <Traits>5000</Traits>
+ </N>
+ <N ID="MO14_Troll">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>873</Name>
+  <Description>874</Description>
+  <Type2>None</Type2>
+  <Traits>5000,12470,4200</Traits>
+ </N>
+ <N ID="MO14_Wyvern">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>875</Name>
+  <Description>876</Description>
+  <Type2>None</Type2>
+  <Traits>3500</Traits>
+ </N>
+ <N ID="MO15_ClayGolem">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1001</Name>
+  <Description>1002</Description>
+  <Type2>None</Type2>
+  <Traits>3020,5250</Traits>
+ </N>
+ <N ID="MO15_ElderEarthElemental">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1003</Name>
+  <Description>1004</Description>
+  <Type2>None</Type2>
+  <Traits>8600,3750</Traits>
+ </N>
+ <N ID="MO15_ElderWaterElemental">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1005</Name>
+  <Description>1006</Description>
+  <Type2>None</Type2>
+  <Traits>8600,3750,900</Traits>
+ </N>
+ <N ID="MO15_IronGolem">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1007</Name>
+  <Description>1008</Description>
+  <Type2>None</Type2>
+  <Traits>3020,5250</Traits>
+ </N>
+ <N ID="MO15_Mummy">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1009</Name>
+  <Description>1010</Description>
+  <Type2>None</Type2>
+  <Traits>12525,7820</Traits>
+ </N>
+ <N ID="MO15_ShiningChild">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1011</Name>
+  <Description>1012</Description>
+  <Type2>None</Type2>
+  <Traits>8600</Traits>
+ </N>
+ <N ID="MO15_SinspawnAxeman">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1013</Name>
+  <Description>1014</Description>
+  <Type2>None</Type2>
+  <Traits>150,4200</Traits>
+ </N>
+ <N ID="MO15_Succubus">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1015</Name>
+  <Description>1016</Description>
+  <Type2>None</Type2>
+  <Traits>8600,3200</Traits>
+ </N>
+ <N ID="MO15_TreacheryDemon">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1017</Name>
+  <Description>1018</Description>
+  <Type2>None</Type2>
+  <Traits>8600,3200</Traits>
+ </N>
+ <N ID="MO16_AbominableSnowman">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1101</Name>
+  <Description>1102</Description>
+  <Type2>None</Type2>
+  <Traits>12980</Traits>
+ </N>
+ <N ID="MO16_FrostWorm">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1103</Name>
+  <Description>1104</Description>
+  <Type2>None</Type2>
+  <Traits>12960</Traits>
+ </N>
+ <N ID="MO16_Gamigin">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1105</Name>
+  <Description>1106</Description>
+  <Type2>None</Type2>
+  <Traits>8600,3350,11200</Traits>
+ </N>
+ <N ID="MO16_HiddenBeast">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1107</Name>
+  <Description>1108</Description>
+  <Type2>None</Type2>
+  <Traits>150,12525,12550,11200</Traits>
+ </N>
+ <N ID="MO16_HorrorTree">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1109</Name>
+  <Description>1110</Description>
+  <Type2>None</Type2>
+  <Traits>12525,9250,12430</Traits>
+ </N>
+ <N ID="MO16_Hungerer">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1111</Name>
+  <Description>1112</Description>
+  <Type2>None</Type2>
+  <Traits>150</Traits>
+ </N>
+ <N ID="MO16_ScarletWalker">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1113</Name>
+  <Description>1114</Description>
+  <Type2>None</Type2>
+  <Traits>8600</Traits>
+ </N>
+ <N ID="MO16_ShemhazianDemon">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1115</Name>
+  <Description>1116</Description>
+  <Type2>None</Type2>
+  <Traits>8600,3200</Traits>
+ </N>
+ <N ID="MO16_SkulkingVampire">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1117</Name>
+  <Description>1118</Description>
+  <Type2>None</Type2>
+  <Traits>12525,12550,9800</Traits>
+ </N>
+ <N ID="MO16_WardenOfThunder">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1119</Name>
+  <Description>1120</Description>
+  <Type2>None</Type2>
+  <Traits>5000</Traits>
+ </N>
+ <N ID="MO16_WardenOfWind">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1121</Name>
+  <Description>1122</Description>
+  <Type2>None</Type2>
+  <Traits>5000</Traits>
+ </N>
+ <N ID="MO1B_Bugbear">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>308</Name>
+  <Description>309</Description>
+  <Type2>None</Type2>
+  <Traits>5200,2225,12800,3900</Traits>
+ </N>
+ <N ID="MO1B_Bunyip">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>312</Name>
+  <Description>313</Description>
+  <Type2>None</Type2>
+  <Traits>900,2250,3900</Traits>
+ </N>
+ <N ID="MO1B_Cultist">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>314</Name>
+  <Description>315</Description>
+  <Type2>None</Type2>
+  <Traits>6300,3040,1800</Traits>
+ </N>
+ <N ID="MO1B_Enchanter">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>318</Name>
+  <Description>319</Description>
+  <Type2>None</Type2>
+  <Traits>6300,11200,12600</Traits>
+ </N>
+ <N ID="MO1B_Ghost">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>322</Name>
+  <Description>323</Description>
+  <Type2>None</Type2>
+  <Traits>6370,12525,4950,3900</Traits>
+ </N>
+ <N ID="MO1B_Ghoul">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>324</Name>
+  <Description>325</Description>
+  <Type2>None</Type2>
+  <Traits>12525,4975,3900</Traits>
+ </N>
+ <N ID="MO1B_GiantGecko">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>326</Name>
+  <Description>327</Description>
+  <Type2>None</Type2>
+  <Traits>800,1800</Traits>
+ </N>
+ <N ID="MO1B_GoblinCommando">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>330</Name>
+  <Description>331</Description>
+  <Type2>None</Type2>
+  <Traits>5200,9600,3900</Traits>
+ </N>
+ <N ID="MO1B_GoblinWarrior">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>342</Name>
+  <Description>343</Description>
+  <Type2>None</Type2>
+  <Traits>5200,12800,3900</Traits>
+ </N>
+ <N ID="MO1B_HellHound">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>344</Name>
+  <Description>345</Description>
+  <Type2>None</Type2>
+  <Traits>8600,3900</Traits>
+ </N>
+ <N ID="MO1B_HillGiant">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>346</Name>
+  <Description>347</Description>
+  <Type2>None</Type2>
+  <Traits>5000</Traits>
+ </N>
+ <N ID="MO1B_Mercenary">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>348</Name>
+  <Description>349</Description>
+  <Type2>None</Type2>
+  <Traits>6300,12800,12600</Traits>
+ </N>
+ <N ID="MO1B_Ogre">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>350</Name>
+  <Description>351</Description>
+  <Type2>None</Type2>
+  <Traits>5000,8430</Traits>
+ </N>
+ <N ID="MO1B_PlagueZombie">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>354</Name>
+  <Description>355</Description>
+  <Type2>None</Type2>
+  <Traits>12525,13100,3900</Traits>
+ </N>
+ <N ID="MO1B_RatSwarm">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>358</Name>
+  <Description>359</Description>
+  <Type2>None</Type2>
+  <Traits>800,11750,3900</Traits>
+ </N>
+ <N ID="MO1B_Scout">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>362</Name>
+  <Description>363</Description>
+  <Type2>None</Type2>
+  <Traits>6300,9600,12600</Traits>
+ </N>
+ <N ID="MO1B_Shadow">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>364</Name>
+  <Description>365</Description>
+  <Type2>None</Type2>
+  <Traits>12525,6370</Traits>
+ </N>
+ <N ID="MO1B_Siren">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>368</Name>
+  <Description>369</Description>
+  <Type2>None</Type2>
+  <Traits>10750,3900</Traits>
+ </N>
+ <N ID="MO1B_Skeleton">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>372</Name>
+  <Description>373</Description>
+  <Type2>None</Type2>
+  <Traits>12525,10830,1800</Traits>
+ </N>
+ <N ID="MO1B_Sneak">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>374</Name>
+  <Description>375</Description>
+  <Type2>None</Type2>
+  <Traits>6300,9800,12600</Traits>
+ </N>
+ <N ID="MO1B_Spectre">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>378</Name>
+  <Description>379</Description>
+  <Type2>None</Type2>
+  <Traits>12525,6370,3900</Traits>
+ </N>
+ <N ID="MO1B_Traitor">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>384</Name>
+  <Description>385</Description>
+  <Type2>None</Type2>
+  <Traits>6300,3900</Traits>
+ </N>
+ <N ID="MO1B_Warlord">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>388</Name>
+  <Description>389</Description>
+  <Type2>None</Type2>
+  <Traits>6300,12600,4200</Traits>
+ </N>
+ <N ID="MO1B_Werewolf">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>390</Name>
+  <Description>391</Description>
+  <Type2>None</Type2>
+  <Traits>7100</Traits>
+ </N>
+ <N ID="MO1B_Xulgath">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>394</Name>
+  <Description>395</Description>
+  <Type2>None</Type2>
+  <Traits>12970,1800</Traits>
+ </N>
+ <N ID="MO1B_Zombie">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>398</Name>
+  <Description>399</Description>
+  <Type2>None</Type2>
+  <Traits>12525,13100,1800</Traits>
+ </N>
+ <N ID="MO1B_ZombieGiant">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>400</Name>
+  <Description>401</Description>
+  <Type2>None</Type2>
+  <Traits>12525,13100</Traits>
+ </N>
+ <N ID="MO1C_Satyr">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>C</Set>
+  <Rarity>Common</Rarity>
+  <Name>360</Name>
+  <Description>361</Description>
+  <Type2>None</Type2>
+  <Traits>4275,1800</Traits>
+ </N>
+ <N ID="MO1P_Grindylow">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>P</Set>
+  <Rarity>Common</Rarity>
+  <Name>1218</Name>
+  <Description>1219</Description>
+  <Type2>None</Type2>
+  <Traits>150,5200,900,12600</Traits>
+ </N>
+ <N ID="SP01_CorrosiveSplash">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1426</Name>
+  <Description>1427</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,3400,400</Traits>
+ </N>
+ <N ID="SP01_FieryBolt">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1430</Name>
+  <Description>1431</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,1400,4400</Traits>
+ </N>
+ <N ID="SP01_ImprovedGuidance">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1420</Name>
+  <Description>1421</Description>
+  <Type2>None</Type2>
+  <Traits>7300,3400,3900</Traits>
+ </N>
+ <N ID="SP01_ShockingSplash">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1428</Name>
+  <Description>1429</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,3400,3700</Traits>
+ </N>
+ <N ID="SP02_HeatMetal">
+  <Campaign>Booster</Campaign>
+  <Set>2</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1619</Name>
+  <Description>1620</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,3400,1400,4400,3900</Traits>
+ </N>
+ <N ID="SP02_ImprovedAid">
+  <Campaign>Booster</Campaign>
+  <Set>2</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1422</Name>
+  <Description>1423</Description>
+  <Type2>None</Type2>
+  <Traits>7300,3400,3900</Traits>
+ </N>
+ <N ID="SP02_Paralyze">
+  <Campaign>Booster</Campaign>
+  <Set>2</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1232</Name>
+  <Description>1233</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,3400,1400,7700</Traits>
+ </N>
+ <N ID="SP02_Renewal">
+  <Campaign>Booster</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>1338</Name>
+  <Description>1339</Description>
+  <Type2>None</Type2>
+  <Traits>7300,3400</Traits>
+ </N>
+ <N ID="SP02_Sagacity">
+  <Campaign>Booster</Campaign>
+  <Set>2</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1260</Name>
+  <Description>1261</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,3400,1800</Traits>
+ </N>
+ <N ID="SP02_Toughness">
+  <Campaign>Booster</Campaign>
+  <Set>2</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1298</Name>
+  <Description>1299</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,3400,1800</Traits>
+ </N>
+ <N ID="SP03_AbadarsTruthtelling">
+  <Campaign>Booster</Campaign>
+  <Set>3</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1532</Name>
+  <Description>1533</Description>
+  <Type2>None</Type2>
+  <Traits>7300,3400,1400</Traits>
+ </N>
+ <N ID="SP03_ForceBolt">
+  <Campaign>Booster</Campaign>
+  <Set>3</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1432</Name>
+  <Description>1433</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,1400,4600</Traits>
+ </N>
+ <N ID="SP03_GreaterAid">
+  <Campaign>Booster</Campaign>
+  <Set>3</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1424</Name>
+  <Description>1425</Description>
+  <Type2>None</Type2>
+  <Traits>7300,3400</Traits>
+ </N>
+ <N ID="SP04_Displacement">
+  <Campaign>Booster</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>1332</Name>
+  <Description>1333</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000</Traits>
+ </N>
+ <N ID="SP05_Gozreh'sTrident">
+  <Campaign>Booster</Campaign>
+  <Set>5</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1589</Name>
+  <Description>1590</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,1400,3700</Traits>
+ </N>
+ <N ID="SP05_LifeLeech">
+  <Campaign>Booster</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1234</Name>
+  <Description>1235</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,1400,5900</Traits>
+ </N>
+ <N ID="SP05_VenomousBolt">
+  <Campaign>Booster</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1300</Name>
+  <Description>1301</Description>
+  <Type2>None</Type2>
+  <Traits>7300,3400,1400,9300</Traits>
+ </N>
+ <N ID="SP06_Bewilder">
+  <Campaign>Booster</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1236</Name>
+  <Description>1237</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,1400,7700</Traits>
+ </N>
+ <N ID="SP06_SongOfHawkmoon">
+  <Campaign>Booster</Campaign>
+  <Set>6</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1566</Name>
+  <Description>1567</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,3400,1400</Traits>
+ </N>
+ <N ID="SP0B_BeastSkin">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1296</Name>
+  <Description>1297</Description>
+  <Type2>None</Type2>
+  <Traits>7300,3400,1800</Traits>
+ </N>
+ <N ID="SP0B_FlareBurst">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Legendary</Rarity>
+  <Name>1721</Name>
+  <Description>1722</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,1400,4400,1800</Traits>
+ </N>
+ <N ID="SP0B_ImprovedArcaneArmor">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1416</Name>
+  <Description>1417</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,1800</Traits>
+ </N>
+ <N ID="SP0B_ImprovedMending">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1418</Name>
+  <Description>1419</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,3400,1800</Traits>
+ </N>
+ <N ID="SP0B_LeadBlades">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1723</Name>
+  <Description>1724</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,3400,1800</Traits>
+ </N>
+ <N ID="SP11_Enfeeble">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>430</Name>
+  <Description>431</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,1400,7700</Traits>
+ </N>
+ <N ID="SP11_FieryWeapon">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>432</Name>
+  <Description>433</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,3400,4400</Traits>
+ </N>
+ <N ID="SP11_FrostRay">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>440</Name>
+  <Description>441</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,1400,3000</Traits>
+ </N>
+ <N ID="SP11_ScorchingRay">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>470</Name>
+  <Description>471</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,1400,4400</Traits>
+ </N>
+ <N ID="SP11_Speed">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>474</Name>
+  <Description>475</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,3400,1800</Traits>
+ </N>
+ <N ID="SP12_Consecration">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>640</Name>
+  <Description>641</Description>
+  <Type2>None</Type2>
+  <Traits>7300,3400</Traits>
+ </N>
+ <N ID="SP12_Haste">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>642</Name>
+  <Description>643</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000</Traits>
+ </N>
+ <N ID="SP12_LightningBolt">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>644</Name>
+  <Description>645</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,1400,3700</Traits>
+ </N>
+ <N ID="SP12_ToxicCloud">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>646</Name>
+  <Description>647</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,1400,9300</Traits>
+ </N>
+ <N ID="SP12_Web">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>648</Name>
+  <Description>649</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,1400,3900</Traits>
+ </N>
+ <N ID="SP13_IncendiaryCloud">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>738</Name>
+  <Description>739</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,1400,4400</Traits>
+ </N>
+ <N ID="SP13_MajorCure">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>740</Name>
+  <Description>741</Description>
+  <Type2>None</Type2>
+  <Traits>7300,3400,5900</Traits>
+ </N>
+ <N ID="SP13_Scrying">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>742</Name>
+  <Description>743</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,3400</Traits>
+ </N>
+ <N ID="SP13_Swipe">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>744</Name>
+  <Description>745</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,3400,1400</Traits>
+ </N>
+ <N ID="SP14_MassCure">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>901</Name>
+  <Description>902</Description>
+  <Type2>None</Type2>
+  <Traits>7300,3400,5900</Traits>
+ </N>
+ <N ID="SP14_PoisonBlast">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>903</Name>
+  <Description>904</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,1400,9300</Traits>
+ </N>
+ <N ID="SP14_Restoration">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>905</Name>
+  <Description>906</Description>
+  <Type2>None</Type2>
+  <Traits>7300,3400</Traits>
+ </N>
+ <N ID="SP14_Teleport">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>907</Name>
+  <Description>908</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000</Traits>
+ </N>
+ <N ID="SP15_Blizzard">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1035</Name>
+  <Description>1036</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,1400,3000</Traits>
+ </N>
+ <N ID="SP15_Disintegrate">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1037</Name>
+  <Description>1038</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,1400</Traits>
+ </N>
+ <N ID="SP15_RaiseDead">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1039</Name>
+  <Description>1040</Description>
+  <Type2>None</Type2>
+  <Traits>7300,3400</Traits>
+ </N>
+ <N ID="SP16_Bewilder">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1141</Name>
+  <Description>1142</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,1400,7700</Traits>
+ </N>
+ <N ID="SP16_CorrosiveStorm">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1143</Name>
+  <Description>1144</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,1400,400</Traits>
+ </N>
+ <N ID="SP16_Dominate">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1145</Name>
+  <Description>1146</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,3400,1400,7700</Traits>
+ </N>
+ <N ID="SP16_Invoke">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1147</Name>
+  <Description>1148</Description>
+  <Type2>None</Type2>
+  <Traits>7300,3400</Traits>
+ </N>
+ <N ID="SP16_SignOfWrath">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1149</Name>
+  <Description>1150</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,3400,1400,4600</Traits>
+ </N>
+ <N ID="SP1B_AcidArrow">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>404</Name>
+  <Description>405</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,1400,400,3900</Traits>
+ </N>
+ <N ID="SP1B_Aid">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>408</Name>
+  <Description>409</Description>
+  <Type2>None</Type2>
+  <Traits>7300,3400,3900</Traits>
+ </N>
+ <N ID="SP1B_ArcaneArmor">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>412</Name>
+  <Description>413</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,1800</Traits>
+ </N>
+ <N ID="SP1B_Augury">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>414</Name>
+  <Description>415</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,3400</Traits>
+ </N>
+ <N ID="SP1B_CharmPerson">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>418</Name>
+  <Description>419</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,7700</Traits>
+ </N>
+ <N ID="SP1B_Cure">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>420</Name>
+  <Description>421</Description>
+  <Type2>None</Type2>
+  <Traits>7300,3400,5900,1800</Traits>
+ </N>
+ <N ID="SP1B_DetectEvil">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>424</Name>
+  <Description>425</Description>
+  <Type2>None</Type2>
+  <Traits>7300,3400</Traits>
+ </N>
+ <N ID="SP1B_DetectMagic">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>428</Name>
+  <Description>429</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,3400,1800</Traits>
+ </N>
+ <N ID="SP1B_FindTraps">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>434</Name>
+  <Description>435</Description>
+  <Type2>None</Type2>
+  <Traits>7300,3400</Traits>
+ </N>
+ <N ID="SP1B_ForceMissile">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>438</Name>
+  <Description>439</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,1400,4600,1800</Traits>
+ </N>
+ <N ID="SP1B_Glibness">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>442</Name>
+  <Description>443</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,3400,1800</Traits>
+ </N>
+ <N ID="SP1B_Guidance">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>444</Name>
+  <Description>445</Description>
+  <Type2>None</Type2>
+  <Traits>7300,3400,1800</Traits>
+ </N>
+ <N ID="SP1B_HolyLight">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>446</Name>
+  <Description>447</Description>
+  <Type2>None</Type2>
+  <Traits>7300,3400,1400,3900</Traits>
+ </N>
+ <N ID="SP1B_Inflict">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>448</Name>
+  <Description>449</Description>
+  <Type2>None</Type2>
+  <Traits>7300,3400,1400,1800</Traits>
+ </N>
+ <N ID="SP1B_Invisibility">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>452</Name>
+  <Description>453</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,1800</Traits>
+ </N>
+ <N ID="SP1B_Levitate">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>454</Name>
+  <Description>455</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,1800</Traits>
+ </N>
+ <N ID="SP1B_LightningTouch">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>456</Name>
+  <Description>457</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,1400,3700,1800</Traits>
+ </N>
+ <N ID="SP1B_Mending">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>460</Name>
+  <Description>461</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,3400,1800</Traits>
+ </N>
+ <N ID="SP1B_MirrorImage">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>464</Name>
+  <Description>465</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000</Traits>
+ </N>
+ <N ID="SP1B_Sanctuary">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>466</Name>
+  <Description>467</Description>
+  <Type2>None</Type2>
+  <Traits>7300,3400,7700,1800</Traits>
+ </N>
+ <N ID="SP1B_Sleep">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>472</Name>
+  <Description>473</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,1400,7700,1800</Traits>
+ </N>
+ <N ID="SP1B_Strength">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>476</Name>
+  <Description>479</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,3400,1800</Traits>
+ </N>
+ <N ID="SP1P_FireSneeze">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>P</Set>
+  <Rarity>Common</Rarity>
+  <Name>1216</Name>
+  <Description>1217</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,3400,1400,4400</Traits>
+ </N>
+ <N ID="SP1T_AcidArrow">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>T</Set>
+  <Rarity>Common</Rarity>
+  <Name>404</Name>
+  <Description>1198</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,1400,400,3900</Traits>
+ </N>
+ <N ID="SP1T_Aid">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>T</Set>
+  <Rarity>Common</Rarity>
+  <Name>408</Name>
+  <Description>409</Description>
+  <Type2>None</Type2>
+  <Traits>7300,3400,3900</Traits>
+ </N>
+ <N ID="SP1T_Cure">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>T</Set>
+  <Rarity>Common</Rarity>
+  <Name>420</Name>
+  <Description>1199</Description>
+  <Type2>None</Type2>
+  <Traits>7300,3400,5900,1800</Traits>
+ </N>
+ <N ID="SP1T_Guidance">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>T</Set>
+  <Rarity>Common</Rarity>
+  <Name>444</Name>
+  <Description>1200</Description>
+  <Type2>None</Type2>
+  <Traits>7300,3400,1800</Traits>
+ </N>
+ <N ID="SP1T_LightningTouch">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>T</Set>
+  <Rarity>Common</Rarity>
+  <Name>456</Name>
+  <Description>1201</Description>
+  <Type2>None</Type2>
+  <Traits>7300,1000,1400,3700,1800</Traits>
+ </N>
+ <N ID="VL_Seleval">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>834</Name>
+  <Description>835</Description>
+  <Type2>Monster</Type2>
+  <Traits>6830,2700</Traits>
+ </N>
+ <N ID="VL11_Erylium">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>482</Name>
+  <Description>483</Description>
+  <Type2>Monster</Type2>
+  <Traits>8600,11200</Traits>
+ </N>
+ <N ID="VL11_Gogmurt">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>484</Name>
+  <Description>485</Description>
+  <Type2>Monster</Type2>
+  <Traits>5200,3600</Traits>
+ </N>
+ <N ID="VL11_Nualia">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>488</Name>
+  <Description>489</Description>
+  <Type2>Monster</Type2>
+  <Traits>8600,2700,4200</Traits>
+ </N>
+ <N ID="VL11_RipnuggetAndStickfoot">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>492</Name>
+  <Description>493</Description>
+  <Type2>Monster</Type2>
+  <Traits>5200,800,4200</Traits>
+ </N>
+ <N ID="VL11_TheSandpointDevil">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>494</Name>
+  <Description>495</Description>
+  <Type2>Monster</Type2>
+  <Traits>8600</Traits>
+ </N>
+ <N ID="VL12_CaizarluZerren">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>584</Name>
+  <Description>585</Description>
+  <Type2>Monster</Type2>
+  <Traits>6300,7850</Traits>
+ </N>
+ <N ID="VL12_IeshaFoxglove">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>586</Name>
+  <Description>587</Description>
+  <Type2>Monster</Type2>
+  <Traits>12525,9750</Traits>
+ </N>
+ <N ID="VL12_JusticeIronbriar">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>588</Name>
+  <Description>589</Description>
+  <Type2>Monster</Type2>
+  <Traits>3800,2700,9800</Traits>
+ </N>
+ <N ID="VL12_RogorsCraesby">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>590</Name>
+  <Description>591</Description>
+  <Type2>Monster</Type2>
+  <Traits>12525,4925</Traits>
+ </N>
+ <N ID="VL12_TheSkinsawMan">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>592</Name>
+  <Description>593</Description>
+  <Type2>Monster</Type2>
+  <Traits>12525,4975,9800</Traits>
+ </N>
+ <N ID="VL12_Xanesha">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>594</Name>
+  <Description>595</Description>
+  <Type2>Monster</Type2>
+  <Traits>6830</Traits>
+ </N>
+ <N ID="VL13_BarlBreakbones">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>676</Name>
+  <Description>677</Description>
+  <Type2>Monster</Type2>
+  <Traits>5000,7850</Traits>
+ </N>
+ <N ID="VL13_BlackMagga">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>678</Name>
+  <Description>679</Description>
+  <Type2>Monster</Type2>
+  <Traits>8600</Traits>
+ </N>
+ <N ID="VL13_JaagrathKreeg">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>680</Name>
+  <Description>681</Description>
+  <Type2>Monster</Type2>
+  <Traits>5000,8430,1675</Traits>
+ </N>
+ <N ID="VL13_MalugusKreeg">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>682</Name>
+  <Description>683</Description>
+  <Type2>Monster</Type2>
+  <Traits>5000,8430</Traits>
+ </N>
+ <N ID="VL13_MammyGraul">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>684</Name>
+  <Description>685</Description>
+  <Type2>Monster</Type2>
+  <Traits>5000,8470,7850</Traits>
+ </N>
+ <N ID="VL14_Galenmir">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>824</Name>
+  <Description>825</Description>
+  <Type2>Monster</Type2>
+  <Traits>5000,4200</Traits>
+ </N>
+ <N ID="VL14_Mokmurian">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>826</Name>
+  <Description>827</Description>
+  <Type2>Monster</Type2>
+  <Traits>5000,12350</Traits>
+ </N>
+ <N ID="VL14_Seleval">
+  <Campaign />
+  <Set>4</Set>
+  <Rarity />
+  <Name>834</Name>
+  <Description>835</Description>
+  <Type2 />
+  <Traits>6830,2700</Traits>
+ </N>
+ <N ID="VL14_Teraktinus">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>828</Name>
+  <Description>829</Description>
+  <Type2>Monster</Type2>
+  <Traits>5000,9600</Traits>
+ </N>
+ <N ID="VL14_TheBlackMonk">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>830</Name>
+  <Description>831</Description>
+  <Type2>Monster</Type2>
+  <Traits>12525,7820,7810</Traits>
+ </N>
+ <N ID="VL14_Zaelsar">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>832</Name>
+  <Description>833</Description>
+  <Type2>Monster</Type2>
+  <Traits>6830,2700</Traits>
+ </N>
+ <N ID="VL15_Arkrhyst">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>971</Name>
+  <Description>972</Description>
+  <Type2>Monster</Type2>
+  <Traits>3500</Traits>
+ </N>
+ <N ID="VL15_Azaven">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>973</Name>
+  <Description>974</Description>
+  <Type2>Monster</Type2>
+  <Traits>12525,6870,7850</Traits>
+ </N>
+ <N ID="VL15_Jordimandus">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>975</Name>
+  <Description>976</Description>
+  <Type2>Monster</Type2>
+  <Traits>6300,3010</Traits>
+ </N>
+ <N ID="VL15_KarzougStatue">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>977</Name>
+  <Description>978</Description>
+  <Type2>Monster</Type2>
+  <Traits>3020,5250</Traits>
+ </N>
+ <N ID="VL15_MistressDelvahine">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>989</Name>
+  <Description>990</Description>
+  <Type2>Monster</Type2>
+  <Traits>8600,3200,1700</Traits>
+ </N>
+ <N ID="VL15_Ordikon">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>981</Name>
+  <Description>982</Description>
+  <Type2>Monster</Type2>
+  <Traits>6300,12350</Traits>
+ </N>
+ <N ID="VL15_TheScribbler">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>983</Name>
+  <Description>984</Description>
+  <Type2>Monster</Type2>
+  <Traits>6300,2700,4200</Traits>
+ </N>
+ <N ID="VL16_Ghlorofaex">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1075</Name>
+  <Description>1076</Description>
+  <Type2>Monster</Type2>
+  <Traits>3500</Traits>
+ </N>
+ <N ID="VL16_KarzougTheClaimer">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1077</Name>
+  <Description>1078</Description>
+  <Type2>Monster</Type2>
+  <Traits>6300,12350</Traits>
+ </N>
+ <N ID="VL16_MostHighCeoptra">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1079</Name>
+  <Description>1080</Description>
+  <Type2>Monster</Type2>
+  <Traits>6830,8570</Traits>
+ </N>
+ <N ID="VL16_TheThingFromBeyondTime">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1081</Name>
+  <Description>1082</Description>
+  <Type2>Monster</Type2>
+  <Traits>8600</Traits>
+ </N>
+ <N ID="VL16_Wendigo">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1083</Name>
+  <Description>1084</Description>
+  <Type2>Monster</Type2>
+  <Traits>8600</Traits>
+ </N>
+ <N ID="VL1B_BlackFang">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>480</Name>
+  <Description>481</Description>
+  <Type2>Monster</Type2>
+  <Traits>3500</Traits>
+ </N>
+ <N ID="VL1B_JubraylVhiski">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>486</Name>
+  <Description>487</Description>
+  <Type2>Monster</Type2>
+  <Traits>6300,9800</Traits>
+ </N>
+ <N ID="VL1B_PillbugPodiker">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>490</Name>
+  <Description>491</Description>
+  <Type2>Monster</Type2>
+  <Traits>6300,600</Traits>
+ </N>
+ <N ID="VL1T_TheSandpointDevil">
+  <Campaign />
+  <Set>B</Set>
+  <Rarity />
+  <Name>494</Name>
+  <Description>786</Description>
+  <Type2 />
+  <Traits>8600</Traits>
+ </N>
+ <N ID="WP01_FlamingReturningThrowingAxe+1">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Legendary</Rarity>
+  <Name>1711</Name>
+  <Description>1712</Description>
+  <Type2>None</Type2>
+  <Traits>1600,9500,9000,7300</Traits>
+ </N>
+ <N ID="WP01_FlamingShortbow+1">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1401</Name>
+  <Description>1402</Description>
+  <Type2>None</Type2>
+  <Traits>2200,9500,9000,12500,7300,3900</Traits>
+ </N>
+ <N ID="WP01_FrostBattleaxe+1">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1409</Name>
+  <Description>1410</Description>
+  <Type2>None</Type2>
+  <Traits>1600,7600,10900,7300,3900</Traits>
+ </N>
+ <N ID="WP01_FrostSling+1">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1629</Name>
+  <Description>1630</Description>
+  <Type2>None</Type2>
+  <Traits>11000,9500,2000,7300</Traits>
+ </N>
+ <N ID="WP01_Greatclub+1">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1625</Name>
+  <Description>1626</Description>
+  <Type2>None</Type2>
+  <Traits>2900,7600,2000,12500,7300</Traits>
+ </N>
+ <N ID="WP01_LucerneHammer">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1276</Name>
+  <Description>1277</Description>
+  <Type2>None</Type2>
+  <Traits>9400,7600,2000,12500,3900</Traits>
+ </N>
+ <N ID="WP01_ShockGlaive+1">
+  <Campaign>Booster</Campaign>
+  <Set>1</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1278</Name>
+  <Description>1279</Description>
+  <Type2>None</Type2>
+  <Traits>9400,7600,10900,12500,7300</Traits>
+ </N>
+ <N ID="WP02_FlamingScimitar+1">
+  <Campaign>Booster</Campaign>
+  <Set>2</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1230</Name>
+  <Description>1231</Description>
+  <Type2>None</Type2>
+  <Traits>11900,7600,10900,4300,7300,3900</Traits>
+ </N>
+ <N ID="WP02_GiantbaneBattleaxe+1">
+  <Campaign>Booster</Campaign>
+  <Set>2</Set>
+  <Rarity>Epic</Rarity>
+  <Name>1407</Name>
+  <Description>1408</Description>
+  <Type2>None</Type2>
+  <Traits>1600,7600,10900,7300,3900</Traits>
+ </N>
+ <N ID="WP02_Greataxe+1">
+  <Campaign>Booster</Campaign>
+  <Set>2</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1389</Name>
+  <Description>1390</Description>
+  <Type2>None</Type2>
+  <Traits>1600,7600,10900,12500,7300</Traits>
+ </N>
+ <N ID="WP02_Quarterstaff+2">
+  <Campaign>Booster</Campaign>
+  <Set>2</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1397</Name>
+  <Description>1398</Description>
+  <Type2>None</Type2>
+  <Traits>11600,7600,2000,12500,7300,3900</Traits>
+ </N>
+ <N ID="WP02_Warhammer+2">
+  <Campaign>Booster</Campaign>
+  <Set>2</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1280</Name>
+  <Description>1281</Description>
+  <Type2>None</Type2>
+  <Traits>5800,7600,2000,7300</Traits>
+ </N>
+ <N ID="WP03_BlackArrowLongbow">
+  <Campaign>Booster</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>1784</Name>
+  <Description>1785</Description>
+  <Type2>None</Type2>
+  <Traits>2200,9500,9000,12500,7300</Traits>
+ </N>
+ <N ID="WP03_DisruptingRapier+1">
+  <Campaign>Booster</Campaign>
+  <Set>3</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1644</Name>
+  <Description>1645</Description>
+  <Type2>None</Type2>
+  <Traits>11900,7600,9000,4300,11800,7300</Traits>
+ </N>
+ <N ID="WP03_ForceQuarterstaff+1">
+  <Campaign>Booster</Campaign>
+  <Set>3</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1395</Name>
+  <Description>1396</Description>
+  <Type2>None</Type2>
+  <Traits>11600,7600,2000,12500,7300</Traits>
+ </N>
+ <N ID="WP03_IcyHookedHammer+1">
+  <Campaign>Booster</Campaign>
+  <Set>3</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1258</Name>
+  <Description>1259</Description>
+  <Type2>None</Type2>
+  <Traits>5800,7600,2000,12500,7300</Traits>
+ </N>
+ <N ID="WP03_Trident+2">
+  <Campaign>Booster</Campaign>
+  <Set>3</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1642</Name>
+  <Description>1643</Description>
+  <Type2>None</Type2>
+  <Traits>9400,7600,9000,7300</Traits>
+ </N>
+ <N ID="WP03_VenomousShortbow+1">
+  <Campaign>Booster</Campaign>
+  <Set>3</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1403</Name>
+  <Description>1404</Description>
+  <Type2>None</Type2>
+  <Traits>2200,9500,9000,12500,7300,3900</Traits>
+ </N>
+ <N ID="WP03_ViciousGreataxe+1">
+  <Campaign>Booster</Campaign>
+  <Set>3</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1391</Name>
+  <Description>1392</Description>
+  <Type2>None</Type2>
+  <Traits>1600,7600,10900,12500,7300,3900</Traits>
+ </N>
+ <N ID="WP03_WoundingSpear-Axe+1">
+  <Campaign>Booster</Campaign>
+  <Set>3</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1292</Name>
+  <Description>1293</Description>
+  <Type2>None</Type2>
+  <Traits>1600,7600,10900,12500,8400,7300</Traits>
+ </N>
+ <N ID="WP04_DemonbaneLongsword+2">
+  <Campaign>Booster</Campaign>
+  <Set>4</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1656</Name>
+  <Description>1657</Description>
+  <Type2>None</Type2>
+  <Traits>11900,7600,10900,7300</Traits>
+ </N>
+ <N ID="WP04_FlameCannon">
+  <Campaign>Booster</Campaign>
+  <Set>4</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1638</Name>
+  <Description>1639</Description>
+  <Type2>None</Type2>
+  <Traits>4500,9500,2000,12500,4400,500</Traits>
+ </N>
+ <N ID="WP04_NineLivesStealer">
+  <Campaign>Booster</Campaign>
+  <Set>4</Set>
+  <Rarity>Legendary</Rarity>
+  <Name>1564</Name>
+  <Description>1565</Description>
+  <Type2>None</Type2>
+  <Traits>11900,7600,10900,12500</Traits>
+ </N>
+ <N ID="WP04_Shortsword+3">
+  <Campaign>Booster</Campaign>
+  <Set>4</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1717</Name>
+  <Description>1718</Description>
+  <Type2>None</Type2>
+  <Traits>11900,7600,9000,4300,7300</Traits>
+ </N>
+ <N ID="WP04_Warhammer+3">
+  <Campaign>Booster</Campaign>
+  <Set>4</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1715</Name>
+  <Description>1716</Description>
+  <Type2>None</Type2>
+  <Traits>5800,7600,2000,7300</Traits>
+ </N>
+ <N ID="WP05_HumanbaneGladius+2">
+  <Campaign>Booster</Campaign>
+  <Set>5</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1646</Name>
+  <Description>1647</Description>
+  <Type2>None</Type2>
+  <Traits>11900,7600,10900,4300,11800,7300</Traits>
+ </N>
+ <N ID="WP05_KeenRapier+3">
+  <Campaign>Booster</Campaign>
+  <Set>5</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1650</Name>
+  <Description>1651</Description>
+  <Type2>None</Type2>
+  <Traits>11900,7600,9000,4300,11800,7300</Traits>
+ </N>
+ <N ID="WP05_KeenScythe+2">
+  <Campaign>Booster</Campaign>
+  <Set>5</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1617</Name>
+  <Description>1618</Description>
+  <Type2>None</Type2>
+  <Traits>10200,7600,10900,12500,7300</Traits>
+ </N>
+ <N ID="WP05_VenomousDart+2">
+  <Campaign>Booster</Campaign>
+  <Set>5</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1713</Name>
+  <Description>1714</Description>
+  <Type2>None</Type2>
+  <Traits>3100,9500,9000,7300</Traits>
+ </N>
+ <N ID="WP05_ViciousDoubleAxe+1">
+  <Campaign>Booster</Campaign>
+  <Set>5</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1294</Name>
+  <Description>1295</Description>
+  <Type2>None</Type2>
+  <Traits>1600,7600,10900,12500,8400,7300</Traits>
+ </N>
+ <N ID="WP06_DancingMace+2">
+  <Campaign>Booster</Campaign>
+  <Set>6</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1282</Name>
+  <Description>1283</Description>
+  <Type2>None</Type2>
+  <Traits>7200,7600,2000,7300</Traits>
+ </N>
+ <N ID="WP06_SlayingAxe">
+  <Campaign>Booster</Campaign>
+  <Set>6</Set>
+  <Rarity>Legendary</Rarity>
+  <Name>1576</Name>
+  <Description>1577</Description>
+  <Type2>None</Type2>
+  <Traits>1600,7600,10900,12500,7300</Traits>
+ </N>
+ <N ID="WP06_SlayingBow">
+  <Campaign>Booster</Campaign>
+  <Set>6</Set>
+  <Rarity>Legendary</Rarity>
+  <Name>1413</Name>
+  <Description>1578</Description>
+  <Type2>None</Type2>
+  <Traits>2200,9500,9000,12500,7300</Traits>
+ </N>
+ <N ID="WP06_SlayingRazor">
+  <Campaign>Booster</Campaign>
+  <Set>6</Set>
+  <Rarity>Legendary</Rarity>
+  <Name>1579</Name>
+  <Description>1580</Description>
+  <Type2>None</Type2>
+  <Traits>6700,7600,10900,4300,7300</Traits>
+ </N>
+ <N ID="WP06_SlayingScythe">
+  <Campaign>Booster</Campaign>
+  <Set>6</Set>
+  <Rarity>Legendary</Rarity>
+  <Name>1581</Name>
+  <Description>1582</Description>
+  <Type2>None</Type2>
+  <Traits>10200,7600,10900,12500,7300</Traits>
+ </N>
+ <N ID="WP06_SlayingSword">
+  <Campaign>Booster</Campaign>
+  <Set>6</Set>
+  <Rarity>Legendary</Rarity>
+  <Name>1583</Name>
+  <Description>1584</Description>
+  <Type2>None</Type2>
+  <Traits>11900,7600,10900,4300,3900</Traits>
+ </N>
+ <N ID="WP0B_Battleaxe+1">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1405</Name>
+  <Description>1406</Description>
+  <Type2>None</Type2>
+  <Traits>1600,7600,10900,7300,3900</Traits>
+ </N>
+ <N ID="WP0B_Greatclub">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1270</Name>
+  <Description>1271</Description>
+  <Type2>None</Type2>
+  <Traits>2900,7600,2000,12500</Traits>
+ </N>
+ <N ID="WP0B_Quarterstaff+1">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1393</Name>
+  <Description>1394</Description>
+  <Type2>None</Type2>
+  <Traits>11600,7600,2000,12500,7300,3900</Traits>
+ </N>
+ <N ID="WP0B_Ranseur">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1272</Name>
+  <Description>1273</Description>
+  <Type2>None</Type2>
+  <Traits>9400,7600,10900,12500,3900</Traits>
+ </N>
+ <N ID="WP0B_Shortbow+1">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Rare</Rarity>
+  <Name>1399</Name>
+  <Description>1400</Description>
+  <Type2>None</Type2>
+  <Traits>2200,9500,9000,12500,7300,3900</Traits>
+ </N>
+ <N ID="WP0B_SpikedChain+1">
+  <Campaign>Booster</Campaign>
+  <Set>B</Set>
+  <Rarity>Uncommon</Rarity>
+  <Name>1274</Name>
+  <Description>1275</Description>
+  <Type2>None</Type2>
+  <Traits>2600,7600,9000,4300,7300</Traits>
+ </N>
+ <N ID="WP11_BastardSword+1">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>500</Name>
+  <Description>501</Description>
+  <Type2>None</Type2>
+  <Traits>11900,7600,10900,12500,7300</Traits>
+ </N>
+ <N ID="WP11_Dagger+1">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>508</Name>
+  <Description>509</Description>
+  <Type2>None</Type2>
+  <Traits>6700,9500,9000,4300,7300</Traits>
+ </N>
+ <N ID="WP11_Dogslicer">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>514</Name>
+  <Description>515</Description>
+  <Type2>None</Type2>
+  <Traits>11900,7600,9000,4300,1800</Traits>
+ </N>
+ <N ID="WP11_Dogslicer+1">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>516</Name>
+  <Description>517</Description>
+  <Type2>None</Type2>
+  <Traits>11900,7600,9000,4300,7300</Traits>
+ </N>
+ <N ID="WP11_Longbow+1">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>540</Name>
+  <Description>541</Description>
+  <Type2>None</Type2>
+  <Traits>2200,9500,9000,12500,7300</Traits>
+ </N>
+ <N ID="WP11_Shortsword+1">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>1</Set>
+  <Rarity>Common</Rarity>
+  <Name>568</Name>
+  <Description>569</Description>
+  <Type2>None</Type2>
+  <Traits>11900,7600,9000,4300,7300</Traits>
+ </N>
+ <N ID="WP12_HeavyPick+1">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>630</Name>
+  <Description>631</Description>
+  <Type2>None</Type2>
+  <Traits>8900,7600,9000,7300</Traits>
+ </N>
+ <N ID="WP12_LightCrossbow+1">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>632</Name>
+  <Description>633</Description>
+  <Type2>None</Type2>
+  <Traits>2200,9500,9000,7300</Traits>
+ </N>
+ <N ID="WP12_Scythe+1">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>634</Name>
+  <Description>635</Description>
+  <Type2>None</Type2>
+  <Traits>10200,7600,10900,12500,7300</Traits>
+ </N>
+ <N ID="WP12_Sickle+1">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>636</Name>
+  <Description>637</Description>
+  <Type2>None</Type2>
+  <Traits>6700,7600,10900,4300,7300</Traits>
+ </N>
+ <N ID="WP12_WarRazor+1">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>2</Set>
+  <Rarity>Common</Rarity>
+  <Name>638</Name>
+  <Description>639</Description>
+  <Type2>None</Type2>
+  <Traits>6700,7600,10900,4300,7300</Traits>
+ </N>
+ <N ID="WP13_FrostLongbow+1">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>730</Name>
+  <Description>731</Description>
+  <Type2>None</Type2>
+  <Traits>2200,9500,9000,12500,7300</Traits>
+ </N>
+ <N ID="WP13_Longsword+2">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>732</Name>
+  <Description>733</Description>
+  <Type2>None</Type2>
+  <Traits>11900,7600,10900,7300</Traits>
+ </N>
+ <N ID="WP13_VenomousDagger+2">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>734</Name>
+  <Description>735</Description>
+  <Type2>None</Type2>
+  <Traits>6700,9500,9000,7300</Traits>
+ </N>
+ <N ID="WP13_ViciousTrident+1">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>3</Set>
+  <Rarity>Common</Rarity>
+  <Name>736</Name>
+  <Description>737</Description>
+  <Type2>None</Type2>
+  <Traits>9400,7600,9000,7300</Traits>
+ </N>
+ <N ID="WP14_GiantbaneDagger+1">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>961</Name>
+  <Description>962</Description>
+  <Type2>None</Type2>
+  <Traits>6700,9500,9000,7300</Traits>
+ </N>
+ <N ID="WP14_Greatclub+3">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>963</Name>
+  <Description>964</Description>
+  <Type2>None</Type2>
+  <Traits>2900,7600,2000,12500,7300</Traits>
+ </N>
+ <N ID="WP14_RunechillHatchet+2">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>965</Name>
+  <Description>966</Description>
+  <Type2>None</Type2>
+  <Traits>1600,7600,10900,12500,7300</Traits>
+ </N>
+ <N ID="WP14_Shortspear+3">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>4</Set>
+  <Rarity>Common</Rarity>
+  <Name>967</Name>
+  <Description>968</Description>
+  <Type2>None</Type2>
+  <Traits>11300,7600,9000,7300</Traits>
+ </N>
+ <N ID="WP15_AcidicSling+3">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1027</Name>
+  <Description>1028</Description>
+  <Type2>None</Type2>
+  <Traits>11000,9500,2000,7300</Traits>
+ </N>
+ <N ID="WP15_DancingScimitar+2">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1029</Name>
+  <Description>1030</Description>
+  <Type2>None</Type2>
+  <Traits>11900,7600,10900,4300,7300</Traits>
+ </N>
+ <N ID="WP15_FlamingRanseur+3">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1031</Name>
+  <Description>1032</Description>
+  <Type2>None</Type2>
+  <Traits>9400,7600,10900,12500,7300</Traits>
+ </N>
+ <N ID="WP15_VenomousHeavyCrossbow+2">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>5</Set>
+  <Rarity>Common</Rarity>
+  <Name>1033</Name>
+  <Description>1034</Description>
+  <Type2>None</Type2>
+  <Traits>2200,9500,9000,12500,7300</Traits>
+ </N>
+ <N ID="WP16_FlamingIcyAxe+1">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1133</Name>
+  <Description>1134</Description>
+  <Type2>None</Type2>
+  <Traits>1600,7600,10900,7300</Traits>
+ </N>
+ <N ID="WP16_ForceSling+3">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1136</Name>
+  <Description>1135</Description>
+  <Type2>None</Type2>
+  <Traits>11000,9500,2000,7300</Traits>
+ </N>
+ <N ID="WP16_ReturningFrostSpear+2">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1137</Name>
+  <Description>1138</Description>
+  <Type2>None</Type2>
+  <Traits>11300,9500,9000,7300</Traits>
+ </N>
+ <N ID="WP16_ShockGreatsword+2">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>6</Set>
+  <Rarity>Common</Rarity>
+  <Name>1139</Name>
+  <Description>1140</Description>
+  <Type2>None</Type2>
+  <Traits>11900,7600,10900,12500,7300</Traits>
+ </N>
+ <N ID="WP1B_BastardSword">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>498</Name>
+  <Description>499</Description>
+  <Type2>None</Type2>
+  <Traits>11900,7600,10900,12500</Traits>
+ </N>
+ <N ID="WP1B_Battleaxe">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>502</Name>
+  <Description>503</Description>
+  <Type2>None</Type2>
+  <Traits>1600,7600,10900,3900</Traits>
+ </N>
+ <N ID="WP1B_Dagger">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>504</Name>
+  <Description>505</Description>
+  <Type2>None</Type2>
+  <Traits>6700,9500,9000,1800</Traits>
+ </N>
+ <N ID="WP1B_Dart">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>510</Name>
+  <Description>511</Description>
+  <Type2>None</Type2>
+  <Traits>3100,9500,9000,1800</Traits>
+ </N>
+ <N ID="WP1B_FlamingMace+1">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>518</Name>
+  <Description>519</Description>
+  <Type2>None</Type2>
+  <Traits>7200,7600,2000,7300</Traits>
+ </N>
+ <N ID="WP1B_Glaive">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>520</Name>
+  <Description>521</Description>
+  <Type2>None</Type2>
+  <Traits>9400,7600,10900,12500,3900</Traits>
+ </N>
+ <N ID="WP1B_Greataxe">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>524</Name>
+  <Description>525</Description>
+  <Type2>None</Type2>
+  <Traits>1600,7600,10900,12500</Traits>
+ </N>
+ <N ID="WP1B_HeavyCrossbow">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>528</Name>
+  <Description>529</Description>
+  <Type2>None</Type2>
+  <Traits>2200,9500,9000,12500</Traits>
+ </N>
+ <N ID="WP1B_LightCrossbow">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>532</Name>
+  <Description>533</Description>
+  <Type2>None</Type2>
+  <Traits>2200,9500,9000,12500,1800</Traits>
+ </N>
+ <N ID="WP1B_Longbow">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>536</Name>
+  <Description>537</Description>
+  <Type2>None</Type2>
+  <Traits>2200,9500,9000,12500,3900</Traits>
+ </N>
+ <N ID="WP1B_Longspear">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>542</Name>
+  <Description>543</Description>
+  <Type2>None</Type2>
+  <Traits>11300,7600,9000,12500,1800</Traits>
+ </N>
+ <N ID="WP1B_Longsword">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>544</Name>
+  <Description>545</Description>
+  <Type2>None</Type2>
+  <Traits>11900,7600,10900,1800</Traits>
+ </N>
+ <N ID="WP1B_Longsword_Dull">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>810</Name>
+  <Description>811</Description>
+  <Type2>None</Type2>
+  <Traits>11900,7600,10900,1800</Traits>
+ </N>
+ <N ID="WP1B_Longsword_Masterwork">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>812</Name>
+  <Description>813</Description>
+  <Type2>None</Type2>
+  <Traits>11900,7600,10900,3900</Traits>
+ </N>
+ <N ID="WP1B_Longsword+1">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>546</Name>
+  <Description>547</Description>
+  <Type2>None</Type2>
+  <Traits>11900,7600,10900,7300</Traits>
+ </N>
+ <N ID="WP1B_Mace">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>548</Name>
+  <Description>549</Description>
+  <Type2>None</Type2>
+  <Traits>7200,7600,2000,1800</Traits>
+ </N>
+ <N ID="WP1B_Quarterstaff">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>550</Name>
+  <Description>551</Description>
+  <Type2>None</Type2>
+  <Traits>11600,7600,2000,12500,1800</Traits>
+ </N>
+ <N ID="WP1B_ReturningThrowingAxe+1">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>552</Name>
+  <Description>553</Description>
+  <Type2>None</Type2>
+  <Traits>1600,9500,10900,7300</Traits>
+ </N>
+ <N ID="WP1B_Scimitar">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>554</Name>
+  <Description>555</Description>
+  <Type2>None</Type2>
+  <Traits>11900,7600,10900,4300,3900</Traits>
+ </N>
+ <N ID="WP1B_ShockLongbow+1">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>558</Name>
+  <Description>559</Description>
+  <Type2>None</Type2>
+  <Traits>2200,9500,9000,12500,7300</Traits>
+ </N>
+ <N ID="WP1B_Shortbow">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>564</Name>
+  <Description>565</Description>
+  <Type2>None</Type2>
+  <Traits>2200,9500,9000,12500,1800</Traits>
+ </N>
+ <N ID="WP1B_ShortSword">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>560</Name>
+  <Description>561</Description>
+  <Type2>None</Type2>
+  <Traits>11900,7600,9000,4300,1800</Traits>
+ </N>
+ <N ID="WP1B_ShortSword_Dull">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>814</Name>
+  <Description>815</Description>
+  <Type2>None</Type2>
+  <Traits>11900,7600,9000,4300,1800</Traits>
+ </N>
+ <N ID="WP1B_ShortSword_Masterwork">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>816</Name>
+  <Description>817</Description>
+  <Type2>None</Type2>
+  <Traits>11900,7600,9000,4300,3900</Traits>
+ </N>
+ <N ID="WP1B_Sling">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>570</Name>
+  <Description>571</Description>
+  <Type2>None</Type2>
+  <Traits>11000,9500,2000,1800</Traits>
+ </N>
+ <N ID="WP1B_SpikedChain">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>572</Name>
+  <Description>573</Description>
+  <Type2>None</Type2>
+  <Traits>2600,7600,9000,4300</Traits>
+ </N>
+ <N ID="WP1B_Starknife">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>574</Name>
+  <Description>575</Description>
+  <Type2>None</Type2>
+  <Traits>6700,7600,9000,4300,3900</Traits>
+ </N>
+ <N ID="WP1B_ThrowingAxe">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>576</Name>
+  <Description>577</Description>
+  <Type2>None</Type2>
+  <Traits>1600,9500,10900,3900</Traits>
+ </N>
+ <N ID="WP1B_Warhammer">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>578</Name>
+  <Description>579</Description>
+  <Type2>None</Type2>
+  <Traits>5800,7600,2000,3900</Traits>
+ </N>
+ <N ID="WP1B_Warhammer+1">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>B</Set>
+  <Rarity>Common</Rarity>
+  <Name>582</Name>
+  <Description>583</Description>
+  <Type2>None</Type2>
+  <Traits>5800,7600,2000,7300</Traits>
+ </N>
+ <N ID="WP1C_AllyingDart+1">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>C</Set>
+  <Rarity>Common</Rarity>
+  <Name>496</Name>
+  <Description>497</Description>
+  <Type2>None</Type2>
+  <Traits>3100,9500,9000,7300</Traits>
+ </N>
+ <N ID="WP1C_DeathbaneLightCrossbow+1">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>C</Set>
+  <Rarity>Common</Rarity>
+  <Name>512</Name>
+  <Description>513</Description>
+  <Type2>None</Type2>
+  <Traits>2200,7300,9000,9500</Traits>
+ </N>
+ <N ID="WP1C_Greatsword">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>C</Set>
+  <Rarity>Common</Rarity>
+  <Name>526</Name>
+  <Description>527</Description>
+  <Type2>None</Type2>
+  <Traits>11900,7600,10900,12500</Traits>
+ </N>
+ <N ID="WP1C_IcyLongspear+1">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>C</Set>
+  <Rarity>Common</Rarity>
+  <Name>530</Name>
+  <Description>531</Description>
+  <Type2>None</Type2>
+  <Traits>11300,7600,9000,12500,7300</Traits>
+ </N>
+ <N ID="WP1P_Horsechopper+1">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>P</Set>
+  <Rarity>Common</Rarity>
+  <Name>1220</Name>
+  <Description>1221</Description>
+  <Type2>None</Type2>
+  <Traits>9400,7600,10900,12500,7300</Traits>
+ </N>
+ <N ID="WP1T_BastardSword">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>T</Set>
+  <Rarity>Common</Rarity>
+  <Name>498</Name>
+  <Description>1204</Description>
+  <Type2>None</Type2>
+  <Traits>11900,7600,10900,12500</Traits>
+ </N>
+ <N ID="WP1T_Battleaxe">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>T</Set>
+  <Rarity>Common</Rarity>
+  <Name>502</Name>
+  <Description>1202</Description>
+  <Type2>None</Type2>
+  <Traits>1600,7600,10900,3900</Traits>
+ </N>
+ <N ID="WP1T_FlamingMace+1">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>T</Set>
+  <Rarity>Common</Rarity>
+  <Name>518</Name>
+  <Description>1203</Description>
+  <Type2>None</Type2>
+  <Traits>7200,7600,2000,7300</Traits>
+ </N>
+ <N ID="WP1T_Longsword">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>T</Set>
+  <Rarity>Common</Rarity>
+  <Name>544</Name>
+  <Description>1205</Description>
+  <Type2>None</Type2>
+  <Traits>11900,7600,10900,1800</Traits>
+ </N>
+ <N ID="WP1T_Mace">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>T</Set>
+  <Rarity>Common</Rarity>
+  <Name>548</Name>
+  <Description>1206</Description>
+  <Type2>None</Type2>
+  <Traits>7200,7600,2000,1800</Traits>
+ </N>
+ <N ID="WP1T_Quarterstaff">
+  <Campaign>RiseOfTheRunelords</Campaign>
+  <Set>T</Set>
+  <Rarity>Common</Rarity>
+  <Name>550</Name>
+  <Description>1207</Description>
+  <Type2>None</Type2>
+  <Traits>11600,7600,2000,12500,1800</Traits>
+ </N>
+</N>

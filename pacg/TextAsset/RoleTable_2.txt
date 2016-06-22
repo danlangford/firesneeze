@@ -1,0 +1,257 @@
+<N>
+ <N ID="RL1B_Rogue">
+  <Name>0</Name>
+  <Description>1</Description>
+  <Hand>6</Hand>
+  <Profs>LA,WP</Profs>
+  <Powers>PW1B_Evade,PW1B_Backstab,PW1B_Backstab_1,PW1B_Backstab_2</Powers>
+ </N>
+ <N ID="RL1B_Acrobat">
+  <Name>2</Name>
+  <Description>3</Description>
+  <Hand>7</Hand>
+  <Profs>LA,WP</Profs>
+  <Powers>PW1B_Evade,PW1B_Evade_1,PW1B_Backstab,PW1B_Backstab_1,PW1B_Backstab_2,PW1B_Backstab_3,PW1B_TrapSense,PW1B_SkillMastery_Acrobat,PW1B_TrinketHunter,PW1B_TrinketHunter_1,PW1B_CalistrasFavor</Powers>
+ </N>
+ <N ID="RL1B_Thief">
+  <Name>4</Name>
+  <Description>5</Description>
+  <Hand>6</Hand>
+  <Profs>LA,WP</Profs>
+  <Powers>PW1B_Evade,PW1B_Backstab,PW1B_Backstab_1,PW1B_Backstab_2,PW1B_Backstab_3,PW1B_Backstab_4,PW1B_SkillMastery_Thief,PW1B_TreasureHunter,PW1B_TreasureHunter_1,PW1B_TreasureHunter_2,PW1B_CalistrasFavor,PW1B_UseMagicDevice</Powers>
+ </N>
+ 
+ <N ID="RL1B_Bard">
+  <Name>6</Name>
+  <Description>7</Description>
+  <Hand>6</Hand>
+  <Profs>LA,WP</Profs>
+  <Powers>PW1B_BardicPerformance,PW1B_BardicPerformance_1,PW1B_BardicPerformance_2,PW1B_Versatile</Powers>
+ </N>
+ <N ID="RL1B_Virtuoso">
+  <Name>8</Name>
+  <Description>9</Description>
+  <Hand>7</Hand>
+  <Profs>LA,WP</Profs>
+  <Powers>PW1B_BardicPerformance,PW1B_BardicPerformance_1,PW1B_BardicPerformance_2,PW1B_BardicPerformance_3,PW1B_InspiredPerformance,PW1B_Versatile,PW1B_Encore,PW1B_FriendlySuggestion,PW1B_ScholarOfMagicLore,PW1B_MasterOfMagicLore,PW1B_BlessingOfMusic</Powers>
+ </N>
+ <N ID="RL1B_Charlatan">
+  <Name>10</Name>
+  <Description>11</Description>
+  <Hand>8</Hand>
+  <Profs>LA,WP</Profs>
+  <Powers>PW1B_BardicPerformance,PW1B_BardicPerformance_1,PW1B_BardicPerformance_2,PW1B_BardicPerformance_3,PW1B_Versatile,PW1B_FriendlySuggestion,PW1B_DangerousSuggestion,PW1B_DeadlySuggestion,PW1B_ApprenticeEnchanter,PW1B_BlessingOfCharm</Powers>
+ </N>
+
+ <N ID="RL1B_Ranger">
+  <Name>12</Name>
+  <Description>13</Description>
+  <Hand>6</Hand>
+  <Profs>LA,WP</Profs>
+  <Powers>PW1B_Scout,PW1B_Track,PW1B_FarShot,PW1B_FarShot_1,PW1B_FarShot_2</Powers>
+ </N>
+  <N ID="RL1B_Sniper">
+  <Name>14</Name>
+  <Description>15</Description>
+  <Hand>7</Hand>
+  <Profs>LA,WP</Profs>
+  <Powers>PW1B_Scout,PW1B_Track,PW1B_FarShot,PW1B_FarShot_1,PW1B_FarShot_2,PW1B_FarShot_3,PW1B_FarShot_4,PW1B_RapidShot,PW1B_Manyshot,PW1B_RapidReload_Harsk,PW1B_RangerSpellcasting,PW1B_HuntersBlessing</Powers>
+ </N>
+ <N ID="RL1B_Tracker">
+  <Name>16</Name>
+  <Description>17</Description>
+  <Hand>7</Hand>
+  <Profs>LA,WP</Profs>
+  <Powers>PW1B_Scout,PW1B_Track,PW1B_MasterHunter,PW1B_FarShot,PW1B_FarShot_1,PW1B_FarShot_2,PW1B_FarShot_3,PW1B_FavoredEnemyGiant,PW1B_FavoredEnemyGiant_1,PW1C_WildEmpathy_Harsk,PW1B_RangerSpellcasting,PW1B_NaturesBlessing</Powers>
+ </N>
+
+ <N ID="RL1B_Cleric">
+  <Name>18</Name>
+  <Description>19</Description>
+  <Hand>6</Hand>
+  <Profs>LA,HA,WP</Profs>
+  <Powers>PW1B_RebukeDeath,PW1B_RebukeDeath_1,PW1B_SunsBlessing,PW1B_SunsBlessing_1</Powers>
+ </N>
+ <N ID="RL1B_Exorcist">
+  <Name>20</Name>
+  <Description>21</Description>
+  <Hand>7</Hand>
+  <Profs>LA,HA,WP</Profs>
+  <Powers>PW1B_RebukeDeath,PW1B_RebukeDeath_1,PW1B_SunsBlessing,PW1B_SunsBlessing_1,PW1B_SunsWrath,PW1B_ArmorOfFaith,PW1B_CrusadersArsenal,PW1B_BlessingOfRedemption,PW1B_BlessingOfSwiftRedemption,PW1B_TouchOfGlory,PW1B_TouchOfWrath</Powers>
+ </N>
+ <N ID="RL1B_Healer">
+  <Name>22</Name>
+  <Description>23</Description>
+  <Hand>8</Hand>
+  <Profs>LA,HA,WP</Profs>
+  <Powers>PW1B_RebukeDeath,PW1B_RebukeDeath_1,PW1B_RebukeDeath_2,PW1B_EmpoweredHealing,PW1B_SunsBlessing,PW1B_SunsBlessing_1,PW1B_BountyOfTheGods,PW1B_BountyOfTheGods_1,PW1B_BlessingOfRedemption,PW1B_BlessingOfRedemption_1</Powers>
+ </N>
+ 
+ <N ID="RL1B_Wizard">
+  <Name>24</Name>
+  <Description>25</Description>
+  <Hand>8</Hand>
+  <Profs></Profs>
+  <Powers>PW1B_QuickenSpell,PW1B_Spellcraft,PW1B_ExtendSpell,PW1B_ExtendSpell_1</Powers>
+ </N>
+ <N ID="RL1B_Evoker">
+  <Name>26</Name>
+  <Description>27</Description>
+  <Hand>9</Hand>
+  <Profs></Profs>
+  <Powers>PW1B_QuickenSpell,PW1B_Spellcraft,PW1B_ExtendSpell,PW1B_ExtendSpell_1,PW1B_ExtendSpell_2,PW1B_ExtendSpell_3,PW1B_IntenseSpells,PW1B_IntenseSpellsAcidCold,PW1B_IntenseSpellsElectricityFire,PW1B_Arcana,PW1B_Arcana_1</Powers>
+ </N>
+ <N ID="RL1B_Illusionist">
+  <Name>28</Name>
+  <Description>29</Description>
+  <Hand>8</Hand>
+  <Profs></Profs>
+  <Powers>PW1B_QuickenSpell,PW1B_QuickenSpell_1,PW1B_Spellcraft,PW1B_ExtendSpell,PW1B_ExtendSpell_1,PW1B_ExtendSpell_2,PW1B_ExtendSpell_3,PW1B_InvisibilityField,PW1B_Arcana,PW1B_Arcana_1,PW1B_Persuasive,PW1B_Cantrip</Powers>
+ </N>
+ <N ID="RL1B_Fighter">
+  <Name>30</Name>
+  <Description>31</Description>
+  <Hand>6</Hand>
+  <Profs>LA,HA,WP</Profs>
+  <Powers>PW1B_Tactics,PW1B_Tactics_1,PW1B_Tactics_2,PW1B_WeaponTraining</Powers>
+ </N>
+ <N ID="RL1B_Guardian">
+  <Name>32</Name>
+  <Description>33</Description>
+  <Hand>7</Hand>
+  <Profs>LA,HA,WP</Profs>
+  <Powers>PW1B_Tactics,PW1B_Tactics_1,PW1B_Tactics_2,PW1B_Tactics_3,PW1B_WeaponTraining,PW1B_ArmorTraining,PW1B_DefensiveTactics,PW1B_DefensiveTactics_1,PW1B_ArmamentAficionado_A,PW1B_ArmamentAficionado_A_1,PW1B_BlessingOfAle</Powers>
+ </N>
+ <N ID="RL1B_WeaponMaster">
+  <Name>34</Name>
+  <Description>35</Description>
+  <Hand>6</Hand>
+  <Profs>LA,HA,WP</Profs>
+  <Powers>PW1B_Tactics,PW1B_Tactics_1,PW1B_Tactics_2,PW1B_Tactics_3,PW1B_Tactics_4,PW1B_Tactics_5,PW1B_WeaponTraining,PW1B_WeaponMastery,PW1B_PowerShot,PW1B_ArmamentAficionado_W,PW1B_ArmamentAficionado_W_1,PW1B_BlessingOfBravery</Powers>
+ </N>
+
+ <N ID="RL1B_Sorcerer">
+  <Name>36</Name>
+  <Description>37</Description>
+  <Hand>7</Hand>
+  <Profs></Profs>
+  <Powers>PW1B_FireRay,PW1B_FireRay_1,PW1B_FireRay_2,PW1B_InnatePower,PW1B_ArcaneBond</Powers>
+ </N>
+ <N ID="RL1B_AbyssalSorcerer">
+  <Name>38</Name>
+  <Description>39</Description>
+  <Hand>7</Hand>
+  <Profs></Profs>
+  <Powers>PW1B_FireRay,PW1B_FireRay_1,PW1B_FireRay_2,PW1B_FireRay_3,PW1B_FireRay_4,PW1B_AcidRay,PW1B_InnatePower,PW1B_ArcaneBond,PW1B_DemonicResistance,PW1B_DemonicResistance_1,PW1B_DemonicResistanceAcidCold,PW1B_UnholyAura,PW1B_SacrificialSummoning</Powers>
+  </N>
+ <N ID="RL1B_CelestialSorcerer">
+  <Name>40</Name>
+  <Description>41</Description>
+  <Hand>7</Hand>
+  <Profs></Profs>
+  <Powers>PW1B_FireRay,PW1B_FireRay_1,PW1B_FireRay_2,PW1B_FireRay_3,PW1B_FireRay_4,PW1B_AcidRay,PW1B_InnatePower,PW1B_ArcaneBond,PW1B_CelestialResistance,PW1B_CelestialResistance_1,PW1B_CelestialResistanceElectricity,PW1B_Conviction,PW1B_DivineIntervention</Powers>
+  </N>
+ <N ID="RL1C_Barbarian">
+  <Name>42</Name>
+  <Description>43</Description>
+  <Hand>5</Hand>
+  <Profs>LA,HA,WP</Profs>
+  <Powers>PW1C_Rage,PW1C_Rage_1,PW1C_FastMovement,PW1C_FastMovement_1</Powers>
+ </N>
+ <N ID="RL1C_Juggernaut">
+  <Name>44</Name>
+  <Description>45</Description>
+  <Hand>6</Hand>
+  <Profs>LA,HA,WP</Profs>
+  <Powers>PW1C_Rage,PW1C_Rage_1,PW1C_Rage_2,PW1C_Rage_3,PW1C_FastMovement,PW1C_FastMovement_1,PW1C_DamageReduction,PW1C_Superstition,PW1C_ArmamentAficionado_A,PW1C_ArmamentAficionado_A_1,PW1C_StrengthSurge</Powers>
+ </N>
+ <N ID="RL1C_Berserker">
+  <Name>46</Name>
+  <Description>47</Description>
+  <Hand>6</Hand>
+  <Profs>LA,HA,WP</Profs>
+  <Powers>PW1C_Rage,PW1C_Rage_1,PW1C_Rage_2,PW1C_Rage_3,PW1C_Rage_4,PW1C_RousedAnger,PW1C_FastMovement,PW1C_FastMovement_1,PW1C_ArmamentAficionado_W,PW1C_ArmamentAficionado_W_1,PW1C_StrengthSurge</Powers>
+ </N>
+ 
+ <N ID="RL1C_Druid">
+  <Name>48</Name>
+  <Description>49</Description>
+  <Hand>5</Hand>
+  <Profs>LA,WP</Profs>
+  <Powers>PW1C_WildEmpathy,PW1C_WildEmpathy_1,PW1C_WildEmpathy_2,PW1C_NatureBond,PW1C_Wildshape</Powers>
+ </N>
+ <N ID="RL1C_Shapeshifter">
+  <Name>50</Name>
+  <Description>51</Description>
+  <Hand>6</Hand>
+  <Profs>LA,WP</Profs>
+  <Powers>PW1C_WildEmpathy,PW1C_WildEmpathy_1,PW1C_WildEmpathy_2,PW1C_WildEmpathy_3,PW1C_NatureBond,PW1C_Wildshape,PW1C_Wildshape_1,PW1C_Wildshape_2,PW1C_ElementalBody,PW1C_SpeakWithAnimals,PW1C_SpeakWithAnimals_1,PW1C_PrimevalWisdom</Powers>
+ </N>
+ <N ID="RL1C_WildWarden">
+  <Name>52</Name>
+  <Description>53</Description>
+  <Hand>7</Hand>
+  <Profs>LA,WP</Profs>
+  <Powers>PW1C_WildEmpathy,PW1C_WildEmpathy_1,PW1C_WildEmpathy_2,PW1C_WildEmpathy_3,PW1C_WildEmpathy_4,PW1C_NatureBond,PW1C_Wildshape,PW1C_NaturalSpell,PW1C_NaturalSpell_1,PW1C_NaturesWrath,PW1C_PrimevalWisdom</Powers>
+ </N>
+ 
+ <N ID="RL1C_Monk">
+  <Name>60</Name>
+  <Description>61</Description>
+  <Hand>6</Hand>
+  <Profs></Profs>
+  <Powers>PW1C_UnarmedStrike,PW1C_KiStrike,PW1C_FlameStrike,PW1C_FlurryOfBlows</Powers>
+ </N>
+ <N ID="RL1C_DrunkenMaster">
+  <Name>62</Name>
+  <Description>63</Description>
+  <Hand>7</Hand>
+  <Profs>WP</Profs>
+  <Powers>PW1C_UnarmedStrike,PW1C_KiStrike,PW1C_FlameStrike,PW1C_FlurryOfBlows,PW1C_DrunkenResilience,PW1C_DrunkenResilience_1,PW1C_DrunkenResilience_2,PW1C_IllHaveAnother,PW1C_ThisRoundsOnMe,PW1C_DrunkenCourage</Powers>
+ </N>
+ <N ID="RL1C_ZenArcher">
+  <Name>64</Name>
+  <Description>65</Description>
+  <Hand>7</Hand>
+  <Profs>WP</Profs>
+  <Powers>PW1C_UnarmedStrike,PW1C_KiStrike,PW1C_FlameStrike,PW1C_FlurryOfBlows,PW1C_PurityOfBody,PW1C_DiamondBody,PW1B_RapidReload_Sajan,PW1C_WayOfTheBow,PW1C_WayOfTheBow_1,PW1B_RapidShot_Sajan</Powers>
+ </N>
+ 
+ <N ID="RL1C_Paladin">
+  <Name>54</Name>
+  <Description>55</Description>
+  <Hand>5</Hand>
+  <Profs>LA,HA,WP</Profs>
+  <Powers>PW1C_DetectEvil,PW1C_DetectEvil_1,PW1C_DivineGrace,PW1C_DivineGrace_1,PW1C_DivineGrace_Opt1</Powers>
+ </N>
+ <N ID="RL1C_Hospitaler">
+  <Name>58</Name>
+  <Description>59</Description>
+  <Hand>7</Hand>
+  <Profs>LA,HA,WP</Profs>
+  <Powers>PW1C_DetectEvil,PW1C_DetectEvil_1,PW1C_AuraOfGood,PW1C_DivineGrace,PW1C_DivineGrace_1,PW1C_DivineGrace_2,PW1C_DivineGrace_3,PW1C_DivineGrace_Opt1,PW1C_LayOnHands,PW1C_ValorOfIomedae,PW1C_ValorOfIomedae_1</Powers>
+ </N>
+ <N ID="RL1C_Crusader">
+  <Name>56</Name>
+  <Description>57</Description>
+  <Hand>6</Hand>
+  <Profs>LA,HA,WP</Profs>
+  <Powers>PW1C_DetectEvil,PW1C_DetectEvil_1,PW1C_AuraOfGood,PW1C_DivineGrace,PW1C_DivineGrace_1,PW1C_DivineGrace_2,PW1C_DivineGrace_3,PW1C_DivineGrace_Opt1,PW1C_AuraOfRighteousness,PW1C_SunsBlessing_Seelah,PW1C_ValorOfIomedae,PW1C_ValorOfIomedae_1</Powers>
+ </N>
+
+ <N ID="RL1B_Bard_Tutorial">
+  <Name>6</Name>
+  <Description>7</Description>
+  <Hand>6</Hand>
+  <Profs>LA,WP</Profs>
+  <Powers>PW1B_BardicPerformance,PW1B_BardicPerformance_1,PW1T_CallInAFavor,PW1T_CallInAFavor_1</Powers>
+ </N>
+ 
+ <N ID="RL1B_Fighter_Tutorial">
+  <Name>30</Name>
+  <Description>31</Description>
+  <Hand>6</Hand>
+  <Profs>LA,HA,WP</Profs>
+  <Powers>PW1T_ShieldBash,PW1T_ShieldBash_1,PW1T_ShieldBash_2,PW1B_WeaponTraining</Powers>
+ </N> 
+</N>

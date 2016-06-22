@@ -1,0 +1,67 @@
+<N>
+ <N ID="CH1B_Valeros">
+  <Set>B</Set>
+  <Name>0</Name>
+  <Description>1</Description>
+ </N>
+ <N ID="CH1B_Merisiel">
+  <Set>B</Set>
+  <Name>2</Name>
+  <Description>3</Description>
+ </N>
+ <N ID="CH1B_Seoni">
+  <Set>B</Set>
+  <Name>4</Name>
+  <Description>5</Description>
+ </N>
+ <N ID="CH1B_Kyra">
+  <Set>B</Set>
+  <Name>6</Name>
+  <Description>7</Description>
+ </N>
+ <N ID="CH1B_Lem">
+  <Set>B</Set>
+  <Name>8</Name>
+  <Description>9</Description>
+ </N>
+ <N ID="CH1B_Harsk">
+  <Set>B</Set>
+  <Name>10</Name>
+  <Description>11</Description>
+ </N>
+ <N ID="CH1B_Ezren">
+  <Set>B</Set>
+  <Name>12</Name>
+  <Description>13</Description>
+ </N>
+ <N ID="CH1C_Amiri">
+  <Set>C</Set>
+  <Name>14</Name>
+  <Description>15</Description>
+ </N>
+ <N ID="CH1C_Lini">
+  <Set>C</Set>
+  <Name>16</Name>
+  <Description>17</Description>
+ </N>
+ <N ID="CH1C_Sajan">
+  <Set>C</Set>
+  <Name>18</Name>
+  <Description>19</Description>
+ </N>
+ <N ID="CH1C_Seelah">
+  <Set>C</Set>
+  <Name>20</Name>
+  <Description>21</Description>
+ </N>
+  <N ID="CH1T_Ameiko">
+  <Set>T</Set>
+  <Name>22</Name>
+  <Description>24</Description>
+ </N>
+  <N ID="CH1T_Orik">
+  <Set>T</Set>
+  <Name>23</Name>
+  <Description>24</Description>
+ </N>
+</N>
